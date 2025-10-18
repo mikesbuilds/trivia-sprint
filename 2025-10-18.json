@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-04",
+  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which ancient civilization built the pyramids at Giza?",
+      "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which African country?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "South Africa"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a net, shuttlecock, and rackets?",
+      "options": ["Tennis", "Badminton", "Squash", "Pickleball"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Tom Holland"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": ["Moby-Dick", "The Great Gatsby", "Pride and Prejudice", "Dracula"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answerIndex": 2
+    }
+  ]
+}
