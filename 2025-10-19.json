@@ -22,4 +22,27 @@
     },
     {
       "category": "Movies",
-      "prompt": "Which movie feature
+      "prompt": "Which movie features the quote, 'May the Force be with you'?",
+      "options": ["Star Wars", "The Matrix", "Avatar", "Guardians of the Galaxy"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who co-founded Microsoft alongside Bill Gates?",
+      "options": ["Steve Jobs", "Paul Allen", "Larry Page", "Elon Musk"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the 2024 album 'The Tortured Poets Department'?",
+      "options": ["Adele", "Billie Eilish", "Taylor Swift", "Olivia Rodrigo"],
+      "answerIndex": 2
+    }
+  ]
+}
