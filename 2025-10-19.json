@@ -1,0 +1,25 @@
+{
+  "date": "2025-10-18",
+  "categories": ["Science", "History", "Sports", "Movies", "Geography", "Technology", "Pop Culture"],
+  "questions": [
+    {
+      "category": "Science",
+      "prompt": "What gas do plants primarily absorb from the atmosphere during photosynthesis?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answerIndex": 0
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first U.S. president to live in the White House?",
+      "options": ["George Washington", "Thomas Jefferson", "John Adams", "James Madison"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete has won the most Olympic gold medals in history?",
+      "options": ["Usain Bolt", "Simone Biles", "Michael Phelps", "Carl Lewis"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Movies",
+      "prompt": "Which movie feature
