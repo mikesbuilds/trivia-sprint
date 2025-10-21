@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-18",
+  "categories": ["Science", "History", "Sports", "Movies", "Geography", "Technology", "Pop Culture"],
+  "questions": [
+    {
+      "category": "Science",
+      "prompt": "What gas do plants primarily absorb from the atmosphere during photosynthesis?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answerIndex": 0
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first U.S. president to live in the White House?",
+      "options": ["George Washington", "Thomas Jefferson", "John Adams", "James Madison"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete has won the most Olympic gold medals in history?",
+      "options": ["Usain Bolt", "Simone Biles", "Michael Phelps", "Carl Lewis"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Movies",
+      "prompt": "Which movie features the quote, 'May the Force be with you'?",
+      "options": ["Star Wars", "The Matrix", "Avatar", "Guardians of the Galaxy"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who co-founded Microsoft alongside Bill Gates?",
+      "options": ["Steve Jobs", "Paul Allen", "Larry Page", "Elon Musk"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the 2024 album 'The Tortured Poets Department'?",
+      "options": ["Adele", "Billie Eilish", "Taylor Swift", "Olivia Rodrigo"],
+      "answerIndex": 2
+    }
+  ]
+}
