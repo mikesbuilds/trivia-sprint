@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-23",
+  "categories": ["Science", "Art", "Geography", "Movies", "Sports", "Technology", "History"],
+  "questions": [
+    {
+      "category": "Science",
+      "prompt": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Steel", "Graphene", "Quartz"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Art",
+      "prompt": "Which artist is famous for painting 'The Starry Night'?",
+      "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "options": ["Kenya", "Tanzania", "Uganda", "Ethiopia"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Movies",
+      "prompt": "What animated movie features the character Buzz Lightyear?",
+      "options": ["Shrek", "Finding Nemo", "Toy Story", "Monsters, Inc."],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the terms 'bogey' and 'birdie'?",
+      "options": ["Baseball", "Tennis", "Golf", "Hockey"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What year was the first iPhone released?",
+      "options": ["2005", "2007", "2009", "2010"],
+      "answerIndex": 1
+    },
+    {
+      "category": "History",
+      "prompt": "The Berlin Wall fell in which year?",
+      "options": ["1985", "1987", "1989", "1991"],
+      "answerIndex": 2
+    }
+  ]
+}
