@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-20",
+  "categories": ["Movies", "Science", "History", "Food", "Sports", "Art", "Technology"],
+  "questions": [
+    {
+      "category": "Movies",
+      "prompt": "Who directed the movie 'Inception'?",
+      "options": ["Christopher Nolan", "James Cameron", "Steven Spielberg", "Quentin Tarantino"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": ["Gd", "Au", "Ag", "Go"],
+      "answerIndex": 1
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first man to step on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Food",
+      "prompt": "Sushi originated in which country?",
+      "options": ["China", "Japan", "Thailand", "Korea"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many players from each team are on the court at once?",
+      "options": ["4", "5", "6", "7"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Art",
+      "prompt": "Which artist painted the 'Mona Lisa'?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTTP' stand for in web addresses?",
+      "options": ["HyperText Transfer Protocol", "High Tech Transfer Platform", "Hyper Transfer Text Process", "Hyperlink Text Terminal Protocol"],
+      "answerIndex": 0
+    }
+  ]
+}
