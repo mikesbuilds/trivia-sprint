@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-22",
+  "categories": ["Technology", "Movies", "Science", "History", "Geography", "Sports", "Literature"],
+  "questions": [
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Android operating system?",
+      "options": ["Apple", "Google", "Microsoft", "Samsung"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Movies",
+      "prompt": "Which 1997 movie features a ship called the Titanic?",
+      "options": ["The Perfect Storm", "Titanic", "Cast Away", "Poseidon"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for oxygen?",
+      "options": ["Ox", "O", "O2", "O3"],
+      "answerIndex": 1
+    },
+    {
+      "category": "History",
+      "prompt": "Who was known as the 'Maid of Orléans'?",
+      "options": ["Marie Curie", "Joan of Arc", "Catherine de Medici", "Queen Elizabeth I"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the city of Paris?",
+      "options": ["Thames", "Rhine", "Seine", "Danube"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what piece of fruit is found at the top of the men's Wimbledon trophy?",
+      "options": ["Apple", "Pineapple", "Grapes", "Banana"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "answerIndex": 0
+    }
+  ]
+}
