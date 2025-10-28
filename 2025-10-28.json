@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-24",
+  "categories": ["Science", "History", "Movies", "Sports", "Geography", "Technology", "Pop Culture"],
+  "questions": [
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for potassium?",
+      "options": ["P", "Pt", "K", "Po"],
+      "answerIndex": 2
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Amelia Earhart", "Bessie Coleman", "Sally Ride", "Valentina Tereshkova"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Movies",
+      "prompt": "Which actor played the character Jack Dawson in 'Titanic'?",
+      "options": ["Matt Damon", "Leonardo DiCaprio", "Tom Cruise", "Brad Pitt"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Germany", "Brazil", "France", "Argentina"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the longest coastline?",
+      "options": ["Florida", "California", "Alaska", "Hawaii"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does USB stand for?",
+      "options": ["Universal Serial Bus", "Unified System Board", "Universal Signal Base", "User Service Bridge"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is the artist behind the hit song 'As It Was'?",
+      "options": ["Harry Styles", "Ed Sheeran", "Shawn Mendes", "Justin Bieber"],
+      "answerIndex": 0
+    }
+  ]
+}
