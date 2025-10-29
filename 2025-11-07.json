@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Suez Crisis primarily involved Egypt, the UK, France, and which other country?",
+      "options": [
+        "United States",
+        "Israel",
+        "Soviet Union",
+        "Italy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is primarily synthesized when skin is exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which nation won the FIFA Men's World Cup in 2018?",
+      "options": [
+        "Germany",
+        "Brazil",
+        "France",
+        "Argentina"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who created 'The Simpsons'?",
+      "options": [
+        "Mike Judge",
+        "Trey Parker",
+        "Matt Groening",
+        "Seth MacFarlane"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in the world by area?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Liechtenstein"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "William Faulkner",
+        "J.D. Salinger",
+        "John Steinbeck"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company originally developed the Java programming language?",
+      "options": [
+        "Sun Microsystems",
+        "Oracle",
+        "IBM",
+        "Microsoft"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

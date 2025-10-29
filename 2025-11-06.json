@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. purchase in 1803 doubled the nation's size?",
+      "options": [
+        "Gadsden Purchase",
+        "Louisiana Purchase",
+        "Alaska Purchase",
+        "Oregon Treaty"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "How many pairs of chromosomes do humans typically have?",
+      "options": [
+        "20",
+        "22",
+        "23",
+        "24"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes make an out?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which series features a character named Eleven?",
+      "options": [
+        "The Witcher",
+        "Stranger Things",
+        "Lost",
+        "The Boys"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European river flows through Budapest, Vienna, and Bratislava?",
+      "options": [
+        "Danube",
+        "Rhine",
+        "Seine",
+        "Elbe"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book series features a school called Hogwarts?",
+      "options": [
+        "The Hunger Games",
+        "Percy Jackson",
+        "Harry Potter",
+        "A Series of Unfortunate Events"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Core Processing Unit",
+        "Central Power Unit",
+        "Compute Processing Unit"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

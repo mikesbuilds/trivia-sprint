@@ -1,0 +1,91 @@
+{
+  "date": "2025-10-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first Emperor of Rome?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Caligula"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Approximately how fast does light travel in a vacuum?",
+      "options": [
+        "3×10^6 m/s",
+        "3×10^8 m/s",
+        "3×10^5 m/s",
+        "3×10^7 m/s"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which NBA team has the most championships?",
+      "options": [
+        "Los Angeles Lakers",
+        "Chicago Bulls",
+        "Boston Celtics",
+        "San Antonio Spurs"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Marvel hero wields the hammer Mjölnir?",
+      "options": [
+        "Thor",
+        "Iron Man",
+        "Hulk",
+        "Captain America"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest hot desert in the world?",
+      "options": [
+        "Gobi",
+        "Sahara",
+        "Kalahari",
+        "Arabian"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the character Macbeth?",
+      "options": [
+        "Hamlet",
+        "Othello",
+        "Macbeth",
+        "King Lear"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Binary numbers are based on which base?",
+      "options": [
+        "Base 8",
+        "Base 2",
+        "Base 10",
+        "Base 16"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

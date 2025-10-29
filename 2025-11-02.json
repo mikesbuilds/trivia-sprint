@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by Mansa Musa?",
+      "options": [
+        "Songhai",
+        "Mali",
+        "Ghana",
+        "Benin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH of a neutral solution at 25°C?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "3"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Masters golf tournament is held annually in which U.S. state?",
+      "options": [
+        "Florida",
+        "Georgia",
+        "California",
+        "Texas"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming service uses a red 'N' logo?",
+      "options": [
+        "Hulu",
+        "Amazon Prime Video",
+        "Netflix",
+        "Disney+"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the longest coastline?",
+      "options": [
+        "Florida",
+        "Alaska",
+        "California",
+        "Hawaii"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of 'Moby-Dick'?",
+      "options": [
+        "Herman Melville",
+        "Mark Twain",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Bluetooth was named after a historical king from which region?",
+      "options": [
+        "Iberia",
+        "Gaul",
+        "Scandinavia",
+        "Britannia"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

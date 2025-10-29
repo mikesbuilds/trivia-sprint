@@ -1,0 +1,91 @@
+{
+  "date": "2025-10-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "In which year did the Battle of Hastings take place?",
+      "options": [
+        "1215",
+        "1492",
+        "1066",
+        "1348"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical formula for water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards the World Series title?",
+      "options": [
+        "Basketball",
+        "Baseball",
+        "Ice Hockey",
+        "Soccer"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the coffee shop in the TV show 'Friends'?",
+      "options": [
+        "Central Park",
+        "Central Perk",
+        "Java Junction",
+        "Monk's Café"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote '1984'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Arthur C. Clarke"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does HTML stand for?",
+      "options": [
+        "Hyperlink and Text Markup Language",
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-10-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document, signed in 1215, limited the power of the English king?",
+      "options": [
+        "Bill of Rights",
+        "Magna Carta",
+        "Petition of Right",
+        "Domesday Book"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What organelle is the site of photosynthesis in plants?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Chloroplast",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what term describes winning all four major tournaments in a calendar year?",
+      "options": [
+        "Grand Slam",
+        "Golden Set",
+        "Triple Crown",
+        "Hat-trick"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed the original 1977 'Star Wars'?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "Francis Ford Coppola"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Everest lies on the border of Nepal and which region/country?",
+      "options": [
+        "Bhutan",
+        "Tibet/China",
+        "India",
+        "Pakistan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of 'Pride and Prejudice'?",
+      "options": [
+        "Charlotte Brontë",
+        "Mary Shelley",
+        "Emily Brontë",
+        "Jane Austen"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who created the Linux kernel?",
+      "options": [
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Dennis Ritchie",
+        "Ken Thompson"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

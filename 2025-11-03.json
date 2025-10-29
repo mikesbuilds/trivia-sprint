@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which treaty formally ended World War I?",
+      "options": [
+        "Treaty of Brest-Litovsk",
+        "Treaty of Versailles",
+        "Treaty of Paris (1783)",
+        "Treaty of Utrecht"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players per side are on the field in soccer?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'The Mandalorian', what is the popular name for the Child?",
+      "options": [
+        "Grogu",
+        "Yaddle",
+        "Yordle",
+        "Yara"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Amazon River primarily flows through which country?",
+      "options": [
+        "Colombia",
+        "Peru",
+        "Brazil",
+        "Venezuela"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Toni Morrison",
+        "John Steinbeck",
+        "Ernest Hemingway"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does HTTP stand for?",
+      "options": [
+        "Hyper Transfer Text Protocol",
+        "HyperText Transmission Process",
+        "HyperText Transfer Protocol",
+        "Host Transfer Text Protocol"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

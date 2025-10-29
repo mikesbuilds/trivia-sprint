@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "In what year did the Berlin Wall fall?",
+      "options": [
+        "1989",
+        "1991",
+        "1975",
+        "1999"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What force keeps planets in orbit around the sun?",
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Centrifugal force"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Tour de France?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the visual album 'Lemonade' in 2016?",
+      "options": [
+        "Rihanna",
+        "Beyoncé",
+        "Adele",
+        "Taylor Swift"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is famously built on canals and uses gondolas?",
+      "options": [
+        "Amsterdam",
+        "Bangkok",
+        "Venice",
+        "Bruges"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins with 'Call me Ishmael'?",
+      "options": [
+        "The Old Man and the Sea",
+        "Moby-Dick",
+        "Heart of Darkness",
+        "The Catcher in the Rye"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the iOS operating system?",
+      "options": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Nokia"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

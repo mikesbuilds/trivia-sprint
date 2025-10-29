@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization built Machu Picchu?",
+      "options": [
+        "Maya",
+        "Aztec",
+        "Inca",
+        "Olmec"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondrion",
+        "Chloroplast",
+        "Ribosome"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the maximum break in snooker?",
+      "options": [
+        "147",
+        "155",
+        "167",
+        "180"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the fictional African nation in 'Black Panther'?",
+      "options": [
+        "Zamunda",
+        "Wakanda",
+        "Genosha",
+        "Latveria"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is an island nation southeast of India?",
+      "options": [
+        "Sri Lanka",
+        "Maldives",
+        "Indonesia",
+        "Myanmar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet wrote 'The Raven'?",
+      "options": [
+        "Robert Frost",
+        "Walt Whitman",
+        "Edgar Allan Poe",
+        "Emily Dickinson"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which markup language is primarily used to structure web pages?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JSON",
+        "SQL"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
