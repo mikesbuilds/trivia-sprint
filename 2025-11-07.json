@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-07",
+  "date": "2025-11-10",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,80 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Suez Crisis primarily involved Egypt, the UK, France, and which other country?",
+      "prompt": "The Berlin Wall fell in which year?",
       "options": [
-        "United States",
-        "Israel",
-        "Soviet Union",
-        "Italy"
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant element in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many personal fouls lead to a player fouling out in the NBA?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
       ],
       "answerIndex": 1
     },
     {
-      "category": "Science",
-      "prompt": "Which vitamin is primarily synthesized when skin is exposed to sunlight?",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which nation won the FIFA Men's World Cup in 2018?",
-      "options": [
-        "Germany",
-        "Brazil",
-        "France",
-        "Argentina"
-      ],
-      "answerIndex": 2
-    },
-    {
       "category": "Pop Culture",
-      "prompt": "Who created 'The Simpsons'?",
+      "prompt": "Which actor voices Donkey in the 'Shrek' film series?",
       "options": [
-        "Mike Judge",
-        "Trey Parker",
-        "Matt Groening",
-        "Seth MacFarlane"
+        "Eddie Murphy",
+        "Chris Rock",
+        "Kevin Hart",
+        "Will Smith"
       ],
-      "answerIndex": 2
+      "answerIndex": 0
     },
     {
       "category": "Geography",
-      "prompt": "What is the smallest country in the world by area?",
+      "prompt": "What is the capital city of Canada?",
       "options": [
-        "Monaco",
-        "San Marino",
-        "Vatican City",
-        "Liechtenstein"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
       "answerIndex": 2
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Great Gatsby'?",
+      "prompt": "Which novel begins with the line, 'Call me Ishmael'?",
       "options": [
-        "F. Scott Fitzgerald",
-        "William Faulkner",
-        "J.D. Salinger",
-        "John Steinbeck"
+        "Moby-Dick",
+        "The Old Man and the Sea",
+        "Treasure Island",
+        "20,000 Leagues Under the Sea"
       ],
       "answerIndex": 0
     },
     {
       "category": "Technology",
-      "prompt": "Which company originally developed the Java programming language?",
+      "prompt": "What was the first web browser ever created?",
       "options": [
-        "Sun Microsystems",
-        "Oracle",
-        "IBM",
-        "Microsoft"
+        "Mosaic",
+        "Netscape Navigator",
+        "WorldWideWeb",
+        "Internet Explorer"
       ],
-      "answerIndex": 0
+      "answerIndex": 2
     }
   ]
 }
