@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "date": "2025-11-08",
+  "questions": [
+    {
+      "question": "Which planet has the longest day in our solar system?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "answer": "Venus",
+      "category": "Science"
+    },
+    {
+      "question": "Who painted the famous artwork 'The Persistence of Memory'?",
+      "options": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+      "answer": "Salvador Dalí",
+      "category": "Art"
+    },
+    {
+      "question": "What is the capital city of New Zealand?",
+      "options": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
+      "answer": "Wellington",
+      "category": "Geography"
+    },
+    {
+      "question": "In which year did the first iPhone release?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "answer": "2007",
+      "category": "Technology"
+    },
+    {
+      "question": "Which U.S. president delivered the Gettysburg Address?",
+      "options": ["Abraham Lincoln", "George Washington", "Theodore Roosevelt", "John F. Kennedy"],
+      "answer": "Abraham Lincoln",
+      "category": "History"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2",
+      "category": "Math"
+    },
+    {
+      "question": "Which movie features the quote, 'Life finds a way'?",
+      "options": ["Jurassic Park", "The Lion King", "Avatar", "Back to the Future"],
+      "answer": "Jurassic Park",
+      "category": "Movies"
+    }
+  ]
+}
