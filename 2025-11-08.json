@@ -1,47 +1,91 @@
 {
-  "date": "2025-11-08",
+  "date": "2025-11-089",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
   "questions": [
     {
-      "question": "Which planet has the longest day in our solar system?",
-      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-      "answer": "Venus",
-      "category": "Science"
+      "category": "History",
+      "prompt": "What was the name of the ship on which the Pilgrims traveled to North America in 1620?",
+      "options": [
+        "Endeavour",
+        "Mayflower",
+        "Discovery",
+        "Santa Maria"
+      ],
+      "answerIndex": 1
     },
     {
-      "question": "Who painted the famous artwork 'The Persistence of Memory'?",
-      "options": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
-      "answer": "Salvador Dalí",
-      "category": "Art"
+      "category": "Science",
+      "prompt": "What phenomenon causes sound to bend around corners and obstacles?",
+      "options": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ],
+      "answerIndex": 0
     },
     {
-      "question": "What is the capital city of New Zealand?",
-      "options": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
-      "answer": "Wellington",
-      "category": "Geography"
+      "category": "Sports",
+      "prompt": "Which female athlete has won the most Olympic gold medals in gymnastics?",
+      "options": [
+        "Simone Biles",
+        "Nadia Comăneci",
+        "Larisa Latynina",
+        "Shannon Miller"
+      ],
+      "answerIndex": 2
     },
     {
-      "question": "In which year did the first iPhone release?",
-      "options": ["2005", "2006", "2007", "2008"],
-      "answer": "2007",
-      "category": "Technology"
+      "category": "Pop Culture",
+      "prompt": "In the Marvel Cinematic Universe, what is the name of Thor’s hammer?",
+      "options": [
+        "Stormbreaker",
+        "Gungnir",
+        "Mjolnir",
+        "Aegis"
+      ],
+      "answerIndex": 2
     },
     {
-      "question": "Which U.S. president delivered the Gettysburg Address?",
-      "options": ["Abraham Lincoln", "George Washington", "Theodore Roosevelt", "John F. Kennedy"],
-      "answer": "Abraham Lincoln",
-      "category": "History"
+      "category": "Geography",
+      "prompt": "Which mountain range separates Europe and Asia?",
+      "options": [
+        "Ural Mountains",
+        "Andes Mountains",
+        "Himalayas",
+        "Carpathians"
+      ],
+      "answerIndex": 0
     },
     {
-      "question": "What is the smallest prime number?",
-      "options": ["0", "1", "2", "3"],
-      "answer": "2",
-      "category": "Math"
+      "category": "Literature",
+      "prompt": "Which novel introduced the character Atticus Finch?",
+      "options": [
+        "The Catcher in the Rye",
+        "To Kill a Mockingbird",
+        "The Grapes of Wrath",
+        "Of Mice and Men"
+      ],
+      "answerIndex": 1
     },
     {
-      "question": "Which movie features the quote, 'Life finds a way'?",
-      "options": ["Jurassic Park", "The Lion King", "Avatar", "Back to the Future"],
-      "answer": "Jurassic Park",
-      "category": "Movies"
+      "category": "Technology",
+      "prompt": "Which company developed the first computer mouse prototype in 1964?",
+      "options": [
+        "Hewlett-Packard",
+        "Apple",
+        "Xerox PARC",
+        "Stanford Research Institute"
+      ],
+      "answerIndex": 3
     }
   ]
 }
