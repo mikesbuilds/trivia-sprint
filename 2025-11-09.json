@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Jacqueline Cochran"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which solid ice turns directly into vapor?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In what sport would you perform a 'double axel'?",
+      "options": [
+        "Gymnastics",
+        "Diving",
+        "Figure Skating",
+        "Ski Jumping"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features a chemistry teacher who becomes a drug manufacturer?",
+      "options": [
+        "Ozark",
+        "Weeds",
+        "Breaking Bad",
+        "Narcos"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is known as the 'City of a Hundred Spires'?",
+      "options": [
+        "Prague",
+        "Vienna",
+        "Budapest",
+        "Warsaw"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel by Ray Bradbury depicts a future society where books are banned?",
+      "options": [
+        "Brave New World",
+        "Fahrenheit 451",
+        "1984",
+        "The Giver"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What was the first widely used operating system with a graphical user interface?",
+      "options": [
+        "MS-DOS",
+        "Windows 1.0",
+        "Macintosh System Software",
+        "Unix X Window System"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
