@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient ruler issued the Code of laws carved on a stone stele discovered in Susa?",
+      "options": [
+        "Hammurabi",
+        "Nebuchadnezzar II",
+        "Darius I",
+        "Ramses II"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the human brain is primarily responsible for coordination and balance?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the NFL, how many yards are awarded for a standard defensive safety?",
+      "options": [
+        "2 points and possession on opponent's 35",
+        "2 points and free kick from the 20",
+        "3 points and kickoff from midfield",
+        "1 point and punt from the 25"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor voices the character of Woody in the original \"Toy Story\" films?",
+      "options": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Billy Crystal",
+        "Robin Williams"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The city of Marrakesh is located in which country?",
+      "options": [
+        "Morocco",
+        "Algeria",
+        "Tunisia",
+        "Egypt"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Atticus Finch defending Tom Robinson?",
+      "options": [
+        "To Kill a Mockingbird",
+        "The Grapes of Wrath",
+        "A Time to Kill",
+        "Invisible Man"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Git was originally created to help develop which open-source project?",
+      "options": [
+        "Linux kernel",
+        "Apache HTTP Server",
+        "MySQL",
+        "Firefox"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
