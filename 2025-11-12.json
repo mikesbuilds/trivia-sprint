@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Magna Carta was originally issued in which country?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Germany"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH of a neutral solution at 25°C?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Major League Baseball, how many innings are in a regulation game?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a time-traveling DeLorean?",
+      "options": [
+        "Back to the Future",
+        "The Terminator",
+        "Looper",
+        "Edge of Tomorrow"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Danube River flows into which body of water?",
+      "options": [
+        "Baltic Sea",
+        "Black Sea",
+        "Mediterranean Sea",
+        "North Sea"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Russian novel begins with the line, \"All happy families are alike\"?",
+      "options": [
+        "Crime and Punishment",
+        "Anna Karenina",
+        "War and Peace",
+        "The Brothers Karamazov"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol secures web traffic with encryption, indicated by a padlock icon in browsers?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTPS",
+        "Telnet"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 CE?",
+      "options": [
+        "Pompeii",
+        "Troy",
+        "Carthage",
+        "Alexandria"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that maintain a constant internal body temperature?",
+      "options": [
+        "Ectothermic",
+        "Endothermic",
+        "Anamniotic",
+        "Sessile"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, what is it called when a player records double digits in three statistical categories in one game?",
+      "options": [
+        "Double-double",
+        "Triple-double",
+        "Quadruple-double",
+        "Hat trick"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer starred as Ally in the 2018 film \"A Star Is Born\"?",
+      "options": [
+        "Lady Gaga",
+        "Adele",
+        "Katy Perry",
+        "Dua Lipa"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Great Barrier Reef lies off the coast of which Australian state?",
+      "options": [
+        "New South Wales",
+        "Queensland",
+        "Victoria",
+        "Western Australia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the detective Hercule Poirot?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "Raymond Chandler"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does \"LAN\" stand for in computer networking?",
+      "options": [
+        "Local Access Node",
+        "Large Area Network",
+        "Local Area Network",
+        "Linked Access Network"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

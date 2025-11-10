@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient war is associated with the legendary wooden horse used to enter a walled city?",
+      "options": [
+        "Peloponnesian War",
+        "Punic Wars",
+        "Trojan War",
+        "Gallic Wars"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed the three laws of motion and universal gravitation?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In ice hockey, how many skaters (excluding the goalie) are on the ice per team during standard 5-on-5 play?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the song \"Hakuna Matata\"?",
+      "options": [
+        "Aladdin",
+        "The Lion King",
+        "Tarzan",
+        "Mulan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is nicknamed \"The Last Frontier\"?",
+      "options": [
+        "Montana",
+        "Wyoming",
+        "Alaska",
+        "Idaho"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which detective novel features the character Sam Spade?",
+      "options": [
+        "The Big Sleep",
+        "The Maltese Falcon",
+        "Gone Girl",
+        "In Cold Blood"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Kubernetes is primarily used to manage which of the following?",
+      "options": [
+        "Serverless billing",
+        "Containerized applications",
+        "Physical network switches",
+        "Local file permissions"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

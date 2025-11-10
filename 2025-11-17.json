@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict is often called \"The Great War\" before World War II renamed it by sequence?",
+      "options": [
+        "Franco-Prussian War",
+        "World War I",
+        "Crimean War",
+        "Boer War"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest planet in our solar system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the NBA, what is the shot clock duration?",
+      "options": [
+        "24 seconds",
+        "30 seconds",
+        "35 seconds",
+        "40 seconds"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise features locations such as Hyrule and characters like Link and Zelda?",
+      "options": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Elden Ring",
+        "Dragon Quest"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which South American country has Quito as its capital?",
+      "options": [
+        "Peru",
+        "Ecuador",
+        "Colombia",
+        "Bolivia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote \"The Road\", a post-apocalyptic novel about a father and son?",
+      "options": [
+        "Cormac McCarthy",
+        "Stephen King",
+        "Don DeLillo",
+        "Margaret Atwood"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In databases, what does the SQL command \"JOIN\" primarily do?",
+      "options": [
+        "Deletes rows",
+        "Combines rows from multiple tables",
+        "Creates an index",
+        "Backs up a table"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

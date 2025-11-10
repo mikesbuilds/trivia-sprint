@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who served as the first Chancellor of a unified Germany in 1871?",
+      "options": [
+        "Kaiser Wilhelm I",
+        "Otto von Bismarck",
+        "Helmut Kohl",
+        "Friedrich Ebert"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is responsible for the characteristic smell of rotten eggs?",
+      "options": [
+        "Methane",
+        "Hydrogen sulfide",
+        "Ozone",
+        "Chlorine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the Olympics, which event combines cross-country skiing and ski jumping?",
+      "options": [
+        "Biathlon",
+        "Nordic combined",
+        "Super-G",
+        "Ski cross"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer’s fans are commonly known as the “BeyHive”?",
+      "options": [
+        "Beyoncé",
+        "Rihanna",
+        "Taylor Swift",
+        "Nicki Minaj"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has Ljubljana as its capital?",
+      "options": [
+        "Slovakia",
+        "Slovenia",
+        "Serbia",
+        "Croatia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which dystopian novel features the ritual \"Ceremony\" in the Republic of Gilead?",
+      "options": [
+        "The Handmaid's Tale",
+        "1984",
+        "Brave New World",
+        "Never Let Me Go"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In web development, which language is primarily responsible for styling a webpage?",
+      "options": [
+        "HTML",
+        "CSS",
+        "SQL",
+        "Python"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

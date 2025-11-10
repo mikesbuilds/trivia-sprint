@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which revolution began in 1789 and led to the fall of King Louis XVI?",
+      "options": [
+        "American Revolution",
+        "French Revolution",
+        "Haitian Revolution",
+        "Russian Revolution"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which law states that pressure and volume of a gas are inversely proportional at constant temperature?",
+      "options": [
+        "Boyle's Law",
+        "Charles's Law",
+        "Avogadro's Law",
+        "Pascal's Law"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the NBA, what is the minimum number of games in a best-of-seven playoff series needed to win the series?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show follows chemistry teacher Walter White entering the drug trade?",
+      "options": [
+        "Ozark",
+        "Breaking Bad",
+        "Narcos",
+        "The Wire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country’s flag features a red maple leaf?",
+      "options": [
+        "Canada",
+        "Denmark",
+        "Austria",
+        "Switzerland"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote \"Beloved\", a novel about Sethe and her haunting past?",
+      "options": [
+        "Alice Walker",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the containerization platform Docker?",
+      "options": [
+        "Canonical",
+        "Docker, Inc.",
+        "Kubernetes Foundation",
+        "VMware"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

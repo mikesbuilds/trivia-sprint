@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. civil rights leader delivered the \"I Have a Dream\" speech in 1963?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Medgar Evers",
+        "Ralph Abernathy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which metallic element is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Aluminum",
+        "Lead",
+        "Silver"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, how many players per team are on the field during play, including the goalkeeper?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Netflix series follows a 1980s-style Dungeons & Dragons-playing group of kids facing supernatural threats?",
+      "options": [
+        "Stranger Things",
+        "Locke & Key",
+        "The OA",
+        "Dark"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country was formerly known as Abyssinia?",
+      "options": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "Sudan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play \"Death of a Salesman\"?",
+      "options": [
+        "Arthur Miller",
+        "Tennessee Williams",
+        "Eugene O'Neill",
+        "Samuel Beckett"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which version control system uses commands like \"clone\", \"commit\", and \"branch\" and is commonly hosted on GitHub?",
+      "options": [
+        "SVN",
+        "Mercurial",
+        "Git",
+        "Perforce"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

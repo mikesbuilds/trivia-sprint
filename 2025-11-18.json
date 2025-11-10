@@ -1,0 +1,91 @@
+{
+  "date": "2025-11-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. landmark was a gift from France and dedicated in 1886?",
+      "options": [
+        "Mount Rushmore",
+        "Statue of Liberty",
+        "Lincoln Memorial",
+        "Golden Gate Bridge"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of celestial object is Betelgeuse?",
+      "options": [
+        "Galaxy",
+        "Red supergiant star",
+        "White dwarf",
+        "Nebula"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many points is a successful two-point conversion worth?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which long-running sketch show launched characters like the Coneheads and Wayne & Garth?",
+      "options": [
+        "MADtv",
+        "Saturday Night Live",
+        "Key & Peele",
+        "In Living Color"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European capital city is located on the River Seine?",
+      "options": [
+        "Rome",
+        "Paris",
+        "Madrid",
+        "Vienna"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote \"The Name of the Wind\", the first book in the Kingkiller Chronicle?",
+      "options": [
+        "George R.R. Martin",
+        "Patrick Rothfuss",
+        "Brandon Sanderson",
+        "Robin Hobb"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the primary purpose of a CDN (Content Delivery Network)?",
+      "options": [
+        "Store database backups",
+        "Accelerate content delivery globally",
+        "Monitor CPU usage",
+        "Provide DNS resolution"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
