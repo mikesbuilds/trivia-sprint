@@ -1,0 +1,56 @@
+{
+  "date": "2025-11-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilization built the city of Teotihuacan?",
+      "options": ["Aztecs", "Maya", "Unknown civilization", "Olmecs"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What gas gives Neptune its blue color?",
+      "options": ["Methane", "Oxygen", "Hydrogen", "Ammonia"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete was the first to win the Ballon d'Or for the women's game?",
+      "options": ["Alex Morgan", "Megan Rapinoe", "Ada Hegerberg", "Sam Kerr"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features the fictional streaming service 'Streamberry'?",
+      "options": ["Black Mirror", "The Boys", "Atlanta", "Severance"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the capital city of Hungary?",
+      "options": ["Danube", "Rhine", "Volga", "Seine"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins with the line, 'In a hole in the ground there lived a hobbit'?",
+      "options": ["The Hobbit", "The Silmarillion", "The Lord of the Rings", "The Two Towers"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What was the first video game console to include built-in Wi-Fi?",
+      "options": ["Xbox 360", "PlayStation 3", "Nintendo Wii", "Dreamcast"],
+      "answerIndex": 2
+    }
+  ]
+}
