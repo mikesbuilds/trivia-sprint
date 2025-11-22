@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-22",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. President signed the Federal-Aid Highway Act of 1956?",
+      "options": ["Truman", "Eisenhower", "Kennedy", "Johnson"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of a plant is responsible for gas exchange?",
+      "options": ["Stomata", "Roots", "Stem", "Chloroplasts"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Rugby World Cup titles?",
+      "options": ["England", "Australia", "South Africa", "New Zealand"],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor voices the character of Po in 'Kung Fu Panda'?",
+      "options": ["Jack Black", "Seth Rogen", "Jim Carrey", "Chris Pratt"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in South America by land area?",
+      "options": ["Guyana", "Uruguay", "Suriname", "Paraguay"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel 'A Wrinkle in Time'?",
+      "options": ["Ursula K. Le Guin", "Madeleine L'Engle", "Lois Lowry", "Susan Cooper"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What year was the first iPad released?",
+      "options": ["2009", "2010", "2011", "2012"],
+      "answerIndex": 1
+    }
+  ]
+}
