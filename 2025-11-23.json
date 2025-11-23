@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-23",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "In ancient Sparta, what was the governing council of elders called?",
+      "options": ["Gerousia", "Senate", "Assembly", "Ephorate"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the only metal that is liquid at room temperature?",
+      "options": ["Mercury", "Gallium", "Tin", "Cesium"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which NBA team originally drafted Kobe Bryant?",
+      "options": ["Los Angeles Lakers", "Charlotte Hornets", "Philadelphia 76ers", "Boston Celtics"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album 'Future Nostalgia'?",
+      "options": ["Ariana Grande", "Dua Lipa", "Taylor Swift", "Billie Eilish"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert covers most of Mongolia and northern China?",
+      "options": ["Gobi Desert", "Taklamakan", "Kalahari", "Great Sandy"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the character Puck?",
+      "options": ["Hamlet", "Macbeth", "A Midsummer Night's Dream", "Othello"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Go programming language?",
+      "options": ["Microsoft", "Google", "IBM", "Oracle"],
+      "answerIndex": 1
+    }
+  ]
+}
