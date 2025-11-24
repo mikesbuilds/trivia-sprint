@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-27",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was formerly known as Abyssinia?",
+      "options": ["Ethiopia", "Sudan", "Libya", "Eritrea"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant element in Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which MLB team has the most World Series titles?",
+      "options": ["Red Sox", "Yankees", "Dodgers", "Giants"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist released the hit song 'Levitating'?",
+      "options": ["Doja Cat", "Dua Lipa", "Olivia Rodrigo", "Harry Styles"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the longest river in Europe?",
+      "options": ["Danube", "Volga", "Rhine", "Thames"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Fahrenheit 451'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "Philip K. Dick"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Snapdragon line of processors?",
+      "options": ["Intel", "Qualcomm", "AMD", "Nvidia"],
+      "answerIndex": 1
+    }
+  ]
+}
