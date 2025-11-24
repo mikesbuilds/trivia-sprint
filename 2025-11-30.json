@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-30",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder was located in Olympia, Greece?",
+      "options": ["Statue of Zeus", "Temple of Artemis", "Colossus of Rhodes", "Hanging Gardens"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of bond involves the sharing of electron pairs between atoms?",
+      "options": ["Ionic", "Covalent", "Hydrogen", "Metallic"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the first FIFA World Cup?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a snowman named Olaf?",
+      "options": ["Frozen", "Moana", "Coco", "Brave"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the longest coastline?",
+      "options": ["Florida", "California", "Alaska", "Hawaii"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the dystopian society of Gilead?",
+      "options": ["1984", "The Handmaid's Tale", "Brave New World", "Fahrenheit 451"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Rust programming language?",
+      "options": ["Google", "Mozilla", "Meta", "Apple"],
+      "answerIndex": 1
+    }
+  ]
+}
