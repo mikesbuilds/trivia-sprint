@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-25",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire built the Hagia Sophia?",
+      "options": ["Roman Empire", "Byzantine Empire", "Ottoman Empire", "Persian Empire"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Who holds the record for the fastest 100-meter sprint?",
+      "options": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Justin Gatlin"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features a character named Aang?",
+      "options": ["Naruto", "Avatar: The Last Airbender", "Dragon Ball Z", "Ben 10"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country is completely landlocked?",
+      "options": ["Egypt", "Kenya", "Uganda", "Somalia"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play 'The Crucible'?",
+      "options": ["Arthur Miller", "Tennessee Williams", "Eugene O'Neill", "Edward Albee"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What was the name of the first commercially available smartphone?",
+      "options": ["BlackBerry 850", "IBM Simon", "Palm Pilot", "Nokia Communicator"],
+      "answerIndex": 1
+    }
+  ]
+}
