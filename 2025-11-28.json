@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-28",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The city of Timbuktu was historically a center of learning in which empire?",
+      "options": ["Mali Empire", "Songhai Empire", "Ghana Empire", "Benin Empire"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the smallest unit of life considered living?",
+      "options": ["Atom", "Molecule", "Cell", "Amino Acid"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a field goal worth in American football?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor plays Loki in the Marvel Cinematic Universe?",
+      "options": ["Chris Hemsworth", "Tom Hiddleston", "Chris Evans", "Benedict Cumberbatch"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most natural lakes?",
+      "options": ["Russia", "Canada", "Brazil", "United States"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Life of Pi'?",
+      "options": ["Yann Martel", "Salman Rushdie", "Jhumpa Lahiri", "Vikram Seth"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What type of malware demands ransom?",
+      "options": ["Spyware", "Worm", "Ransomware", "Trojan"],
+      "answerIndex": 2
+    }
+  ]
+}
