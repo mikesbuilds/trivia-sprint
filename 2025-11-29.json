@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-29",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was the capital of the Inca Empire?",
+      "options": ["Cusco", "Lima", "Quito", "La Paz"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What phenomenon causes the northern lights?",
+      "options": ["Solar wind interacting with Earth's atmosphere", "Volcanic ash", "Micrometeor impacts", "Cosmic dust storms"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which golfer has won the most major championships in history?",
+      "options": ["Tiger Woods", "Jack Nicklaus", "Rory McIlroy", "Arnold Palmer"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sci-fi series features the planet Arrakis?",
+      "options": ["Dune", "Star Trek", "Foundation", "Battlestar Galactica"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country owns Easter Island?",
+      "options": ["Chile", "Peru", "Argentina", "Ecuador"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Name of the Wind'?",
+      "options": ["Patrick Rothfuss", "Brandon Sanderson", "George R. R. Martin", "Neil Gaiman"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SSD' stand for in computing?",
+      "options": ["Solid State Drive", "Secure Storage Device", "Standard System Disk", "Software Storage Directory"],
+      "answerIndex": 0
+    }
+  ]
+}
