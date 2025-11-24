@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-24",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which medieval conflict was fought between the houses of Lancaster and York?",
+      "options": ["The Crusades", "The War of the Roses", "The Hundred Years' War", "The Great Northern War"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of celestial object is the Sombrero Galaxy?",
+      "options": ["Spiral Galaxy", "Elliptical Galaxy", "Barred Spiral Galaxy", "Irregular Galaxy"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which tennis tournament is played on clay courts?",
+      "options": ["Wimbledon", "Australian Open", "French Open", "US Open"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie introduced the character Shrek?",
+      "options": ["Shrek", "Shrek 2", "Shrek the Third", "Puss in Boots"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Sri Lanka?",
+      "options": ["Colombo", "Kandy", "Galle", "Sri Jayawardenepura Kotte"],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Old Man and the Sea'?",
+      "options": ["Ernest Hemingway", "Mark Twain", "F. Scott Fitzgerald", "John Steinbeck"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym 'API' stand for?",
+      "options": ["Application Programming Interface", "Application Program Index", "Advanced Processing Interface", "Automated Program Integration"],
+      "answerIndex": 0
+    }
+  ]
+}
