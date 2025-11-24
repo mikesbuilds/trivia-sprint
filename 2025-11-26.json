@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-26",
+  "categories": [
+    "History","Science","Sports","Pop Culture","Geography","Literature","Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient people created the first known alphabet?",
+      "options": ["Phoenicians", "Egyptians", "Greeks", "Hittites"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for potassium?",
+      "options": ["P", "Pt", "K", "Po"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which NFL team has the most Super Bowl appearances?",
+      "options": ["Patriots", "Steelers", "Cowboys", "49ers"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 90s sitcom popularized the phrase 'We were on a break!'?",
+      "options": ["Friends", "Seinfeld", "The Fresh Prince", "Home Improvement"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range contains Mount Everest?",
+      "options": ["Andes", "Rockies", "Himalayas", "Alps"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book series features the character Katniss Everdeen?",
+      "options": ["Divergent", "The Hunger Games", "Maze Runner", "The Giver"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is primarily used for iOS app development?",
+      "options": ["Java", "Swift", "C#", "Kotlin"],
+      "answerIndex": 1
+    }
+  ]
+}
