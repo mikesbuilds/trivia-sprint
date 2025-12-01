@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was famously buried by the eruption of Mount Vesuvius in 79 CE?",
+      "options": [
+        "Pompeii",
+        "Carthage",
+        "Alexandria",
+        "Troy"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal that maintains a constant body temperature internally?",
+      "options": [
+        "Ectotherm",
+        "Endotherm",
+        "Isotherm",
+        "Thermophile"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a successful shot from behind the arc worth?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the quote, 'Life finds a way'?",
+      "options": [
+        "Jurassic Park",
+        "The Matrix",
+        "Inception",
+        "Interstellar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country has Cairo as its capital?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "Algeria",
+        "Ethiopia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the detective character Hercule Poirot?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "Patricia Highsmith"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the voice assistant known as Alexa?",
+      "options": [
+        "Apple",
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

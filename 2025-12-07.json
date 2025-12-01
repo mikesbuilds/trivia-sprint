@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. state was the first to grant women the right to vote?",
+      "options": [
+        "New York",
+        "Wyoming",
+        "California",
+        "Massachusetts"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist is best known for proposing the three laws of motion?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Niels Bohr"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is the term for a score of one under par on a hole?",
+      "options": [
+        "Bogey",
+        "Birdie",
+        "Eagle",
+        "Albatross"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows a chemistry teacher who turns to making methamphetamine?",
+      "options": [
+        "Ozark",
+        "Breaking Bad",
+        "Narcos",
+        "Better Call Saul"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Scandinavian country shares a long border with Russia?",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Iceland"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby?",
+      "options": [
+        "The Catcher in the Rye",
+        "The Great Gatsby",
+        "Lord of the Flies",
+        "A Farewell to Arms"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the popular video game franchise 'The Legend of Zelda'?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Nintendo",
+        "Sega"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

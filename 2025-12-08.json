@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilization is credited with constructing the Parthenon?",
+      "options": [
+        "Romans",
+        "Egyptians",
+        "Greeks",
+        "Persians"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the eye controls the amount of light that enters?",
+      "options": [
+        "Retina",
+        "Lens",
+        "Pupil",
+        "Cornea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Grand Slam tennis tournament known as Wimbledon?",
+      "options": [
+        "United States",
+        "France",
+        "Australia",
+        "United Kingdom"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated TV show features characters named Homer, Marge, Bart, Lisa, and Maggie?",
+      "options": [
+        "Family Guy",
+        "The Simpsons",
+        "Bob's Burgers",
+        "South Park"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Mojave Desert"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote the novel 'Beloved'?",
+      "options": [
+        "Toni Morrison",
+        "Alice Walker",
+        "Zora Neale Hurston",
+        "Maya Angelou"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology is commonly used for short-range wireless communication between devices, such as headphones and phones?",
+      "options": [
+        "Wi-Fi",
+        "Bluetooth",
+        "NFC",
+        "Ethernet"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous leader delivered the speech beginning with 'I have a dream' in 1963?",
+      "options": [
+        "Nelson Mandela",
+        "Martin Luther King Jr.",
+        "John F. Kennedy",
+        "Malcolm X"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What planet in our solar system has the most extensive ring system?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which U.S. city is home to the baseball team known as the Red Sox?",
+      "options": [
+        "New York",
+        "Boston",
+        "Chicago",
+        "Philadelphia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series follows the fictional Roy family controlling a media empire?",
+      "options": [
+        "Billions",
+        "Succession",
+        "Industry",
+        "Mad Men"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the famous landmark Christ the Redeemer?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Brazil",
+        "Argentina"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel by Mary Shelley is often considered one of the first science fiction works?",
+      "options": [
+        "Dracula",
+        "Frankenstein",
+        "The Strange Case of Dr Jekyll and Mr Hyde",
+        "The Time Machine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What term describes a network of physical objects embedded with sensors and software that connect and exchange data over the internet?",
+      "options": [
+        "Cloud Computing",
+        "Internet of Things",
+        "Augmented Reality",
+        "Virtual Private Network"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

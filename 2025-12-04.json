@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Sally Ride",
+        "Valentina Tereshkova"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which subatomic particles are found in the nucleus of an atom?",
+      "options": [
+        "Electrons only",
+        "Protons and neutrons",
+        "Protons and electrons",
+        "Neutrons and electrons"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, how many players per team are on the field at the start of play, including the goalkeeper?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features the fictional paper company Dunder Mifflin?",
+      "options": [
+        "Parks and Recreation",
+        "The Office",
+        "Brooklyn Nine-Nine",
+        "30 Rock"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which South American country is home to the city of Buenos Aires?",
+      "options": [
+        "Chile",
+        "Peru",
+        "Argentina",
+        "Uruguay"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which fantasy series begins with the book 'The Lion, the Witch and the Wardrobe'?",
+      "options": [
+        "The Lord of the Rings",
+        "The Chronicles of Narnia",
+        "Earthsea",
+        "His Dark Materials"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What open-source operating system is the Android OS based on?",
+      "options": [
+        "Windows",
+        "Unix",
+        "Linux",
+        "Chrome OS"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

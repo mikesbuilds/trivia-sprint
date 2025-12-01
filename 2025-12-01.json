@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war officially ended with the signing of the Treaty of Versailles in 1919?",
+      "options": [
+        "World War I",
+        "World War II",
+        "The Crimean War",
+        "The Franco-Prussian War"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest internal organ in the human body by mass?",
+      "options": [
+        "Brain",
+        "Liver",
+        "Lungs",
+        "Kidneys"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which NFL team is famously associated with fans wearing cheese-shaped hats?",
+      "options": [
+        "Chicago Bears",
+        "Minnesota Vikings",
+        "Green Bay Packers",
+        "Detroit Lions"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the series 'The Mandalorian', what nickname did fans commonly use for Grogu before his name was revealed?",
+      "options": [
+        "Tiny Jedi",
+        "Baby Yoda",
+        "Little Mando",
+        "Greenling"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Italian city is famously known as the 'City of Canals'?",
+      "options": [
+        "Florence",
+        "Venice",
+        "Rome",
+        "Naples"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the post-apocalyptic novel 'The Road'?",
+      "options": [
+        "Cormac McCarthy",
+        "Stephen King",
+        "Neil Gaiman",
+        "Margaret Atwood"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym 'GPU' stand for in computing?",
+      "options": [
+        "General Processing Unit",
+        "Graphics Processing Unit",
+        "Graphical Protocol Utility",
+        "Global Processing Utility"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

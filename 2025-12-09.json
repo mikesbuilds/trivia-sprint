@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which wall in Europe famously fell in 1989, symbolizing the end of the Cold War era?",
+      "options": [
+        "The Great Wall of China",
+        "Hadrian's Wall",
+        "Berlin Wall",
+        "Wailing Wall"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the SI unit of electric current?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which NBA player is nicknamed 'The Greek Freak'?",
+      "options": [
+        "Luka Don\u010di\u0107",
+        "Nikola Joki\u0107",
+        "Giannis Antetokounmpo",
+        "Kristaps Porzi\u0146\u0123is"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie franchise features a character named Jack Sparrow?",
+      "options": [
+        "Indiana Jones",
+        "Pirates of the Caribbean",
+        "Mission: Impossible",
+        "The Mummy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the city of London?",
+      "options": [
+        "Seine",
+        "Thames",
+        "Rhine",
+        "Elbe"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which classic novel opens with the line, 'Call me Ishmael'?",
+      "options": [
+        "Moby-Dick",
+        "Treasure Island",
+        "Robinson Crusoe",
+        "Gulliver's Travels"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name of the online code hosting platform owned by Microsoft that is widely used for version control?",
+      "options": [
+        "Bitbucket",
+        "GitLab",
+        "GitHub",
+        "SourceForge"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
