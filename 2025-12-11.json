@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilization built the city of Machu Picchu?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Maya",
+        "Olmec"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the primary gas in Earth's atmosphere by volume?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is the term for winning all four major tournaments in a single calendar year?",
+      "options": [
+        "Grand Slam",
+        "Career Slam",
+        "Golden Slam",
+        "Masters Sweep"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features a character named Jack Sparrow?",
+      "options": [
+        "Harry Potter",
+        "Pirates of the Caribbean",
+        "The Lord of the Rings",
+        "Star Wars"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country is completely surrounded by South Africa?",
+      "options": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Namibia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel 'Fahrenheit 451'?",
+      "options": [
+        "George Orwell",
+        "Ray Bradbury",
+        "Aldous Huxley",
+        "Kurt Vonnegut"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the 'HTTP' in a website address stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High-Tech Transmission Program",
+        "Hyperlink Transfer Process",
+        "Host Transfer Protocol"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
