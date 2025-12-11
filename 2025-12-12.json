@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Magna Carta was originally issued in which country?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Germany"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the cell is often called the 'powerhouse' of the cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a successful free throw worth?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known as the 'King of Pop'?",
+      "options": [
+        "Elvis Presley",
+        "Michael Jackson",
+        "Prince",
+        "Justin Timberlake"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital city of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In Greek mythology, who is the author credited with the epic poems the 'Iliad' and the 'Odyssey'?",
+      "options": [
+        "Homer",
+        "Sophocles",
+        "Euripides",
+        "Virgil"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Android operating system?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "IBM"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
