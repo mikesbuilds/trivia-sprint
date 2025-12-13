@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Roman Empire",
+        "Ottoman Empire",
+        "Mongol Empire",
+        "Persian Empire"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which plants make their own food using sunlight?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Germination"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many points is a touchdown worth?",
+      "options": [
+        "3",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a snowman named Olaf?",
+      "options": [
+        "Moana",
+        "Frozen",
+        "Tangled",
+        "Brave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the Sahara Desert located on?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the detective Sherlock Holmes?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Dorothy L. Sayers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the video game console known as the 'Switch'?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Nintendo",
+        "Sega"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
