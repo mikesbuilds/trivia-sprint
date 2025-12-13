@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The fall of the Berlin Wall occurred in which year?",
+      "options": [
+        "1969",
+        "1979",
+        "1989",
+        "1999"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Gd",
+        "Ag",
+        "Au",
+        "Go"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most FIFA Men's World Cup titles?",
+      "options": [
+        "Germany",
+        "Argentina",
+        "Italy",
+        "Brazil"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series is set in the fictional land of Westeros?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "Vikings",
+        "The Mandalorian"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the city of Paris?",
+      "options": [
+        "Danube",
+        "Thames",
+        "Seine",
+        "Rhine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": [
+        "Moby-Dick",
+        "The Old Man and the Sea",
+        "Treasure Island",
+        "Heart of Darkness"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In computing, what does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Power Unit",
+        "Core Program Utility",
+        "Central Program Unit"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
