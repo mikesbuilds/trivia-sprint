@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first President of the United States?",
+      "options": [
+        "George Washington",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes result in a strikeout?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero is also known as the 'Caped Crusader'?",
+      "options": [
+        "Superman",
+        "Batman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is both an island and a continent?",
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Iceland",
+        "Madagascar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a girl who falls down a rabbit hole into a strange world?",
+      "options": [
+        "Alice's Adventures in Wonderland",
+        "The Secret Garden",
+        "Matilda",
+        "Peter Pan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'URL' stand for in web terminology?",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Resource Locator",
+        "Universal Reference Link",
+        "Unified Resource Link"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
