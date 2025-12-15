@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war was triggered by the assassination of Archduke Franz Ferdinand?",
+      "options": [
+        "World War I",
+        "World War II",
+        "The Crimean War",
+        "The Franco-Prussian War"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the basic unit of heredity in living organisms?",
+      "options": [
+        "Chromosome",
+        "Gene",
+        "Nucleotide",
+        "Protein"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is the term for scoring one stroke under par on a hole?",
+      "options": [
+        "Birdie",
+        "Eagle",
+        "Bogey",
+        "Albatross"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming service released the hit series 'Stranger Things'?",
+      "options": [
+        "Hulu",
+        "Netflix",
+        "Disney+",
+        "Amazon Prime Video"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean lies on the east coast of the United States?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book series features a school called Hogwarts?",
+      "options": [
+        "Percy Jackson & the Olympians",
+        "Harry Potter",
+        "The Chronicles of Narnia",
+        "His Dark Materials"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the virtual assistant known as 'Siri'?",
+      "options": [
+        "Google",
+        "Amazon",
+        "Apple",
+        "Microsoft"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
