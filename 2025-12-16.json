@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The ancient city of Rome was founded on which peninsula?",
+      "options": [
+        "Iberian Peninsula",
+        "Balkan Peninsula",
+        "Italian Peninsula",
+        "Anatolian Peninsula"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ in the human body is primarily responsible for filtering blood?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Kidneys",
+        "Liver"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what is the maximum number of players per team allowed on the field during play, including the goalkeeper?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the quote, 'May the Force be with you'?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Guardians of the Galaxy",
+        "Avatar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Ethiopia",
+        "Uganda"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Christopher Marlowe",
+        "Ben Jonson",
+        "John Milton"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language is commonly used for creating web pages alongside HTML and CSS to add interactivity?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
