@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document, adopted in 1776, announced the American colonies' separation from Britain?",
+      "options": [
+        "The Constitution",
+        "The Bill of Rights",
+        "The Declaration of Independence",
+        "The Articles of Confederation"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the smallest unit of an element that retains its chemical properties?",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Proton",
+        "Electron"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In track and field, how long is a standard outdoor running track for one lap in the inside lane?",
+      "options": [
+        "200 meters",
+        "300 meters",
+        "400 meters",
+        "800 meters"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features toys that come to life when humans are not around?",
+      "options": [
+        "Toy Story",
+        "Cars",
+        "Monsters, Inc.",
+        "Inside Out"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country is known for its fjords and has Oslo as its capital?",
+      "options": [
+        "Sweden",
+        "Norway",
+        "Finland",
+        "Denmark"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In which book would you find the character Atticus Finch?",
+      "options": [
+        "To Kill a Mockingbird",
+        "The Great Gatsby",
+        "Of Mice and Men",
+        "Lord of the Flies"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'AI' stand for in the context of computers?",
+      "options": [
+        "Automated Input",
+        "Artificial Intelligence",
+        "Analog Interface",
+        "Advanced Integration"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
