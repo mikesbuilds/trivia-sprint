@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization is credited with building the pyramids at Giza?",
+      "options": [
+        "Ancient Greeks",
+        "Ancient Egyptians",
+        "Ancient Romans",
+        "Ancient Persians"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Electricity"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, how many players are on the court for one team during standard indoor play?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise includes pocket monsters that trainers catch and battle?",
+      "options": [
+        "Digimon",
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Bakugan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is known as the 'Sunshine State'?",
+      "options": [
+        "California",
+        "Texas",
+        "Florida",
+        "Arizona"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which classic novel features a boy named Pip as the main character?",
+      "options": [
+        "Great Expectations",
+        "David Copperfield",
+        "Oliver Twist",
+        "Jane Eyre"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which device is primarily used to convert digital data into a printed image on paper?",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Printer",
+        "Router"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
