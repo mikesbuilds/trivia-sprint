@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-25",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which European explorer is often credited with reaching the Americas in 1492?",
+      "options": [
+        "Ferdinand Magellan",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the boiling point of water in degrees Celsius at sea level?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is both in Europe and Asia and has the city of Istanbul?",
+      "options": [
+        "Greece",
+        "Türkiye",
+        "Italy",
+        "Egypt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do teams compete for the Stanley Cup?",
+      "options": [
+        "Basketball",
+        "Ice hockey",
+        "Baseball",
+        "American football"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the princess in Nintendo’s 'Super Mario' franchise?",
+      "options": [
+        "Zelda",
+        "Peach",
+        "Daisy",
+        "Rosalina"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "H.G. Wells"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 3/4 expressed as a decimal?",
+      "options": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.25"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-26",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which war was fought between the North and South regions of the United States from 1861 to 1865?",
+      "options": [
+        "Revolutionary War",
+        "Civil War",
+        "World War I",
+        "War of 1812"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ pumps blood throughout the human body?",
+      "options": [
+        "Lungs",
+        "Liver",
+        "Heart",
+        "Kidneys"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Amazon Rainforest?",
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Australia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport is the Super Bowl the championship game?",
+      "options": [
+        "American football",
+        "Basketball",
+        "Baseball",
+        "Soccer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated TV show features the town of Springfield and the Simpson family?",
+      "options": [
+        "Family Guy",
+        "South Park",
+        "The Simpsons",
+        "Futurama"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Romeo and Juliet,' the two main characters belong to which two feuding families?",
+      "options": [
+        "Montague and Capulet",
+        "York and Lancaster",
+        "Hatfield and McCoy",
+        "Lannister and Stark"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the next prime number after 11?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

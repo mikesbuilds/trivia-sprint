@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-22",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which empire was ruled from the city of Cusco and expanded across much of western South America in the 1400s?",
+      "options": [
+        "Inca Empire",
+        "Roman Empire",
+        "Mongol Empire",
+        "Ottoman Empire"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the human eye controls how much light enters by changing size?",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Iris",
+        "Optic nerve"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Dunedin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, how many hits (maximum) may a team use to return the ball over the net (not counting a block)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the fictional wizarding bank in the Harry Potter series?",
+      "options": [
+        "Gringotts",
+        "Galleon & Co.",
+        "Ollivanders",
+        "Hogsmeade Vault"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Odyssey'?",
+      "options": [
+        "Homer",
+        "Virgil",
+        "Sophocles",
+        "Aristotle"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 15% of 200?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
