@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-06",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which empire was ruled by Mansa Musa, famous for his pilgrimage to Mecca and immense wealth?",
+      "options": [
+        "Mali Empire",
+        "Roman Empire",
+        "Mughal Empire",
+        "Ottoman Empire"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force keeps planets in orbit around the Sun?",
+      "options": [
+        "Friction",
+        "Magnetism",
+        "Gravity",
+        "Surface tension"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Dunedin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for scoring three goals in a single hockey game by one player?",
+      "options": [
+        "Triple",
+        "Hat trick",
+        "Grand slam",
+        "Clean sweep"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated movie features the song 'Let It Go'?",
+      "options": [
+        "Moana",
+        "Frozen",
+        "Tangled",
+        "Brave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'A Christmas Carol', what is the name of Scrooge’s partner who appears as a ghost?",
+      "options": [
+        "Bob Cratchit",
+        "Jacob Marley",
+        "Tiny Tim",
+        "Fezziwig"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the sum of the interior angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

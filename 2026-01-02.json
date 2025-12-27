@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-02",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The ancient Olympic Games originated in which country?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Egypt",
+        "Persia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "DNA is best described as a molecule that stores what?",
+      "options": [
+        "Weather patterns",
+        "Genetic information",
+        "Muscle strength",
+        "Light energy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the name of the line of latitude at 0 degrees?",
+      "options": [
+        "Prime Meridian",
+        "Tropic of Cancer",
+        "Equator",
+        "International Date Line"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country is credited with inventing modern ice hockey?",
+      "options": [
+        "Sweden",
+        "Canada",
+        "Russia",
+        "United States"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the 2014 hit 'Shake It Off'?",
+      "options": [
+        "Adele",
+        "Taylor Swift",
+        "Beyoncé",
+        "Rihanna"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Raven'?",
+      "options": [
+        "Edgar Allan Poe",
+        "Robert Frost",
+        "Walt Whitman",
+        "Langston Hughes"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 9 × 8?",
+      "options": [
+        "64",
+        "72",
+        "81",
+        "96"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

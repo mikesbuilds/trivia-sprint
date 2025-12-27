@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-04",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the leader of India’s nonviolent independence movement known for the Salt March?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Indira Gandhi"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood cells are primarily responsible for fighting infection?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is known as the 'Land of 10,000 Lakes'?",
+      "options": [
+        "Michigan",
+        "Minnesota",
+        "Wisconsin",
+        "Alaska"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport features épée, foil, and sabre?",
+      "options": [
+        "Archery",
+        "Fencing",
+        "Rowing",
+        "Gymnastics"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features the characters Ross, Rachel, Monica, Chandler, Joey, and Phoebe?",
+      "options": [
+        "Friends",
+        "The Office",
+        "How I Met Your Mother",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which series features a wardrobe that leads to another world?",
+      "options": [
+        "His Dark Materials",
+        "The Chronicles of Narnia",
+        "Percy Jackson",
+        "The Wheel of Time"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+      "options": [
+        "24",
+        "30",
+        "32",
+        "34"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

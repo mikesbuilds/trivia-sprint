@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-30",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the first emperor of unified China, ruling during the Qin dynasty?",
+      "options": [
+        "Qin Shi Huang",
+        "Kublai Khan",
+        "Sun Yat-sen",
+        "Emperor Wu of Han"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the atom has a positive charge?",
+      "options": [
+        "Electron",
+        "Neutron",
+        "Proton",
+        "Photon"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most time zones (including overseas territories)?",
+      "options": [
+        "Russia",
+        "United States",
+        "France",
+        "China"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes result in a strikeout?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the Star Wars universe, what is the name of Han Solo’s ship?",
+      "options": [
+        "Star Destroyer",
+        "Millennium Falcon",
+        "X-wing",
+        "TIE Fighter"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of 'Pride and Prejudice'?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Emily Dickinson",
+        "Virginia Woolf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the area of a rectangle with length 8 and width 5?",
+      "options": [
+        "13",
+        "20",
+        "30",
+        "40"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

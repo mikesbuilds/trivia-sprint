@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-07",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The 'Iron Curtain' was a term popularized to describe division in Europe after which war?",
+      "options": [
+        "World War I",
+        "World War II",
+        "The Crimean War",
+        "The Napoleonic Wars"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "In the metric system, how many millimeters are in 1 centimeter?",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates much of Europe from Asia?",
+      "options": [
+        "Alps",
+        "Rockies",
+        "Ural Mountains",
+        "Andes"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which race is traditionally held on the last Sunday in May at Indianapolis?",
+      "options": [
+        "Daytona 500",
+        "Indy 500",
+        "Monaco Grand Prix",
+        "Le Mans"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the coffee shop central to the show 'Friends'?",
+      "options": [
+        "Central Perk",
+        "Bean There",
+        "Java Junction",
+        "Daily Grind"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which dystopian novel features the concept of 'Big Brother'?",
+      "options": [
+        "Fahrenheit 451",
+        "1984",
+        "Brave New World",
+        "The Giver"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "If you roll a fair six-sided die, what is the probability of rolling a 6?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "1/12"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

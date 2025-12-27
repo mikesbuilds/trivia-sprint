@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-03",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which U.S. purchase in 1803 doubled the nation’s size by acquiring territory from France?",
+      "options": [
+        "Gadsden Purchase",
+        "Louisiana Purchase",
+        "Alaska Purchase",
+        "Treaty of Guadalupe Hidalgo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which liquid water becomes water vapor?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Precipitation",
+        "Sublimation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European river runs through Vienna, Bratislava, Budapest, and Belgrade?",
+      "options": [
+        "Rhine",
+        "Danube",
+        "Seine",
+        "Thames"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many yards is a standard first down distance?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In Marvel, what is the name of Thor’s hammer?",
+      "options": [
+        "Gungnir",
+        "Mjolnir",
+        "Stormbreaker",
+        "Excalibur"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'To Kill a Mockingbird', who is the lawyer defending Tom Robinson?",
+      "options": [
+        "Atticus Finch",
+        "Jay Gatsby",
+        "Huckleberry Finn",
+        "Holden Caulfield"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "If a dozen eggs cost $3, how much do 2 dozen eggs cost?",
+      "options": [
+        "$3",
+        "$4",
+        "$6",
+        "$9"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

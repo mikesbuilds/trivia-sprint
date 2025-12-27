@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-08",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which document, signed in 1776, declared the American colonies’ independence from Britain?",
+      "options": [
+        "Bill of Rights",
+        "Declaration of Independence",
+        "Constitution",
+        "Emancipation Proclamation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organelle is often called the 'powerhouse of the cell'?",
+      "options": [
+        "Nucleus",
+        "Mitochondrion",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Strait of Gibraltar separates Spain from which country?",
+      "options": [
+        "Italy",
+        "Morocco",
+        "Algeria",
+        "Tunisia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is the score called when both players have 40?",
+      "options": [
+        "Set point",
+        "Deuce",
+        "Advantage",
+        "Break"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor voiced Woody in 'Toy Story'?",
+      "options": [
+        "Tim Allen",
+        "Tom Hanks",
+        "Billy Crystal",
+        "Robin Williams"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "Harper Lee",
+        "George Eliot"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 7² (7 squared)?",
+      "options": [
+        "14",
+        "28",
+        "49",
+        "56"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

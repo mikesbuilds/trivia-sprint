@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-10",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which ancient trade route connected East Asia with Europe and the Middle East?",
+      "options": [
+        "Amber Road",
+        "Silk Road",
+        "Spice Trail",
+        "Royal Road"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the boundary between Earth's crust and mantle?",
+      "options": [
+        "Core line",
+        "Moho (Mohorovičić discontinuity)",
+        "Tropopause",
+        "Rift zone"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the ancient city of Petra?",
+      "options": [
+        "Jordan",
+        "Lebanon",
+        "Syria",
+        "Iraq"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, a touchdown is worth how many points (before the extra point attempt)?",
+      "options": [
+        "3",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a ring that must be destroyed in Mount Doom?",
+      "options": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Star Trek",
+        "Indiana Jones"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created Sherlock Holmes?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Ian Fleming",
+        "Stephen King"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the perimeter of a square with side length 9?",
+      "options": [
+        "18",
+        "27",
+        "36",
+        "45"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-28",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The fall of the Berlin Wall in 1989 symbolized the coming end of what geopolitical division?",
+      "options": [
+        "The Cold War",
+        "The Crusades",
+        "The Renaissance",
+        "The Age of Exploration"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital city of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the term 'love' to mean zero?",
+      "options": [
+        "Cricket",
+        "Tennis",
+        "Rugby",
+        "Hockey"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series features the character Eleven and the town of Hawkins?",
+      "options": [
+        "The Witcher",
+        "Stranger Things",
+        "The Crown",
+        "Severance"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Hobbit,' what is the name of the dragon?",
+      "options": [
+        "Smaug",
+        "Drogon",
+        "Falkor",
+        "Norbert"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the value of π (pi) to two decimal places?",
+      "options": [
+        "3.12",
+        "3.14",
+        "3.16",
+        "3.18"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

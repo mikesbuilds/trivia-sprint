@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-29",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which ancient civilization built the city of Machu Picchu?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Maya",
+        "Olmec"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for sodium?",
+      "options": [
+        "So",
+        "Sn",
+        "Na",
+        "Sd"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "The river Nile flows primarily through which continent?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the field for one soccer team during regular play?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is famous for the album 'Abbey Road'?",
+      "options": [
+        "Queen",
+        "The Beatles",
+        "Nirvana",
+        "U2"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the character Hamlet?",
+      "options": [
+        "Macbeth",
+        "Othello",
+        "Hamlet",
+        "King Lear"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Math",
+      "prompt": "If x = 7, what is 3x + 2?",
+      "options": [
+        "19",
+        "21",
+        "23",
+        "25"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

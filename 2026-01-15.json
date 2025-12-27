@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-15",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which civilization is credited with developing cuneiform writing?",
+      "options": [
+        "Sumerians",
+        "Romans",
+        "Vikings",
+        "Phoenicians"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is H2O commonly known as?",
+      "options": [
+        "Hydrogen peroxide",
+        "Salt",
+        "Water",
+        "Ammonia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has the greatest number of countries?",
+      "options": [
+        "Europe",
+        "Africa",
+        "Asia",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms 'scrum' and 'try'?",
+      "options": [
+        "Rugby",
+        "Soccer",
+        "Basketball",
+        "Baseball"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features the character 'Geralt of Rivia'?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "The Expanse",
+        "The Matrix"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which epic poem tells the story of the Trojan War and is attributed to Homer?",
+      "options": [
+        "The Aeneid",
+        "The Iliad",
+        "Paradise Lost",
+        "Beowulf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "If y = 2x and x = 6, what is y?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

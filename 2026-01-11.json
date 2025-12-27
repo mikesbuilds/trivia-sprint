@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-11",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the Egyptian queen known for her alliance with Julius Caesar and Mark Antony?",
+      "options": [
+        "Nefertiti",
+        "Cleopatra VII",
+        "Hatshepsut",
+        "Merneith"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is primarily produced in the skin when exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the longest river in South America?",
+      "options": [
+        "Orinoco",
+        "Amazon",
+        "Paraná",
+        "Madeira"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport’s championship trophy is called the Stanley Cup?",
+      "options": [
+        "Basketball",
+        "Ice hockey",
+        "Baseball",
+        "Soccer"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the kingdom in 'Black Panther'?",
+      "options": [
+        "Genosha",
+        "Wakanda",
+        "Latveria",
+        "Asgard"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In Greek mythology, who is the god of the sea often featured in literature?",
+      "options": [
+        "Zeus",
+        "Hades",
+        "Poseidon",
+        "Apollo"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Math",
+      "prompt": "If an item costs $50 and is discounted 20%, what is the sale price?",
+      "options": [
+        "$30",
+        "$35",
+        "$40",
+        "$45"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

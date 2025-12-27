@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-09",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The Meiji Restoration, starting in 1868, marked rapid modernization in which country?",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "Thailand"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Sound travels fastest through which medium?",
+      "options": [
+        "Vacuum",
+        "Air",
+        "Water",
+        "Steel"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country has three capital cities (executive, legislative, judicial)?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "South Africa",
+        "Ghana"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards a 'birdie' for finishing one under par on a hole?",
+      "options": [
+        "Golf",
+        "Disc golf",
+        "Cricket",
+        "Skiing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'The Lion King', what is Simba’s father’s name?",
+      "options": [
+        "Scar",
+        "Mufasa",
+        "Rafiki",
+        "Zazu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Harry Potter', what is the name of Harry’s owl?",
+      "options": [
+        "Hedwig",
+        "Errol",
+        "Crookshanks",
+        "Scabbers"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "Solve: 36 ÷ 6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

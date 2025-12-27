@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-14",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The 'Domesday Book' was compiled in 1086 under which English king?",
+      "options": [
+        "Henry VIII",
+        "William the Conqueror",
+        "Richard I",
+        "Edward I"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "The study of earthquakes is called what?",
+      "options": [
+        "Seismology",
+        "Ecology",
+        "Astronomy",
+        "Entomology"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. national park is primarily known for geysers like Old Faithful?",
+      "options": [
+        "Yosemite",
+        "Grand Canyon",
+        "Yellowstone",
+        "Zion"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many outs are in a half-inning?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom is set in Pawnee, Indiana and stars Leslie Knope?",
+      "options": [
+        "Brooklyn Nine-Nine",
+        "Parks and Recreation",
+        "Modern Family",
+        "Community"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Frankenstein', who is the scientist who creates the creature?",
+      "options": [
+        "Victor Frankenstein",
+        "Dr. Jekyll",
+        "Dr. Moreau",
+        "Van Helsing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 5 factorial (5!)?",
+      "options": [
+        "60",
+        "90",
+        "100",
+        "120"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

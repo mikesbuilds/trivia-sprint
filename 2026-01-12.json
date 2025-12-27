@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-12",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The first successful printing press in Europe is most associated with which inventor?",
+      "options": [
+        "Isaac Newton",
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Galileo Galilei"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "A change in an organism’s DNA sequence is called a what?",
+      "options": [
+        "Mutation",
+        "Fermentation",
+        "Diffusion",
+        "Osmosis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is famously built on canals and known as 'The Floating City'?",
+      "options": [
+        "Amsterdam",
+        "Bruges",
+        "Venice",
+        "Stockholm"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In track, how many meters is a standard outdoor lap around the track?",
+      "options": [
+        "200",
+        "300",
+        "400",
+        "800"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character says 'I am your father' in Star Wars (as commonly quoted)?",
+      "options": [
+        "Yoda",
+        "Darth Vader",
+        "Obi-Wan Kenobi",
+        "Luke Skywalker"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the characters Piggy and Ralph on a deserted island?",
+      "options": [
+        "Lord of the Flies",
+        "Animal Farm",
+        "The Road",
+        "Dune"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the median of the numbers 3, 9, 9, 10, 12?",
+      "options": [
+        "9",
+        "9.5",
+        "10",
+        "12"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

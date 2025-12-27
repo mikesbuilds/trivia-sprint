@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-13",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which conflict (1950–1953) involved North Korea, South Korea, and a UN-led coalition?",
+      "options": [
+        "Vietnam War",
+        "Korean War",
+        "Gulf War",
+        "Boer War"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of rock forms from cooled magma or lava?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Fossil"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is the saltiest large body of water on Earth?",
+      "options": [
+        "Black Sea",
+        "Caspian Sea",
+        "Dead Sea",
+        "Red Sea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the positions 'skip' and 'sweeper' most commonly?",
+      "options": [
+        "Curling",
+        "Lacrosse",
+        "Water polo",
+        "Table tennis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the album 'Future Nostalgia'?",
+      "options": [
+        "Dua Lipa",
+        "Katy Perry",
+        "Lady Gaga",
+        "Billie Eilish"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Tale of Peter Rabbit'?",
+      "options": [
+        "Beatrix Potter",
+        "Louisa May Alcott",
+        "C.S. Lewis",
+        "L.M. Montgomery"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "How many degrees are in a straight line?",
+      "options": [
+        "90°",
+        "120°",
+        "180°",
+        "360°"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

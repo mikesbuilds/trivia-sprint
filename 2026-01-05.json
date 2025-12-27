@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-05",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The French Revolution began in 1789 with the storming of which prison-fortress?",
+      "options": [
+        "The Bastille",
+        "The Tower of London",
+        "Alcatraz",
+        "The Kremlin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the approximate pH of a neutral solution at room temperature?",
+      "options": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is both an island and a continent?",
+      "options": [
+        "Greenland",
+        "Iceland",
+        "Australia",
+        "Madagascar"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, how many touches maximum may a team have before sending the ball over the net?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise includes the characters Link and Princess Zelda?",
+      "options": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Halo",
+        "Minecraft"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Catcher in the Rye'?",
+      "options": [
+        "J.R.R. Tolkien",
+        "J.D. Salinger",
+        "Ernest Hemingway",
+        "Mark Twain"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "Convert 0.75 to a fraction in simplest form.",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

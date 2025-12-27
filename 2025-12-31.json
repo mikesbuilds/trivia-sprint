@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-31",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The 'Black Death' that swept through Europe in the 14th century was primarily caused by what?",
+      "options": [
+        "Smallpox virus",
+        "Bubonic plague bacterium",
+        "Cholera bacterium",
+        "Influenza virus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of energy is stored in a stretched rubber band?",
+      "options": [
+        "Thermal",
+        "Chemical",
+        "Potential",
+        "Nuclear"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Ethiopia",
+        "South Africa"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Masters is a major championship in which sport?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Cycling",
+        "Boxing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar film features a robot left on Earth to clean up trash?",
+      "options": [
+        "Up",
+        "WALL-E",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Odyssey,' who is the hero trying to return home to Ithaca?",
+      "options": [
+        "Achilles",
+        "Odysseus",
+        "Hector",
+        "Aeneas"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the square root of 144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

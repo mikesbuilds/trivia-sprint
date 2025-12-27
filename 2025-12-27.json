@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-27",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which agreement in 1215 is often cited as limiting the English king’s power and influencing constitutional law?",
+      "options": [
+        "Treaty of Versailles",
+        "Magna Carta",
+        "Edict of Nantes",
+        "Peace of Westphalia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the basic unit of life in living organisms?",
+      "options": [
+        "Atom",
+        "Cell",
+        "Molecule",
+        "Tissue"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest ocean on Earth by area?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a free throw worth in standard rules?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero is known as the 'Caped Crusader' of Gotham City?",
+      "options": [
+        "Superman",
+        "Batman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel '1984'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "J.D. Salinger"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 15% of 200?",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "40"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
