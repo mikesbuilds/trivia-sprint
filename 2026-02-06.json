@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Renaissance began in which European country?",
+      "options": [
+        "France",
+        "Italy",
+        "England",
+        "Germany"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which telescope was launched in 1990 and provided deep-space images from orbit?",
+      "options": [
+        "Kepler",
+        "Hubble Space Telescope",
+        "Spitzer",
+        "Chandra"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is the score called at 40–40?",
+      "options": [
+        "Advantage",
+        "Deuce",
+        "Love",
+        "Break point"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features the characters Han Solo and Princess Leia?",
+      "options": [
+        "Star Wars",
+        "Dune",
+        "Blade Runner",
+        "Doctor Who"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most islands in the world (by count)?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Sweden",
+        "Japan"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which children’s book features a caterpillar that eats through various foods before becoming a butterfly?",
+      "options": [
+        "Where the Wild Things Are",
+        "The Very Hungry Caterpillar",
+        "Goodnight Moon",
+        "Green Eggs and Ham"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the common name for a portable computer you can fold and carry?",
+      "options": [
+        "Desktop",
+        "Server",
+        "Laptop",
+        "Mainframe"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was known as the 'Sick Man of Europe' in the 19th century?",
+      "options": [
+        "Austro-Hungarian Empire",
+        "Ottoman Empire",
+        "Russian Empire",
+        "Spanish Empire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for a change in an organism’s DNA sequence?",
+      "options": [
+        "Osmosis",
+        "Mutation",
+        "Adaptation",
+        "Fermentation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the distance of a marathon in miles (approx.)?",
+      "options": [
+        "24.2",
+        "25.2",
+        "26.2",
+        "27.2"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the phrase 'Little Monsters' to describe their fans?",
+      "options": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Dua Lipa",
+        "Sia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the country of Chile?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Harry Potter,' what is the name of Harry’s owl?",
+      "options": [
+        "Crookshanks",
+        "Hedwig",
+        "Errol",
+        "Scabbers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'API' stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Automated Program Installation",
+        "Advanced Processing Index",
+        "Applied Protocol Integration"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

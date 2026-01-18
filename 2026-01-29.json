@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Boston Tea Party' was a protest against a tax on which commodity?",
+      "options": [
+        "Salt",
+        "Sugar",
+        "Tea",
+        "Tobacco"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "DNA is typically shaped like a:",
+      "options": [
+        "Single helix",
+        "Double helix",
+        "Triple helix",
+        "Flat ribbon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, what is the name of the kick worth 1 point after a touchdown?",
+      "options": [
+        "Field goal",
+        "Extra point",
+        "Safety kick",
+        "Punt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game series features the characters Link and Zelda?",
+      "options": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Metroid",
+        "Dragon Quest"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the tallest on Earth above sea level?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Denali",
+        "Kangchenjunga"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Charlotte’s Web,' what kind of animal is Wilbur?",
+      "options": [
+        "Horse",
+        "Pig",
+        "Goat",
+        "Rabbit"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is 'cloud computing' primarily about?",
+      "options": [
+        "Using computers in space",
+        "Delivering computing services over the internet",
+        "Storing data only on DVDs",
+        "Printing from a phone"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

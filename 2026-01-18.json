@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. purchase in 1803 doubled the nation’s size by acquiring territory from France?",
+      "options": [
+        "Florida Purchase",
+        "Louisiana Purchase",
+        "Alaska Purchase",
+        "Gadsden Purchase"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+      "options": [
+        "Event horizon",
+        "Singularity shell",
+        "Photon belt",
+        "Gravity rim"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the NFL, how many yards does a team need to gain for a first down?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated TV family lives at 742 Evergreen Terrace?",
+      "options": [
+        "The Griffins",
+        "The Simpsons",
+        "The Belchers",
+        "The Smiths"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the longest river in South America?",
+      "options": [
+        "Amazon River",
+        "Paraná River",
+        "Orinoco River",
+        "Madeira River"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Catcher in the Rye'?",
+      "options": [
+        "J.D. Salinger",
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "F. Scott Fitzgerald"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'RAM' stand for in computing?",
+      "options": [
+        "Readily Available Memory",
+        "Random Access Memory",
+        "Rapid Arithmetic Module",
+        "Remote Access Machine"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Black Death' reached Europe in the 14th century and was primarily what disease?",
+      "options": [
+        "Smallpox",
+        "Bubonic plague",
+        "Cholera",
+        "Typhus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What kind of bond involves the sharing of electron pairs between atoms?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Grand Slam tennis tournament is played on clay courts?",
+      "options": [
+        "Wimbledon",
+        "US Open",
+        "Australian Open",
+        "French Open"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom is set in a New York City coffee shop called Central Perk?",
+      "options": [
+        "Seinfeld",
+        "Friends",
+        "How I Met Your Mother",
+        "The Office"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Europe from Africa?",
+      "options": [
+        "Black Sea",
+        "Red Sea",
+        "Mediterranean Sea",
+        "Caspian Sea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the world of Narnia?",
+      "options": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "Roald Dahl",
+        "E.B. White"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPU' stand for?",
+      "options": [
+        "General Processing Utility",
+        "Graphics Processing Unit",
+        "Graphical Program Unit",
+        "Grid Processing Unit"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

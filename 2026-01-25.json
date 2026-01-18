@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the first artificial Earth satellite launched in 1957?",
+      "options": [
+        "Explorer 1",
+        "Vostok 1",
+        "Sputnik 1",
+        "Luna 2"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organelle packages and ships proteins within the cell?",
+      "options": [
+        "Chloroplast",
+        "Golgi apparatus",
+        "Lysosome",
+        "Vacuole"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a 'puck' instead of a ball?",
+      "options": [
+        "Field hockey",
+        "Ice hockey",
+        "Lacrosse",
+        "Rugby"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is known for the song 'Smells Like Teen Spirit'?",
+      "options": [
+        "Nirvana",
+        "Pearl Jam",
+        "Radiohead",
+        "Green Day"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country’s capital is Stockholm?",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Denmark"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Mark Twain",
+        "Virginia Woolf",
+        "Jack London"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the main purpose of a router in a home network?",
+      "options": [
+        "Store files",
+        "Connect networks and direct traffic",
+        "Boost monitor brightness",
+        "Clean viruses automatically"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
