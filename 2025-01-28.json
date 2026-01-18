@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which dynasty built much of the Great Wall’s best-known stone-and-brick sections?",
+      "options": [
+        "Qin",
+        "Han",
+        "Ming",
+        "Tang"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the process by which liquid water becomes water vapor?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Precipitation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which competition trophy is awarded to the champion of the NBA?",
+      "options": [
+        "Stanley Cup",
+        "Larry O'Brien Trophy",
+        "Commissioner’s Trophy",
+        "Lombardi Trophy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'Star Trek,' what is the name of the starship commanded by Captain Kirk?",
+      "options": [
+        "Voyager",
+        "Enterprise",
+        "Defiant",
+        "Discovery"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Rio de Janeiro",
+        "Brasília",
+        "São Paulo",
+        "Salvador"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'?",
+      "options": [
+        "C.S. Lewis",
+        "J.K. Rowling",
+        "Philip Pullman",
+        "L. Frank Baum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which web browser is developed by Mozilla?",
+      "options": [
+        "Safari",
+        "Firefox",
+        "Edge",
+        "Chrome"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

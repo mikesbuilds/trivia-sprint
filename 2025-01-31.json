@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which leader is associated with the nonviolent movement for Indian independence and the Salt March?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Muhammad Ali Jinnah"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Skin",
+        "Lung",
+        "Brain"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In track and field, the decathlon consists of how many events?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which reality competition show features contestants singing while judges critique performances?",
+      "options": [
+        "Survivor",
+        "The Voice",
+        "Amazing Race",
+        "Top Chef"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is nicknamed the 'Land of 10,000 Lakes'?",
+      "options": [
+        "Michigan",
+        "Minnesota",
+        "Wisconsin",
+        "Alaska"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Odyssey,' who is the hero trying to return home to Ithaca?",
+      "options": [
+        "Achilles",
+        "Odysseus",
+        "Hector",
+        "Perseus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which device converts an analog signal (like sound) into digital data for a computer?",
+      "options": [
+        "DAC",
+        "ADC",
+        "GPU",
+        "PSU"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

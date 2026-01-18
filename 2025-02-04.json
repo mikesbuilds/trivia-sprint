@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who wrote 'The Communist Manifesto' with Friedrich Engels?",
+      "options": [
+        "Vladimir Lenin",
+        "Karl Marx",
+        "Leon Trotsky",
+        "Adam Smith"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of Earth is liquid and generates most of the planet’s magnetic field?",
+      "options": [
+        "Crust",
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, what is the term for an attack hit that is too strong to be returned?",
+      "options": [
+        "Block",
+        "Ace",
+        "Spike",
+        "Dink"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the hobbit played by Elijah Wood in the 'Lord of the Rings' films?",
+      "options": [
+        "Samwise",
+        "Frodo",
+        "Pippin",
+        "Merry"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which famous waterfall system lies on the border of Zambia and Zimbabwe?",
+      "options": [
+        "Niagara Falls",
+        "Iguazu Falls",
+        "Victoria Falls",
+        "Angel Falls"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel centers on the Bennet sisters, including Elizabeth Bennet?",
+      "options": [
+        "Emma",
+        "Pride and Prejudice",
+        "Sense and Sensibility",
+        "Persuasion"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage device type uses flash memory and has no moving parts, often abbreviated as SSD?",
+      "options": [
+        "Hard Disk Drive",
+        "Solid State Drive",
+        "Optical Drive",
+        "Tape Drive"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

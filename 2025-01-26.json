@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. amendment abolished slavery?",
+      "options": [
+        "10th",
+        "13th",
+        "14th",
+        "15th"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the approximate speed of light in a vacuum?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "30,000 km/s",
+        "3,000 km/s"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what is the name of the rule that can nullify a goal if an attacker is too far forward?",
+      "options": [
+        "Handball",
+        "Offside",
+        "Advantage",
+        "Stoppage time"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the Marvel universe, what is Captain America’s shield primarily made of?",
+      "options": [
+        "Adamantium",
+        "Vibranium",
+        "Titanium",
+        "Carbon fiber"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert covers much of northern China and southern Mongolia?",
+      "options": [
+        "Gobi Desert",
+        "Atacama Desert",
+        "Kalahari Desert",
+        "Mojave Desert"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "options": [
+        "Macbeth",
+        "Hamlet",
+        "Othello",
+        "King Lear"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language is primarily used for iOS app development alongside Objective-C?",
+      "options": [
+        "Swift",
+        "Ruby",
+        "Go",
+        "Lua"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

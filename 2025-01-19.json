@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the trade route network that connected China with the Mediterranean world?",
+      "options": [
+        "Silk Road",
+        "Spice Route",
+        "Amber Road",
+        "Royal Road"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is known as the universal donor for red blood cells?",
+      "options": [
+        "A+",
+        "B-",
+        "O-",
+        "AB+"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country is credited with inventing the modern sport of golf?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "Netherlands"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who plays the title character in the film 'Iron Man' (2008)?",
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Wizard of Oz,' what is Dorothy’s last name?",
+      "options": [
+        "Gale",
+        "Baker",
+        "Parker",
+        "Hale"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file extension is commonly used for a PDF document?",
+      "options": [
+        ".docx",
+        ".pdf",
+        ".png",
+        ".mp3"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

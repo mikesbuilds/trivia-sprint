@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "In 1867, the United States bought Alaska from which country?",
+      "options": [
+        "Russia",
+        "Canada",
+        "Spain",
+        "Denmark"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the unit used to measure electrical resistance?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the positions 'skip' and 'sweeper'?",
+      "options": [
+        "Curling",
+        "Cricket",
+        "Rugby",
+        "Water polo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'Frozen,' what is the name of Elsa’s sister?",
+      "options": [
+        "Anna",
+        "Ariel",
+        "Moana",
+        "Belle"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country shares the longest international border with the United States?",
+      "options": [
+        "Mexico",
+        "Canada",
+        "Russia",
+        "Cuba"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features the line 'It was the best of times, it was the worst of times'?",
+      "options": [
+        "Jane Eyre",
+        "A Tale of Two Cities",
+        "Wuthering Heights",
+        "Little Women"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for malicious software that demands payment to restore access to files?",
+      "options": [
+        "Spyware",
+        "Ransomware",
+        "Adware",
+        "Firmware"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

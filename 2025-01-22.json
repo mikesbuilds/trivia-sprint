@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization developed cuneiform writing in Mesopotamia?",
+      "options": [
+        "Sumerians",
+        "Hittites",
+        "Phoenicians",
+        "Egyptians"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle has a negative electric charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In ice hockey, what is it called when a player scores three goals in one game?",
+      "options": [
+        "Triple",
+        "Hat trick",
+        "Three-peat",
+        "Clean sweep"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'The Lion King,' what is the name of Simba’s father?",
+      "options": [
+        "Mufasa",
+        "Scar",
+        "Rafiki",
+        "Zazu"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Andes Mountains run along the western edge of which continent?",
+      "options": [
+        "North America",
+        "Europe",
+        "South America",
+        "Africa"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the boy who never grows up in J.M. Barrie’s story?",
+      "options": [
+        "Oliver Twist",
+        "Peter Pan",
+        "Tom Sawyer",
+        "Huckleberry Finn"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company is known for the Windows operating system?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Oracle"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. state was the last to join the Union in 1959?",
+      "options": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the amount of matter in an object?",
+      "options": [
+        "Force",
+        "Mass",
+        "Velocity",
+        "Density"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which racing series is known for the Indianapolis 500?",
+      "options": [
+        "Formula 1",
+        "NASCAR",
+        "IndyCar",
+        "WEC"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the game 'Among Us,' players are trying to identify the:",
+      "options": [
+        "Captain",
+        "Impostor",
+        "Wizard",
+        "Champion"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. city is known as the 'Mile High City'?",
+      "options": [
+        "Denver",
+        "Salt Lake City",
+        "Phoenix",
+        "Albuquerque"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "options": [
+        "Ernest Hemingway",
+        "William Faulkner",
+        "James Joyce",
+        "Joseph Conrad"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In web development, what does 'CSS' stand for?",
+      "options": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Styling System",
+        "Code Styling Syntax"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

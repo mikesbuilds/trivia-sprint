@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the British prime minister for much of World War II, famous for speeches about resilience?",
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Clement Attlee",
+        "Harold Macmillan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that maintain a constant internal body temperature?",
+      "options": [
+        "Ectotherms",
+        "Endotherms",
+        "Amphibians",
+        "Invertebrates"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the court for one team in standard basketball?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album '25' featuring the hit 'Hello'?",
+      "options": [
+        "Taylor Swift",
+        "Adele",
+        "Beyoncé",
+        "Rihanna"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Marrakech?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "Turkey",
+        "Greece"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+        "Jane Austen",
+        "Mary Shelley",
+        "Emily Brontë",
+        "Louisa May Alcott"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In cybersecurity, what does '2FA' stand for?",
+      "options": [
+        "Two-Factor Authentication",
+        "Two-File Access",
+        "Second Firewall Activation",
+        "Two-Frequency Alignment"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

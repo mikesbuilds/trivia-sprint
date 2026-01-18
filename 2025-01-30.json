@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the ship that carried the Pilgrims to North America in 1620?",
+      "options": [
+        "Santa Maria",
+        "Mayflower",
+        "Endeavour",
+        "Beagle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is produced in human skin when exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, what is the term for a fight-ending blow that leaves the opponent unable to stand before the count?",
+      "options": [
+        "Decision",
+        "Knockout",
+        "Draw",
+        "Clinch"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the fictional African nation in 'Black Panther'?",
+      "options": [
+        "Genosha",
+        "Wakanda",
+        "Latveria",
+        "Zamunda"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European city is divided by the River Danube and known for thermal baths?",
+      "options": [
+        "Vienna",
+        "Budapest",
+        "Prague",
+        "Munich"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Grapes of Wrath'?",
+      "options": [
+        "John Steinbeck",
+        "Harper Lee",
+        "Toni Morrison",
+        "J.D. Salinger"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "In email, what does 'CC' stand for?",
+      "options": [
+        "Carbon Copy",
+        "Clear Cache",
+        "Control Center",
+        "Cross Check"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

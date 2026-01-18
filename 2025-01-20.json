@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 CE?",
+      "options": [
+        "Carthage",
+        "Pompeii",
+        "Athens",
+        "Troy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant element in the Sun?",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Olympic swimming, what stroke is NOT part of the individual medley?",
+      "options": [
+        "Butterfly",
+        "Backstroke",
+        "Breaststroke",
+        "Freestyle"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the characters Buzz Lightyear and Woody?",
+      "options": [
+        "Shrek",
+        "Toy Story",
+        "Cars",
+        "Finding Nemo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is home to the Grand Canyon?",
+      "options": [
+        "Utah",
+        "Arizona",
+        "Colorado",
+        "Nevada"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a monster created by Victor Frankenstein?",
+      "options": [
+        "Dracula",
+        "Frankenstein",
+        "The Invisible Man",
+        "The Strange Case of Dr Jekyll and Mr Hyde"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name of the version-control system created by Linus Torvalds?",
+      "options": [
+        "Subversion",
+        "Mercurial",
+        "Git",
+        "Perforce"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

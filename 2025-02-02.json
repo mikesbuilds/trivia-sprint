@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the primary purpose of the Berlin Airlift (1948–1949)?",
+      "options": [
+        "Evacuate civilians",
+        "Supply West Berlin",
+        "Move troops into East Berlin",
+        "Transport gold reserves"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is commonly used in balloons because it is lighter than air and nonflammable?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, how many wickets must fall for an innings to end (in standard formats)?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows a chemistry teacher turned meth kingpin named Walter White?",
+      "options": [
+        "Better Call Saul",
+        "Breaking Bad",
+        "Ozark",
+        "Narcos"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of South Korea?",
+      "options": [
+        "Busan",
+        "Seoul",
+        "Incheon",
+        "Daegu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Hobbit' in 1937?",
+      "options": [
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Ursula K. Le Guin",
+        "Isaac Asimov"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which database query language is commonly used to manage relational databases?",
+      "options": [
+        "HTML",
+        "SQL",
+        "CSS",
+        "XML"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

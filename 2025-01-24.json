@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which agreement ended World War I and imposed heavy reparations on Germany?",
+      "options": [
+        "Treaty of Tordesillas",
+        "Treaty of Versailles",
+        "Treaty of Paris (1783)",
+        "Treaty of Ghent"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the scientific name for the study of earthquakes?",
+      "options": [
+        "Ecology",
+        "Seismology",
+        "Meteorology",
+        "Volcanology"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many innings are in a regulation Major League game?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the wizarding newspaper in the Harry Potter series?",
+      "options": [
+        "The Daily Bugle",
+        "The Daily Prophet",
+        "The Wizard Times",
+        "The Magic Gazette"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest island in the world (not a continent)?",
+      "options": [
+        "Borneo",
+        "Madagascar",
+        "Greenland",
+        "New Guinea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In George Orwell’s '1984,' what is the name of the all-seeing authority figure?",
+      "options": [
+        "Big Brother",
+        "The Overseer",
+        "The Director",
+        "High Guardian"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology uses small chips and antennas to identify items wirelessly, often in badges and inventory tags?",
+      "options": [
+        "NFC",
+        "RFID",
+        "Bluetooth",
+        "Infrared"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

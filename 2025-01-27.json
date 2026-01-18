@@ -1,0 +1,91 @@
+{
+  "date": "2025-01-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the Egyptian pharaoh whose tomb was discovered largely intact in 1922?",
+      "options": [
+        "Ramses II",
+        "Tutankhamun",
+        "Akhenaten",
+        "Khufu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most extensive ring system in our solar system?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the maximum score possible in a single frame of ten-pin bowling?",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film studio is known for the lamp mascot that bounces on the letter 'I'?",
+      "options": [
+        "DreamWorks",
+        "Pixar",
+        "Illumination",
+        "Blue Sky"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which canal connects the Mediterranean Sea to the Red Sea?",
+      "options": [
+        "Panama Canal",
+        "Suez Canal",
+        "Kiel Canal",
+        "Erie Canal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the ship in 'Moby-Dick'?",
+      "options": [
+        "Hispaniola",
+        "Pequod",
+        "Nautilus",
+        "Endeavour"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'VPN' stand for?",
+      "options": [
+        "Verified Private Network",
+        "Virtual Private Network",
+        "Variable Protocol Node",
+        "Visual Packet Number"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
