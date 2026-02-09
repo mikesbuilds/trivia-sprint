@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-17",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which war was triggered by the assassination of Archduke Franz Ferdinand?",
+      "options": [
+        "WWI",
+        "WWII",
+        "Crimean War",
+        "Napoleonic Wars"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What galaxy is Earth located in?",
+      "options": [
+        "Andromeda",
+        "Milky Way",
+        "Whirlpool",
+        "Sombrero"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is known as the 'king of sports'?",
+      "options": [
+        "Basketball",
+        "Cricket",
+        "Soccer",
+        "Tennis"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who sang 'Rolling in the Deep'?",
+      "options": [
+        "Adele",
+        "Beyonc\u00e9",
+        "Rihanna",
+        "Taylor Swift"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with 'Call me Ishmael'?",
+      "options": [
+        "Moby-Dick",
+        "Odyssey",
+        "Inferno",
+        "Dracula"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 7 + 9?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

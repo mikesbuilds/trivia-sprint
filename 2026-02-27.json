@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-27",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was known as the Maid of Orl\u00e9ans?",
+      "options": [
+        "Cleopatra",
+        "Joan of Arc",
+        "Marie Curie",
+        "Catherine the Great"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What does DNA stand for?",
+      "options": [
+        "Deoxyribonucleic Acid",
+        "Dynamic Network Atom",
+        "Dual Nitrogen Acid",
+        "None"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        "Prime Meridian",
+        "Equator",
+        "Tropic of Cancer",
+        "Arctic Circle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a volleyball team on the court?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What console is Mario most associated with?",
+      "options": [
+        "PlayStation",
+        "Xbox",
+        "Nintendo",
+        "Sega"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features Atticus Finch?",
+      "options": [
+        "Gatsby",
+        "Mockingbird",
+        "1984",
+        "Mice"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "How many sides does a hexagon have?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

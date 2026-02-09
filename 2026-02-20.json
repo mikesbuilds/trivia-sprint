@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-20",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which empire built the Colosseum?",
+      "options": [
+        "Greek",
+        "Roman",
+        "Byzantine",
+        "Ottoman"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the boiling point of water in Celsius?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "110"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Europe and Africa?",
+      "options": [
+        "Baltic",
+        "Mediterranean",
+        "Black",
+        "Red"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is an NFL field including end zones (yards)?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie series features Fast & Furious?",
+      "options": [
+        "Mission Impossible",
+        "Transformers",
+        "Fast & Furious",
+        "Bond"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Animal Farm'?",
+      "options": [
+        "Orwell",
+        "Huxley",
+        "Bradbury",
+        "Kafka"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the area of a square with side 6?",
+      "options": [
+        "12",
+        "24",
+        "36",
+        "48"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-11",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which empire was ruled by Julius Caesar?",
+      "options": [
+        "Greek",
+        "Roman",
+        "Persian",
+        "Ottoman"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of France?",
+      "options": [
+        "Rome",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many holes are played in a standard golf round?",
+      "options": [
+        "9",
+        "12",
+        "18",
+        "24"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features a paper company in Scranton, PA?",
+      "options": [
+        "Friends",
+        "The Office",
+        "Parks and Rec",
+        "Seinfeld"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Of Mice and Men'?",
+      "options": [
+        "Steinbeck",
+        "Hemingway",
+        "Fitzgerald",
+        "Orwell"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 12 \u00d7 12?",
+      "options": [
+        "124",
+        "144",
+        "132",
+        "156"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

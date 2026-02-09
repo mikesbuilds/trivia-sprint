@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-24",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which civilization used hieroglyphics?",
+      "options": [
+        "Mesopotamian",
+        "Egyptian",
+        "Roman",
+        "Chinese"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O negative"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What river runs through Egypt?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Danube",
+        "Tigris"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a pommel horse?",
+      "options": [
+        "Gymnastics",
+        "Wrestling",
+        "Track",
+        "Rowing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which show is set in Springfield?",
+      "options": [
+        "Family Guy",
+        "The Simpsons",
+        "South Park",
+        "Futurama"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Catcher in the Rye'?",
+      "options": [
+        "Salinger",
+        "Twain",
+        "Fitzgerald",
+        "Hemingway"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 6 \u00d7 8?",
+      "options": [
+        "42",
+        "46",
+        "48",
+        "52"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

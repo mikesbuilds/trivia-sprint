@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-13",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who discovered America in 1492 (according to European history)?",
+      "options": [
+        "Magellan",
+        "Columbus",
+        "Vespucci",
+        "Cook"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "How many bones are in the adult human body?",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "226"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean lies between Africa and Australia?",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a shuttlecock?",
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Squash",
+        "Volleyball"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie has dinosaurs brought back to life?",
+      "options": [
+        "King Kong",
+        "Jurassic Park",
+        "Godzilla",
+        "Avatar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What novel features Big Brother?",
+      "options": [
+        "Dune",
+        "1984",
+        "F451",
+        "Mockingbird"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 25% of 200?",
+      "options": [
+        "25",
+        "40",
+        "50",
+        "60"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

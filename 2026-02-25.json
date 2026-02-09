@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-25",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The Magna Carta was signed in which country?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is energy stored in food called?",
+      "options": [
+        "Thermal",
+        "Kinetic",
+        "Chemical",
+        "Electrical"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most islands?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Norway",
+        "Sweden"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a 'home run'?",
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Soccer",
+        "Hockey"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who voices Woody in Toy Story?",
+      "options": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Will Smith",
+        "Billy Crystal"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features Aslan?",
+      "options": [
+        "Narnia",
+        "LOTR",
+        "Hobbit",
+        "Percy Jackson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 15% of 100?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

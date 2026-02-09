@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-18",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who wrote the Declaration of Independence?",
+      "options": [
+        "Washington",
+        "Adams",
+        "Jefferson",
+        "Franklin"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin helps with blood clotting?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "K"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has the most people?",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "South America"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many bases are there?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features Hogwarts?",
+      "options": [
+        "Star Wars",
+        "Harry Potter",
+        "LOTR",
+        "Narnia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Lee",
+        "Austen",
+        "Bronte",
+        "Shelley"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the value of \u03c0 rounded to 2 decimals?",
+      "options": [
+        "3.12",
+        "3.14",
+        "3.16",
+        "3.18"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

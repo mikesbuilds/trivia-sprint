@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-22",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which war featured the Battle of Gettysburg?",
+      "options": [
+        "Revolutionary War",
+        "Civil War",
+        "WWI",
+        "WWII"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest organ in the human body?",
+      "options": [
+        "Heart",
+        "Skin",
+        "Liver",
+        "Lungs"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the Andes Mountains?",
+      "options": [
+        "Chile",
+        "Spain",
+        "India",
+        "Canada"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a touchdown worth?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What color is Hulk?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Gray"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Fahrenheit 451'?",
+      "options": [
+        "Bradbury",
+        "Asimov",
+        "Orwell",
+        "Huxley"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "Solve: 90 \u2212 27",
+      "options": [
+        "53",
+        "63",
+        "73",
+        "83"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

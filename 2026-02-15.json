@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-15",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the first female Prime Minister of the UK?",
+      "options": [
+        "Theresa May",
+        "Indira Gandhi",
+        "Margaret Thatcher",
+        "Angela Merkel"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ filters blood in the human body?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Kidneys",
+        "Liver"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What U.S. state has the Grand Canyon?",
+      "options": [
+        "Utah",
+        "Nevada",
+        "Arizona",
+        "Colorado"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport includes balance beam?",
+      "options": [
+        "Gymnastics",
+        "Diving",
+        "Skating",
+        "Climbing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is Batman\u2019s butler?",
+      "options": [
+        "Alfred",
+        "Robin",
+        "Gordon",
+        "Lucius"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What book features Katniss Everdeen?",
+      "options": [
+        "Divergent",
+        "Hunger Games",
+        "Maze Runner",
+        "Giver"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 10\u00b3?",
+      "options": [
+        "100",
+        "500",
+        "1000",
+        "3000"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-08",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+      "options": [
+        "Pompeii",
+        "Athens",
+        "Carthage",
+        "Troy"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What gas do humans need to breathe to survive?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest country by land area?",
+      "options": [
+        "USA",
+        "China",
+        "Russia",
+        "Canada"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a basketball court per team?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who played Iron Man in the Marvel movies?",
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Harry Potter'?",
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "C.S. Lewis",
+        "Roald Dahl"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 8 \u00d7 7?",
+      "options": [
+        "48",
+        "54",
+        "56",
+        "64"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
