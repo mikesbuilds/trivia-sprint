@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-23",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the first man to walk on the Moon?",
+      "options": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do bees collect to make honey?",
+      "options": [
+        "Sap",
+        "Nectar",
+        "Pollen",
+        "Leaves"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the coldest?",
+      "options": [
+        "Gobi",
+        "Sahara",
+        "Kalahari",
+        "Mojave"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "What sport is the Stanley Cup awarded in?",
+      "options": [
+        "Basketball",
+        "Hockey",
+        "Baseball",
+        "Football"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album '1989'?",
+      "options": [
+        "Adele",
+        "Taylor Swift",
+        "Katy Perry",
+        "Madonna"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What novel features Frodo Baggins?",
+      "options": [
+        "Hobbit",
+        "LOTR",
+        "Narnia",
+        "Eragon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 11\u00b2?",
+      "options": [
+        "101",
+        "110",
+        "121",
+        "131"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

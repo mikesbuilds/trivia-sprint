@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-21",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
+      "options": [
+        "Stalin",
+        "Lenin",
+        "Khrushchev",
+        "Gorbachev"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ produces insulin?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Stomach"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Rio",
+        "S\u00e3o Paulo",
+        "Bras\u00edlia",
+        "Salvador"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the term 'alley-oop'?",
+      "options": [
+        "Hockey",
+        "Basketball",
+        "Soccer",
+        "Volleyball"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero uses a shield?",
+      "options": [
+        "Thor",
+        "Captain America",
+        "Iron Man",
+        "Hulk"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created Sherlock Holmes?",
+      "options": [
+        "Christie",
+        "Doyle",
+        "King",
+        "Poe"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 5 \u00d7 9?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

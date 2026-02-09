@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-10",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The Treaty of Versailles officially ended which war?",
+      "options": [
+        "World War I",
+        "World War II",
+        "Franco-Prussian War",
+        "Cold War"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What force pulls objects toward Earth?",
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Inertia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Tokyo?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first FIFA World Cup?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Uruguay",
+        "Italy"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of Mickey Mouse\u2019s dog?",
+      "options": [
+        "Pluto",
+        "Goofy",
+        "Donald",
+        "Max"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What genre is 'The Hunger Games'?",
+      "options": [
+        "Fantasy",
+        "Sci-Fi",
+        "Dystopian",
+        "Romance"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the square root of 81?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-12",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "What wall divided Berlin from 1961 to 1989?",
+      "options": [
+        "Iron Wall",
+        "Berlin Wall",
+        "Eastern Wall",
+        "Cold Wall"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the plant conducts photosynthesis?",
+      "options": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the Sahara Desert located on?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What sport is Michael Jordan famous for?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "Football",
+        "Golf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is known as the King of Pop?",
+      "options": [
+        "Prince",
+        "Elvis",
+        "Michael Jackson",
+        "Bowie"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Chronicles of Narnia'?",
+      "options": [
+        "Rowling",
+        "Lewis",
+        "Tolkien",
+        "Austen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "Solve: 50 \u2212 18",
+      "options": [
+        "22",
+        "32",
+        "42",
+        "28"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

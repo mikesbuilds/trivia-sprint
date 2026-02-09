@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-19",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which ancient civilization developed democracy?",
+      "options": [
+        "Romans",
+        "Egyptians",
+        "Greeks",
+        "Persians"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the eye controls the amount of light entering?",
+      "options": [
+        "Retina",
+        "Lens",
+        "Iris",
+        "Cornea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in the world?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport does Serena Williams play?",
+      "options": [
+        "Soccer",
+        "Tennis",
+        "Basketball",
+        "Golf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who played Jack in Titanic?",
+      "options": [
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Johnny Depp"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What book features a green light?",
+      "options": [
+        "Gatsby",
+        "1984",
+        "Catcher",
+        "Mockingbird"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 60 \u00f7 5?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

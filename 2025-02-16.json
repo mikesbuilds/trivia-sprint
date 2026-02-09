@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-16",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "The Renaissance began in which country?",
+      "options": [
+        "France",
+        "England",
+        "Italy",
+        "Spain"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What state of matter has a fixed volume but no fixed shape?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is shaped like a boot?",
+      "options": [
+        "Spain",
+        "Italy",
+        "Greece",
+        "Portugal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many quarters are in an NBA game?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated movie features a talking snowman named Olaf?",
+      "options": [
+        "Frozen",
+        "Shrek",
+        "Moana",
+        "Cars"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "Steinbeck",
+        "Fitzgerald",
+        "Hemingway",
+        "Twain"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the perimeter of a square with side 5?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

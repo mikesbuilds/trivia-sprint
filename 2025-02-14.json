@@ -1,0 +1,91 @@
+{
+  "date": "2025-02-14",
+  "categories": [
+    "World History",
+    "Science",
+    "Geography",
+    "Sports",
+    "Pop Culture",
+    "Literature",
+    "Math"
+  ],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which civilization built the pyramids of Giza?",
+      "options": [
+        "Romans",
+        "Greeks",
+        "Egyptians",
+        "Mayans"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest natural substance?",
+      "options": [
+        "Steel",
+        "Diamond",
+        "Quartz",
+        "Granite"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Everest lies in which mountain range?",
+      "options": [
+        "Andes",
+        "Rockies",
+        "Himalayas",
+        "Alps"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is a perfect score in bowling?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What streaming service produced 'Stranger Things'?",
+      "options": [
+        "Hulu",
+        "Amazon",
+        "Netflix",
+        "Disney+"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Shakespeare",
+        "Marlowe",
+        "Chaucer",
+        "Milton"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 3\u00b2?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "15"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
