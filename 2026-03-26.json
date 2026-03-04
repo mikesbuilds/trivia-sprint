@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which leader is associated with the 'Salt March' of 1930?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Nelson Mandela",
+        "Winston Churchill"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of a group of stars forming a recognizable pattern?",
+      "options": [
+        "Nebula",
+        "Constellation",
+        "Asteroid belt",
+        "Orbit"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes the positions 'skip' and 'sweeper'?",
+      "options": [
+        "Curling",
+        "Rowing",
+        "Handball",
+        "Water polo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist released the album 'Thriller'?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "David Bowie",
+        "Elton John"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African lake is the largest by area?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Victoria",
+        "Lake Malawi",
+        "Lake Chad"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Wizard of Oz', what does the Scarecrow want?",
+      "options": [
+        "A heart",
+        "A brain",
+        "Courage",
+        "A home"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the function of a 'firewall'?",
+      "options": [
+        "Cool CPUs",
+        "Block unauthorized network access",
+        "Increase battery life",
+        "Create backups"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

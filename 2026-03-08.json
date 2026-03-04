@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
+      "options": [
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the basic unit of life?",
+      "options": [
+        "Atom",
+        "Cell",
+        "Molecule",
+        "Tissue"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many bases are there excluding home plate?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows the employees of Dunder Mifflin?",
+      "options": [
+        "Parks and Recreation",
+        "The Office",
+        "Brooklyn Nine-Nine",
+        "Community"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the longest mountain range on land?",
+      "options": [
+        "Himalayas",
+        "Andes",
+        "Rockies",
+        "Alps"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Outsiders'?",
+      "options": [
+        "S.E. Hinton",
+        "Judy Blume",
+        "Lois Lowry",
+        "Beverly Cleary"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol is commonly used to securely browse websites?",
+      "options": [
+        "FTP",
+        "HTTPS",
+        "SMTP",
+        "Telnet"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

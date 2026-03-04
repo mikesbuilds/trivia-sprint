@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Great Fire of London occurred in which year?",
+      "options": [
+        "1536",
+        "1666",
+        "1776",
+        "1812"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the force that keeps planets in orbit?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Tension"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which event is known as 'the Triple Crown' in horse racing (U.S.)?",
+      "options": [
+        "Kentucky Derby, Preakness, Belmont",
+        "Derby, Oaks, St Leger",
+        "Melbourne Cup, Cox Plate, Caulfield",
+        "Breeders' Cup, Dubai World Cup, Arc"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who plays Jack Dawson in the movie 'Titanic'?",
+      "options": [
+        "Matt Damon",
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean is the deepest?",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In Greek mythology, who is the hero of the Odyssey?",
+      "options": [
+        "Achilles",
+        "Odysseus",
+        "Hercules",
+        "Perseus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTTP' stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Transfer Text Process",
+        "Hyperlink Transmission Program",
+        "Home Tool Transfer Protocol"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization used a quipu system of knotted cords for record-keeping?",
+      "options": [
+        "Inca",
+        "Maya",
+        "Egyptians",
+        "Phoenicians"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ in humans is primarily responsible for filtering blood?",
+      "options": [
+        "Lungs",
+        "Kidneys",
+        "Stomach",
+        "Pancreas"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, what is the term for a fight-ending count after a knockdown?",
+      "options": [
+        "Tap-out",
+        "Knockout",
+        "Overtime",
+        "Sudden death"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the Marvel universe, what is Spider-Man’s real name?",
+      "options": [
+        "Peter Parker",
+        "Bruce Banner",
+        "Clark Kent",
+        "Tony Stark"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Andes Mountains are primarily in which part of the world?",
+      "options": [
+        "North America",
+        "South America",
+        "Europe",
+        "Africa"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Mark Twain",
+        "Jane Austen",
+        "George Orwell"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SSD' stand for?",
+      "options": [
+        "Solid State Drive",
+        "Secure Storage Device",
+        "System Software Disk",
+        "Single Stream Data"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

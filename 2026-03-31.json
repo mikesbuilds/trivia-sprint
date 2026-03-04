@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer is credited with first circumnavigating the globe (expedition)?",
+      "options": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the study of earthquakes?",
+      "options": [
+        "Meteorology",
+        "Seismology",
+        "Ecology",
+        "Astronomy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In bowling, what is the maximum score in a single game?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which reality show features contestants receiving roses?",
+      "options": [
+        "Survivor",
+        "The Bachelor",
+        "Big Brother",
+        "Amazing Race"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is known as the 'Land of 10,000 Lakes'?",
+      "options": [
+        "Wisconsin",
+        "Minnesota",
+        "Michigan",
+        "Alaska"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the ship in 'Moby-Dick'?",
+      "options": [
+        "Hispaniola",
+        "Pequod",
+        "Nautilus",
+        "Beagle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language is closely associated with web styling?",
+      "options": [
+        "Python",
+        "CSS",
+        "C#",
+        "Go"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilization built Machu Picchu?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Maya",
+        "Olmec"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is known as the universal donor (for red cells)?",
+      "options": [
+        "AB+",
+        "O-",
+        "B-",
+        "A+"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, how many points is a win worth in most leagues?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the coffee shop in 'Friends'?",
+      "options": [
+        "Central Bark",
+        "Central Perk",
+        "Perk Place",
+        "Coffee Corner"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of South Korea?",
+      "options": [
+        "Busan",
+        "Seoul",
+        "Incheon",
+        "Daegu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Hobbit', what is the name of the dragon?",
+      "options": [
+        "Smaug",
+        "Glaurung",
+        "Ancalagon",
+        "Drogon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file extension is commonly used for a web page?",
+      "options": [
+        ".exe",
+        ".html",
+        ".zip",
+        ".psd"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Magna Carta was sealed in which year?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1688"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is primarily produced when skin is exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is it called when a batter hits a fair ball over the outfield fence?",
+      "options": [
+        "Double",
+        "Home run",
+        "Sacrifice fly",
+        "Bunt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'The Simpsons', what is the name of Homer’s boss?",
+      "options": [
+        "Mr. Burns",
+        "Ned Flanders",
+        "Principal Skinner",
+        "Krusty"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is in which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Charlotte's Web', what kind of animal is Wilbur?",
+      "options": [
+        "A spider",
+        "A pig",
+        "A horse",
+        "A goose"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPU' stand for?",
+      "options": [
+        "General Processing Unit",
+        "Graphics Processing Unit",
+        "Graphical Performance Utility",
+        "Global Power Unit"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

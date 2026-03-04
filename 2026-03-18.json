@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Meiji Restoration' transformed which country in the late 1800s?",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "Thailand"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "DNA is shaped like a...",
+      "options": [
+        "Single helix",
+        "Double helix",
+        "Triple helix",
+        "Flat ribbon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a standard NHL game in regulation?",
+      "options": [
+        "45 minutes",
+        "60 minutes",
+        "75 minutes",
+        "90 minutes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is the author of the 'A Song of Ice and Fire' series (basis for 'Game of Thrones')?",
+      "options": [
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "Stephen King",
+        "Neil Gaiman"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest country in South America by area?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Peru",
+        "Colombia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the title of the first book in the 'Hunger Games' trilogy?",
+      "options": [
+        "Catching Fire",
+        "The Hunger Games",
+        "Mockingjay",
+        "The Arena"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "In networking, what does 'IP' stand for?",
+      "options": [
+        "Internet Protocol",
+        "Internal Process",
+        "Interface Package",
+        "Information Port"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

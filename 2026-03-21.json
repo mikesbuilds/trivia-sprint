@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by Mansa Musa?",
+      "options": [
+        "Roman Empire",
+        "Mali Empire",
+        "Ottoman Empire",
+        "Mughal Empire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Quartz",
+        "Diamond",
+        "Granite",
+        "Obsidian"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes make an out (typically)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a clownfish named Marlin searching for his son?",
+      "options": [
+        "Shark Tale",
+        "Finding Nemo",
+        "The Little Mermaid",
+        "Moana"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Mojave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Grapes of Wrath'?",
+      "options": [
+        "John Steinbeck",
+        "Ernest Hemingway",
+        "William Faulkner",
+        "Jack London"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is 'cloud computing' primarily about?",
+      "options": [
+        "Using only laptops",
+        "Delivering computing services over the internet",
+        "Storing data only on USB drives",
+        "Running software without electricity"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

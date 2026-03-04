@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder was located in Babylon?",
+      "options": [
+        "Colossus of Rhodes",
+        "Hanging Gardens",
+        "Temple of Artemis",
+        "Lighthouse of Alexandria"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH of a neutral solution?",
+      "options": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what is the term for restarting play by kicking from the corner arc?",
+      "options": [
+        "Goal kick",
+        "Corner kick",
+        "Free kick",
+        "Kickoff"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album 'Abbey Road'?",
+      "options": [
+        "The Beatles",
+        "Queen",
+        "Pink Floyd",
+        "U2"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest island in the world (not counting continents)?",
+      "options": [
+        "Borneo",
+        "Greenland",
+        "Madagascar",
+        "New Guinea"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which dystopian novel features the concept of 'Big Brother'?",
+      "options": [
+        "The Giver",
+        "1984",
+        "Divergent",
+        "The Handmaid's Tale"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is 'AI' short for?",
+      "options": [
+        "Automated Internet",
+        "Artificial Intelligence",
+        "Analog Interface",
+        "Advanced Input"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

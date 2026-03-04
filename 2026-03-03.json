@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which treaty ended the U.S. Revolutionary War in 1783?",
+      "options": [
+        "Treaty of Paris",
+        "Treaty of Vienna",
+        "Treaty of Utrecht",
+        "Treaty of Tordesillas"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the atom has a negative charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Nucleus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In gymnastics, what apparatus is used only by female athletes in artistic gymnastics?",
+      "options": [
+        "Rings",
+        "Pommel horse",
+        "Uneven bars",
+        "Parallel bars"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game features the battle royale mode 'Fortnite'?",
+      "options": [
+        "Fortnite",
+        "Apex Legends",
+        "Call of Duty",
+        "Roblox"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most people in the world?",
+      "options": [
+        "India",
+        "China",
+        "United States",
+        "Indonesia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Brave New World'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Arthur C. Clarke",
+        "Herman Hesse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'API' stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Applied Program Internet",
+        "Automated Processing Input",
+        "App Protocol Index"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

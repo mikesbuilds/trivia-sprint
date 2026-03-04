@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Taiping Rebellion' took place in which country?",
+      "options": [
+        "Japan",
+        "China",
+        "Vietnam",
+        "Russia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main component of the Sun?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Iron"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the court for one team in basketball?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which K-pop group is known for songs like 'Dynamite'?",
+      "options": [
+        "BLACKPINK",
+        "BTS",
+        "EXO",
+        "TWICE"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Ottawa",
+        "Vancouver",
+        "Montreal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Lord of the Rings', what is the name of Aragorn’s sword (reforged)?",
+      "options": [
+        "Andúril",
+        "Glamdring",
+        "Sting",
+        "Orcrist"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the primary function of an operating system?",
+      "options": [
+        "Play music",
+        "Manage hardware and software resources",
+        "Print documents",
+        "Design graphics"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

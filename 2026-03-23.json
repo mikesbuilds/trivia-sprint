@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the primary language of the Byzantine Empire?",
+      "options": [
+        "Latin",
+        "Greek",
+        "Arabic",
+        "French"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest organ of the human body?",
+      "options": [
+        "Heart",
+        "Skin",
+        "Liver",
+        "Brain"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport features 'épée', 'foil', and 'sabre'?",
+      "options": [
+        "Archery",
+        "Fencing",
+        "Judo",
+        "Taekwondo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a character named Ethan Hunt?",
+      "options": [
+        "Bourne",
+        "Mission: Impossible",
+        "James Bond",
+        "John Wick"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most islands in the world?",
+      "options": [
+        "Indonesia",
+        "Sweden",
+        "Philippines",
+        "Canada"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the monster in Mary Shelley's novel?",
+      "options": [
+        "Dracula",
+        "Frankenstein’s creature",
+        "Mr. Hyde",
+        "The Invisible Man"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "In databases, what does 'SQL' stand for?",
+      "options": [
+        "Structured Query Language",
+        "Sequential Query Logic",
+        "Simple Question List",
+        "System Query Layer"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

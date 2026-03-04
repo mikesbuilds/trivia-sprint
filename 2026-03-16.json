@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient Greek historian is often called the 'Father of History'?",
+      "options": [
+        "Socrates",
+        "Herodotus",
+        "Plato",
+        "Aristotle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do you call animals that maintain a constant internal body temperature?",
+      "options": [
+        "Ectotherms",
+        "Endotherms",
+        "Amphibians",
+        "Arthropods"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a 'shuttlecock'?",
+      "options": [
+        "Badminton",
+        "Squash",
+        "Table tennis",
+        "Lacrosse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of Batman’s butler?",
+      "options": [
+        "Alfred",
+        "Jeeves",
+        "Higgins",
+        "Gordon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "The city of Istanbul straddles which two continents?",
+      "options": [
+        "Africa & Europe",
+        "Europe & Asia",
+        "Asia & Australia",
+        "Europe & North America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of '1984'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Philip K. Dick"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "In cybersecurity, what does '2FA' stand for?",
+      "options": [
+        "Two-Factor Authentication",
+        "Two-File Access",
+        "Total Firewall Activation",
+        "Trusted Form Approval"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

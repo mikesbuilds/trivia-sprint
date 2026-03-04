@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Valentina Tereshkova"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the galaxy that contains our solar system?",
+      "options": [
+        "Andromeda",
+        "Milky Way",
+        "Whirlpool",
+        "Sombrero"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Formula 1, what is the starting order for a race usually based on?",
+      "options": [
+        "Team budget",
+        "Qualifying time",
+        "Driver age",
+        "Car color"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the wizarding sport in 'Harry Potter'?",
+      "options": [
+        "Bludgerball",
+        "Quidditch",
+        "Wizball",
+        "Broomstick Race"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country is shaped like a boot?",
+      "options": [
+        "Greece",
+        "Italy",
+        "Portugal",
+        "Ireland"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Tale of Peter Rabbit'?",
+      "options": [
+        "Beatrix Potter",
+        "A.A. Milne",
+        "Lewis Carroll",
+        "E.B. White"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Android operating system (initially)?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "IBM"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

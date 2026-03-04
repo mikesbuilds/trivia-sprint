@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Domesday Book' was commissioned by which ruler?",
+      "options": [
+        "Henry VIII",
+        "William the Conqueror",
+        "Richard the Lionheart",
+        "Edward I"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organelle is the 'powerhouse' of the cell?",
+      "options": [
+        "Ribosome",
+        "Mitochondrion",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many quarters are played in regulation?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'Toy Story', what is the name of the cowboy doll?",
+      "options": [
+        "Buzz",
+        "Woody",
+        "Rex",
+        "Slink"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Rio de Janeiro",
+        "Brasília",
+        "São Paulo",
+        "Salvador"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "J.D. Salinger",
+        "John Steinbeck",
+        "T.S. Eliot"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a 'bug' in software?",
+      "options": [
+        "A planned feature",
+        "An error or flaw in code",
+        "A hardware upgrade",
+        "A user account"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

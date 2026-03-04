@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone helped scholars decipher which writing system?",
+      "options": [
+        "Cuneiform",
+        "Hieroglyphs",
+        "Linear B",
+        "Runes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the process by which a liquid turns into a gas?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Deposition"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the distance of a marathon?",
+      "options": [
+        "13.1 miles",
+        "20 miles",
+        "26.2 miles",
+        "30 miles"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Disney movie features the song 'Let It Go'?",
+      "options": [
+        "Moana",
+        "Frozen",
+        "Tangled",
+        "Brave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the ancient temples of Angkor Wat?",
+      "options": [
+        "Thailand",
+        "Cambodia",
+        "Laos",
+        "Myanmar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of Sherlock Holmes’s assistant?",
+      "options": [
+        "Dr. Watson",
+        "Inspector Lestrade",
+        "Mrs. Hudson",
+        "Mycroft Holmes"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is 'open-source' software?",
+      "options": [
+        "Software with hidden code",
+        "Software whose source code is publicly available",
+        "Software that only works offline",
+        "Software that is always paid"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

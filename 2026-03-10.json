@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The ancient city of Petra is in modern-day...",
+      "options": [
+        "Jordan",
+        "Lebanon",
+        "Egypt",
+        "Turkey"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of Earth lies directly beneath the crust?",
+      "options": [
+        "Inner core",
+        "Outer core",
+        "Mantle",
+        "Atmosphere"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what body part can't touch the ball (except the goalkeeper in the box)?",
+      "options": [
+        "Head",
+        "Chest",
+        "Hands/arms",
+        "Feet"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character says 'I am Groot'?",
+      "options": [
+        "Rocket",
+        "Groot",
+        "Drax",
+        "Star-Lord"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is shrinking dramatically and is located between Kazakhstan and Uzbekistan?",
+      "options": [
+        "Caspian Sea",
+        "Aral Sea",
+        "Dead Sea",
+        "Baltic Sea"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Romeo and Juliet', which family is Romeo from?",
+      "options": [
+        "Capulet",
+        "Montague",
+        "Medici",
+        "Bennet"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which tool is used to search the web using keywords?",
+      "options": [
+        "Compiler",
+        "Search engine",
+        "Spreadsheet",
+        "Debugger"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

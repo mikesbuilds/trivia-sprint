@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the first successful English colony in North America (1607)?",
+      "options": [
+        "Plymouth",
+        "Jamestown",
+        "Roanoke",
+        "St. Augustine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards a 'try' for grounding the ball in the opponent’s in-goal area?",
+      "options": [
+        "Soccer",
+        "Rugby",
+        "Hockey",
+        "Cricket"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the kingdom in 'Frozen'?",
+      "options": [
+        "Corona",
+        "Arendelle",
+        "Agrabah",
+        "Atlantica"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Turkey?",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Izmir",
+        "Antalya"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Alice's Adventures in Wonderland', who does Alice follow?",
+      "options": [
+        "A black cat",
+        "A white rabbit",
+        "A red fox",
+        "A golden bird"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name of the most common open-source web server software?",
+      "options": [
+        "Apache HTTP Server",
+        "Lotus Notes",
+        "Final Cut Pro",
+        "HyperCard"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

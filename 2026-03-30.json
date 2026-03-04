@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first emperor of Rome?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Constantine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a species’ role in its ecosystem?",
+      "options": [
+        "Habitat",
+        "Niche",
+        "Biome",
+        "Kingdom"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport’s championship trophy is the 'Stanley Cup'?",
+      "options": [
+        "Basketball",
+        "Ice hockey",
+        "Baseball",
+        "Football"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the school in 'Mean Girls'?",
+      "options": [
+        "Sunnydale High",
+        "North Shore High",
+        "Rydell High",
+        "Bayside High"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Strait of Gibraltar connects the Atlantic Ocean to which sea?",
+      "options": [
+        "Red Sea",
+        "Black Sea",
+        "Mediterranean Sea",
+        "Caribbean Sea"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the character Tom Sawyer?",
+      "options": [
+        "Charles Dickens",
+        "Mark Twain",
+        "Jules Verne",
+        "Herman Melville"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is 'machine learning'?",
+      "options": [
+        "A new keyboard layout",
+        "A method where computers learn patterns from data",
+        "A type of printer",
+        "A video codec"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

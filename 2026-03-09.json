@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The ancient city of Carthage was located in present-day...",
+      "options": [
+        "Italy",
+        "Tunisia",
+        "Greece",
+        "Spain"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle is used in nuclear power plants to sustain fission?",
+      "options": [
+        "Photon",
+        "Neutron",
+        "Electron",
+        "Proton"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In the NBA, how many minutes are in a regulation game?",
+      "options": [
+        "40",
+        "48",
+        "50",
+        "60"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In 'The Lord of the Rings', what is the name of Frodo’s loyal friend who travels with him?",
+      "options": [
+        "Pippin",
+        "Samwise Gamgee",
+        "Boromir",
+        "Gimli"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital city of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Louisa May Alcott",
+        "Mary Shelley"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of 'encryption'?",
+      "options": [
+        "Compress files",
+        "Convert text to unreadable form for security",
+        "Speed up internet",
+        "Remove viruses"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

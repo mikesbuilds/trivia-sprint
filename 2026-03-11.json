@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 'Long March' was a key event in the history of which country?",
+      "options": [
+        "India",
+        "China",
+        "Brazil",
+        "Mexico"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed the laws of motion and universal gravitation?",
+      "options": [
+        "Einstein",
+        "Newton",
+        "Galileo",
+        "Darwin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, how many players are on a team on the field?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise features characters named Link and Zelda?",
+      "options": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Halo",
+        "Minecraft"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river runs through Egypt and is famous for its ancient civilization?",
+      "options": [
+        "Nile",
+        "Congo",
+        "Niger",
+        "Zambezi"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Fahrenheit 451'?",
+      "options": [
+        "Ray Bradbury",
+        "Isaac Asimov",
+        "Kurt Vonnegut",
+        "H.G. Wells"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company is known for the Windows operating system?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Samsung",
+        "Nintendo"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
