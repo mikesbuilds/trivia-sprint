@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Egyptian queen famously allied with Julius Caesar and Mark Antony?",
+      "options": [
+        "Nefertiti",
+        "Hatshepsut",
+        "Cleopatra",
+        "Ankhesenamun"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the human body contains the femur?",
+      "options": [
+        "Arm",
+        "Leg",
+        "Skull",
+        "Hand"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many points is a touchdown worth?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie franchise features Dominic Toretto?",
+      "options": [
+        "Mission: Impossible",
+        "Fast & Furious",
+        "John Wick",
+        "Transformers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean lies on the east coast of the United States?",
+      "options": [
+        "Pacific",
+        "Indian",
+        "Arctic",
+        "Atlantic"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Chronicles of Narnia,' what is the name of the lion?",
+      "options": [
+        "Aslan",
+        "Shere Khan",
+        "Simba",
+        "Bagheera"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'app' usually mean in computing?",
+      "options": [
+        "Application",
+        "Appendix",
+        "Approval",
+        "Appletree"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

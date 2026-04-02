@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization built the city of Tenochtitlan?",
+      "options": [
+        "Inca",
+        "Maya",
+        "Aztec",
+        "Phoenician"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main gas found in the air we breathe?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In swimming, which stroke is named after an insect?",
+      "options": [
+        "Freestyle",
+        "Breaststroke",
+        "Backstroke",
+        "Butterfly"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor voiced Woody in the 'Toy Story' films?",
+      "options": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Billy Crystal",
+        "Robin Williams"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Argentina?",
+      "options": [
+        "Lima",
+        "Santiago",
+        "Buenos Aires",
+        "Montevideo"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Adventures of Tom Sawyer'?",
+      "options": [
+        "Mark Twain",
+        "Jules Verne",
+        "H.G. Wells",
+        "Harper Lee"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What type of device is a Fitbit best known as?",
+      "options": [
+        "Game console",
+        "Wearable fitness tracker",
+        "Projector",
+        "Smart thermostat"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

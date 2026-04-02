@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by Julius Caesar?",
+      "options": [
+        "Ottoman Empire",
+        "Roman Republic",
+        "Byzantine Empire",
+        "Mongol Empire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the cell contains genetic material?",
+      "options": [
+        "Cell wall",
+        "Mitochondrion",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes make an out?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the song 'Let It Go'?",
+      "options": [
+        "Moana",
+        "Encanto",
+        "Frozen",
+        "Tangled"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert covers much of northern Africa?",
+      "options": [
+        "Gobi",
+        "Sahara",
+        "Kalahari",
+        "Mojave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Odyssey'?",
+      "options": [
+        "Virgil",
+        "Sophocles",
+        "Homer",
+        "Ovid"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which device directs data traffic between networks?",
+      "options": [
+        "Router",
+        "Monitor",
+        "Printer",
+        "Speaker"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

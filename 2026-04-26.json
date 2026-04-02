@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first emperor of Rome?",
+      "options": [
+        "Nero",
+        "Augustus",
+        "Trajan",
+        "Hadrian"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do bees collect from flowers to make honey?",
+      "options": [
+        "Dew",
+        "Pollen only",
+        "Nectar",
+        "Sap"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for three strikes in a row in bowling?",
+      "options": [
+        "Hat trick",
+        "Turkey",
+        "Triple play",
+        "Ace"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer performed 'Firework'?",
+      "options": [
+        "Katy Perry",
+        "Miley Cyrus",
+        "Kesha",
+        "Demi Lovato"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range includes Mount Everest?",
+      "options": [
+        "Andes",
+        "Alps",
+        "Himalayas",
+        "Rockies"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Sun Also Rises'?",
+      "options": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "F. Scott Fitzgerald",
+        "Joseph Conrad"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'Bluetooth' allow devices to do?",
+      "options": [
+        "Print in color",
+        "Connect wirelessly over short distances",
+        "Store unlimited files",
+        "Project holograms"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

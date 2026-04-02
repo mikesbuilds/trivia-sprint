@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. president issued the Emancipation Proclamation?",
+      "options": [
+        "George Washington",
+        "Andrew Jackson",
+        "Abraham Lincoln",
+        "Theodore Roosevelt"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "How many bones does an adult human typically have?",
+      "options": [
+        "106",
+        "206",
+        "306",
+        "406"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In racing, what flag indicates the winner has finished?",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Checkered"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is nicknamed 'The Boss'?",
+      "options": [
+        "Billy Joel",
+        "Bruce Springsteen",
+        "Bon Jovi",
+        "Bob Seger"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country completely surrounds Lesotho?",
+      "options": [
+        "Botswana",
+        "Namibia",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Giver'?",
+      "options": [
+        "Lois Lowry",
+        "Judy Blume",
+        "Madeleine L'Engle",
+        "Katherine Paterson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which symbol is commonly used in email addresses before the domain name?",
+      "options": [
+        "#",
+        "@",
+        "&",
+        "%"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

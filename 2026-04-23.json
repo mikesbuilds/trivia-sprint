@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous wall once divided East and West Berlin?",
+      "options": [
+        "Great Wall",
+        "Hadrian's Wall",
+        "Berlin Wall",
+        "Western Wall"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ pumps blood through the human body?",
+      "options": [
+        "Lung",
+        "Brain",
+        "Heart",
+        "Liver"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a soccer team on the field during play?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist released the song 'Rolling in the Deep'?",
+      "options": [
+        "Adele",
+        "Sia",
+        "P!nk",
+        "Kelly Clarkson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. city is known as the Big Apple?",
+      "options": [
+        "Los Angeles",
+        "Chicago",
+        "New York City",
+        "Boston"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Call of the Wild'?",
+      "options": [
+        "Jack London",
+        "James Fenimore Cooper",
+        "John Muir",
+        "Rudyard Kipling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Android operating system?",
+      "options": [
+        "Google",
+        "Apple",
+        "Adobe",
+        "Oracle"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

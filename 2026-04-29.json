@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first female prime minister of the United Kingdom?",
+      "options": [
+        "Theresa May",
+        "Margaret Thatcher",
+        "Angela Merkel",
+        "Indira Gandhi"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the eye controls how much light enters?",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Pupil",
+        "Lens"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is known as 'the beautiful game'?",
+      "options": [
+        "Cricket",
+        "Basketball",
+        "Soccer",
+        "Tennis"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show's coffee shop hangout was called Central Perk?",
+      "options": [
+        "Frasier",
+        "Friends",
+        "Cheers",
+        "How I Met Your Mother"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is home to Yellowstone National Park's largest portion?",
+      "options": [
+        "Montana",
+        "Idaho",
+        "Wyoming",
+        "Colorado"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "Isabel Allende",
+        "Jorge Luis Borges",
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company is known for the video site YouTube?",
+      "options": [
+        "Meta",
+        "Google",
+        "Amazon",
+        "Netflix"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

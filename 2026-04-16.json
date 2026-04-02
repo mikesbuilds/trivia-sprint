@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who purchased Alaska for the United States in 1867 during his presidency?",
+      "options": [
+        "Abraham Lincoln",
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which liquid water changes into vapor?",
+      "options": [
+        "Condensation",
+        "Freezing",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the field for one team in American football at a time?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features the Stark, Lannister, and Targaryen families?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "House of Cards",
+        "Vikings"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest ocean on Earth?",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Southern"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem 'The Raven'?",
+      "options": [
+        "Robert Frost",
+        "Edgar Allan Poe",
+        "Walt Whitman",
+        "Langston Hughes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What kind of device is used to store files permanently in a computer?",
+      "options": [
+        "RAM",
+        "Hard drive",
+        "Fan",
+        "GPU cooler"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

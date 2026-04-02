@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "James Madison"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, how many points is a win worth in most league standings?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known as the 'King of Pop'?",
+      "options": [
+        "Prince",
+        "Elvis Presley",
+        "Michael Jackson",
+        "Bruno Mars"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Cairo?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Danube",
+        "Yangtze"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created Sherlock Holmes?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Charles Dickens"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Windows operating system?",
+      "options": [
+        "Apple",
+        "IBM",
+        "Microsoft",
+        "Intel"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

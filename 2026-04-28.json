@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What document officially ended the American Revolutionary War in 1783?",
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Magna Carta",
+        "Articles of Confederation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is often called the Red Planet?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Saturn"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a field goal worth in basketball?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer-actress starred in the film 'A Star Is Born' with Bradley Cooper?",
+      "options": [
+        "Lady Gaga",
+        "Cher",
+        "Madonna",
+        "Janelle Monáe"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is famous for the city of Marrakech?",
+      "options": [
+        "Morocco",
+        "Tunisia",
+        "Egypt",
+        "Algeria"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Where the Wild Things Are'?",
+      "options": [
+        "Ezra Jack Keats",
+        "Maurice Sendak",
+        "Arnold Lobel",
+        "Chris Van Allsburg"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is cloud storage used for?",
+      "options": [
+        "Storing files on internet-based servers",
+        "Cleaning a computer screen",
+        "Cooling a laptop",
+        "Repairing hardware"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

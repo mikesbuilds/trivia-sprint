@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. document begins with 'We the People'?",
+      "options": [
+        "Bill of Rights",
+        "Declaration of Independence",
+        "Constitution",
+        "Emancipation Proclamation"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What blood vessels carry blood away from the heart?",
+      "options": [
+        "Veins",
+        "Arteries",
+        "Capillaries",
+        "Valves"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What sport is associated with Wimbledon?",
+      "options": [
+        "Cricket",
+        "Rugby",
+        "Tennis",
+        "Polo"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist starred in the movie 'Purple Rain'?",
+      "options": [
+        "Prince",
+        "David Bowie",
+        "Elton John",
+        "George Michael"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Barcelona?",
+      "options": [
+        "Portugal",
+        "Italy",
+        "Spain",
+        "France"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'A Tale of Two Cities'?",
+      "options": [
+        "Charles Dickens",
+        "Mark Twain",
+        "Thomas Hardy",
+        "Oscar Wilde"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file format is commonly used for documents that preserve layout across devices?",
+      "options": [
+        "MP3",
+        "PDF",
+        "PNG",
+        "CSV"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

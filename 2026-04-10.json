@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Amelia Earhart",
+        "Bessie Coleman",
+        "Sally Ride",
+        "Harriet Quimby"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest planet in our solar system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Earth",
+        "Neptune"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What color jersey does the leader of the Tour de France traditionally wear?",
+      "options": [
+        "Green",
+        "White",
+        "Yellow",
+        "Red"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar film centers on emotions inside a girl's mind?",
+      "options": [
+        "Soul",
+        "Inside Out",
+        "Up",
+        "Coco"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Japan?",
+      "options": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Sapporo"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which keyboard shortcut is commonly used to copy on Windows?",
+      "options": [
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+C",
+        "Ctrl+Z"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

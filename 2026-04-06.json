@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ship famously sank on its maiden voyage in 1912?",
+      "options": [
+        "Lusitania",
+        "Britannic",
+        "Titanic",
+        "Bismarck"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is known for its prominent ring system?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Venus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is the term for a score of zero?",
+      "options": [
+        "Nil",
+        "Blank",
+        "Love",
+        "Duck"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV sitcom is set in the paper company Dunder Mifflin?",
+      "options": [
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "The Office",
+        "30 Rock"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest U.S. state by area?",
+      "options": [
+        "Delaware",
+        "Rhode Island",
+        "Connecticut",
+        "Hawaii"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Charlotte's Web'?",
+      "options": [
+        "Roald Dahl",
+        "E.B. White",
+        "Beverly Cleary",
+        "Lois Lowry"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'Wi‑Fi' commonly refer to?",
+      "options": [
+        "A type of wireless networking",
+        "A computer virus",
+        "A video format",
+        "A battery type"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

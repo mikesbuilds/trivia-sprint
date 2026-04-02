@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which event began in France in 1789?",
+      "options": [
+        "Industrial Revolution",
+        "French Revolution",
+        "Renaissance",
+        "Reformation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of animal is the largest living species on Earth?",
+      "options": [
+        "Elephant",
+        "Whale shark",
+        "Blue whale",
+        "Giraffe"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do players compete for the Ryder Cup?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Cricket",
+        "Rowing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actress played Katniss Everdeen in 'The Hunger Games' films?",
+      "options": [
+        "Emma Roberts",
+        "Jennifer Lawrence",
+        "Shailene Woodley",
+        "Kristen Stewart"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is both a continent and a nation?",
+      "options": [
+        "Australia",
+        "Greenland",
+        "Iceland",
+        "Madagascar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Charlotte Brontë",
+        "Virginia Woolf"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is used to keep your online accounts safer by requiring a second verification step?",
+      "options": [
+        "Two-factor authentication",
+        "Defragmentation",
+        "Screen mirroring",
+        "Compression"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

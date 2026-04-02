@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1963 speech included the phrase 'I Have a Dream'?",
+      "options": [
+        "John F. Kennedy's inaugural address",
+        "Martin Luther King Jr.'s March on Washington speech",
+        "Malcolm X's Ballot or the Bullet",
+        "Barack Obama's victory speech"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ in the human body filters blood to make urine?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many bases are there on a baseball field?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the hit song 'Shake It Off'?",
+      "options": [
+        "Ariana Grande",
+        "Taylor Swift",
+        "Katy Perry",
+        "Lady Gaga"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Great Pyramid of Giza?",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Saudi Arabia",
+        "Morocco"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "options": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "William Golding",
+        "Jack London"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a search engine help you do?",
+      "options": [
+        "Play videos offline",
+        "Find information on the web",
+        "Charge your phone",
+        "Edit photos"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

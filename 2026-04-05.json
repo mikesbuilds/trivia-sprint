@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the British queen during much of the 19th century and gave her name to an era?",
+      "options": [
+        "Queen Anne",
+        "Queen Mary",
+        "Queen Victoria",
+        "Queen Elizabeth I"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the boiling point of water at sea level in Celsius?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "110"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many holes are played in a standard round of golf?",
+      "options": [
+        "9",
+        "12",
+        "18",
+        "27"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features houses like Gryffindor and Slytherin?",
+      "options": [
+        "Percy Jackson",
+        "The Hunger Games",
+        "Harry Potter",
+        "Twilight"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the Sahara Desert located on?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the title of George Orwell's dystopian novel about Big Brother?",
+      "options": [
+        "Brave New World",
+        "1984",
+        "Animal Farm",
+        "Fahrenheit 451"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What kind of technology is GPS primarily used for?",
+      "options": [
+        "Navigation",
+        "Photo editing",
+        "Word processing",
+        "Audio mixing"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

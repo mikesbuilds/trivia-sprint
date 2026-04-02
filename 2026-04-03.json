@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The fall of the Berlin Wall happened in what year?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Quartz",
+        "Diamond",
+        "Granite",
+        "Iron"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What sport is the Stanley Cup awarded in?",
+      "options": [
+        "Baseball",
+        "Football",
+        "Hockey",
+        "Lacrosse"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which long-running animated TV family lives in Springfield?",
+      "options": [
+        "The Griffins",
+        "The Simpsons",
+        "The Belchers",
+        "The Browns"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is in which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the surname of the sisters in 'Little Women'?",
+      "options": [
+        "March",
+        "Bennet",
+        "Dashwood",
+        "Earnshaw"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'URL' stand for?",
+      "options": [
+        "Universal Resource Link",
+        "Uniform Resource Locator",
+        "United Reference Location",
+        "Uniform Retrieval Link"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

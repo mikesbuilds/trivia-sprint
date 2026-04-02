@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the route connecting China to the Mediterranean in ancient times?",
+      "options": [
+        "Amber Road",
+        "Silk Road",
+        "Spice Route",
+        "Royal Road"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What kind of rock forms from cooled lava?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Fossil"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many periods are there in a standard hockey game?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie studio is famous for an opening logo with a roaring lion?",
+      "options": [
+        "Paramount",
+        "MGM",
+        "Pixar",
+        "Universal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of South Korea?",
+      "options": [
+        "Busan",
+        "Incheon",
+        "Seoul",
+        "Daegu"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of 'The Lion, the Witch and the Wardrobe'?",
+      "options": [
+        "Philip Pullman",
+        "C.S. Lewis",
+        "Roald Dahl",
+        "Terry Pratchett"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for malicious software?",
+      "options": [
+        "Firmware",
+        "Malware",
+        "Shareware",
+        "Middleware"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

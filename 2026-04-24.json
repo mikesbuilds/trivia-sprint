@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which navigator reached India by sea for Portugal in 1498?",
+      "options": [
+        "Ferdinand Magellan",
+        "Bartolomeu Dias",
+        "Vasco da Gama",
+        "Amerigo Vespucci"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of our galaxy?",
+      "options": [
+        "Andromeda",
+        "Milky Way",
+        "Whirlpool",
+        "Sombrero"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the diameter of a basketball hoop in inches?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie musical features the characters Elphaba and Glinda?",
+      "options": [
+        "Chicago",
+        "Wicked",
+        "Mamma Mia!",
+        "Hairspray"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is famous for the fjords along its coastline?",
+      "options": [
+        "Norway",
+        "Spain",
+        "Greece",
+        "Turkey"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Toni Morrison",
+        "Flannery O'Connor",
+        "Alice Walker"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'emoji' refer to?",
+      "options": [
+        "A type of cable",
+        "A small digital icon or symbol",
+        "A computer server",
+        "A coding language"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

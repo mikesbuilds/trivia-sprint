@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the South African leader imprisoned for years before becoming president in 1994?",
+      "options": [
+        "Desmond Tutu",
+        "Nelson Mandela",
+        "F.W. de Klerk",
+        "Thabo Mbeki"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the center of an atom called?",
+      "options": [
+        "Shell",
+        "Core",
+        "Nucleus",
+        "Proton"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first FIFA World Cup in 1930?",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Argentina",
+        "Italy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a fedora-wearing archaeologist named Indiana Jones?",
+      "options": [
+        "National Treasure",
+        "The Mummy",
+        "Indiana Jones",
+        "Tomb Raider"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
+      "options": [
+        "Treasure Island",
+        "Moby-Dick",
+        "Twenty Thousand Leagues Under the Sea",
+        "The Sea-Wolf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'USB' stand for?",
+      "options": [
+        "Universal Serial Bus",
+        "Unified System Base",
+        "User Storage Block",
+        "Ultra Speed Buffer"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

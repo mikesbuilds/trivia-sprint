@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Jane Addams",
+        "Rosalind Franklin",
+        "Mother Teresa"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What planet is closest to the Sun?",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In what sport is the term 'birdie' used?",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Badminton",
+        "Baseball"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom featured Ross, Rachel, Monica, Chandler, Joey, and Phoebe?",
+      "options": [
+        "How I Met Your Mother",
+        "Friends",
+        "New Girl",
+        "Seinfeld"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most people in the world?",
+      "options": [
+        "India",
+        "United States",
+        "Indonesia",
+        "China"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Scarlet Letter'?",
+      "options": [
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Henry James",
+        "Ralph Waldo Emerson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'www' stand for in a web address?",
+      "options": [
+        "World Wide Web",
+        "Wide World Window",
+        "Web World Wire",
+        "World Web Workspace"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

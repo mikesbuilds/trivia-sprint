@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1920 amendment gave many women in the United States the right to vote?",
+      "options": [
+        "15th Amendment",
+        "17th Amendment",
+        "19th Amendment",
+        "21st Amendment"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that eat only plants?",
+      "options": [
+        "Carnivores",
+        "Omnivores",
+        "Herbivores",
+        "Scavengers"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In what sport would you attempt a hole-in-one?",
+      "options": [
+        "Baseball",
+        "Golf",
+        "Tennis",
+        "Archery"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is famous for the song 'Uptown Funk' with Mark Ronson?",
+      "options": [
+        "Bruno Mars",
+        "Usher",
+        "The Weeknd",
+        "Justin Timberlake"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is the capital of Italy?",
+      "options": [
+        "Milan",
+        "Venice",
+        "Rome",
+        "Naples"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Adventures of Huckleberry Finn'?",
+      "options": [
+        "Mark Twain",
+        "Charles Dickens",
+        "Robert Louis Stevenson",
+        "Washington Irving"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the main function of a password manager?",
+      "options": [
+        "Speed up Wi‑Fi",
+        "Store and organize passwords securely",
+        "Edit videos",
+        "Clean computer hardware"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

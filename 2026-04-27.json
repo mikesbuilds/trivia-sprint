@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the Soviet cosmonaut who became the first human in space?",
+      "options": [
+        "Valentina Tereshkova",
+        "Alexei Leonov",
+        "Yuri Gagarin",
+        "Sergei Korolev"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the common name for sodium chloride?",
+      "options": [
+        "Sugar",
+        "Baking soda",
+        "Salt",
+        "Vinegar"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is it called when a batter hits the ball out of the park?",
+      "options": [
+        "Grand slam",
+        "Home run",
+        "Double play",
+        "Triple"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise includes characters named Shrek and Donkey?",
+      "options": [
+        "Madagascar",
+        "Kung Fu Panda",
+        "Ice Age",
+        "Shrek"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is made up of islands in the Pacific Ocean?",
+      "options": [
+        "Alaska",
+        "California",
+        "Hawaii",
+        "Oregon"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Very Hungry Caterpillar'?",
+      "options": [
+        "Eric Carle",
+        "Dr. Seuss",
+        "Shel Silverstein",
+        "Maurice Sendak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a QR code let you do with a phone camera?",
+      "options": [
+        "Measure temperature",
+        "Quickly open encoded information or links",
+        "Improve battery life",
+        "Record a voicemail"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which English king had six wives?",
+      "options": [
+        "Henry V",
+        "Henry VIII",
+        "Richard III",
+        "Edward VI"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is measured with a thermometer?",
+      "options": [
+        "Pressure",
+        "Wind speed",
+        "Temperature",
+        "Humidity"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would you use a pommel horse?",
+      "options": [
+        "Gymnastics",
+        "Equestrian",
+        "Polo",
+        "Diving"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer stars in the concert film 'Taylor Swift: The Eras Tour'?",
+      "options": [
+        "Adele",
+        "Taylor Swift",
+        "Dua Lipa",
+        "Selena Gomez"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Kenya?",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kampala",
+        "Addis Ababa"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the last name of the author Leo Tolstoy?",
+      "options": [
+        "Tolstoy",
+        "Dostoevsky",
+        "Chekhov",
+        "Pushkin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which kind of software is used to create text documents, such as letters and reports?",
+      "options": [
+        "Spreadsheet software",
+        "Word processor",
+        "Video editor",
+        "Antivirus"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

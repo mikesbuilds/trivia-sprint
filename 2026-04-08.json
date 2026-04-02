@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What war was fought in the United States from 1861 to 1865?",
+      "options": [
+        "Revolutionary War",
+        "War of 1812",
+        "Civil War",
+        "Spanish-American War"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is H2O more commonly known as?",
+      "options": [
+        "Hydrogen peroxide",
+        "Salt",
+        "Water",
+        "Ozone"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes are in a regulation NBA game?",
+      "options": [
+        "40",
+        "48",
+        "50",
+        "60"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actress played Hermione Granger in the Harry Potter films?",
+      "options": [
+        "Emma Stone",
+        "Emma Watson",
+        "Keira Knightley",
+        "Natalie Portman"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the Grand Canyon?",
+      "options": [
+        "Nevada",
+        "Utah",
+        "Arizona",
+        "Colorado"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the author of 'The Hobbit'?",
+      "options": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "T.H. White"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which web browser is developed by Mozilla?",
+      "options": [
+        "Safari",
+        "Chrome",
+        "Firefox",
+        "Edge"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

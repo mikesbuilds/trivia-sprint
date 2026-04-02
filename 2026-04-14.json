@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first human to walk on the Moon?",
+      "options": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is mainly produced when skin is exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In what sport would you perform a slam dunk?",
+      "options": [
+        "Soccer",
+        "Basketball",
+        "Baseball",
+        "Rugby"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a theme park filled with cloned dinosaurs?",
+      "options": [
+        "King Kong",
+        "The Lost World",
+        "Jurassic Park",
+        "Godzilla"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European city is famous for its canals and gondolas?",
+      "options": [
+        "Venice",
+        "Athens",
+        "Prague",
+        "Dublin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the young wizard in J.K. Rowling's novels?",
+      "options": [
+        "Percy Jackson",
+        "Harry Potter",
+        "Bilbo Baggins",
+        "Lyra Belacqua"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the iPhone?",
+      "options": [
+        "Samsung",
+        "Google",
+        "Apple",
+        "Nokia"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}
