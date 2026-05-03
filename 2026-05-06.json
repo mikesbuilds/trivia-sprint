@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Magna Carta was signed in which country?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most FIFA Men's World Cup titles?",
+      "options": [
+        "Germany",
+        "Argentina",
+        "Brazil",
+        "Italy"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Jack Sparrow in the 'Pirates of the Caribbean' films?",
+      "options": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Hugh Jackman",
+        "Brad Pitt"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Japan?",
+      "options": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Hiroshima"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": [
+        "Moby-Dick",
+        "The Great Gatsby",
+        "Dracula",
+        "Treasure Island"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTML' primarily help create?",
+      "options": [
+        "Web pages",
+        "Spreadsheets",
+        "Phone calls",
+        "Printed books"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

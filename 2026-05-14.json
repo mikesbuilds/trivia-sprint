@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document declared the American colonies independent from Britain?",
+      "options": [
+        "Bill of Rights",
+        "Declaration of Independence",
+        "Constitution",
+        "Federalist Papers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a puck?",
+      "options": [
+        "Hockey",
+        "Basketball",
+        "Volleyball",
+        "Tennis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie has the character Lightning McQueen?",
+      "options": [
+        "Cars",
+        "Toy Story",
+        "Up",
+        "Ratatouille"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Spain?",
+      "options": [
+        "Barcelona",
+        "Madrid",
+        "Seville",
+        "Valencia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created Sherlock Holmes?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Jules Verne",
+        "Bram Stoker"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'USB' commonly refer to?",
+      "options": [
+        "A standard for connecting devices",
+        "A type of sandwich",
+        "A weather pattern",
+        "A sports league"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous leader crossed the Alps with elephants?",
+      "options": [
+        "Hannibal",
+        "Julius Caesar",
+        "Alexander the Great",
+        "Charlemagne"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the basic unit of life?",
+      "options": [
+        "Atom",
+        "Cell",
+        "Tissue",
+        "Organ"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses terms like love, deuce, and ace?",
+      "options": [
+        "Tennis",
+        "Football",
+        "Golf",
+        "Swimming"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which series features the character Eleven?",
+      "options": [
+        "Stranger Things",
+        "The Last of Us",
+        "Wednesday",
+        "Lost"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Mexico?",
+      "options": [
+        "Guadalajara",
+        "Mexico City",
+        "Monterrey",
+        "Cancún"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Odyssey'?",
+      "options": [
+        "Homer",
+        "Sophocles",
+        "Virgil",
+        "Plato"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a firewall used for?",
+      "options": [
+        "Helping protect a network from unwanted access",
+        "Cooling a laptop",
+        "Creating sound effects",
+        "Scanning barcodes"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous route connected China with the Mediterranean world through trade?",
+      "options": [
+        "Silk Road",
+        "Route 66",
+        "Oregon Trail",
+        "Pan-American Highway"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of weather called?",
+      "options": [
+        "Meteorology",
+        "Geology",
+        "Astronomy",
+        "Biology"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is associated with the Stanley Cup?",
+      "options": [
+        "Hockey",
+        "Basketball",
+        "Baseball",
+        "Soccer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line 'There's no place like home'?",
+      "options": [
+        "The Wizard of Oz",
+        "E.T.",
+        "Mary Poppins",
+        "Back to the Future"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Germany?",
+      "options": [
+        "Munich",
+        "Berlin",
+        "Hamburg",
+        "Frankfurt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Treasure Island'?",
+      "options": [
+        "Robert Louis Stevenson",
+        "Daniel Defoe",
+        "Herman Melville",
+        "Jules Verne"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'download' mean?",
+      "options": [
+        "Transfer data from the internet to your device",
+        "Delete a folder",
+        "Turn off the screen",
+        "Increase volume"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

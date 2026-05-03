@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient people built Machu Picchu?",
+      "options": [
+        "Inca",
+        "Aztec",
+        "Maya",
+        "Olmec"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main function of red blood cells?",
+      "options": [
+        "Carry oxygen",
+        "Digest food",
+        "Build bones",
+        "Control balance"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, what is it called when a player takes too many steps without dribbling?",
+      "options": [
+        "Traveling",
+        "Offside",
+        "Icing",
+        "Fault"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features the character Darth Vader?",
+      "options": [
+        "Star Wars",
+        "Marvel",
+        "Harry Potter",
+        "The Lord of the Rings"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Secret Garden'?",
+      "options": [
+        "Frances Hodgson Burnett",
+        "L.M. Montgomery",
+        "J.M. Barrie",
+        "E. Nesbit"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'RAM' help a computer do?",
+      "options": [
+        "Temporarily store active data for quick access",
+        "Print documents",
+        "Connect to satellites",
+        "Display only black and white"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

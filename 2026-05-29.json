@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. document begins with 'We the People'?",
+      "options": [
+        "Constitution",
+        "Declaration of Independence",
+        "Bill of Rights",
+        "Gettysburg Address"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for oxygen?",
+      "options": [
+        "Ox",
+        "O",
+        "Og",
+        "On"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many rings are on the Olympic flag?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character is the main hero of the 'Indiana Jones' movies?",
+      "options": [
+        "Indiana Jones",
+        "Han Solo",
+        "James Bond",
+        "Marty McFly"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Dublin as its capital?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "Wales",
+        "England"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Tale of Peter Rabbit'?",
+      "options": [
+        "Beatrix Potter",
+        "A.A. Milne",
+        "Lewis Carroll",
+        "Kenneth Grahame"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is streaming?",
+      "options": [
+        "Playing media over the internet without fully downloading it first",
+        "Printing photos",
+        "Charging a tablet",
+        "Scanning documents"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Norse people were known for seafaring raids and exploration?",
+      "options": [
+        "Vikings",
+        "Samurai",
+        "Huns",
+        "Celts"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest organ of the human body?",
+      "options": [
+        "Skin",
+        "Heart",
+        "Brain",
+        "Liver"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In track and field, what event involves jumping over a horizontal bar?",
+      "options": [
+        "High jump",
+        "Shot put",
+        "Discus",
+        "Marathon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a clownfish named Nemo?",
+      "options": [
+        "Finding Nemo",
+        "Shark Tale",
+        "The Little Mermaid",
+        "Luca"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is both a continent and a country?",
+      "options": [
+        "Australia",
+        "Greenland",
+        "Iceland",
+        "Madagascar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Very Hungry Caterpillar'?",
+      "options": [
+        "Eric Carle",
+        "Mo Willems",
+        "Dr. Seuss",
+        "Maurice Sendak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a pixel?",
+      "options": [
+        "A tiny unit of a digital image",
+        "A type of battery",
+        "A wireless antenna",
+        "A computer password"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ship carried the Pilgrims to North America in 1620?",
+      "options": [
+        "Mayflower",
+        "Santa Maria",
+        "Endeavour",
+        "Beagle"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is H2O more commonly known as?",
+      "options": [
+        "Salt",
+        "Water",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards a touchdown?",
+      "options": [
+        "Soccer",
+        "American football",
+        "Hockey",
+        "Golf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features the fictional town of Hawkins, Indiana?",
+      "options": [
+        "Stranger Things",
+        "The Office",
+        "Friends",
+        "Wednesday"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the Sahara Desert located on?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Geoffrey Chaucer",
+        "Oscar Wilde",
+        "Homer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'Wi‑Fi' allow devices to do?",
+      "options": [
+        "Connect wirelessly to a network",
+        "Print money",
+        "Measure temperature",
+        "Store water"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

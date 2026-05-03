@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization developed a famous calendar and lived in Mesoamerica?",
+      "options": [
+        "Maya",
+        "Viking",
+        "Inca",
+        "Phoenician"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the center of an atom called?",
+      "options": [
+        "Electron",
+        "Nucleus",
+        "Molecule",
+        "Cell"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is one stroke under par called?",
+      "options": [
+        "Bogey",
+        "Birdie",
+        "Eagle",
+        "Par"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star released the album 'Thriller'?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "Stevie Wonder",
+        "Lionel Richie"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Barcelona?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "France",
+        "Italy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Alice's Adventures in Wonderland,' what animal does Alice follow?",
+      "options": [
+        "White Rabbit",
+        "Black Cat",
+        "Red Fox",
+        "Blue Bird"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a screenshot?",
+      "options": [
+        "A picture of what is on a screen",
+        "A broken monitor",
+        "A sound recording",
+        "A computer virus"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

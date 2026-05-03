@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first president of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "James Madison"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the cell contains most of its genetic material?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Cell wall",
+        "Mitochondrion"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a shuttlecock?",
+      "options": [
+        "Badminton",
+        "Squash",
+        "Lacrosse",
+        "Cricket"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero is also known as the Dark Knight?",
+      "options": [
+        "Superman",
+        "Batman",
+        "Iron Man",
+        "Black Panther"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Wizard of Oz,' what is Dorothy's dog named?",
+      "options": [
+        "Toto",
+        "Spot",
+        "Max",
+        "Bingo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What type of device is commonly used to connect a home network to the internet?",
+      "options": [
+        "Router",
+        "Printer",
+        "Scanner",
+        "Projector"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

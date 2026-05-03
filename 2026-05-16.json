@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the British prime minister during much of World War II?",
+      "options": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Tony Blair",
+        "Margaret Thatcher"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which system in the body helps you breathe?",
+      "options": [
+        "Digestive system",
+        "Respiratory system",
+        "Skeletal system",
+        "Nervous system"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic event includes swimming, cycling, and running?",
+      "options": [
+        "Triathlon",
+        "Decathlon",
+        "Pentathlon",
+        "Biathlon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the song 'Hakuna Matata'?",
+      "options": [
+        "The Lion King",
+        "Aladdin",
+        "Mulan",
+        "Tarzan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is the Grand Canyon in?",
+      "options": [
+        "Nevada",
+        "Arizona",
+        "Utah",
+        "Colorado"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Matilda'?",
+      "options": [
+        "Roald Dahl",
+        "J.R.R. Tolkien",
+        "Lemony Snicket",
+        "Kate DiCamillo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'AI' stand for?",
+      "options": [
+        "Artificial Intelligence",
+        "Automatic Internet",
+        "Advanced Icon",
+        "Applied Imaging"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

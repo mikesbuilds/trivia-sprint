@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Renaissance began in which European country?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Portugal",
+        "Sweden"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of animal is a frog?",
+      "options": [
+        "Mammal",
+        "Reptile",
+        "Amphibian",
+        "Bird"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many bases are on a standard baseball diamond?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the character Elsa?",
+      "options": [
+        "Frozen",
+        "Coco",
+        "Encanto",
+        "Inside Out"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Ottawa",
+        "Vancouver",
+        "Calgary"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Charlotte's Web'?",
+      "options": [
+        "E.B. White",
+        "Judy Blume",
+        "C.S. Lewis",
+        "Beverly Cleary"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a touchscreen?",
+      "options": [
+        "A display that responds to touch",
+        "A screen with no image",
+        "A paper notebook",
+        "A type of battery"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

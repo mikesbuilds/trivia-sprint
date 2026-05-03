@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. purchase from France doubled the country's size in 1803?",
+      "options": [
+        "Alaska Purchase",
+        "Louisiana Purchase",
+        "Gadsden Purchase",
+        "Florida Purchase"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the nearest star to Earth?",
+      "options": [
+        "Sirius",
+        "The Sun",
+        "Polaris",
+        "Alpha Centauri"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for three goals by one player in a single hockey game?",
+      "options": [
+        "Triple-double",
+        "Hat trick",
+        "Grand slam",
+        "Clean sweep"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a rat who loves to cook?",
+      "options": [
+        "Ratatouille",
+        "Finding Nemo",
+        "Wall-E",
+        "Monsters, Inc."
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Cairo as its capital?",
+      "options": [
+        "Egypt",
+        "Morocco",
+        "Turkey",
+        "Jordan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'A Christmas Carol'?",
+      "options": [
+        "Charles Dickens",
+        "Victor Hugo",
+        "Leo Tolstoy",
+        "H.G. Wells"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPS' help determine?",
+      "options": [
+        "Location",
+        "Battery health",
+        "Screen size",
+        "Printer ink level"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

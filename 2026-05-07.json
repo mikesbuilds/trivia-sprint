@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war was fought between the North and South regions of the United States?",
+      "options": [
+        "Revolutionary War",
+        "Civil War",
+        "War of 1812",
+        "Spanish-American War"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Electricity"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what score comes after deuce if a player wins the next point?",
+      "options": [
+        "Love",
+        "Advantage",
+        "Set",
+        "Match"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie franchise features a character named Luke Skywalker?",
+      "options": [
+        "Star Wars",
+        "Star Trek",
+        "Avatar",
+        "The Matrix"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Ethiopia",
+        "Uganda"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote '1984'?",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "J.R.R. Tolkien"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of two-factor authentication?",
+      "options": [
+        "Make screens brighter",
+        "Add an extra login security step",
+        "Compress photos",
+        "Increase battery size"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

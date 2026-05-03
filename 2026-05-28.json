@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which inventor is commonly associated with the practical light bulb?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Samuel Morse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What do bees collect from flowers to make honey?",
+      "options": [
+        "Nectar",
+        "Sand",
+        "Bark",
+        "Dew"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a pommel horse?",
+      "options": [
+        "Gymnastics",
+        "Swimming",
+        "Cycling",
+        "Wrestling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the character Woody?",
+      "options": [
+        "Toy Story",
+        "Cars",
+        "Monsters, Inc.",
+        "Finding Dory"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is located in northern Africa?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Mojave"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Where the Wild Things Are'?",
+      "options": [
+        "Maurice Sendak",
+        "Eric Carle",
+        "Shel Silverstein",
+        "A.A. Milne"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a hyperlink?",
+      "options": [
+        "A clickable link to another location",
+        "A computer fan",
+        "A type of battery",
+        "A screen cleaner"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

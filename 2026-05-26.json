@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. president appears on the penny?",
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of a plant takes in water from the soil?",
+      "options": [
+        "Leaves",
+        "Roots",
+        "Flowers",
+        "Fruit"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what is it called when the score is tied at the end?",
+      "options": [
+        "Draw",
+        "Strike",
+        "Break",
+        "Serve"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the character Shrek?",
+      "options": [
+        "Shrek",
+        "Madagascar",
+        "Ice Age",
+        "Despicable Me"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Eiffel Tower?",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland",
+        "Austria"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'password strength' usually measure?",
+      "options": [
+        "How hard a password is to guess",
+        "How loud a keyboard is",
+        "How fast a screen refreshes",
+        "How bright a monitor is"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

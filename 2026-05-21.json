@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. president is associated with the New Deal?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Herbert Hoover",
+        "Harry S. Truman",
+        "Dwight D. Eisenhower"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main gas humans need to breathe?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Methane",
+        "Neon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a shot worth from behind the arc?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character lives in a pineapple under the sea?",
+      "options": [
+        "SpongeBob SquarePants",
+        "Patrick Star",
+        "Squidward Tentacles",
+        "Doraemon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to Machu Picchu?",
+      "options": [
+        "Chile",
+        "Peru",
+        "Colombia",
+        "Bolivia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Mary Shelley",
+        "Jane Austen",
+        "Virginia Woolf",
+        "Agatha Christie"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a browser used for?",
+      "options": [
+        "Accessing websites",
+        "Cooking food",
+        "Measuring weight",
+        "Cutting wood"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

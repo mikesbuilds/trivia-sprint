@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilization is credited with building the pyramids at Giza?",
+      "options": [
+        "Greek",
+        "Egyptian",
+        "Persian",
+        "Mayan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes usually result in an out?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album 'Abbey Road'?",
+      "options": [
+        "The Rolling Stones",
+        "The Beatles",
+        "Queen",
+        "Fleetwood Mac"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is famous for the Great Barrier Reef?",
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Indonesia",
+        "South Africa"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Raven'?",
+      "options": [
+        "Edgar Allan Poe",
+        "Walt Whitman",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Power Utility",
+        "Core Program User",
+        "Central Pixel Unit"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was buried by the eruption of Mount Vesuvius?",
+      "options": [
+        "Pompeii",
+        "Athens",
+        "Sparta",
+        "Carthage"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is closest to the Sun?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In bowling, what is it called when you knock down all ten pins on the first roll?",
+      "options": [
+        "Spare",
+        "Strike",
+        "Split",
+        "Turkey"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Iron Man in the Marvel movies?",
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Europe and Asia in Russia?",
+      "options": [
+        "Alps",
+        "Ural Mountains",
+        "Andes",
+        "Rockies"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Lion, the Witch and the Wardrobe'?",
+      "options": [
+        "C.S. Lewis",
+        "J.K. Rowling",
+        "Philip Pullman",
+        "Lewis Carroll"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is Bluetooth commonly used for?",
+      "options": [
+        "Short-range wireless connections",
+        "Boiling water",
+        "Growing plants",
+        "Printing newspapers"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

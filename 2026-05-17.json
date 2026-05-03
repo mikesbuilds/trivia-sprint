@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which wall divided a German city during the Cold War?",
+      "options": [
+        "Berlin Wall",
+        "Great Wall",
+        "Hadrian's Wall",
+        "Western Wall"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process of a liquid turning into a gas called?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Melting"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses clubs, balls, and tees?",
+      "options": [
+        "Golf",
+        "Baseball",
+        "Polo",
+        "Lacrosse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fictional wizard attends Hogwarts?",
+      "options": [
+        "Harry Potter",
+        "Percy Jackson",
+        "Bilbo Baggins",
+        "Peter Pan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Greece?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Istanbul",
+        "Sofia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "Mark Twain",
+        "Ernest Hemingway"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a QR code used for?",
+      "options": [
+        "Quickly opening information with a scan",
+        "Measuring rainfall",
+        "Charging batteries",
+        "Playing vinyl records"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

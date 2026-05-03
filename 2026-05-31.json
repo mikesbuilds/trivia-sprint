@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which emperor was associated with a code of laws in ancient Babylon?",
+      "options": [
+        "Hammurabi",
+        "Nero",
+        "Augustus",
+        "Constantine"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for molten rock beneath Earth's surface?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Granite",
+        "Basalt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes a libero position?",
+      "options": [
+        "Volleyball",
+        "Baseball",
+        "Golf",
+        "Boxing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album '25'?",
+      "options": [
+        "Adele",
+        "Rihanna",
+        "Katy Perry",
+        "Lady Gaga"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Taj Mahal?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Nepal",
+        "Bangladesh"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Atticus Finch?",
+      "options": [
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye",
+        "Of Mice and Men",
+        "The Outsiders"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'upload' mean?",
+      "options": [
+        "Send data from your device to another system",
+        "Erase all files",
+        "Turn up brightness",
+        "Open a paper envelope"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

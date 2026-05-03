@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict ended with the Treaty of Versailles in 1919?",
+      "options": [
+        "World War I",
+        "World War II",
+        "Korean War",
+        "Crimean War"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for sodium?",
+      "options": [
+        "So",
+        "Na",
+        "Sd",
+        "S"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "What sport is known as 'the beautiful game'?",
+      "options": [
+        "Soccer",
+        "Baseball",
+        "Boxing",
+        "Skiing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Disney movie features the character Maui?",
+      "options": [
+        "Moana",
+        "Encanto",
+        "Frozen",
+        "Hercules"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river is the longest in Africa?",
+      "options": [
+        "Nile",
+        "Congo",
+        "Zambezi",
+        "Niger"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Little Women'?",
+      "options": [
+        "Louisa May Alcott",
+        "Laura Ingalls Wilder",
+        "Harper Lee",
+        "Emily Brontë"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an operating system?",
+      "options": [
+        "Software that manages computer hardware and apps",
+        "A type of desk",
+        "A music speaker",
+        "A camera lens"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

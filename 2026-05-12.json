@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country gifted the Statue of Liberty to the United States?",
+      "options": [
+        "France",
+        "Germany",
+        "Spain",
+        "Canada"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the boiling point of water at sea level in Celsius?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "150°C"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Wimbledon?",
+      "options": [
+        "Tennis",
+        "Rugby",
+        "Cricket",
+        "Cycling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series features Grogu, often called Baby Yoda?",
+      "options": [
+        "The Mandalorian",
+        "Loki",
+        "The Witcher",
+        "The Crown"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is shaped like a boot?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Chile",
+        "India"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What kind of creature is Aslan in 'The Chronicles of Narnia'?",
+      "options": [
+        "Lion",
+        "Dragon",
+        "Wolf",
+        "Eagle"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'app' commonly stand for?",
+      "options": [
+        "Application",
+        "Approval",
+        "Appliance",
+        "Appendix"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

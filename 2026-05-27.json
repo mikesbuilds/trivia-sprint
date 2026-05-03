@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous battle took place in 1066 in England?",
+      "options": [
+        "Battle of Hastings",
+        "Battle of Waterloo",
+        "Battle of Yorktown",
+        "Battle of Agincourt"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of rocks called?",
+      "options": [
+        "Geology",
+        "Botany",
+        "Zoology",
+        "Meteorology"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a Super Bowl championship game?",
+      "options": [
+        "American football",
+        "Basketball",
+        "Baseball",
+        "Soccer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist is known for the song 'Bad Guy'?",
+      "options": [
+        "Billie Eilish",
+        "Olivia Rodrigo",
+        "Sia",
+        "Lorde"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is made up of islands in the Pacific Ocean?",
+      "options": [
+        "Hawaii",
+        "Alaska",
+        "Maine",
+        "Oregon"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book series features Katniss Everdeen?",
+      "options": [
+        "The Hunger Games",
+        "Divergent",
+        "Twilight",
+        "The Maze Runner"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a backup?",
+      "options": [
+        "A copy of data saved for recovery",
+        "A broken screen",
+        "A slow internet plan",
+        "A type of mousepad"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

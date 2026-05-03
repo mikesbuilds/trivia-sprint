@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which queen ruled England during the Spanish Armada in 1588?",
+      "options": [
+        "Elizabeth I",
+        "Victoria",
+        "Mary I",
+        "Anne"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What are the three states of matter most commonly taught in school?",
+      "options": [
+        "Rock, paper, scissors",
+        "Solid, liquid, gas",
+        "Hot, cold, warm",
+        "Earth, air, fire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, what separates the two teams on the court?",
+      "options": [
+        "A wall",
+        "A net",
+        "A rope",
+        "A line of cones"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie franchise features dinosaurs brought back through genetic engineering?",
+      "options": [
+        "Jurassic Park",
+        "Transformers",
+        "Fast & Furious",
+        "Men in Black"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is Brazil located on?",
+      "options": [
+        "South America",
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Grapes of Wrath'?",
+      "options": [
+        "John Steinbeck",
+        "William Faulkner",
+        "Tennessee Williams",
+        "Jack London"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an emoji?",
+      "options": [
+        "A small digital icon used to express ideas or emotions",
+        "A computer cable",
+        "A music file format",
+        "A type of keyboard"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
