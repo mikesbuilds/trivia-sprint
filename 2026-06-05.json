@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous trail carried pioneers westward to the Pacific Northwest?",
+      "options": [
+        "Santa Fe Trail",
+        "Natchez Trace",
+        "Chisholm Trail",
+        "Oregon Trail"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a baby kangaroo?",
+      "options": [
+        "Joey",
+        "Calf",
+        "Cub",
+        "Foal"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is Simone Biles famous for?",
+      "options": [
+        "Tennis",
+        "Gymnastics",
+        "Track cycling",
+        "Diving"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated movie features emotions named Joy and Sadness?",
+      "options": [
+        "Soul",
+        "Elemental",
+        "Inside Out",
+        "Coco"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is the capital of Argentina?",
+      "options": [
+        "Lima",
+        "Santiago",
+        "Montevideo",
+        "Buenos Aires"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In The Giver, what is the main character’s name?",
+      "options": [
+        "Jonas",
+        "Thomas",
+        "Brian",
+        "Stanley"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a spam filter help block?",
+      "options": [
+        "Broken headphones",
+        "Unwanted email",
+        "Low battery alerts",
+        "Screen glare"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

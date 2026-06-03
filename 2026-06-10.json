@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous nurse became known as the Lady with the Lamp?",
+      "options": [
+        "Florence Nightingale",
+        "Clara Barton",
+        "Marie Curie",
+        "Rosa Parks"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process of animals changing form as they grow, like caterpillar to butterfly?",
+      "options": [
+        "Migration",
+        "Metamorphosis",
+        "Photosynthesis",
+        "Pollination"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a term called a knockout?",
+      "options": [
+        "Golf",
+        "Curling",
+        "Boxing",
+        "Rowing"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a blue genie voiced by Robin Williams?",
+      "options": [
+        "Hercules",
+        "Mulan",
+        "Pocahontas",
+        "Aladdin"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known for fjords and cities like Bergen?",
+      "options": [
+        "Norway",
+        "Spain",
+        "Greece",
+        "Egypt"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Phantom Tollbooth?",
+      "options": [
+        "Roald Dahl",
+        "Norton Juster",
+        "C.S. Lewis",
+        "E.B. White"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does mute usually do during a video call?",
+      "options": [
+        "Brightens the camera",
+        "Deletes the chat",
+        "Turns off your microphone",
+        "Starts recording"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

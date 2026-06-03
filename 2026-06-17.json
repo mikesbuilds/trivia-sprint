@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous canal connects the Atlantic and Pacific Oceans?",
+      "options": [
+        "Suez Canal",
+        "Erie Canal",
+        "Grand Canal",
+        "Panama Canal"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of Earth do we live on?",
+      "options": [
+        "Crust",
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is associated with the Tour de France?",
+      "options": [
+        "Running",
+        "Cycling",
+        "Swimming",
+        "Skiing"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character is the main hero in The Legend of Zelda games?",
+      "options": [
+        "Zelda",
+        "Kirby",
+        "Link",
+        "Sonic"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Seoul?",
+      "options": [
+        "Japan",
+        "China",
+        "Mongolia",
+        "South Korea"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote A Wrinkle in Time?",
+      "options": [
+        "Madeleine L’Engle",
+        "Judy Blume",
+        "Lois Lowry",
+        "S.E. Hinton"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a charger do for a device?",
+      "options": [
+        "Deletes apps",
+        "Restores battery power",
+        "Changes language",
+        "Blocks websites"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

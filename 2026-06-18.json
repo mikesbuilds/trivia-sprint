@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which famous Roman general was assassinated on the Ides of March?",
+      "options": [
+        "Julius Caesar",
+        "Nero",
+        "Marcus Aurelius",
+        "Constantine"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for a scientist who studies plants?",
+      "options": [
+        "Geologist",
+        "Botanist",
+        "Physicist",
+        "Zoologist"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a Stanley Cup Final?",
+      "options": [
+        "Baseball",
+        "Tennis",
+        "Ice hockey",
+        "Football"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the character Kevin McCallister?",
+      "options": [
+        "The Sandlot",
+        "Jumanji",
+        "The Goonies",
+        "Home Alone"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Athens?",
+      "options": [
+        "Greece",
+        "Italy",
+        "Turkey",
+        "Croatia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Bridge to Terabithia?",
+      "options": [
+        "Beverly Cleary",
+        "Katherine Paterson",
+        "Lois Lowry",
+        "Sharon Creech"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an e-book?",
+      "options": [
+        "A type of battery",
+        "A printed receipt",
+        "A book in digital form",
+        "A phone case"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

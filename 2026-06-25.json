@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which American aviator disappeared while attempting to fly around the world in 1937?",
+      "options": [
+        "Bessie Coleman",
+        "Sally Ride",
+        "Harriet Quimby",
+        "Amelia Earhart"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for the changing shape of the Moon as seen from Earth?",
+      "options": [
+        "Phases",
+        "Tides",
+        "Seasons",
+        "Eclipses only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a World Series?",
+      "options": [
+        "Hockey",
+        "Baseball",
+        "Soccer",
+        "Tennis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a young girl named Riley and her emotions?",
+      "options": [
+        "Turning Red",
+        "Soul",
+        "Inside Out",
+        "Elemental"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Edinburgh?",
+      "options": [
+        "Ireland",
+        "France",
+        "Norway",
+        "Scotland"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Graveyard Book?",
+      "options": [
+        "Neil Gaiman",
+        "Roald Dahl",
+        "Rick Riordan",
+        "Louis Sachar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a podcast?",
+      "options": [
+        "A computer virus",
+        "An audio program distributed online",
+        "A printer setting",
+        "A type of phone battery"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

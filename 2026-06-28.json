@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. movement used routes and safe houses to help enslaved people escape?",
+      "options": [
+        "Pony Express",
+        "Oregon Trail",
+        "Underground Railroad",
+        "Peace Corps"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a scientist who studies the stars and planets?",
+      "options": [
+        "Botanist",
+        "Geologist",
+        "Ecologist",
+        "Astronomer"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a term called birdie?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Soccer",
+        "Swimming"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a rabbit police officer named Judy Hopps?",
+      "options": [
+        "Sing",
+        "Zootopia",
+        "Rio",
+        "Bolt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Nairobi as its capital?",
+      "options": [
+        "Tanzania",
+        "Uganda",
+        "Kenya",
+        "Ethiopia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Stuart Little?",
+      "options": [
+        "Dr. Seuss",
+        "Roald Dahl",
+        "A.A. Milne",
+        "E.B. White"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a strong password usually made of?",
+      "options": [
+        "A mix of characters that is hard to guess",
+        "Only the word password",
+        "A single letter",
+        "Your name only"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

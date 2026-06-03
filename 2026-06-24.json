@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which event began when colonists protested a tax by dumping tea into Boston Harbor?",
+      "options": [
+        "Whiskey Rebellion",
+        "Gold Rush",
+        "Boston Tea Party",
+        "Trail of Tears"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What do you call an animal that has a backbone?",
+      "options": [
+        "Invertebrate",
+        "Mollusk",
+        "Arthropod only",
+        "Vertebrate"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes a penalty kick?",
+      "options": [
+        "Soccer",
+        "Bowling",
+        "Golf",
+        "Baseball"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a mermaid named Ariel?",
+      "options": [
+        "Moana",
+        "The Little Mermaid",
+        "Brave",
+        "Mulan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Prague?",
+      "options": [
+        "Poland",
+        "Austria",
+        "Czech Republic",
+        "Slovakia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Princess Bride novel?",
+      "options": [
+        "J.K. Rowling",
+        "Neil Gaiman",
+        "Terry Pratchett",
+        "William Goldman"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a database used for?",
+      "options": [
+        "Organizing and storing data",
+        "Heating a room",
+        "Recording only music",
+        "Cleaning viruses manually"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

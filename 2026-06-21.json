@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. president is associated with the Louisiana Purchase?",
+      "options": [
+        "John Adams",
+        "James Monroe",
+        "Andrew Jackson",
+        "Thomas Jefferson"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for rain, snow, sleet, or hail falling from clouds?",
+      "options": [
+        "Precipitation",
+        "Erosion",
+        "Friction",
+        "Orbit"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what starts each point?",
+      "options": [
+        "Dribble",
+        "Serve",
+        "Pitch",
+        "Kickoff"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a character named Lightning McQueen’s friend Mater?",
+      "options": [
+        "Toy Story",
+        "Bolt",
+        "Cars",
+        "Planes"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean is east of the United States?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Number the Stars?",
+      "options": [
+        "Lois Lowry",
+        "Judy Blume",
+        "S.E. Hinton",
+        "Kate DiCamillo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does log out mean?",
+      "options": [
+        "Make a file bigger",
+        "End your current account session",
+        "Turn on Bluetooth",
+        "Save a photo"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

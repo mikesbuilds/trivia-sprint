@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization was centered around the city of Tenochtitlán?",
+      "options": [
+        "Inca",
+        "Roman",
+        "Aztec",
+        "Greek"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main source of energy for Earth’s water cycle?",
+      "options": [
+        "The Moon",
+        "Volcanoes",
+        "Earth’s core",
+        "The Sun"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a caddie?",
+      "options": [
+        "Golf",
+        "Bowling",
+        "Cycling",
+        "Wrestling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which game franchise includes Mario, Luigi, and Princess Peach?",
+      "options": [
+        "Sonic",
+        "Super Mario",
+        "Zelda",
+        "Minecraft"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the country of Kenya located on?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a sled named Rosebud?",
+      "options": [
+        "The Call of the Wild",
+        "A Wrinkle in Time",
+        "The Outsiders",
+        "Citizen Kane"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the main job of antivirus software?",
+      "options": [
+        "Protect against malicious software",
+        "Draw cartoons",
+        "Charge batteries",
+        "Record temperature"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which invention by Johannes Gutenberg helped spread printed books in Europe?",
+      "options": [
+        "Steam engine",
+        "Printing press",
+        "Telegraph",
+        "Camera"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas makes up most of Earth’s atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a ring and gloves?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Baseball",
+        "Boxing"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character is the cowboy doll in Toy Story?",
+      "options": [
+        "Woody",
+        "Buzz",
+        "Rex",
+        "Hamm"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is known for the Everglades?",
+      "options": [
+        "Texas",
+        "Florida",
+        "Colorado",
+        "Michigan"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Bad Beginning, the first book in A Series of Unfortunate Events?",
+      "options": [
+        "Rick Riordan",
+        "R.L. Stine",
+        "Lemony Snicket",
+        "Jeff Kinney"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a touchpad used for on a laptop?",
+      "options": [
+        "Printing photos",
+        "Charging the battery",
+        "Cooling the screen",
+        "Moving the cursor"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

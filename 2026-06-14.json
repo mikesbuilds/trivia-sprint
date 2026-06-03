@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which medieval system was based on lords, vassals, and serfs?",
+      "options": [
+        "Feudalism",
+        "Capitalism",
+        "Democracy",
+        "Mercantilism"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body system includes the brain and spinal cord?",
+      "options": [
+        "Circulatory system",
+        "Nervous system",
+        "Digestive system",
+        "Endocrine system"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has races like the 100-meter dash?",
+      "options": [
+        "Ice hockey",
+        "Golf",
+        "Track and field",
+        "Bowling"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie series features a DeLorean time machine?",
+      "options": [
+        "Ghostbusters",
+        "Jumanji",
+        "National Treasure",
+        "Back to the Future"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Marrakech?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "Turkey",
+        "India"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Fault in Our Stars?",
+      "options": [
+        "Suzanne Collins",
+        "John Green",
+        "Veronica Roth",
+        "Jason Reynolds"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an attachment in email?",
+      "options": [
+        "A stronger password",
+        "A browser window",
+        "A file sent along with a message",
+        "A broken link"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

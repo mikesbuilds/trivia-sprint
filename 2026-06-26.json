@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war included the battles of Lexington and Concord?",
+      "options": [
+        "American Revolutionary War",
+        "Civil War",
+        "World War I",
+        "Mexican-American War"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which substance do humans exhale more of than they inhale?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a rowing shell?",
+      "options": [
+        "Wrestling",
+        "Soccer",
+        "Rowing",
+        "Darts"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game lets players build with blocks in a sandbox world?",
+      "options": [
+        "Fortnite",
+        "Among Us",
+        "Rocket League",
+        "Minecraft"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is the country of India located on?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Westing Game?",
+      "options": [
+        "Lois Lowry",
+        "Ellen Raskin",
+        "Judy Blume",
+        "Gary Paulsen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does refresh usually do in a browser?",
+      "options": [
+        "Delete the computer",
+        "Mute the sound",
+        "Reload the current page",
+        "Print the screen"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder stood in Alexandria, Egypt?",
+      "options": [
+        "Hanging Gardens",
+        "Lighthouse of Alexandria",
+        "Colossus of Rhodes",
+        "Temple of Artemis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest bone in the human body?",
+      "options": [
+        "Tibia",
+        "Humerus",
+        "Femur",
+        "Skull"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a foil, épée, or sabre?",
+      "options": [
+        "Archery",
+        "Rowing",
+        "Judo",
+        "Fencing"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero is from the planet Krypton?",
+      "options": [
+        "Superman",
+        "Spider-Man",
+        "Thor",
+        "Aquaman"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Munich?",
+      "options": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Poland"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features a boy named Auggie Pullman?",
+      "options": [
+        "Holes",
+        "The Giver",
+        "Wonder",
+        "Hatchet"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the main purpose of a keyboard?",
+      "options": [
+        "Display pictures",
+        "Store electricity",
+        "Play DVDs",
+        "Enter text and commands"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

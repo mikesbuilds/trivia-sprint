@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which dynasty is known for connecting and expanding much of the Great Wall of China?",
+      "options": [
+        "Qin",
+        "Tudor",
+        "Mughal",
+        "Habsburg"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which simple machine is a ramp an example of?",
+      "options": [
+        "Pulley",
+        "Inclined plane",
+        "Lever",
+        "Wheel and axle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a scrum?",
+      "options": [
+        "Golf",
+        "Baseball",
+        "Rugby",
+        "Diving"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character is known for the phrase “I am Groot”?",
+      "options": [
+        "Rocket",
+        "Star-Lord",
+        "Drax",
+        "Groot"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the nickname the Lone Star State?",
+      "options": [
+        "Texas",
+        "Arizona",
+        "Nevada",
+        "New Mexico"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Lightning Thief?",
+      "options": [
+        "Suzanne Collins",
+        "Rick Riordan",
+        "Christopher Paolini",
+        "Eoin Colfer"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file type is commonly used for images?",
+      "options": [
+        "MP3",
+        "TXT",
+        "JPG",
+        "EXE"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

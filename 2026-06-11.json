@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer reached India by sailing around Africa in 1498?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Henry Hudson",
+        "Leif Erikson"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the freezing point of water in Celsius?",
+      "options": [
+        "10°C",
+        "32°C",
+        "0°C",
+        "100°C"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the highest score possible with one dart in standard darts?",
+      "options": [
+        "20",
+        "50",
+        "100",
+        "60"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the song “You’ve Got a Friend in Me”?",
+      "options": [
+        "Toy Story",
+        "Finding Nemo",
+        "Cars",
+        "Monsters University"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to Mount Fuji?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Scout Finch?",
+      "options": [
+        "Little Women",
+        "Jane Eyre",
+        "To Kill a Mockingbird",
+        "The Secret Garden"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does copy and paste let you do?",
+      "options": [
+        "Turn off Wi‑Fi",
+        "Clean a screen",
+        "Charge a laptop",
+        "Duplicate and move text or data"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

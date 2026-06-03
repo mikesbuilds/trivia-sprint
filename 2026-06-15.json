@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which movement fought to give women the right to vote?",
+      "options": [
+        "Temperance movement",
+        "Suffrage movement",
+        "Pop Art movement",
+        "Space Race"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which animal group has feathers?",
+      "options": [
+        "Reptiles",
+        "Mammals",
+        "Birds",
+        "Amphibians"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is a grand slam?",
+      "options": [
+        "Four strikeouts",
+        "A stolen base",
+        "A perfect bunt",
+        "A home run with the bases loaded"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a dragon named Toothless?",
+      "options": [
+        "How to Train Your Dragon",
+        "Shrek",
+        "The Croods",
+        "Rio"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Cape Town?",
+      "options": [
+        "Nigeria",
+        "South Africa",
+        "Brazil",
+        "Australia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Maze Runner?",
+      "options": [
+        "Rick Riordan",
+        "Gary Paulsen",
+        "James Dashner",
+        "Louis Sachar"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a webcam used for?",
+      "options": [
+        "Printing labels",
+        "Measuring weight",
+        "Charging phones",
+        "Capturing video for calls or recordings"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

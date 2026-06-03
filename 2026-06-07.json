@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which leader is associated with the Salt March in India?",
+      "options": [
+        "Nelson Mandela",
+        "Mahatma Gandhi",
+        "Winston Churchill",
+        "Sun Yat-sen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do we call animals that are active mostly at night?",
+      "options": [
+        "Migratory",
+        "Aquatic",
+        "Nocturnal",
+        "Domesticated"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what does FIFA govern internationally?",
+      "options": [
+        "Basketball",
+        "Tennis",
+        "Swimming",
+        "Football/soccer"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a magical family named the Madrigals?",
+      "options": [
+        "Encanto",
+        "Coco",
+        "Brave",
+        "Tangled"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country borders the United States to the north?",
+      "options": [
+        "Mexico",
+        "Canada",
+        "Greenland",
+        "Cuba"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Because of Winn-Dixie?",
+      "options": [
+        "Lois Lowry",
+        "Sharon Creech",
+        "Kate DiCamillo",
+        "Meg Cabot"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a printer do?",
+      "options": [
+        "Stores passwords",
+        "Tracks steps",
+        "Cools a room",
+        "Turns digital documents into paper copies"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

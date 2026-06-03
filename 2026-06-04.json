@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. state was the first to ratify the Constitution?",
+      "options": [
+        "Virginia",
+        "Pennsylvania",
+        "Delaware",
+        "New York"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the galaxy that contains Earth?",
+      "options": [
+        "Andromeda",
+        "Triangulum",
+        "Whirlpool",
+        "Milky Way"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In football, what is a field goal worth?",
+      "options": [
+        "3 points",
+        "2 points",
+        "4 points",
+        "6 points"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a panda named Po?",
+      "options": [
+        "The Bad Guys",
+        "Kung Fu Panda",
+        "Madagascar",
+        "Rio"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Norway?",
+      "options": [
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote Holes?",
+      "options": [
+        "Gary Paulsen",
+        "Andrew Clements",
+        "Jerry Spinelli",
+        "Louis Sachar"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a microphone convert sound into?",
+      "options": [
+        "Electrical signals",
+        "Printed words",
+        "Light beams",
+        "Heat"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

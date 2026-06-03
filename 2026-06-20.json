@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ship sank in 1912 after hitting an iceberg?",
+      "options": [
+        "Lusitania",
+        "Mayflower",
+        "Titanic",
+        "Endeavour"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What do you call a material that allows electricity to flow easily?",
+      "options": [
+        "Insulator",
+        "Evaporator",
+        "Reflector",
+        "Conductor"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Augusta National during a famous annual tournament?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Basketball",
+        "Soccer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the album Lemonade?",
+      "options": [
+        "Adele",
+        "Beyoncé",
+        "Rihanna",
+        "Lady Gaga"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Vienna?",
+      "options": [
+        "Germany",
+        "Hungary",
+        "Austria",
+        "Switzerland"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Diary of a Young Girl?",
+      "options": [
+        "Helen Keller",
+        "Maya Angelou",
+        "Malala Yousafzai",
+        "Anne Frank"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is airplane mode designed to do?",
+      "options": [
+        "Turn off wireless signals",
+        "Make the phone fly",
+        "Increase speaker volume",
+        "Delete old photos"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

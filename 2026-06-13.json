@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which American patriot is famous for saying “Give me liberty, or give me death!”?",
+      "options": [
+        "Paul Revere",
+        "Benjamin Franklin",
+        "John Hancock",
+        "Patrick Henry"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What kind of scientist studies fossils?",
+      "options": [
+        "Paleontologist",
+        "Meteorologist",
+        "Astronomer",
+        "Chemist"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes events called slalom and downhill?",
+      "options": [
+        "Boxing",
+        "Skiing",
+        "Baseball",
+        "Lacrosse"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which character is the main villain in The Lion King?",
+      "options": [
+        "Jafar",
+        "Ursula",
+        "Scar",
+        "Hades"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is famous for Yellowstone National Park’s Old Faithful geyser?",
+      "options": [
+        "Georgia",
+        "Ohio",
+        "Iowa",
+        "Wyoming"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote The Book Thief?",
+      "options": [
+        "Markus Zusak",
+        "John Green",
+        "Rick Riordan",
+        "R.J. Palacio"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the function of a computer mouse?",
+      "options": [
+        "Record audio",
+        "Control the pointer on screen",
+        "Cool the processor",
+        "Print images"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

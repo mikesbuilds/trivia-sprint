@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. president was a general in the Union Army before becoming president?",
+      "options": [
+        "James Monroe",
+        "Calvin Coolidge",
+        "Herbert Hoover",
+        "Ulysses S. Grant"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most prominent ring system?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Earth",
+        "Venus"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played with a cue and balls on a table?",
+      "options": [
+        "Cricket",
+        "Billiards",
+        "Handball",
+        "Polo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a house lifted by balloons?",
+      "options": [
+        "Brave",
+        "Onward",
+        "Up",
+        "Luca"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is the capital of Thailand?",
+      "options": [
+        "Hanoi",
+        "Jakarta",
+        "Manila",
+        "Bangkok"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Wind in the Willows?",
+      "options": [
+        "Kenneth Grahame",
+        "A.A. Milne",
+        "Lewis Carroll",
+        "E.B. White"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a tablet computer?",
+      "options": [
+        "A paper calendar",
+        "A flat portable touchscreen computer",
+        "A kitchen scale",
+        "A car engine part"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

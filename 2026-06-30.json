@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which queen ruled England before Elizabeth I and was nicknamed Bloody Mary?",
+      "options": [
+        "Mary I",
+        "Anne",
+        "Victoria",
+        "Jane Grey"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for animals without backbones?",
+      "options": [
+        "Vertebrates",
+        "Invertebrates",
+        "Mammals",
+        "Reptiles"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a pommel horse?",
+      "options": [
+        "Swimming",
+        "Cycling",
+        "Gymnastics",
+        "Wrestling"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop artist is known for the hit “Levitating”?",
+      "options": [
+        "Ariana Grande",
+        "Katy Perry",
+        "Miley Cyrus",
+        "Dua Lipa"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Zurich?",
+      "options": [
+        "Switzerland",
+        "Austria",
+        "Germany",
+        "Belgium"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The One and Only Ivan?",
+      "options": [
+        "Kate DiCamillo",
+        "Katherine Applegate",
+        "R.J. Palacio",
+        "Sharon Creech"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does undo usually do in software?",
+      "options": [
+        "Deletes the app",
+        "Turns off the internet",
+        "Reverses the most recent action",
+        "Prints the file"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

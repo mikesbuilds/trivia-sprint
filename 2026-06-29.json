@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient trade city was famous for purple dye made by Phoenicians?",
+      "options": [
+        "Babylon",
+        "Carthage",
+        "Memphis",
+        "Tyre"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of a flower makes pollen?",
+      "options": [
+        "Anther",
+        "Petal",
+        "Stem",
+        "Root"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a broom and stones on ice?",
+      "options": [
+        "Lacrosse",
+        "Curling",
+        "Rugby",
+        "Cricket"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a cooking rat named Remy?",
+      "options": [
+        "Luca",
+        "Cars",
+        "Ratatouille",
+        "Brave"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is home to Denali, North America’s tallest mountain?",
+      "options": [
+        "Colorado",
+        "Washington",
+        "Montana",
+        "Alaska"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Island of the Blue Dolphins?",
+      "options": [
+        "Scott O’Dell",
+        "Gary Paulsen",
+        "Lois Lowry",
+        "Jean Craighead George"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a spreadsheet cell?",
+      "options": [
+        "A power cord",
+        "A box where data can be entered",
+        "A screen crack",
+        "A type of speaker"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which leader is often associated with the phrase “Veni, vidi, vici”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Julius Caesar",
+        "Alexander Hamilton",
+        "George Washington"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do you call a push or pull on an object?",
+      "options": [
+        "Volume",
+        "Density",
+        "Force",
+        "Temperature"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a vaulting table?",
+      "options": [
+        "Volleyball",
+        "Curling",
+        "Sailing",
+        "Gymnastics"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a family of superheroes led by Mr. Incredible?",
+      "options": [
+        "The Incredibles",
+        "Megamind",
+        "Bolt",
+        "Zootopia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Reykjavik as its capital?",
+      "options": [
+        "Finland",
+        "Iceland",
+        "Denmark",
+        "Norway"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote Esperanza Rising?",
+      "options": [
+        "Sandra Cisneros",
+        "Jacqueline Woodson",
+        "Pam Muñoz Ryan",
+        "Linda Sue Park"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a username used for?",
+      "options": [
+        "Charging a device",
+        "Measuring internet speed",
+        "Opening a spreadsheet formula",
+        "Identifying an account"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

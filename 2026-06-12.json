@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by leaders called pharaohs?",
+      "options": [
+        "Roman Empire",
+        "Mongol Empire",
+        "Egyptian Empire",
+        "British Empire"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the path one object takes around another in space?",
+      "options": [
+        "Axis",
+        "Crater",
+        "Comet",
+        "Orbit"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a mat and moves like pins and takedowns?",
+      "options": [
+        "Wrestling",
+        "Sailing",
+        "Tennis",
+        "Hockey"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated movie features a young musician named Miguel?",
+      "options": [
+        "Moana",
+        "Coco",
+        "Raya and the Last Dragon",
+        "Soul"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Sweden?",
+      "options": [
+        "Oslo",
+        "Reykjavik",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote James and the Giant Peach?",
+      "options": [
+        "E.B. White",
+        "Dr. Seuss",
+        "C.S. Lewis",
+        "Roald Dahl"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the recycle bin or trash on a computer used for?",
+      "options": [
+        "Temporarily holding deleted files",
+        "Speeding up games",
+        "Connecting Wi‑Fi",
+        "Changing fonts"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
