@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1848 meeting in New York is a landmark in the U.S. women's rights movement?",
+      "options": [
+        "Hartford Convention",
+        "Seneca Falls Convention",
+        "Albany Congress",
+        "Annapolis Convention"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which greenhouse gas is also the main component of natural gas?",
+      "options": [
+        "Methane",
+        "Helium",
+        "Argon",
+        "Ozone"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a piece of equipment called a quiver?",
+      "options": [
+        "Archery",
+        "Cricket",
+        "Fencing",
+        "Bowling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows a group of kids in the town of Hawkins?",
+      "options": [
+        "The Umbrella Academy",
+        "Riverdale",
+        "Stranger Things",
+        "Lost"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is directly east of Italy?",
+      "options": [
+        "Adriatic Sea",
+        "Black Sea",
+        "North Sea",
+        "Arabian Sea"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Hunger Games'?",
+      "options": [
+        "Veronica Roth",
+        "Suzanne Collins",
+        "Stephenie Meyer",
+        "Cassandra Clare"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does SSD stand for?",
+      "options": [
+        "Simple Screen Display",
+        "System Storage Disk",
+        "Secure Software Device",
+        "Solid-State Drive"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

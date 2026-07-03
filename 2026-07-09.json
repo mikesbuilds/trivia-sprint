@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Aztec ruler was in power when Hernán Cortés arrived in Mexico?",
+      "options": [
+        "Huayna Capac",
+        "Moctezuma II",
+        "Pachacuti",
+        "Atahualpa"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of Earth's atmosphere contains most weather?",
+      "options": [
+        "Troposphere",
+        "Thermosphere",
+        "Mesosphere",
+        "Stratosphere"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, what is it called when a player reaches double digits in three stat categories?",
+      "options": [
+        "Grand slam",
+        "Clean sheet",
+        "Hat trick",
+        "Triple-double"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Disney character leaves a glass slipper behind?",
+      "options": [
+        "Cinderella",
+        "Ariel",
+        "Mulan",
+        "Belle"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is located mainly in Mongolia and northern China?",
+      "options": [
+        "Mojave Desert",
+        "Gobi Desert",
+        "Atacama Desert",
+        "Sahara Desert"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet wrote 'The Road Not Taken'?",
+      "options": [
+        "Robert Frost",
+        "Langston Hughes",
+        "Walt Whitman",
+        "Emily Dickinson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a server?",
+      "options": [
+        "A type of mouse",
+        "A phone charger",
+        "A screen protector",
+        "A computer that provides data or services to other computers"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which scandal led to President Richard Nixon's resignation?",
+      "options": [
+        "Teapot Dome",
+        "Credit Mobilier",
+        "Iran-Contra",
+        "Watergate"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the process where solids change directly into gas?",
+      "options": [
+        "Freezing",
+        "Sublimation",
+        "Condensation",
+        "Deposition"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is it called when a batter hits a single, double, triple, and home run in one game?",
+      "options": [
+        "Clean sweep",
+        "Hat trick",
+        "Perfect game",
+        "Cycle"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show features a paper company called Dunder Mifflin?",
+      "options": [
+        "The Office",
+        "Seinfeld",
+        "Parks and Recreation",
+        "Friends"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Bordeaux?",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland",
+        "Spain"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Tale of Despereaux'?",
+      "options": [
+        "Beverly Cleary",
+        "E.B. White",
+        "Judy Blume",
+        "Kate DiCamillo"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a sensor in a device do?",
+      "options": [
+        "Blocks websites",
+        "Stores passwords",
+        "Prints labels",
+        "Detects information from the environment"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

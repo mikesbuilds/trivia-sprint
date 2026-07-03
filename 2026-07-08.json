@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which printed book became a famous early product of Gutenberg's movable-type press?",
+      "options": [
+        "Domesday Book",
+        "Book of Kells",
+        "Canterbury Tales",
+        "Gutenberg Bible"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What pH value is considered neutral?",
+      "options": [
+        "1",
+        "7",
+        "5",
+        "14"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what rule prevents an attacker from gaining an unfair position near the goal?",
+      "options": [
+        "Traveling",
+        "Holding",
+        "Offside",
+        "Icing"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero team includes Mr. Fantastic and the Invisible Woman?",
+      "options": [
+        "Fantastic Four",
+        "X-Men",
+        "Avengers",
+        "Justice League"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the capital city of Ljubljana?",
+      "options": [
+        "Slovakia",
+        "Croatia",
+        "Slovenia",
+        "Serbia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Count of Monte Cristo'?",
+      "options": [
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas",
+        "Jules Verne"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does UX stand for?",
+      "options": [
+        "Upload Extension",
+        "User Experience",
+        "Universal Exchange",
+        "Utility Expansion"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1962 standoff brought the United States and Soviet Union close to nuclear conflict?",
+      "options": [
+        "Korean War",
+        "Suez Crisis",
+        "Berlin Airlift",
+        "Cuban Missile Crisis"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What do meteorologists use a barometer to measure?",
+      "options": [
+        "Rainfall depth",
+        "Wind direction",
+        "Cloud color",
+        "Air pressure"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In soccer, what is it called when a goalkeeper prevents a goal?",
+      "options": [
+        "Save",
+        "Catchdown",
+        "Blockade",
+        "Serve"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar movie is set partly in the Land of the Dead?",
+      "options": [
+        "Up",
+        "Luca",
+        "Coco",
+        "Soul"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the capital city of Nairobi?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Ethiopia",
+        "Rwanda"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Graveyard Book'?",
+      "options": [
+        "Philip Pullman",
+        "Lemony Snicket",
+        "Neil Gaiman",
+        "Terry Pratchett"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is version control branching used for?",
+      "options": [
+        "Cleaning browser history",
+        "Working on separate code changes",
+        "Increasing monitor size",
+        "Turning off sound"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

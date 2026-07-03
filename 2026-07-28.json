@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1992 treaty helped create the European Union?",
+      "options": [
+        "Treaty of Lisbon",
+        "Schengen Agreement",
+        "Treaty of Rome",
+        "Maastricht Treaty"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood vessels carry blood away from the heart?",
+      "options": [
+        "Arteries",
+        "Alveoli",
+        "Capillaries",
+        "Veins"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has the Triple Crown races of the Kentucky Derby, Preakness, and Belmont Stakes?",
+      "options": [
+        "Horse racing",
+        "Cycling",
+        "Track and field",
+        "Auto racing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which franchise features the house elves and Quidditch?",
+      "options": [
+        "Narnia",
+        "Lord of the Rings",
+        "Harry Potter",
+        "Percy Jackson"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Muscat?",
+      "options": [
+        "Jordan",
+        "Lebanon",
+        "Qatar",
+        "Oman"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features the character Meg Murry?",
+      "options": [
+        "The Golden Compass",
+        "A Wrinkle in Time",
+        "The Westing Game",
+        "Bridge to Terabithia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an algorithm?",
+      "options": [
+        "A computer screen",
+        "A type of cable",
+        "A step-by-step procedure for solving a problem",
+        "A password hint"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

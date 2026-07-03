@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which mission first landed humans on the Moon?",
+      "options": [
+        "Apollo 8",
+        "Mercury 7",
+        "Apollo 11",
+        "Gemini 4"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet rotates on its side compared with most planets?",
+      "options": [
+        "Mercury",
+        "Uranus",
+        "Venus",
+        "Mars"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played on a sheet with stones and brooms?",
+      "options": [
+        "Hockey",
+        "Bowling",
+        "Shuffleboard",
+        "Curling"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero's alter ego is Peter Parker?",
+      "options": [
+        "Superman",
+        "Spider-Man",
+        "Batman",
+        "The Flash"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is home to Crater Lake National Park?",
+      "options": [
+        "Washington",
+        "Idaho",
+        "California",
+        "Oregon"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the character Iago?",
+      "options": [
+        "Macbeth",
+        "Othello",
+        "King Lear",
+        "Hamlet"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a command-line interface controlled with?",
+      "options": [
+        "Only hand gestures",
+        "Voice calls only",
+        "Typed commands",
+        "Printed pages"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

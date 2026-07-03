@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who became South Africa's first Black president in 1994?",
+      "options": [
+        "F.W. de Klerk",
+        "Nelson Mandela",
+        "Thabo Mbeki",
+        "Desmond Tutu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of heredity called?",
+      "options": [
+        "Astronomy",
+        "Geology",
+        "Genetics",
+        "Ecology"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, what player often wears a different colored jersey and specializes in defense?",
+      "options": [
+        "Setter",
+        "Libero",
+        "Goalkeeper",
+        "Striker"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop singer is known for the song 'Firework'?",
+      "options": [
+        "Demi Lovato",
+        "Selena Gomez",
+        "Katy Perry",
+        "Miley Cyrus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean lies west of South America?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Left Hand of Darkness'?",
+      "options": [
+        "Margaret Atwood",
+        "Ursula K. Le Guin",
+        "Lois McMaster Bujold",
+        "Octavia Butler"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a 3D printer designed to create?",
+      "options": [
+        "Radio signals",
+        "Password lists",
+        "Physical objects from digital models",
+        "Only flat photos"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

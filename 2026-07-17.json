@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Whose assassination in Sarajevo helped trigger World War I?",
+      "options": [
+        "Tsar Nicholas II",
+        "Archduke Franz Ferdinand",
+        "Kaiser Wilhelm II",
+        "Woodrow Wilson"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which seeds begin to sprout?",
+      "options": [
+        "Germination",
+        "Pollination",
+        "Dormancy",
+        "Fertilization"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a wicket?",
+      "options": [
+        "Hockey",
+        "Cricket",
+        "Rugby",
+        "Golf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the hit 'Rolling in the Deep'?",
+      "options": [
+        "Lady Gaga",
+        "Adele",
+        "Rihanna",
+        "Beyoncé"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the capital city of Doha?",
+      "options": [
+        "Bahrain",
+        "Oman",
+        "Qatar",
+        "Kuwait"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Secret Life of Bees'?",
+      "options": [
+        "Barbara Kingsolver",
+        "Amy Tan",
+        "Alice Walker",
+        "Sue Monk Kidd"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is debugging?",
+      "options": [
+        "Deleting all files",
+        "Finding and fixing errors in code",
+        "Replacing hardware fans only",
+        "Making a screen brighter"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

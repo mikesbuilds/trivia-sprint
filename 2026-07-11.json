@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Russian ruler founded Saint Petersburg?",
+      "options": [
+        "Nicholas II",
+        "Peter the Great",
+        "Alexander I",
+        "Ivan the Terrible"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What do you call atoms of the same element with different numbers of neutrons?",
+      "options": [
+        "Ions",
+        "Compounds",
+        "Isotopes",
+        "Molecules"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a race called the 400-meter hurdles?",
+      "options": [
+        "Rowing",
+        "Track and field",
+        "Cycling",
+        "Swimming"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a character named Willy Wonka?",
+      "options": [
+        "The BFG",
+        "Matilda",
+        "Hook",
+        "Charlie and the Chocolate Factory"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Chile?",
+      "options": [
+        "Lima",
+        "Bogotá",
+        "Santiago",
+        "Quito"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Elizabeth Bennet?",
+      "options": [
+        "Pride and Prejudice",
+        "Emma",
+        "Jane Eyre",
+        "Little Women"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a binary digit called?",
+      "options": [
+        "Bit",
+        "Pixel",
+        "Node",
+        "Byte"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

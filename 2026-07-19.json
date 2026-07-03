@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which cultural movement centered in New York celebrated Black art, music, and literature in the 1920s?",
+      "options": [
+        "Lost Generation",
+        "Harlem Renaissance",
+        "Beat Generation",
+        "Hudson River School"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main function of the small intestine?",
+      "options": [
+        "Store memories",
+        "Pump blood",
+        "Filter air",
+        "Absorb nutrients"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Formula 1, what is the term for the front starting position?",
+      "options": [
+        "Power play",
+        "Opening tip",
+        "Fast break",
+        "Pole position"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which cartoon family lives in Springfield?",
+      "options": [
+        "The Belchers",
+        "The Simpsons",
+        "The Griffins",
+        "The Flintstones"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range includes Mount Everest?",
+      "options": [
+        "Rockies",
+        "Andes",
+        "Alps",
+        "Himalayas"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which epic poem tells of Odysseus's long journey home?",
+      "options": [
+        "The Iliad",
+        "The Aeneid",
+        "Beowulf",
+        "The Odyssey"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a push notification?",
+      "options": [
+        "A keyboard shortcut",
+        "A message sent by an app to a device",
+        "A type of hard drive",
+        "A charging method"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

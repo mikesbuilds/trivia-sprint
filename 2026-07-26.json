@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1975 event marked the end of the Vietnam War?",
+      "options": [
+        "Gulf of Tonkin incident",
+        "Tet Offensive",
+        "Fall of Saigon",
+        "Battle of Dien Bien Phu"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of bond involves sharing electrons?",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond only",
+        "Hydrogen bond only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which combat sport uses the terms jab, cross, hook, and uppercut?",
+      "options": [
+        "Judo",
+        "Fencing",
+        "Boxing",
+        "Karate kata only"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a clownfish father named Marlin?",
+      "options": [
+        "Luca",
+        "Finding Nemo",
+        "Moana",
+        "Shark Tale"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Vietnam?",
+      "options": [
+        "Hanoi",
+        "Vientiane",
+        "Bangkok",
+        "Phnom Penh"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Anne Shirley?",
+      "options": [
+        "Little Women",
+        "Pollyanna",
+        "Rebecca of Sunnybrook Farm",
+        "Anne of Green Gables"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is augmented reality?",
+      "options": [
+        "A paper map",
+        "A wired keyboard",
+        "Digital content overlaid on the real world",
+        "A backup battery"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Persian ruler founded the Achaemenid Empire?",
+      "options": [
+        "Darius III",
+        "Cyrus the Great",
+        "Xerxes I",
+        "Artaxerxes II"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for iron?",
+      "options": [
+        "Ir",
+        "I",
+        "In",
+        "Fe"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, what is it called when the ball is forcefully hit downward over the net?",
+      "options": [
+        "Spike",
+        "Dig",
+        "Set",
+        "Serve"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Hermione Granger in the Harry Potter films?",
+      "options": [
+        "Emma Stone",
+        "Natalie Portman",
+        "Keira Knightley",
+        "Emma Watson"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country has Accra as its capital?",
+      "options": [
+        "Kenya",
+        "Senegal",
+        "Uganda",
+        "Ghana"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Giver'?",
+      "options": [
+        "Madeleine L'Engle",
+        "Kate DiCamillo",
+        "Lois Lowry",
+        "Judy Blume"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does an IDE help programmers do?",
+      "options": [
+        "Clean screens",
+        "Charge laptops",
+        "Write and manage code",
+        "Compress clothing"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

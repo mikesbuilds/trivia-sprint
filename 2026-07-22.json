@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which nation launched Sputnik, the first artificial satellite?",
+      "options": [
+        "Soviet Union",
+        "United Kingdom",
+        "United States",
+        "France"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which simple machine is a seesaw most like?",
+      "options": [
+        "Pulley",
+        "Screw",
+        "Wedge",
+        "Lever"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards a green jersey in the Tour de France for points classification?",
+      "options": [
+        "Running",
+        "Rowing",
+        "Skiing",
+        "Cycling"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the song 'Bad Romance'?",
+      "options": [
+        "Madonna",
+        "Dua Lipa",
+        "Lady Gaga",
+        "Kesha"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island is divided between Haiti and the Dominican Republic?",
+      "options": [
+        "Hispaniola",
+        "Cuba",
+        "Jamaica",
+        "Puerto Rico"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Things Fall Apart'?",
+      "options": [
+        "Ben Okri",
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Ngũgĩ wa Thiong'o"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a neural network loosely inspired by?",
+      "options": [
+        "A glass lens",
+        "The brain's connected neurons",
+        "A bicycle chain",
+        "A weather vane"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

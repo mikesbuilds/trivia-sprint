@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city-state was Rome's rival in the Punic Wars?",
+      "options": [
+        "Carthage",
+        "Athens",
+        "Babylon",
+        "Thebes"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of electromagnetic wave has the shortest wavelength?",
+      "options": [
+        "Radio waves",
+        "Infrared waves",
+        "Microwaves",
+        "Gamma rays"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is the club usually used on the green called?",
+      "options": [
+        "Driver",
+        "Wedge",
+        "Iron",
+        "Putter"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated movie features emotions including Joy, Fear, and Anger?",
+      "options": [
+        "Soul",
+        "Turning Red",
+        "Inside Out",
+        "Elemental"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the capital city of Santa Fe?",
+      "options": [
+        "Arizona",
+        "New Mexico",
+        "Colorado",
+        "Nevada"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Watsons Go to Birmingham — 1963'?",
+      "options": [
+        "Jason Reynolds",
+        "Kwame Alexander",
+        "Christopher Paul Curtis",
+        "Walter Dean Myers"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is packet switching used for?",
+      "options": [
+        "Printing envelopes",
+        "Changing keyboard lights",
+        "Breaking data into pieces for network travel",
+        "Deleting duplicate photos"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

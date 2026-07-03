@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which French heroine helped inspire France during the Hundred Years' War?",
+      "options": [
+        "Marie Antoinette",
+        "Catherine de' Medici",
+        "Joan of Arc",
+        "Eleanor of Aquitaine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Through which state of matter does sound usually travel fastest?",
+      "options": [
+        "Plasma only",
+        "Solid",
+        "Gas",
+        "Vacuum"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is a game called when one team allows no hits?",
+      "options": [
+        "Walk-off",
+        "Cycle",
+        "No-hitter",
+        "Shutout only"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a young lion named Simba?",
+      "options": [
+        "Tarzan",
+        "Madagascar",
+        "Brother Bear",
+        "The Lion King"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is known as the Land of 10,000 Lakes?",
+      "options": [
+        "Michigan",
+        "Minnesota",
+        "Maine",
+        "Wisconsin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features a pig named Wilbur?",
+      "options": [
+        "Charlotte's Web",
+        "The Wind in the Willows",
+        "Animal Farm",
+        "Stuart Little"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does UI stand for?",
+      "options": [
+        "Upload Index",
+        "Utility Input",
+        "Universal Internet",
+        "User Interface"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient battle saw Athenian forces defeat Persia in 490 BCE?",
+      "options": [
+        "Battle of Marathon",
+        "Battle of Thermopylae",
+        "Battle of Gaugamela",
+        "Battle of Actium"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What shape is DNA famously known for?",
+      "options": [
+        "Double helix",
+        "Straight ladder only",
+        "Flat sheet",
+        "Single cube"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many balls usually give a batter a walk?",
+      "options": [
+        "Three",
+        "Two",
+        "Five",
+        "Four"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the fictional city where Batman usually fights crime?",
+      "options": [
+        "Star City",
+        "Metropolis",
+        "Gotham City",
+        "Central City"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the city of Bergen?",
+      "options": [
+        "Sweden",
+        "Finland",
+        "Denmark",
+        "Norway"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Holden Caulfield?",
+      "options": [
+        "A Separate Peace",
+        "The Catcher in the Rye",
+        "The Outsiders",
+        "Fahrenheit 451"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What system translates website names into IP addresses?",
+      "options": [
+        "DNS",
+        "USB",
+        "GPS",
+        "HTML"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. amendment started national Prohibition?",
+      "options": [
+        "18th Amendment",
+        "16th Amendment",
+        "22nd Amendment",
+        "20th Amendment"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force pulls objects toward the center of Earth?",
+      "options": [
+        "Tension",
+        "Magnetism",
+        "Friction",
+        "Gravity"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In lacrosse, what is used to carry and pass the ball?",
+      "options": [
+        "Stick with a netted pocket",
+        "Flat paddle",
+        "Racquet with strings only",
+        "Bat"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie franchise includes the character Jack Sparrow?",
+      "options": [
+        "National Treasure",
+        "The Mummy",
+        "Pirates of the Caribbean",
+        "Indiana Jones"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is home to the city of Asheville?",
+      "options": [
+        "South Carolina",
+        "Tennessee",
+        "Virginia",
+        "North Carolina"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'Wonder'?",
+      "options": [
+        "Sharon Creech",
+        "R.J. Palacio",
+        "Lois Lowry",
+        "Kate DiCamillo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does responsive design help a website do?",
+      "options": [
+        "Use less electricity always",
+        "Block every pop-up",
+        "Print faster",
+        "Adapt to different screen sizes"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

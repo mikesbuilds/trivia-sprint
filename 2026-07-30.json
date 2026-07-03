@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. expedition explored the Louisiana Territory after 1803?",
+      "options": [
+        "Coronado Expedition",
+        "Hudson Expedition",
+        "Zebulon Pike Expedition",
+        "Lewis and Clark Expedition"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What do we call a change in an organism's DNA sequence?",
+      "options": [
+        "Mutation",
+        "Hibernation",
+        "Adaptation",
+        "Migration"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which winter sport involves sliding headfirst on a small sled?",
+      "options": [
+        "Speed skating",
+        "Luge",
+        "Skeleton",
+        "Bobsled"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor is known for playing Captain Jack Sparrow?",
+      "options": [
+        "Hugh Jackman",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Orlando Bloom"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known for the island of Bali?",
+      "options": [
+        "Philippines",
+        "Malaysia",
+        "Thailand",
+        "Indonesia"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Hobbit'?",
+      "options": [
+        "J.R.R. Tolkien",
+        "Philip Pullman",
+        "Terry Pratchett",
+        "C.S. Lewis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a checksum used to help verify?",
+      "options": [
+        "Data integrity",
+        "Speaker volume",
+        "Battery age",
+        "Screen brightness"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

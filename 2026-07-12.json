@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1494 agreement divided newly claimed lands between Spain and Portugal?",
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Utrecht",
+        "Treaty of Tordesillas",
+        "Treaty of Ghent"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What sugar do plants make during photosynthesis?",
+      "options": [
+        "Lactose",
+        "Glucose",
+        "Fructose only",
+        "Sucrose only"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In football, what is the line called where each play begins?",
+      "options": [
+        "Line of scrimmage",
+        "Service line",
+        "Blue line",
+        "Free-throw line"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise features Master Chief?",
+      "options": [
+        "Metroid",
+        "Mass Effect",
+        "Halo",
+        "Doom"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state has the capital city of Boise?",
+      "options": [
+        "Iowa",
+        "Nevada",
+        "Utah",
+        "Idaho"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Martian'?",
+      "options": [
+        "Blake Crouch",
+        "Ernest Cline",
+        "Neal Stephenson",
+        "Andy Weir"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bits are commonly in one byte?",
+      "options": [
+        "16",
+        "8",
+        "4",
+        "2"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What term describes the major shift from hunting and gathering to farming?",
+      "options": [
+        "Industrial Revolution",
+        "Scientific Revolution",
+        "Neolithic Revolution",
+        "Digital Revolution"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which cell structure is often called the powerhouse of the cell?",
+      "options": [
+        "Golgi apparatus",
+        "Nucleus",
+        "Mitochondrion",
+        "Ribosome"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In pickleball, what is the non-volley zone commonly called?",
+      "options": [
+        "Porch",
+        "Lane",
+        "Box",
+        "Kitchen"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which green frog is a famous member of the Muppets?",
+      "options": [
+        "Kermit",
+        "Gonzo",
+        "Fozzie",
+        "Animal"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Uruguay?",
+      "options": [
+        "Asunción",
+        "La Paz",
+        "Santiago",
+        "Montevideo"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Lord of the Flies'?",
+      "options": [
+        "William Golding",
+        "J.D. Salinger",
+        "George Orwell",
+        "Aldous Huxley"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does API stand for in software development?",
+      "options": [
+        "Automated Program Index",
+        "Application Programming Interface",
+        "Applied Processor Input",
+        "Advanced Pixel Interface"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

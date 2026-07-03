@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Mughal emperor is known for policies of religious tolerance and a strong central government?",
+      "options": [
+        "Babur",
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of rock forms when existing rock is changed by heat and pressure?",
+      "options": [
+        "Basaltic",
+        "Metamorphic",
+        "Igneous",
+        "Sedimentary"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In hockey, what is it called when one team has more players because of a penalty?",
+      "options": [
+        "Power play",
+        "Shootout",
+        "Icing",
+        "Faceoff"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the album '1989'?",
+      "options": [
+        "Taylor Swift",
+        "Ariana Grande",
+        "Katy Perry",
+        "Adele"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Ho Chi Minh City?",
+      "options": [
+        "Cambodia",
+        "Laos",
+        "Vietnam",
+        "Thailand"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The House of the Spirits'?",
+      "options": [
+        "Isabel Allende",
+        "Gabriel García Márquez",
+        "Julia Alvarez",
+        "Sandra Cisneros"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a client in networking?",
+      "options": [
+        "A printer cartridge",
+        "A device or app that requests services",
+        "A file extension",
+        "A cooling fan"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

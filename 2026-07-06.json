@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which wealthy Mali ruler made a famous pilgrimage to Mecca in the 1300s?",
+      "options": [
+        "Ibn Battuta",
+        "Mansa Musa",
+        "Askia Muhammad",
+        "Sundiata Keita"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which law of motion is often summarized as objects at rest stay at rest unless acted on?",
+      "options": [
+        "Newton's first law",
+        "Newton's second law",
+        "Newton's third law",
+        "Kepler's first law"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How often are the Summer Olympic Games normally held?",
+      "options": [
+        "Every two years",
+        "Every year",
+        "Every four years",
+        "Every six years"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of Mario's green dinosaur companion?",
+      "options": [
+        "Wario",
+        "Toad",
+        "Yoshi",
+        "Bowser"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Medellín?",
+      "options": [
+        "Bolivia",
+        "Colombia",
+        "Ecuador",
+        "Peru"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Outsiders'?",
+      "options": [
+        "R.J. Palacio",
+        "Jerry Spinelli",
+        "S.E. Hinton",
+        "Gary Paulsen"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a compiler used for?",
+      "options": [
+        "Translating code into a runnable form",
+        "Drawing icons",
+        "Charging devices",
+        "Cleaning viruses manually"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

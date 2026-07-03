@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country defeated Russia in a major 1904-1905 war, shocking many European powers?",
+      "options": [
+        "Germany",
+        "Japan",
+        "China",
+        "Ottoman Empire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which bones protect the brain?",
+      "options": [
+        "Vertebrae only",
+        "Femur",
+        "Ribs",
+        "Skull"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In bowling, what is three strikes in a row commonly called?",
+      "options": [
+        "Hat trick",
+        "Turkey",
+        "Eagle",
+        "Triple crown"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features Aang as the Avatar?",
+      "options": [
+        "Avatar: The Last Airbender",
+        "Naruto",
+        "Dragon Ball Z",
+        "Teen Titans"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Atacama Desert?",
+      "options": [
+        "Australia",
+        "Africa",
+        "Asia",
+        "South America"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby?",
+      "options": [
+        "The Great Gatsby",
+        "The Sun Also Rises",
+        "The Grapes of Wrath",
+        "Of Mice and Men"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a code repository?",
+      "options": [
+        "A type of battery",
+        "A gaming controller",
+        "A place to store and manage code",
+        "A computer speaker"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

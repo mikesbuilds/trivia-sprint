@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which canal opened in 1869 and connected the Mediterranean Sea to the Red Sea?",
+      "options": [
+        "Panama Canal",
+        "Grand Canal",
+        "Erie Canal",
+        "Suez Canal"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for carbon?",
+      "options": [
+        "C",
+        "Ca",
+        "Co",
+        "Cr"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is a serve that the opponent cannot touch called?",
+      "options": [
+        "Spare",
+        "Try",
+        "Ace",
+        "Birdie"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a talking snowman named Olaf?",
+      "options": [
+        "Frozen",
+        "Tangled",
+        "Coco",
+        "Brave"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Christchurch?",
+      "options": [
+        "Canada",
+        "New Zealand",
+        "Ireland",
+        "Australia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features a boy named Stanley Yelnats?",
+      "options": [
+        "Hatchet",
+        "Wonder",
+        "Holes",
+        "Maniac Magee"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a database index used for?",
+      "options": [
+        "Playing audio",
+        "Speeding up data lookup",
+        "Charging a tablet",
+        "Changing font color"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

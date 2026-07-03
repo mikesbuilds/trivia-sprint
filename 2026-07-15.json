@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which statesman is strongly associated with the unification of Germany in 1871?",
+      "options": [
+        "Klemens von Metternich",
+        "Napoleon III",
+        "Giuseppe Garibaldi",
+        "Otto von Bismarck"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the eye contains light-sensitive cells?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Iris",
+        "Retina"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes a discipline called dressage?",
+      "options": [
+        "Sailing",
+        "Equestrian",
+        "Gymnastics",
+        "Diving"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero uses a lasso of truth?",
+      "options": [
+        "Black Widow",
+        "Captain Marvel",
+        "Storm",
+        "Wonder Woman"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Egypt?",
+      "options": [
+        "Cairo",
+        "Rabat",
+        "Tunis",
+        "Amman"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Dracula'?",
+      "options": [
+        "H.G. Wells",
+        "Robert Louis Stevenson",
+        "Mary Shelley",
+        "Bram Stoker"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does GUI stand for?",
+      "options": [
+        "Graphical User Interface",
+        "General Upload Input",
+        "Global User Internet",
+        "Graphic Utility Index"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

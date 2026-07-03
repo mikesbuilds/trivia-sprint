@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. plan helped rebuild Western Europe after World War II?",
+      "options": [
+        "Monroe Doctrine",
+        "Marshall Plan",
+        "New Frontier",
+        "Square Deal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What kind of lens is thicker in the middle and can magnify objects?",
+      "options": [
+        "Concave lens",
+        "Flat mirror",
+        "Convex lens",
+        "Prism only"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many seconds is an NBA shot clock?",
+      "options": [
+        "30",
+        "24",
+        "35",
+        "20"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a boy who befriends a dragon named Toothless?",
+      "options": [
+        "How to Train Your Dragon",
+        "Onward",
+        "Shrek",
+        "Brave"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Romania?",
+      "options": [
+        "Belgrade",
+        "Bratislava",
+        "Budapest",
+        "Bucharest"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book features a magical nanny named Mary Poppins?",
+      "options": [
+        "Peter Pan",
+        "Matilda",
+        "Mary Poppins",
+        "The Secret Garden"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is machine learning mainly designed to let computers do?",
+      "options": [
+        "Learn patterns from data",
+        "Grow plants",
+        "Charge batteries wirelessly only",
+        "Print paper faster"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
