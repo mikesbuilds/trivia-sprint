@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Charles Darwin sailed on which research ship?",
+      "options": [
+        "HMS Endeavour",
+        "Mayflower",
+        "HMS Beagle",
+        "Santa Maria"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which molecule carries genetic instructions in living things?",
+      "options": [
+        "Chlorophyll",
+        "DNA",
+        "Glucose",
+        "ATP"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which combat sport can be won by pinning an opponent's shoulders?",
+      "options": [
+        "Fencing",
+        "Boxing",
+        "Karate",
+        "Wrestling"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which small green Jedi master trains Luke Skywalker?",
+      "options": [
+        "Obi-Wan Kenobi",
+        "Qui-Gon Jinn",
+        "Yoda",
+        "Mace Windu"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates France and Spain?",
+      "options": [
+        "Pyrenees",
+        "Carpathians",
+        "Apennines",
+        "Alps"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the main character in 'Holes'?",
+      "options": [
+        "Brian Robeson",
+        "Jeffrey Magee",
+        "Stanley Yelnats",
+        "Jonas"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a 404 error usually mean?",
+      "options": [
+        "Screen locked",
+        "Page not found",
+        "File encrypted",
+        "Battery full"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

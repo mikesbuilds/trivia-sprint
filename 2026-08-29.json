@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city approved the Declaration of Independence in 1776?",
+      "options": [
+        "New York",
+        "Richmond",
+        "Philadelphia",
+        "Boston"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which enzyme in saliva begins breaking down starch?",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Insulin",
+        "Keratin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Freestyle and butterfly are strokes in which sport?",
+      "options": [
+        "Skiing",
+        "Swimming",
+        "Track",
+        "Gymnastics"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the album 1989?",
+      "options": [
+        "Taylor Swift",
+        "Olivia Rodrigo",
+        "Ariana Grande",
+        "Katy Perry"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Greenland is politically part of which kingdom?",
+      "options": [
+        "Iceland",
+        "Denmark",
+        "Canada",
+        "Norway"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which desert planet is central to the novel 'Dune'?",
+      "options": [
+        "Pandora",
+        "Vulcan",
+        "Arrakis",
+        "Tatooine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a computer algorithm?",
+      "options": [
+        "A step-by-step procedure for solving a problem",
+        "A type of keyboard",
+        "A wireless charger",
+        "A broken monitor"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

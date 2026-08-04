@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which two explorers led the famous Corps of Discovery expedition?",
+      "options": [
+        "Pike and Fremont",
+        "Burke and Wills",
+        "Stanley and Livingstone",
+        "Lewis and Clark"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of eclipse happens when the Moon blocks the Sun from view?",
+      "options": [
+        "Planetary transit only",
+        "Solar eclipse",
+        "Annular tide",
+        "Lunar eclipse"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses pins, lanes, and a heavy ball?",
+      "options": [
+        "Billiards",
+        "Bowling",
+        "Bocce",
+        "Cricket"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a museum night guard named Larry Daley?",
+      "options": [
+        "Night at the Museum",
+        "The Goonies",
+        "Zathura",
+        "Jumanji"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "On which continent is the Atacama Desert?",
+      "options": [
+        "Asia",
+        "South America",
+        "Africa",
+        "Australia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What are the names of the two dogs in 'Where the Red Fern Grows'?",
+      "options": [
+        "Shiloh and Spot",
+        "Buck and White Fang",
+        "Old Dan and Little Ann",
+        "Toto and Max"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an authenticator app commonly used to generate?",
+      "options": [
+        "Audio playlists",
+        "Printer labels",
+        "Screen wallpapers",
+        "Login verification codes"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

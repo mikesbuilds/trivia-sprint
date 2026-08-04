@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1917 event led to the end of czarist rule in Russia?",
+      "options": [
+        "Russian Revolution",
+        "Balkan Wars",
+        "Crimean War",
+        "Boxer Rebellion"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which property describes mass per unit volume?",
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Density",
+        "Velocity"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a pit lane during races?",
+      "options": [
+        "Auto racing",
+        "Cycling",
+        "Rowing",
+        "Speed skating"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which show features a school bus that can shrink and travel inside the body?",
+      "options": [
+        "Hey Arnold!",
+        "Arthur",
+        "Recess",
+        "The Magic School Bus"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Romania?",
+      "options": [
+        "Budapest",
+        "Belgrade",
+        "Bucharest",
+        "Sofia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who narrates 'The Great Gatsby'?",
+      "options": [
+        "Nick Carraway",
+        "Tom Buchanan",
+        "Jay Gatsby",
+        "George Wilson"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does HTML mainly structure?",
+      "options": [
+        "A charging cable",
+        "Web page content",
+        "A printer cartridge",
+        "A computer fan"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

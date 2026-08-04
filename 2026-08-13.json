@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Greek writer is often called the Father of History?",
+      "options": [
+        "Herodotus",
+        "Plato",
+        "Sophocles",
+        "Homer"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of rock forms when existing rock is changed by heat and pressure?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Volcanic glass"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a standard marathon?",
+      "options": [
+        "50 miles",
+        "10 miles",
+        "13.1 miles",
+        "26.2 miles"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In Harry Potter, what is the wizarding bank called?",
+      "options": [
+        "Hogsmeade",
+        "Ollivanders",
+        "Gringotts",
+        "Azkaban"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Portugal?",
+      "options": [
+        "Madrid",
+        "Lisbon",
+        "Porto",
+        "Seville"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In the Percy Jackson series, which Greek god is Percy's father?",
+      "options": [
+        "Hermes",
+        "Zeus",
+        "Poseidon",
+        "Apollo"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does GPS stand for?",
+      "options": [
+        "Global Password Sync",
+        "Graphical Print Server",
+        "Global Positioning System",
+        "General Pixel Standard"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

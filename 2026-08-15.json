@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Chinese text is traditionally associated with Laozi?",
+      "options": [
+        "I Ching",
+        "Art of War",
+        "Tao Te Ching",
+        "Analects"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which animal group includes lizards, snakes, turtles, and crocodiles?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Reptiles",
+        "Amphibians"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport involves riding ocean waves on a board?",
+      "options": [
+        "Rowing",
+        "Diving",
+        "Surfing",
+        "Sailing"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the fictional African nation in Black Panther?",
+      "options": [
+        "Genovia",
+        "Wakanda",
+        "Latveria",
+        "Zamunda"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Cairo?",
+      "options": [
+        "Nile",
+        "Jordan",
+        "Tigris",
+        "Congo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'Frankenstein,' who creates the creature?",
+      "options": [
+        "Dracula",
+        "Robert Walton",
+        "Henry Clerval",
+        "Victor Frankenstein"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is volatile computer memory that clears when power is lost?",
+      "options": [
+        "SSD",
+        "RAM",
+        "ROM",
+        "Blu-ray"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

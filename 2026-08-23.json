@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which French king was known as the Sun King?",
+      "options": [
+        "Louis XIV",
+        "Charles X",
+        "Louis XVI",
+        "Napoleon III"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which kind of heat transfer can move energy through empty space?",
+      "options": [
+        "Convection",
+        "Radiation",
+        "Conduction",
+        "Condensation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played with a puck on ice?",
+      "options": [
+        "Ice hockey",
+        "Field hockey",
+        "Ringette only",
+        "Lacrosse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who sang the hit song 'Rolling in the Deep'?",
+      "options": [
+        "Lady Gaga",
+        "Adele",
+        "Rihanna",
+        "Beyoncé"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest country in the world by land area?",
+      "options": [
+        "China",
+        "Russia",
+        "Canada",
+        "United States"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the young girl at the center of 'The Secret Garden'?",
+      "options": [
+        "Sara Crewe",
+        "Heidi",
+        "Mary Lennox",
+        "Anne Shirley"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a USB port commonly used for?",
+      "options": [
+        "Measuring rainfall",
+        "Making coffee",
+        "Changing room temperature",
+        "Connecting devices"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the Soviet Union during the Cuban Missile Crisis?",
+      "options": [
+        "Joseph Stalin",
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Mikhail Gorbachev"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which unit measures frequency?",
+      "options": [
+        "Hertz",
+        "Volt",
+        "Liter",
+        "Newton"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which swimmer is famous for winning 23 Olympic gold medals?",
+      "options": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Mark Spitz only",
+        "Michael Phelps"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is SpongeBob SquarePants' best friend?",
+      "options": [
+        "Plankton",
+        "Patrick Star",
+        "Mr. Krabs",
+        "Squidward"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Croatia?",
+      "options": [
+        "Split",
+        "Dubrovnik",
+        "Sarajevo",
+        "Zagreb"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Giver,' who is selected to become the Receiver of Memory?",
+      "options": [
+        "Caleb",
+        "Asher",
+        "Gabriel",
+        "Jonas"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a database query used to do?",
+      "options": [
+        "Clean a keyboard",
+        "Measure battery voltage",
+        "Resize a monitor",
+        "Request information from a database"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

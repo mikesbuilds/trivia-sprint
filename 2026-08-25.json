@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the name of the first artificial satellite launched into space?",
+      "options": [
+        "Apollo 1",
+        "Sputnik 1",
+        "Vostok 1",
+        "Explorer 1"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is Saturn's largest moon?",
+      "options": [
+        "Phobos",
+        "Titan",
+        "Europa",
+        "Ganymede"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses rotation and serve-receive formations?",
+      "options": [
+        "Baseball",
+        "Volleyball",
+        "Golf",
+        "Curling"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game series features Master Chief?",
+      "options": [
+        "Halo",
+        "Metroid",
+        "Doom",
+        "Mass Effect"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is commonly nicknamed the Big Apple?",
+      "options": [
+        "Boston",
+        "New York City",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Green Eggs and Ham'?",
+      "options": [
+        "Eric Carle",
+        "Shel Silverstein",
+        "Dr. Seuss",
+        "Maurice Sendak"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What usually makes a password stronger?",
+      "options": [
+        "Length and variety of characters",
+        "Using one letter",
+        "Using only your first name",
+        "Posting it online"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

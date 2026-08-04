@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1973 agreement helped end direct U.S. military involvement in Vietnam?",
+      "options": [
+        "Treaty of Paris",
+        "Camp David Accords",
+        "Geneva Protocol",
+        "Paris Peace Accords"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "How many legs do adult insects have?",
+      "options": [
+        "Four",
+        "Eight",
+        "Six",
+        "Ten"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which international tournament awards soccer's World Cup trophy?",
+      "options": [
+        "Stanley Cup",
+        "FIFA World Cup",
+        "Ryder Cup",
+        "Davis Cup"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Princess Leia in Star Wars?",
+      "options": [
+        "Markie Post",
+        "Sigourney Weaver",
+        "Carrie Fisher",
+        "Linda Hamilton"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Badlands National Park is located primarily in which U.S. state?",
+      "options": [
+        "Utah",
+        "Arizona",
+        "New Mexico",
+        "South Dakota"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "What famous diary was written while hiding during World War II?",
+      "options": [
+        "Number the Stars",
+        "Night",
+        "The Diary of Anne Frank",
+        "The Hiding Place"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is an AI chatbot designed to do?",
+      "options": [
+        "Print tickets only",
+        "Wash hardware",
+        "Respond to conversation prompts",
+        "Increase phone weight"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Wright brothers' first powered flight happened near which North Carolina location?",
+      "options": [
+        "Asheville",
+        "Charlotte",
+        "Raleigh",
+        "Kitty Hawk"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest part of the human brain?",
+      "options": [
+        "Cerebrum",
+        "Brainstem",
+        "Cerebellum",
+        "Medulla"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which racquet sport is usually played in an enclosed court with a front wall?",
+      "options": [
+        "Pickleball",
+        "Badminton",
+        "Table tennis",
+        "Squash"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor is famous for the line 'I'll be back'?",
+      "options": [
+        "Bruce Willis",
+        "Sylvester Stallone",
+        "Tom Cruise",
+        "Arnold Schwarzenegger"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country forms a long narrow strip along western South America?",
+      "options": [
+        "Argentina",
+        "Chile",
+        "Peru",
+        "Ecuador"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the first name of the narrator in 'The Outsiders'?",
+      "options": [
+        "Johnny",
+        "Sodapop",
+        "Ponyboy",
+        "Dallas"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does cloud backup do?",
+      "options": [
+        "Copies data to remote storage",
+        "Deletes every file",
+        "Cools the processor",
+        "Makes a screen brighter"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

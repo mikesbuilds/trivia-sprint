@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Chinese emperor is linked to the Terracotta Army?",
+      "options": [
+        "Wu Zetian",
+        "Qin Shi Huang",
+        "Kublai Khan",
+        "Sun Yat-sen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of Earth lies directly beneath the crust?",
+      "options": [
+        "Atmosphere",
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a stick with a netted pocket to throw and catch a ball?",
+      "options": [
+        "Lacrosse",
+        "Hockey",
+        "Cricket",
+        "Polo"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In Doctor Who, what is the blue time machine called?",
+      "options": [
+        "TARDIS",
+        "DeLorean",
+        "Serenity",
+        "Enterprise"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the city of Jaipur?",
+      "options": [
+        "Pakistan",
+        "Nepal",
+        "India",
+        "Bangladesh"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who narrates much of 'The Book Thief'?",
+      "options": [
+        "Liesel",
+        "Hans",
+        "Death",
+        "Max"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a firewall designed to help control?",
+      "options": [
+        "Network traffic",
+        "Screen brightness",
+        "Keyboard height",
+        "Speaker volume"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

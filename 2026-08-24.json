@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which colony was founded by Roger Williams after he left Massachusetts?",
+      "options": [
+        "Delaware",
+        "Maryland",
+        "Georgia",
+        "Rhode Island"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What unit is used to measure electrical resistance?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Sprint, pursuit, and keirin are events in which sport?",
+      "options": [
+        "Rowing",
+        "Fencing",
+        "Cycling",
+        "Skiing"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie series takes place largely in Andy's room with living toys?",
+      "options": [
+        "Monsters, Inc.",
+        "Cars",
+        "Toy Story",
+        "Shrek"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Ghana?",
+      "options": [
+        "Accra",
+        "Lagos",
+        "Dakar",
+        "Nairobi"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the telekinetic girl in Roald Dahl's book 'Matilda'?",
+      "options": [
+        "Lucy Pevensie",
+        "Matilda Wormwood",
+        "Violet Beauregarde",
+        "Sophie"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does DNS translate domain names into?",
+      "options": [
+        "IP addresses",
+        "Screen pixels",
+        "Battery percentages",
+        "Audio waves"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

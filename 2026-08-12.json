@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Johannes Gutenberg's printing work is strongly associated with which German city?",
+      "options": [
+        "Hamburg",
+        "Mainz",
+        "Berlin",
+        "Munich"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Iron",
+        "Copper",
+        "Aluminum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many defensive players are on the field for a baseball team?",
+      "options": [
+        "Seven",
+        "Eight",
+        "Ten",
+        "Nine"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed the 2023 movie Barbie?",
+      "options": [
+        "Patty Jenkins",
+        "Sofia Coppola",
+        "Greta Gerwig",
+        "Kathryn Bigelow"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the world's largest inland body of water by surface area?",
+      "options": [
+        "Dead Sea",
+        "Caspian Sea",
+        "Lake Victoria",
+        "Lake Superior"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the main girl in 'A Wrinkle in Time'?",
+      "options": [
+        "Lucy Pevensie",
+        "Anne Shirley",
+        "Matilda Wormwood",
+        "Meg Murry"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which tool is commonly used for version control in software projects?",
+      "options": [
+        "Git",
+        "Excel",
+        "Bluetooth",
+        "Zoom"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

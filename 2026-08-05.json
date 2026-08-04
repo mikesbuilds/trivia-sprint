@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Roman emperor issued the Edict of Milan?",
+      "options": [
+        "Augustus",
+        "Trajan",
+        "Nero",
+        "Constantine"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has a day longer than its year?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Jupiter"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "The discus throw is part of which sport category?",
+      "options": [
+        "Track and field",
+        "Cycling",
+        "Gymnastics",
+        "Swimming"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom is set in the fictional town of Pawnee, Indiana?",
+      "options": [
+        "Community",
+        "30 Rock",
+        "The Office",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Kenya?",
+      "options": [
+        "Kampala",
+        "Lagos",
+        "Nairobi",
+        "Accra"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who is the hero of 'The Odyssey'?",
+      "options": [
+        "Aeneas",
+        "Achilles",
+        "Hector",
+        "Odysseus"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "A message pretending to be from a trusted source to steal information is called what?",
+      "options": [
+        "Bookmarking",
+        "Defragmenting",
+        "Rendering",
+        "Phishing"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

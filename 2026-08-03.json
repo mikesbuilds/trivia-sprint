@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which medieval city was home to the famous House of Wisdom?",
+      "options": [
+        "Cordoba",
+        "Cairo",
+        "Damascus",
+        "Baghdad"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the SI unit of force?",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is Lionel Messi most famous for playing?",
+      "options": [
+        "Soccer",
+        "Baseball",
+        "Basketball",
+        "Tennis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who released the hit song 'Happy' from the movie Despicable Me 2?",
+      "options": [
+        "Usher",
+        "Bruno Mars",
+        "Justin Timberlake",
+        "Pharrell Williams"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the highest mountain in Africa?",
+      "options": [
+        "Atlas Peak",
+        "Mount Kenya",
+        "Table Mountain",
+        "Mount Kilimanjaro"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the name of the dragon in 'The Hobbit'?",
+      "options": [
+        "Smaug",
+        "Sauron",
+        "Balrog",
+        "Gollum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a CPU primarily do?",
+      "options": [
+        "Displays only images",
+        "Stores paper files",
+        "Processes instructions",
+        "Charges the device"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

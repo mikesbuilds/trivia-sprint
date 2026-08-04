@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which West African empire was ruled by Mansa Musa?",
+      "options": [
+        "Zulu Kingdom",
+        "Ghana Empire",
+        "Mali Empire",
+        "Songhai Empire"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "About how fast does light travel in a vacuum?",
+      "options": [
+        "300,000 kilometers per second",
+        "3,000 kilometers per second",
+        "30 million kilometers per second",
+        "300 kilometers per second"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is three strokes under par on a hole called?",
+      "options": [
+        "Par",
+        "Bogey",
+        "Albatross",
+        "Double bogey"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Minecraft enemy is known for exploding near players?",
+      "options": [
+        "Enderman",
+        "Skeleton",
+        "Zombie Piglin",
+        "Creeper"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of New Zealand?",
+      "options": [
+        "Auckland",
+        "Queenstown",
+        "Wellington",
+        "Christchurch"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "In the Narnia books, what magical object first leads the Pevensie children to Narnia?",
+      "options": [
+        "Wardrobe",
+        "Map",
+        "Lantern",
+        "Mirror"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "When a search engine crawls, what is it exploring?",
+      "options": [
+        "Printer trays",
+        "Web pages",
+        "Battery cells",
+        "Keyboard keys"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

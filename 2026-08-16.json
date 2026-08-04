@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Sally Ride"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main cause of ocean tides on Earth?",
+      "options": [
+        "Earth's rotation only",
+        "Volcanic heat",
+        "Ocean salt",
+        "The Moon's gravity"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which cue sport is played on a table and can include red and colored balls?",
+      "options": [
+        "Polo",
+        "Lacrosse",
+        "Curling",
+        "Snooker"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game series is set in the kingdom of Hyrule?",
+      "options": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Sonic the Hedgehog",
+        "Halo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island nation sits in the North Atlantic near the Arctic Circle?",
+      "options": [
+        "Iceland",
+        "Cyprus",
+        "Sri Lanka",
+        "Malta"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is Sherlock Holmes's famous London address?",
+      "options": [
+        "10 Downing Street",
+        "Platform 9¾",
+        "12 Grimmauld Place",
+        "221B Baker Street"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a ZIP file commonly used for?",
+      "options": [
+        "Charging devices",
+        "Playing vinyl records",
+        "Improving screen color",
+        "Compressing and packaging files"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

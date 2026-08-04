@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The assassination of Archduke Franz Ferdinand occurred in which city?",
+      "options": [
+        "Belgrade",
+        "Prague",
+        "Sarajevo",
+        "Vienna"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which weather instrument measures air pressure?",
+      "options": [
+        "Anemometer",
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport includes a play called a maul?",
+      "options": [
+        "Bowling",
+        "Golf",
+        "Basketball",
+        "Rugby"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which coffee shop is a common hangout in Friends?",
+      "options": [
+        "Central Perk",
+        "Luke's Diner",
+        "The Max",
+        "Monk's Café"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state is nicknamed the Green Mountain State?",
+      "options": [
+        "Maine",
+        "Colorado",
+        "Oregon",
+        "Vermont"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which March sister in 'Little Women' is an aspiring writer?",
+      "options": [
+        "Jo",
+        "Beth",
+        "Amy",
+        "Meg"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is spam in a digital inbox?",
+      "options": [
+        "System updates",
+        "Screen captures",
+        "Saved passwords",
+        "Unwanted messages"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was centered on the city of Cusco?",
+      "options": [
+        "Aztec Empire",
+        "Olmec civilization",
+        "Maya Empire",
+        "Inca Empire"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What are places where bones meet called?",
+      "options": [
+        "Joints",
+        "Capillaries",
+        "Tendons",
+        "Alveoli"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played on a diamond-shaped field?",
+      "options": [
+        "Soccer",
+        "Baseball",
+        "Tennis",
+        "Rugby"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fictional bear lives in the Hundred Acre Wood?",
+      "options": [
+        "Baloo",
+        "Paddington",
+        "Yogi Bear",
+        "Winnie-the-Pooh"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates New Zealand's North and South Islands?",
+      "options": [
+        "Bass Strait",
+        "Dover Strait",
+        "Torres Strait",
+        "Cook Strait"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Westing Game,' what is Sam Westing's puzzle tied to?",
+      "options": [
+        "His will",
+        "A treasure map",
+        "A school contest",
+        "A missing spaceship"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'read/write' permission allow?",
+      "options": [
+        "Only turning on speakers",
+        "Only changing wallpaper",
+        "Viewing and changing data",
+        "Only charging a phone"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

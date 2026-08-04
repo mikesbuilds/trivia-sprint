@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which U.S. land deal with Mexico was completed in 1853?",
+      "options": [
+        "Alaska Purchase",
+        "Oregon Treaty",
+        "Gadsden Purchase",
+        "Louisiana Purchase"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What do chemists call a pure substance made from two or more elements bonded together?",
+      "options": [
+        "Mixture",
+        "Compound",
+        "Alloy",
+        "Solution"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport uses a bow and arrows?",
+      "options": [
+        "Archery",
+        "Biathlon",
+        "Shooting",
+        "Fencing"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In The Lord of the Rings, what object is Frodo tasked with destroying?",
+      "options": [
+        "The One Ring",
+        "The Infinity Stone",
+        "The Elder Wand",
+        "The Golden Compass"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert spans parts of Mongolia and China?",
+      "options": [
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Atacama Desert",
+        "Gobi Desert"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the nation called in 'The Hunger Games'?",
+      "options": [
+        "Gilead",
+        "Westeros",
+        "Panem",
+        "Narnia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol name is commonly used at the start of website addresses?",
+      "options": [
+        "HTTP",
+        "CPU",
+        "PNG",
+        "RAM"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

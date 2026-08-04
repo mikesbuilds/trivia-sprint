@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "What was the first U.S. capital under the Constitution?",
+      "options": [
+        "New York City",
+        "Boston",
+        "Philadelphia",
+        "Washington, D.C."
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which acid is naturally found in the human stomach?",
+      "options": [
+        "Hydrochloric acid",
+        "Acetic acid",
+        "Sulfuric acid",
+        "Citric acid"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is it called when a player serves two faults in a row?",
+      "options": [
+        "Ace",
+        "Break point",
+        "Let",
+        "Double fault"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What town do The Simpsons live in?",
+      "options": [
+        "Arlen",
+        "Quahog",
+        "Springfield",
+        "Shelbyville"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Egypt?",
+      "options": [
+        "Giza",
+        "Cairo",
+        "Luxor",
+        "Alexandria"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who carries the Ring for much of 'The Lord of the Rings'?",
+      "options": [
+        "Frodo Baggins",
+        "Bilbo Baggins",
+        "Aragorn",
+        "Gandalf"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a browser cache store?",
+      "options": [
+        "Battery chemicals",
+        "Printer paper levels",
+        "Only deleted emails",
+        "Temporary copies of website files"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}
