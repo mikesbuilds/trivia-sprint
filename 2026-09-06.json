@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization developed the first known system of writing?",
+      "options": [
+        "Ancient China",
+        "Ancient Egypt",
+        "The Indus Valley",
+        "Sumer"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood cells carry oxygen through the body?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma cells",
+        "White blood cells"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many rings appear on the Olympic flag?",
+      "options": [
+        "Four",
+        "Six",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a lion cub named Simba?",
+      "options": [
+        "Tarzan",
+        "The Lion King",
+        "Madagascar",
+        "Zootopia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country is entirely surrounded by South Africa?",
+      "options": [
+        "Lesotho",
+        "Zimbabwe",
+        "Eswatini",
+        "Botswana"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the fictional county of Yoknapatawpha?",
+      "options": [
+        "Eudora Welty",
+        "Carson McCullers",
+        "Flannery O'Connor",
+        "William Faulkner"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which mathematician is considered a founder of computer science and cryptanalysis at Bletchley Park?",
+      "options": [
+        "John von Neumann",
+        "Claude Shannon",
+        "Alan Turing",
+        "Charles Babbage"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

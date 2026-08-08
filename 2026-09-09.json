@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Trail of Tears was the forced relocation of which peoples?",
+      "options": [
+        "Southeastern Native American nations",
+        "Irish famine migrants",
+        "Mormon pioneers",
+        "Acadian settlers"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed the theory of general relativity?",
+      "options": [
+        "Max Planck",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Albert Einstein"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the length of an Olympic swimming pool?",
+      "options": [
+        "75 meters",
+        "25 meters",
+        "50 meters",
+        "100 meters"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which series features the Stark and Lannister families?",
+      "options": [
+        "Vikings",
+        "The Witcher",
+        "Outlander",
+        "Game of Thrones"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state is the largest by land area?",
+      "options": [
+        "Alaska",
+        "California",
+        "Texas",
+        "Montana"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jean Valjean?",
+      "options": [
+        "The Count of Monte Cristo",
+        "Les Miserables",
+        "Germinal",
+        "A Tale of Two Cities"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who co-founded Microsoft with Bill Gates?",
+      "options": [
+        "Gordon Moore",
+        "Steve Wozniak",
+        "Paul Allen",
+        "Steve Ballmer"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Silk Road primarily connected China with which region?",
+      "options": [
+        "The Mediterranean",
+        "Southern Africa",
+        "Australia",
+        "Scandinavia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle carries a negative electric charge?",
+      "options": [
+        "The proton",
+        "The neutron",
+        "The photon",
+        "The electron"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "What color card sends a soccer player off the field?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Black"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Forrest Gump?",
+      "options": [
+        "Kevin Costner",
+        "Michael Douglas",
+        "Tom Hanks",
+        "Robin Williams"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the tallest mountain above sea level?",
+      "options": [
+        "Mount Everest",
+        "Denali",
+        "Kangchenjunga",
+        "K2"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins 'It was the best of times, it was the worst of times'?",
+      "options": [
+        "Bleak House",
+        "Oliver Twist",
+        "A Tale of Two Cities",
+        "Great Expectations"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit measures the clock speed of a processor?",
+      "options": [
+        "Pixels",
+        "Bytes",
+        "Watts",
+        "Hertz"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

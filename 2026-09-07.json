@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Hadrian's Wall was built across which modern country?",
+      "options": [
+        "France",
+        "Spain",
+        "England",
+        "Germany"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the speed of light in a vacuum, approximately?",
+      "options": [
+        "300,000 km per hour",
+        "30,000 km per second",
+        "3,000 km per second",
+        "300,000 km per second"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a touchdown worth in American football?",
+      "options": [
+        "Five",
+        "Three",
+        "Seven",
+        "Six"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who played the title role in the 1990 film 'Edward Scissorhands'?",
+      "options": [
+        "Johnny Depp",
+        "Brad Pitt",
+        "Keanu Reeves",
+        "Tom Cruise"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates Europe from Africa at its narrowest point?",
+      "options": [
+        "The Strait of Gibraltar",
+        "The Bering Strait",
+        "The Bosphorus",
+        "The Strait of Hormuz"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Great Gatsby', what color is the light at the end of Daisy's dock?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "White"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for malicious software designed to extort payment?",
+      "options": [
+        "Spyware",
+        "Adware",
+        "Ransomware",
+        "Firmware"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire built an extensive road network centered on Cusco?",
+      "options": [
+        "The Aztec",
+        "The Inca",
+        "The Maya",
+        "The Olmec"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "How many chambers does a human heart have?",
+      "options": [
+        "Four",
+        "Three",
+        "Six",
+        "Two"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the maximum break in a single frame of snooker?",
+      "options": [
+        "100",
+        "155",
+        "147",
+        "180"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed the film 'Jaws'?",
+      "options": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "George Lucas",
+        "Steven Spielberg"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the smallest country in the world by area?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the epic poem 'The Odyssey'?",
+      "options": [
+        "Ovid",
+        "Hesiod",
+        "Virgil",
+        "Homer"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language was created by Guido van Rossum?",
+      "options": [
+        "Python",
+        "Perl",
+        "Java",
+        "Ruby"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

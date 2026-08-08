@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document did King John seal at Runnymede in 1215?",
+      "options": [
+        "Magna Carta",
+        "The Domesday Book",
+        "The Bill of Rights",
+        "The Petition of Right"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest naturally occurring mineral?",
+      "options": [
+        "Quartz",
+        "Corundum",
+        "Diamond",
+        "Topaz"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what term describes a score of zero?",
+      "options": [
+        "Blank",
+        "Duck",
+        "Nil",
+        "Love"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom featured a coffee shop called Central Perk?",
+      "options": [
+        "Seinfeld",
+        "Friends",
+        "Cheers",
+        "How I Met Your Mother"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the deepest ocean trench on Earth?",
+      "options": [
+        "The Mariana Trench",
+        "The Java Trench",
+        "The Tonga Trench",
+        "The Puerto Rico Trench"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Canterbury Tales'?",
+      "options": [
+        "William Langland",
+        "Geoffrey Chaucer",
+        "Thomas Malory",
+        "John Milton"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol translates domain names into IP addresses?",
+      "options": [
+        "SMTP",
+        "SSH",
+        "FTP",
+        "DNS"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

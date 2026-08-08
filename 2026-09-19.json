@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who commanded the Carthaginian army that crossed the Alps with elephants?",
+      "options": [
+        "Hasdrubal",
+        "Scipio",
+        "Hannibal",
+        "Hamilcar"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which a liquid becomes a gas called?",
+      "options": [
+        "Precipitation",
+        "Evaporation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, how many minutes does a professional round last?",
+      "options": [
+        "Four",
+        "Two",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film's poster tagline was 'In space no one can hear you scream'?",
+      "options": [
+        "Gravity",
+        "Interstellar",
+        "2001: A Space Odyssey",
+        "Alien"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the highest peak in Africa?",
+      "options": [
+        "Ras Dashen",
+        "Kilimanjaro",
+        "Mount Kenya",
+        "Mount Meru"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet penned 'Do not go gentle into that good night'?",
+      "options": [
+        "Dylan Thomas",
+        "Seamus Heaney",
+        "W. B. Yeats",
+        "Philip Larkin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bytes are in a kilobyte, by the common binary definition?",
+      "options": [
+        "1024",
+        "512",
+        "1000",
+        "2048"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

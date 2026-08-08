@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone was key to deciphering which writing system?",
+      "options": [
+        "Egyptian hieroglyphs",
+        "Linear B",
+        "Sumerian cuneiform",
+        "Mayan glyphs"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organelle is known as the powerhouse of the cell?",
+      "options": [
+        "The nucleus",
+        "The ribosome",
+        "The mitochondrion",
+        "The Golgi apparatus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "How often are the modern Summer Olympic Games held?",
+      "options": [
+        "Every five years",
+        "Every two years",
+        "Every four years",
+        "Every three years"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features a yellow family living in Springfield?",
+      "options": [
+        "Bob's Burgers",
+        "Family Guy",
+        "King of the Hill",
+        "The Simpsons"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most time zones?",
+      "options": [
+        "China",
+        "France",
+        "Russia",
+        "The United States"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "In which novel does the character Atticus Finch appear?",
+      "options": [
+        "To Kill a Mockingbird",
+        "Of Mice and Men",
+        "The Great Gatsby",
+        "The Grapes of Wrath"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who is credited with inventing the World Wide Web?",
+      "options": [
+        "Alan Turing",
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Bill Gates"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

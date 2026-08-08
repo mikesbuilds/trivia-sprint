@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Gutenberg press was developed in which century?",
+      "options": [
+        "The 11th century",
+        "The 13th century",
+        "The 15th century",
+        "The 17th century"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": [
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin D"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features terms like birdie, eagle, and bogey?",
+      "options": [
+        "Golf",
+        "Archery",
+        "Falconry",
+        "Cricket"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV show is set in the fictional Dunder Mifflin paper company?",
+      "options": [
+        "Parks and Recreation",
+        "The Office",
+        "Superstore",
+        "30 Rock"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the largest population in South America?",
+      "options": [
+        "Colombia",
+        "Brazil",
+        "Peru",
+        "Argentina"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare tragedy is set in Denmark?",
+      "options": [
+        "Julius Caesar",
+        "Romeo and Juliet",
+        "Hamlet",
+        "Macbeth"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which device directs data between networks?",
+      "options": [
+        "A router",
+        "A keyboard",
+        "A scanner",
+        "A monitor"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

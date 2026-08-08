@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the longest-reigning monarch in British history?",
+      "options": [
+        "Victoria",
+        "George III",
+        "Elizabeth II",
+        "Henry VIII"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the closest star to Earth?",
+      "options": [
+        "Sirius",
+        "Alpha Centauri A",
+        "Proxima Centauri",
+        "The Sun"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which cycling race is the most prestigious Grand Tour?",
+      "options": [
+        "Paris-Roubaix",
+        "The Vuelta a Espana",
+        "The Giro d'Italia",
+        "The Tour de France"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features the character Ellen Ripley?",
+      "options": [
+        "RoboCop",
+        "Alien",
+        "Terminator",
+        "Predator"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the longest coastline in the world?",
+      "options": [
+        "Canada",
+        "Indonesia",
+        "Australia",
+        "Russia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Don Quixote'?",
+      "options": [
+        "Miguel de Cervantes",
+        "Federico Garcia Lorca",
+        "Calderon de la Barca",
+        "Lope de Vega"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language runs natively in web browsers?",
+      "options": [
+        "Swift",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

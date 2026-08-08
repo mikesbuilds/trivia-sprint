@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which revolution began with the storming of the Bastille?",
+      "options": [
+        "The American Revolution",
+        "The Russian Revolution",
+        "The French Revolution",
+        "The Haitian Revolution"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest known type of star by volume?",
+      "options": [
+        "A hypergiant",
+        "A brown dwarf",
+        "A neutron star",
+        "A white dwarf"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a volleyball team on court?",
+      "options": [
+        "Eight",
+        "Six",
+        "Seven",
+        "Five"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which rapper released the album 'The Marshall Mathers LP'?",
+      "options": [
+        "Dr. Dre",
+        "Nas",
+        "Eminem",
+        "Jay-Z"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has no permanent human residents?",
+      "options": [
+        "Africa",
+        "Antarctica",
+        "South America",
+        "Australia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Wuthering Heights'?",
+      "options": [
+        "Charlotte Bronte",
+        "Elizabeth Gaskell",
+        "Anne Bronte",
+        "Emily Bronte"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SQL' primarily manage?",
+      "options": [
+        "Image compression",
+        "Web page layout",
+        "Network routing",
+        "Relational databases"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

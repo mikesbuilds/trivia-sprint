@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Ottoman Empire captured Constantinople in which year?",
+      "options": [
+        "1571",
+        "1683",
+        "1204",
+        "1453"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "Which branch of science studies earthquakes?",
+      "options": [
+        "Hydrology",
+        "Seismology",
+        "Volcanology",
+        "Meteorology"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the Super Bowl?",
+      "options": [
+        "The Commissioner's Trophy",
+        "The Larry O'Brien Trophy",
+        "The Heisman Trophy",
+        "The Vince Lombardi Trophy"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar film features a rat who wants to be a chef?",
+      "options": [
+        "WALL-E",
+        "Up",
+        "Ratatouille",
+        "Cars"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is entirely within the Arabian Peninsula and borders only Saudi Arabia?",
+      "options": [
+        "Qatar",
+        "Bahrain",
+        "Kuwait",
+        "Oman"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a whale hunt led by Captain Ahab?",
+      "options": [
+        "Typee",
+        "Moby-Dick",
+        "Two Years Before the Mast",
+        "The Sea-Wolf"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Java programming language?",
+      "options": [
+        "Microsoft",
+        "IBM",
+        "Sun Microsystems",
+        "Netscape"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

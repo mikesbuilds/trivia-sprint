@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Apartheid was the official policy of which nation until the 1990s?",
+      "options": [
+        "South Africa",
+        "Angola",
+        "Rhodesia",
+        "Namibia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Mars"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the first modern Olympic Games?",
+      "options": [
+        "Italy",
+        "Britain",
+        "Greece",
+        "France"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musical features the song 'Defying Gravity'?",
+      "options": [
+        "Rent",
+        "Wicked",
+        "Hamilton",
+        "Cats"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest country in Africa by area?",
+      "options": [
+        "Algeria",
+        "Egypt",
+        "Libya",
+        "Sudan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the 'Discworld' series?",
+      "options": [
+        "Douglas Adams",
+        "Neil Gaiman",
+        "Robert Rankin",
+        "Terry Pratchett"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program's step-by-step set of instructions?",
+      "options": [
+        "A database",
+        "An algorithm",
+        "A compiler",
+        "A protocol"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

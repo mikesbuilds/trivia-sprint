@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was destroyed by the eruption of Mount Vesuvius in AD 79?",
+      "options": [
+        "Carthage",
+        "Troy",
+        "Pompeii",
+        "Ephesus"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas do humans exhale in the greatest increased amount?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Helium"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a marathon, to the nearest mile?",
+      "options": [
+        "24 miles",
+        "20 miles",
+        "30 miles",
+        "26 miles"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is the creator of the Marvel character Spider-Man, alongside Steve Ditko?",
+      "options": [
+        "Stan Lee",
+        "Bob Kane",
+        "Jerry Siegel",
+        "Jack Kirby"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which two countries share the longest international border?",
+      "options": [
+        "Russia and China",
+        "Canada and the United States",
+        "India and Bangladesh",
+        "Argentina and Chile"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Handmaid's Tale'?",
+      "options": [
+        "Doris Lessing",
+        "Margaret Atwood",
+        "Ursula K. Le Guin",
+        "Alice Munro"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'Wi-Fi' commonly connect devices to?",
+      "options": [
+        "A fiber optic cable directly",
+        "A satellite directly",
+        "A cellular tower only",
+        "A wireless local network"
+      ],
+      "answerIndex": 3
+    }
+  ]
+}

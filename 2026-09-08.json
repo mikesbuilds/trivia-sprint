@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer's crew completed the first circumnavigation of the globe?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Hernan Cortes",
+        "Christopher Columbus"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What type of rock forms from cooled magma or lava?",
+      "options": [
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Organic"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which martial art originated in Korea and emphasizes kicking?",
+      "options": [
+        "Kung fu",
+        "Karate",
+        "Judo",
+        "Taekwondo"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album 'Thriller'?",
+      "options": [
+        "Lionel Richie",
+        "Michael Jackson",
+        "Marvin Gaye",
+        "Stevie Wonder"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest island in the world?",
+      "options": [
+        "Borneo",
+        "New Guinea",
+        "Greenland",
+        "Madagascar"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play 'A Doll's House'?",
+      "options": [
+        "George Bernard Shaw",
+        "Henrik Ibsen",
+        "Anton Chekhov",
+        "August Strindberg"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is primarily used to style web pages?",
+      "options": [
+        "HTML",
+        "XML",
+        "CSS",
+        "SQL"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

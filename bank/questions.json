@@ -1,0 +1,2524 @@
+{
+  "questions": [
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range runs along the western edge of South America?",
+      "options": [
+        "The Andes",
+        "The Rockies",
+        "The Sierra Madre",
+        "The Appalachians"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which body of water separates Alaska from Russia?",
+      "options": [
+        "The Bering Strait",
+        "The Hudson Strait",
+        "The Davis Strait",
+        "The Denmark Strait"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most volcanoes?",
+      "options": [
+        "Indonesia",
+        "Japan",
+        "The United States",
+        "Chile"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest city in the world by population?",
+      "options": [
+        "Tokyo",
+        "Delhi",
+        "Shanghai",
+        "Sao Paulo"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which line of latitude divides Earth into northern and southern halves?",
+      "options": [
+        "The equator",
+        "The prime meridian",
+        "The Tropic of Cancer",
+        "The Arctic Circle"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is landlocked and borders both France and Italy?",
+      "options": [
+        "Switzerland",
+        "Austria",
+        "Belgium",
+        "Slovenia"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the only continent that lies in all four hemispheres?",
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Europe"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country was formerly known as Siam?",
+      "options": [
+        "Thailand",
+        "Myanmar",
+        "Cambodia",
+        "Laos"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest lake in Africa by surface area?",
+      "options": [
+        "Lake Victoria",
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Chad"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
+      "options": [
+        "Tutankhamun",
+        "Ramesses II",
+        "Akhenaten",
+        "Khufu"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Marshall Plan provided aid to rebuild which region?",
+      "options": [
+        "Western Europe",
+        "East Asia",
+        "Latin America",
+        "North Africa"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who wrote the pamphlet 'Common Sense' in 1776?",
+      "options": [
+        "Thomas Paine",
+        "Thomas Jefferson",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which two cities were the capitals of the divided Roman Empire?",
+      "options": [
+        "Rome and Constantinople",
+        "Athens and Rome",
+        "Carthage and Rome",
+        "Milan and Athens"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first person to reach the South Pole?",
+      "options": [
+        "Roald Amundsen",
+        "Robert Falcon Scott",
+        "Ernest Shackleton",
+        "Fridtjof Nansen"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which dynasty built the majority of the Great Wall that survives today?",
+      "options": [
+        "The Ming",
+        "The Han",
+        "The Tang",
+        "The Qing"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Suez Canal opened in which decade?",
+      "options": [
+        "The 1860s",
+        "The 1820s",
+        "The 1900s",
+        "The 1780s"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who delivered the 'I Have a Dream' speech in 1963?",
+      "options": [
+        "Martin Luther King Jr.",
+        "Malcolm X",
+        "John Lewis",
+        "Thurgood Marshall"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled from Tenochtitlan?",
+      "options": [
+        "The Aztec Empire",
+        "The Inca Empire",
+        "The Maya city-states",
+        "The Zapotec kingdom"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Black Death reached Europe in which century?",
+      "options": [
+        "The 14th century",
+        "The 12th century",
+        "The 16th century",
+        "The 10th century"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first emperor of a unified China?",
+      "options": [
+        "Qin Shi Huang",
+        "Han Wudi",
+        "Kublai Khan",
+        "Sun Yat-sen"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Louisiana Purchase transferred territory from which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Britain",
+        "Mexico"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which conflict is also known as the War Between the States?",
+      "options": [
+        "The American Civil War",
+        "The War of 1812",
+        "The Mexican-American War",
+        "The Spanish-American War"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which queen ruled Egypt as its last active pharaoh?",
+      "options": [
+        "Cleopatra VII",
+        "Nefertiti",
+        "Hatshepsut",
+        "Berenice IV"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Boston Tea Party protested taxes imposed by which country?",
+      "options": [
+        "Britain",
+        "France",
+        "Spain",
+        "The Netherlands"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who founded the Mongol Empire?",
+      "options": [
+        "Genghis Khan",
+        "Kublai Khan",
+        "Timur",
+        "Batu Khan"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which pandemic swept the globe beginning in 1918?",
+      "options": [
+        "The influenza pandemic",
+        "Cholera",
+        "Smallpox",
+        "Typhus"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Magna Carta limited the power of which office?",
+      "options": [
+        "The English monarchy",
+        "The papacy",
+        "The Holy Roman Emperor",
+        "The French monarchy"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first African American elected president of the United States?",
+      "options": [
+        "Barack Obama",
+        "Jesse Jackson",
+        "Colin Powell",
+        "Shirley Chisholm"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Industrial Revolution began in which country?",
+      "options": [
+        "Britain",
+        "The United States",
+        "Germany",
+        "Belgium"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which wall divided a European capital from 1961 to 1989?",
+      "options": [
+        "The Berlin Wall",
+        "Hadrian's Wall",
+        "The Antonine Wall",
+        "The Iron Curtain gate"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was assassinated in Sarajevo in 1914, helping spark World War I?",
+      "options": [
+        "Archduke Franz Ferdinand",
+        "Tsar Nicholas II",
+        "Kaiser Wilhelm II",
+        "King Peter I"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "options": [
+        "Oscar Wilde",
+        "Bram Stoker",
+        "Robert Louis Stevenson",
+        "Henry James"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which epic poem describes the fall of Troy from a Roman perspective?",
+      "options": [
+        "The Aeneid",
+        "The Iliad",
+        "Metamorphoses",
+        "The Georgics"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Invisible Man', published in 1952?",
+      "options": [
+        "Ralph Ellison",
+        "Richard Wright",
+        "James Baldwin",
+        "Langston Hughes"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Chronicles of Narnia'?",
+      "options": [
+        "C. S. Lewis",
+        "J. R. R. Tolkien",
+        "Roald Dahl",
+        "Lewis Carroll"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'War and Peace'?",
+      "options": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Boris Pasternak",
+        "Mikhail Sholokhov"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel introduced the character Hester Prynne?",
+      "options": [
+        "The Scarlet Letter",
+        "The House of the Seven Gables",
+        "Little Women",
+        "The Awakening"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which playwright wrote 'Death of a Salesman'?",
+      "options": [
+        "Arthur Miller",
+        "Tennessee Williams",
+        "Eugene O'Neill",
+        "Edward Albee"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the boy wizard's school called Hogwarts?",
+      "options": [
+        "Harry Potter and the Philosopher's Stone",
+        "The Worst Witch",
+        "A Wizard of Earthsea",
+        "The Magicians"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Their Eyes Were Watching God'?",
+      "options": [
+        "Zora Neale Hurston",
+        "Toni Morrison",
+        "Nella Larsen",
+        "Gwendolyn Brooks"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author is known for the 'Foundation' science fiction series?",
+      "options": [
+        "Isaac Asimov",
+        "Arthur C. Clarke",
+        "Robert Heinlein",
+        "Philip K. Dick"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Japanese author wrote 'Norwegian Wood'?",
+      "options": [
+        "Haruki Murakami",
+        "Yukio Mishima",
+        "Kenzaburo Oe",
+        "Banana Yoshimoto"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Jane Eyre'?",
+      "options": [
+        "Charlotte Bronte",
+        "Emily Bronte",
+        "Jane Austen",
+        "Mary Ann Evans"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by Holden Caulfield?",
+      "options": [
+        "The Catcher in the Rye",
+        "On the Road",
+        "A Separate Peace",
+        "Franny and Zooey"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Divine Comedy'?",
+      "options": [
+        "Dante Alighieri",
+        "Petrarch",
+        "Boccaccio",
+        "Machiavelli"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'Brave New World'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "H. G. Wells",
+        "Yevgeny Zamyatin"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Lord of the Rings'?",
+      "options": [
+        "J. R. R. Tolkien",
+        "C. S. Lewis",
+        "Ursula K. Le Guin",
+        "Terry Brooks"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Long Walk to Freedom'?",
+      "options": [
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Steve Biko",
+        "Oliver Tambo"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed 'Pulp Fiction'?",
+      "options": [
+        "Quentin Tarantino",
+        "Robert Rodriguez",
+        "David Fincher",
+        "Guy Ritchie"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's members included John, Paul, George, and Ringo?",
+      "options": [
+        "The Beatles",
+        "The Kinks",
+        "The Byrds",
+        "The Hollies"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a computer named HAL 9000?",
+      "options": [
+        "2001: A Space Odyssey",
+        "Blade Runner",
+        "Solaris",
+        "Silent Running"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known for the album '21' and the song 'Rolling in the Deep'?",
+      "options": [
+        "Adele",
+        "Amy Winehouse",
+        "Sam Smith",
+        "Duffy"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features the character Indiana Jones?",
+      "options": [
+        "Raiders of the Lost Ark",
+        "The Mummy",
+        "National Treasure",
+        "Romancing the Stone"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which show features chemistry teacher Walter White?",
+      "options": [
+        "Breaking Bad",
+        "Better Call Saul",
+        "Ozark",
+        "Weeds"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game features a plumber named Mario?",
+      "options": [
+        "Super Mario Bros.",
+        "Sonic the Hedgehog",
+        "Mega Man",
+        "Donkey Kong Country"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the song 'Let It Go'?",
+      "options": [
+        "Frozen",
+        "Moana",
+        "Tangled",
+        "Encanto"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor is known for playing James Bond in 'Goldfinger'?",
+      "options": [
+        "Sean Connery",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released 'The Dark Side of the Moon'?",
+      "options": [
+        "Pink Floyd",
+        "Genesis",
+        "Yes",
+        "King Crimson"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which reality competition show features a panel judging singing auditions?",
+      "options": [
+        "American Idol",
+        "Survivor",
+        "The Amazing Race",
+        "Big Brother"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which anime film was directed by Hayao Miyazaki and features a bathhouse?",
+      "options": [
+        "Spirited Away",
+        "Akira",
+        "Your Name",
+        "Ghost in the Shell"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film trilogy is set in Middle-earth?",
+      "options": [
+        "The Lord of the Rings",
+        "The Chronicles of Narnia",
+        "Harry Potter",
+        "His Dark Materials"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist recorded 'Like a Rolling Stone'?",
+      "options": [
+        "Bob Dylan",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom character worked at a bar called Cheers in Boston?",
+      "options": [
+        "Sam Malone",
+        "Norm Peterson",
+        "Frasier Crane",
+        "Woody Boyd"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which movie features a shark terrorizing Amity Island?",
+      "options": [
+        "Jaws",
+        "The Meg",
+        "Deep Blue Sea",
+        "Open Water"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which comic book publisher created the X-Men?",
+      "options": [
+        "Marvel",
+        "DC",
+        "Image",
+        "Dark Horse"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the phrase 'Here's looking at you, kid'?",
+      "options": [
+        "Casablanca",
+        "Gone with the Wind",
+        "Citizen Kane",
+        "The Maltese Falcon"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album 'Purple Rain'?",
+      "options": [
+        "Prince",
+        "Rick James",
+        "George Clinton",
+        "Sly Stone"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows a group of survivors in a zombie apocalypse, based on a comic?",
+      "options": [
+        "The Walking Dead",
+        "Z Nation",
+        "Fear Itself",
+        "Black Summer"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Disney film features a mermaid named Ariel?",
+      "options": [
+        "The Little Mermaid",
+        "Moana",
+        "Pocahontas",
+        "Atlantis"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director is known for 'Vertigo' and 'Psycho'?",
+      "options": [
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Billy Wilder",
+        "John Ford"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is fronted by Mick Jagger?",
+      "options": [
+        "The Rolling Stones",
+        "The Doors",
+        "The Animals",
+        "The Yardbirds"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a boy who says 'I see dead people'?",
+      "options": [
+        "The Sixth Sense",
+        "Poltergeist",
+        "The Others",
+        "Signs"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main component of natural gas?",
+      "options": [
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethane"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the brain controls balance and coordination?",
+      "options": [
+        "The cerebellum",
+        "The cerebrum",
+        "The medulla",
+        "The hypothalamus"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that are active at night?",
+      "options": [
+        "Nocturnal",
+        "Diurnal",
+        "Crepuscular",
+        "Hibernal"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "How long does light from the Sun take to reach Earth?",
+      "options": [
+        "About 8 minutes",
+        "About 8 seconds",
+        "About 8 hours",
+        "About 80 minutes"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element makes up the majority of the Sun's mass?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the smallest unit of an element that retains its properties?",
+      "options": [
+        "The atom",
+        "The molecule",
+        "The cell",
+        "The quark"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist formulated the three laws of motion?",
+      "options": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Nicolaus Copernicus"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a substance that speeds up a chemical reaction?",
+      "options": [
+        "A catalyst",
+        "A reagent",
+        "A solvent",
+        "An inhibitor"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which ocean zone receives no sunlight at all?",
+      "options": [
+        "The aphotic zone",
+        "The photic zone",
+        "The intertidal zone",
+        "The neritic zone"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical formula for table salt?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "CaCl2",
+        "NaOH"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of blood vessel carries blood away from the heart?",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Venules"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What causes the phases of the Moon?",
+      "options": [
+        "Its position relative to Earth and the Sun",
+        "Earth's shadow",
+        "Clouds in Earth's atmosphere",
+        "The Moon's rotation speed"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is most responsible for the greenhouse effect on Venus?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the basic unit of heredity called?",
+      "options": [
+        "The gene",
+        "The chromosome",
+        "The protein",
+        "The enzyme"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the variety of life in an ecosystem?",
+      "options": [
+        "Biodiversity",
+        "Biomass",
+        "Biosphere",
+        "Biome"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist is credited with discovering penicillin?",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Edward Jenner"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet rotates on its side relative to its orbit?",
+      "options": [
+        "Uranus",
+        "Neptune",
+        "Saturn",
+        "Mars"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal that eats both plants and meat?",
+      "options": [
+        "An omnivore",
+        "A herbivore",
+        "A carnivore",
+        "A detritivore"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which unit measures electrical resistance?",
+      "options": [
+        "The ohm",
+        "The volt",
+        "The ampere",
+        "The watt"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for three consecutive strikes in bowling?",
+      "options": [
+        "A turkey",
+        "A hat trick",
+        "A triple",
+        "A run"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport is the Ryder Cup contested?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Sailing",
+        "Rowing"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many periods are in a standard ice hockey game?",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "Five"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete is nicknamed the Lightning Bolt?",
+      "options": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Michael Johnson",
+        "Tyson Gay"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport combines skiing and rifle shooting?",
+      "options": [
+        "Biathlon",
+        "Triathlon",
+        "Pentathlon",
+        "Decathlon"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In rugby union, how many points is a try worth?",
+      "options": [
+        "Five",
+        "Three",
+        "Six",
+        "Four"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many events make up a men's decathlon?",
+      "options": [
+        "Ten",
+        "Seven",
+        "Twelve",
+        "Five"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country invented the sport of judo?",
+      "options": [
+        "Japan",
+        "China",
+        "Korea",
+        "Brazil"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for scoring three goals in one soccer match?",
+      "options": [
+        "A hat trick",
+        "A triple",
+        "A treble",
+        "A trifecta"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Formula One, what flag signals the end of a race?",
+      "options": [
+        "The checkered flag",
+        "The yellow flag",
+        "The red flag",
+        "The green flag"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played with a peloton?",
+      "options": [
+        "Road cycling",
+        "Rowing",
+        "Cross-country skiing",
+        "Speed skating"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many bases are on a baseball diamond?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards the Green Jacket to its champion?",
+      "options": [
+        "The Masters golf tournament",
+        "The Kentucky Derby",
+        "The Tour de France",
+        "Wimbledon"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a free throw worth?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country is credited with inventing table tennis?",
+      "options": [
+        "England",
+        "China",
+        "Japan",
+        "Germany"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What does a libero specialize in during a volleyball match?",
+      "options": [
+        "Defense",
+        "Serving",
+        "Blocking",
+        "Spiking"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players form a water polo team in the pool?",
+      "options": [
+        "Seven",
+        "Six",
+        "Five",
+        "Eight"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the terms scrum and lineout?",
+      "options": [
+        "Rugby",
+        "Cricket",
+        "Field hockey",
+        "Netball"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In fencing, which weapon targets only the torso?",
+      "options": [
+        "The foil",
+        "The sabre",
+        "The epee",
+        "The rapier"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country originated the sport of curling?",
+      "options": [
+        "Scotland",
+        "Canada",
+        "Norway",
+        "Sweden"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is phishing?",
+      "options": [
+        "A scam that tricks users into revealing information",
+        "A network speed test",
+        "A file compression method",
+        "A type of encryption"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which port number is standard for HTTPS traffic?",
+      "options": [
+        "443",
+        "80",
+        "21",
+        "25"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which law observed that transistor counts double roughly every two years?",
+      "options": [
+        "Moore's Law",
+        "Ohm's Law",
+        "Metcalfe's Law",
+        "Amdahl's Law"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which social network was originally called 'The Facebook'?",
+      "options": [
+        "Facebook",
+        "Twitter",
+        "MySpace",
+        "LinkedIn"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'IoT' stand for?",
+      "options": [
+        "Internet of Things",
+        "Index of Terms",
+        "Input Output Transfer",
+        "Integrated Optical Transmission"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file format is a lossy image compression standard?",
+      "options": [
+        "JPEG",
+        "PNG",
+        "BMP",
+        "TIFF"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a compiler?",
+      "options": [
+        "A program that translates source code into machine code",
+        "A text editor",
+        "A network switch",
+        "A database index"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company built the first commercially successful personal computer spreadsheet, VisiCalc?",
+      "options": [
+        "VisiCorp",
+        "Microsoft",
+        "Lotus",
+        "Apple"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'cloud computing' primarily rely on?",
+      "options": [
+        "Remote servers accessed over the internet",
+        "Local hard drives only",
+        "Satellite dishes",
+        "Analog signals"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which key combination is the standard copy shortcut on Windows?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X",
+        "Ctrl+Z"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name of Apple's mobile operating system?",
+      "options": [
+        "iOS",
+        "macOS",
+        "watchOS",
+        "Android"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes testing software by end users before general release?",
+      "options": [
+        "Beta testing",
+        "Alpha coding",
+        "Unit testing",
+        "Regression testing"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'bandwidth' measure on a network?",
+      "options": [
+        "Data transfer capacity",
+        "Physical cable length",
+        "Signal color",
+        "Server temperature"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "What man-made waterway did the 1979 Israel-Egypt Peace Treaty allow Israel access to?",
+      "options": [
+        "The Suez Canal",
+        "The Panama Canal",
+        "The Kiel Canal",
+        "The Grand Canal"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "History",
+      "prompt": "Which female leader of India was killed by her bodyguards in 1984?",
+      "options": [
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Benazir Bhutto",
+        "Golda Meir"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "History",
+      "prompt": "When was the SS or Schutzstaffel established?",
+      "options": [
+        "April 4th, 1925",
+        "September 1st, 1941",
+        "March 8th, 1935",
+        "February 21st, 1926"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "History",
+      "prompt": "What was the instrument of execution during the \"Reign of Terror\"?",
+      "options": [
+        "Guillotine",
+        "Firing Squad",
+        "Fire",
+        "Dogs"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "History",
+      "prompt": "What did British Honduras change its name to in 1973?",
+      "options": [
+        "Belize",
+        "Barbados",
+        "Guatemala",
+        "Jamaica"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "History",
+      "prompt": "How many witches were burned at the stake in Salem, Massachusetts?",
+      "options": [
+        "0",
+        "1",
+        "30",
+        "19"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "History",
+      "prompt": "What year did World War I begin?",
+      "options": [
+        "1914",
+        "1905",
+        "1919",
+        "1925"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "History",
+      "prompt": "In what year did the Great Northern War, between Russia and Sweden, end?",
+      "options": [
+        "1721",
+        "1726",
+        "1727",
+        "1724"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+      "options": [
+        "Noether's Theorem",
+        "Bell's Theorem",
+        "Wick's Theorem",
+        "Carnot's Theorem"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the Linnean name of the domestic apple tree?",
+      "options": [
+        "Malus pumila",
+        "Malus americana",
+        "Pomus domestica",
+        "Appelus delectica"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is Andrology the study of?",
+      "options": [
+        "Male health and disease",
+        "Animal behaviour",
+        "The causation of disease",
+        "The structure of cells"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for rendered fat that is used in making soap or candles?",
+      "options": [
+        "Tallow",
+        "Millow",
+        "Bellow",
+        "Rellow"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Science",
+      "prompt": "To The Nearest 250 Grams What Is The Average Weight Of An Adult Brain?",
+      "options": [
+        "1.5kg",
+        "500g",
+        "1kg",
+        "2kg"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Science",
+      "prompt": "What lies at the center of our galaxy?",
+      "options": [
+        "A black hole",
+        "A wormhole",
+        "A supernova",
+        "A quasar"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "71% of the Earth's surface is made up of",
+      "options": [
+        "Water",
+        "Deserts",
+        "Continents",
+        "Forests"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the word for a young grasshopper?",
+      "options": [
+        "A Nymph",
+        "A Bunny",
+        "A Duckling",
+        "A Poult"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which country first successfully farm-hatched and raised bluefin tuna in 1979?",
+      "options": [
+        "Japan",
+        "France",
+        "USA",
+        "Philippines"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is Dermatology the study of?",
+      "options": [
+        "The skin",
+        "Birds",
+        "Parasites",
+        "The Ancient Egyptians"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the thin, outermost layer of the Earth?",
+      "options": [
+        "Crust",
+        "Exosphere",
+        "Mantle",
+        "Outer Core"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?",
+      "options": [
+        "Joe Frazier",
+        "Sugar Ray Robinson",
+        "George Foreman",
+        "Mike Tyson"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the maximum amount of points that can be scored from a single shot in basketball?",
+      "options": [
+        "3",
+        "1",
+        "5",
+        "7"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which of these NHL players have never won a Hart Trophy for Regular Season MVP?",
+      "options": [
+        "Steve Yzerman",
+        "Chris Pronger",
+        "Jose Theodore",
+        "Henrik Sedin"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which is Kenesisa Bekele's personal best at marathon?",
+      "options": [
+        "2:01:41",
+        "2:01:12",
+        "2:01:45",
+        "2:01:51"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Why was The Green Monster at Fenway Park was originally built?",
+      "options": [
+        "To prevent viewing games from outside the park.",
+        "To make getting home runs harder.",
+        "To display advertisements.",
+        "To provide extra seating."
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In bowling, what is the term used for getting three consecutive strikes?",
+      "options": [
+        "Turkey",
+        "Flamingo",
+        "Birdie",
+        "Eagle"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which of these is a baseball team based in Cleveland?",
+      "options": [
+        "Cleveland Indians",
+        "Cleveland Celtics",
+        "Cleveland Hornets",
+        "Cleveland Blackhawks"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
+      "options": [
+        "Cue",
+        "Racquet",
+        "Bat",
+        "Mallet"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which team has won the most Stanley Cups in the NHL?",
+      "options": [
+        "Montreal Canadians",
+        "Chicago Blackhawks",
+        "Toronto Maple Leafs",
+        "Detroit Red Wings"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What event occurs in soccer when a defender commits a foul in their own penalty area?",
+      "options": [
+        "A penalty kick",
+        "A free kick",
+        "An own goal",
+        "A red card"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What is the name of the fictional company owned by Batman?",
+      "options": [
+        "Wayne Enterprises",
+        "Superhero Inc.",
+        "Gotham Corp.",
+        "The Dark Knight Co."
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who won the 1998 Academy Award for Best Supporting Actress for playing the role of Queen Elizabeth I in Shakespeare in Love?",
+      "options": [
+        "Judi Dench",
+        "Kathy Bates",
+        "Brenda Blethyn",
+        "Rachel Griffiths"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In \"Mean Girls\", who has breasts that tell when it's raining?",
+      "options": [
+        "Karen Smith",
+        "Gretchen Weiners",
+        "Janice Ian",
+        "Cady Heron"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In the 1992 film \"Army of Darkness\", what name does Ash give to his double-barreled shotgun?",
+      "options": [
+        "Boomstick",
+        "Bloomstick",
+        "Blastbranch",
+        "2-Pump Chump"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "The Terminator was released in which year?",
+      "options": [
+        "1984",
+        "1979",
+        "1989",
+        "1994"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "What word completes the 1951 film title \"Strangers on a ___\"?",
+      "options": [
+        "Train",
+        "Boat",
+        "Bus",
+        "Plane"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Where are the Nazca Lines located?",
+      "options": [
+        "Peru",
+        "Brazil",
+        "Colombia",
+        "Ecuador"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which of these colors is included on the flag of Mali?",
+      "options": [
+        "Red",
+        "White",
+        "Gold",
+        "Maroon"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+      "options": [
+        "Tenerife",
+        "Fuerteventura",
+        "Gran Canaria",
+        "Maui"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Senegal?",
+      "options": [
+        "Dakar",
+        "Nouakchott",
+        "Conakry",
+        "Monrovia"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which region of the world uses '.se' at the end of its web addresses?",
+      "options": [
+        "Sweden",
+        "Serbia",
+        "Senegal",
+        "Singapore"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "The historical city Timbuktu is located in which West African country?",
+      "options": [
+        "Mali",
+        "Senegal",
+        "Niger",
+        "Burkina Faso"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What was The First Town Founded By Europeans In Southern Africa?",
+      "options": [
+        "Cape Town",
+        "Freetown",
+        "Johannesburg",
+        "Port Elizabeth"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "In which country is Lake Taupo?",
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "The World Health Organization headquarters is located in which European country?",
+      "options": [
+        "Switzerland",
+        "United Kingdom",
+        "France",
+        "Belgium"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "With which country does France share its largest land border",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Spain",
+        "Canada"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Canadian province has Charlottetown as its capital?",
+      "options": [
+        "Prince Edward Island",
+        "Saskachewan",
+        "Northwest Terrirories",
+        "Ontario"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital city of Tuvalu?",
+      "options": [
+        "Funafuti",
+        "Sana'a",
+        "Manama",
+        "Kigali"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Guyana is in which continent?",
+      "options": [
+        "South America",
+        "Africa",
+        "North America",
+        "Asia"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the tallest building in the world?",
+      "options": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "Taipei 101",
+        "Empire State Building"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "In what country is the most lowest (sea level) point of South America?",
+      "options": [
+        "Argentina",
+        "Uruguay",
+        "Paraguay",
+        "Peru"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "How many US states start with the letter K?",
+      "options": [
+        "Two",
+        "One",
+        "None",
+        "Three"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Where city has the statue, 'Manneken Pis, depicting a naked boy urinating into a fountain?",
+      "options": [
+        "Brussels",
+        "Antwerp",
+        "Liège",
+        "Amsterdam"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What are the four corner states of the US?",
+      "options": [
+        "Utah, Colorado, Arizona, New Mexico",
+        "Oregon, Idaho, Nevada, Utah",
+        "Kansas, Oklahoma, Arkansas, Louisiana",
+        "South Dakota, Minnesota, Nebraska, Iowa"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+      "options": [
+        "Lishana Deni",
+        "Hulaulá",
+        "Lishan Didan",
+        "Chaldean Neo-Aramaic"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which of these colors is included on the flag of Brazil?",
+      "options": [
+        "Green",
+        "Maroon",
+        "Red",
+        "Black"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Geography",
+      "prompt": "In which US city is the Sears Tower?",
+      "options": [
+        "Chicago",
+        "New York",
+        "Los Angeles",
+        "Houston"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "What's Harry Potter's dad's name?",
+      "options": [
+        "James Potter",
+        "Joey Potter",
+        "Frank Potter",
+        "Hairy Potter Sr."
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book contains the character 'Nick and Nora Charles'?",
+      "options": [
+        "The Thin Man",
+        "The Tin Drum",
+        "One Hundred Years of Solitude",
+        "The World According to Garp"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'A Portrait of the Artist as a Young Man'?",
+      "options": [
+        "James Joyce",
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "Jonathan Swift"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the 1967 horror novel \"Rosemary's Baby\"?",
+      "options": [
+        "Ira Levin",
+        "Stephen King",
+        "Robert Bloch",
+        "Mary Shelley"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+      "options": [
+        "1984",
+        "The Old Man and the Sea",
+        "Catcher and the Rye",
+        "To Kill a Mockingbird"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which famous musical features the song 'I Feel Pretty'?",
+      "options": [
+        "West Side Story",
+        "The Sound of Music",
+        "Oklahoma!",
+        "Grease"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "What was the pen name of novelist, Mary Ann Evans?",
+      "options": [
+        "George Eliot",
+        "George Orwell",
+        "George Bernard Shaw",
+        "George Saunders"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'Twelfth Night'?",
+      "options": [
+        "William Shakespeare",
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+      "options": [
+        "Astoria Greengrass",
+        "Pansy Parkinson",
+        "Millicent Bulstrode",
+        "Hermione Granger"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "What was the name of Captain Nemo's submarine in \"20,000 Leagues Under the Sea\"?",
+      "options": [
+        "The Nautilus",
+        "The Neptune",
+        "The Poseidon",
+        "The Atlantis"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which book contains the character 'Gulley Jimson'?",
+      "options": [
+        "The Horse's Mouth",
+        "The Member of the Wedding",
+        "Breakfast at Tiffany's",
+        "On the Road"
+      ],
+      "answerIndex": 0,
+      "source": "trivia-api"
+    },
+    {
+      "category": "Literature",
+      "prompt": "The book \"The Little Prince\" was written by...",
+      "options": [
+        "Antoine de Saint-Exupéry",
+        "Miguel de Cervantes Saavedra",
+        "Jane Austen",
+        "F. Scott Fitzgerald"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Literature",
+      "prompt": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+      "options": [
+        "The Prince and the Pauper",
+        "Hamlet",
+        "Wealthy Boy and the Schmuck",
+        "A Modern Twain Story"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "options": [
+        "ADPCM Sampler",
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the term MIME stand for, in regards to computing?",
+      "options": [
+        "Multipurpose Internet Mail Extensions",
+        "Mail Internet Mail Exchange",
+        "Multipurpose Interleave Mail Exchange",
+        "Mail Interleave Method Exchange"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "The Harvard architecture for micro-controllers added which additional bus?",
+      "options": [
+        "Instruction",
+        "Address",
+        "Data",
+        "Control"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which operating system was released first?",
+      "options": [
+        "Mac OS",
+        "Windows",
+        "Linux",
+        "OS/2"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bits make up the significand portion of a single precision floating point number?",
+      "options": [
+        "23",
+        "8",
+        "53",
+        "15"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Approximately how many Apple I personal computers were created?",
+      "options": [
+        "200",
+        "100",
+        "500",
+        "1000"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": ".rs is the top-level domain for what country?",
+      "options": [
+        "Serbia",
+        "Romania",
+        "Russia",
+        "Rwanda"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "In any programming language, what is the most common way to iterate through an array?",
+      "options": [
+        "'For' loops",
+        "'If' Statements",
+        "'Do-while' loops",
+        "'While' loops"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+      "options": [
+        "center",
+        "static",
+        "absolute",
+        "relative"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language was developed by Sun Microsystems in 1995?",
+      "options": [
+        "Java",
+        "Python",
+        "Solaris OS",
+        "C++"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "options": [
+        "Midnight, January 1, 1970",
+        "Midnight, July 4, 1976",
+        "Midnight on the creator of Unix's birthday",
+        "Midnight, July 4, 1980"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "In the programming language \"Python\", which of these statements would display the string \"Hello World\" correctly?",
+      "options": [
+        "print(\"Hello World\")",
+        "console.log(\"Hello World\")",
+        "echo \"Hello World\"",
+        "printf(\"Hello World\")"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the \"MP\" stand for in MP3?",
+      "options": [
+        "Moving Picture",
+        "Music Player",
+        "Multi Pass",
+        "Micro Point"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which of these people was NOT a founder of Apple Inc?",
+      "options": [
+        "Jonathan Ive",
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Steve Wozniak"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "options": [
+        "Inkscape",
+        "Paint.NET",
+        "GIMP",
+        "Adobe Photoshop"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Linus Torvalds created which of these?",
+      "options": [
+        "Linux",
+        "Microsoft Windows",
+        "Python",
+        "Wikipedia"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What was the name of the first Bulgarian personal computer?",
+      "options": [
+        "IMKO-1",
+        "Pravetz 82",
+        "Pravetz 8D",
+        "IZOT 1030"
+      ],
+      "answerIndex": 0,
+      "source": "opentdb"
+    }
+  ]
+}

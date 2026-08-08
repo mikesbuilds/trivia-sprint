@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder stood in the harbor of Alexandria?",
+      "options": [
+        "The Temple of Artemis",
+        "The Hanging Gardens",
+        "The Colossus of Rhodes",
+        "The Lighthouse of Pharos"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant gas in Earth's atmosphere?",
+      "options": [
+        "Argon",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the field for one soccer team at kickoff?",
+      "options": [
+        "Ten",
+        "Nine",
+        "Eleven",
+        "Twelve"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line 'May the Force be with you'?",
+      "options": [
+        "Star Wars",
+        "Star Trek",
+        "Battlestar Galactica",
+        "Dune"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Europe from Asia?",
+      "options": [
+        "The Urals",
+        "The Alps",
+        "The Caucasus",
+        "The Carpathians"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created the detective Sherlock Holmes?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Wilkie Collins",
+        "G. K. Chesterton"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bits are in a byte?",
+      "options": [
+        "Sixteen",
+        "Two",
+        "Eight",
+        "Four"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

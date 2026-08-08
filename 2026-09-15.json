@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Meiji Restoration modernized which country?",
+      "options": [
+        "Japan",
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of fungi called?",
+      "options": [
+        "Virology",
+        "Botany",
+        "Entomology",
+        "Mycology"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which position in soccer is allowed to handle the ball?",
+      "options": [
+        "Goalkeeper",
+        "Striker",
+        "Midfielder",
+        "Defender"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series is set in the fictional town of Hawkins, Indiana?",
+      "options": [
+        "Dark",
+        "Stranger Things",
+        "The OA",
+        "Riverdale"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean is the largest by area?",
+      "options": [
+        "The Atlantic",
+        "The Arctic",
+        "The Indian",
+        "The Pacific"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "In Greek mythology retold by Homer, who is the goddess of wisdom?",
+      "options": [
+        "Hera",
+        "Athena",
+        "Demeter",
+        "Artemis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology underpins cryptocurrencies like Bitcoin?",
+      "options": [
+        "Machine learning",
+        "Cloud storage",
+        "Blockchain",
+        "Quantum computing"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

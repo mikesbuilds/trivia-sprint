@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the nonviolent Salt March in 1930?",
+      "options": [
+        "Mohandas Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "B. R. Ambedkar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of the atmosphere contains the ozone layer?",
+      "options": [
+        "The mesosphere",
+        "The troposphere",
+        "The thermosphere",
+        "The stratosphere"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, how many players are on a team?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Eleven",
+        "Nine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the first Academy Award for Best Animated Feature?",
+      "options": [
+        "Shrek",
+        "Finding Nemo",
+        "Monsters, Inc.",
+        "Toy Story"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake is the largest freshwater lake by surface area?",
+      "options": [
+        "Lake Victoria",
+        "Lake Baikal",
+        "Lake Superior",
+        "Lake Michigan"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Beloved'?",
+      "options": [
+        "Alice Walker",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage type has no moving parts?",
+      "options": [
+        "A floppy disk",
+        "A solid state drive",
+        "A hard disk drive",
+        "An optical drive"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

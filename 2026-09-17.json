@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Hundred Years' War was fought between England and which country?",
+      "options": [
+        "Spain",
+        "France",
+        "Scotland",
+        "The Netherlands"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the freezing point of water in Fahrenheit?",
+      "options": [
+        "0 degrees",
+        "100 degrees",
+        "212 degrees",
+        "32 degrees"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is a perfect score in ten-pin bowling?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "400"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist painted the Campbell's Soup Cans?",
+      "options": [
+        "Andy Warhol",
+        "Keith Haring",
+        "Jackson Pollock",
+        "Roy Lichtenstein"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which canal connects the Atlantic and Pacific Oceans?",
+      "options": [
+        "The Erie Canal",
+        "The Suez Canal",
+        "The Kiel Canal",
+        "The Panama Canal"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in a future where firemen burn books?",
+      "options": [
+        "1984",
+        "Anthem",
+        "Fahrenheit 451",
+        "The Giver"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Swift programming language?",
+      "options": [
+        "Apple",
+        "Google",
+        "Mozilla",
+        "Oracle"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

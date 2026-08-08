@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war was ended by the Treaty of Versailles?",
+      "options": [
+        "The Franco-Prussian War",
+        "World War I",
+        "World War II",
+        "The Crimean War"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH of a neutral solution at room temperature?",
+      "options": [
+        "7",
+        "0",
+        "1",
+        "14"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which race is known as the Run for the Roses?",
+      "options": [
+        "The Preakness Stakes",
+        "The Grand National",
+        "The Belmont Stakes",
+        "The Kentucky Derby"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band performed 'Bohemian Rhapsody'?",
+      "options": [
+        "Led Zeppelin",
+        "The Eagles",
+        "Queen",
+        "Fleetwood Mac"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the southern tip of mainland South America?",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Argentina",
+        "Chile"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Crime and Punishment'?",
+      "options": [
+        "Nikolai Gogol",
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the most widely used operating system kernel on servers?",
+      "options": [
+        "Linux",
+        "Solaris",
+        "Windows NT",
+        "BSD"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
