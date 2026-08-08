@@ -9,13 +9,12 @@ questions in your own voice.
 
 ## How it works
 
-Two GitHub Actions, both free (this repo is public, so Actions minutes are
-unlimited) and neither needs an API key or a secret.
+One GitHub Action, free (this repo is public, so Actions minutes are unlimited),
+needing no API key and no secret.
 
 | Workflow | Schedule | What it does |
 |---|---|---|
 | `publish.yml` | daily | Tops the buffer back up to **30 days** of published day files |
-| `refill.yml` | Mondays | Tops the question bank up from free trivia APIs if a category runs low |
 
 The important property is that days are published **ahead of time**, not on the
 morning they are needed. If a run fails — or Actions breaks entirely — you lose
@@ -24,11 +23,23 @@ buffer depth, not uptime. You have about a month to notice.
 ```
 bank/seed/*.json  --merge_seed-->  bank/questions.json  --publish-->  YYYY-MM-DD.json
                                           ^
-                                    refill (free APIs)
+                                    recycle (>365 days old)
 ```
 
-Questions are drawn in insertion order, so curated questions are always used
-before anything scraped from an API.
+All content is either written by hand or recycled from this repo's own history.
+Nothing is pulled from third-party APIs, so there is no external content licence
+to honour.
+
+### Repeat policy
+
+A published question may return to the bank only once **365 days** have passed
+since it last aired (`tools/recycle.py`). Note this yields nothing until early
+2027: the Jan–Feb 2026 day files were a wholesale re-upload of the Jan–Feb 2025
+questions, so nearly every prompt has aired within the last year. Treat recycling
+as a tap that turns itself on later, not as runway you have today.
+
+`bank/used.json` is what enforces this. It is also why the three identical
+consecutive days in October 2025 cannot happen again.
 
 ## Adding your own questions
 
@@ -68,11 +79,11 @@ Literature, Technology.
 ```bash
 python3 tools/publish.py --days 30 --dry-run   # preview what would publish
 python3 tools/publish.py --days 30             # fill the buffer
-python3 tools/refill.py  --min-per-category 60 # pull from the free APIs
 python3 tools/merge_seed.py                    # ingest bank/seed/*.json
+python3 tools/recycle.py --dry-run             # preview what is old enough to reuse
 ```
 
-Both workflows also have a **Run workflow** button in the Actions tab.
+The workflow also has a **Run workflow** button in the Actions tab.
 
 ## What the validator guards against
 
@@ -102,9 +113,17 @@ About 98 older files predate the current seven-category naming (they use
 ```
 tools/triviakit.py   shared schema, normalization, validation
 tools/publish.py     builds day files from the bank
-tools/refill.py      pulls from OpenTDB and The Trivia API
 tools/merge_seed.py  ingests bank/seed/*.json into the bank
+tools/recycle.py     returns questions older than 365 days to the bank
 bank/questions.json  the pool
 bank/used.json       every prompt ever published (dedupe ledger)
 bank/seed/           curated question files, safe to add to
 ```
+
+## Topping up
+
+Roughly every couple of months, add questions to `bank/seed/` and run
+`merge_seed.py`. Expect a meaningful rejection rate — about half of a recent
+528-question batch was rejected as already published, because most
+straightforward general-knowledge ground is already covered. Aim wider or more
+specific rather than more obvious.

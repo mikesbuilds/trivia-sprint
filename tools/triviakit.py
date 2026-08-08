@@ -38,10 +38,11 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def clean_text(value: str) -> str:
-    """Undo the encodings the free trivia APIs ship and trim stray whitespace.
+    """Normalize text before it reaches a published file.
 
-    OpenTDB returns HTML entities and sometimes a trailing space (its "Augustus "
-    is a real example), which would render as a visibly misaligned option.
+    Unescapes HTML entities and trims stray whitespace. A trailing space on an
+    option renders as a visibly misaligned row in the app, and both are easy to
+    introduce by pasting from a web page.
     """
     text = html.unescape(str(value))
     text = unicodedata.normalize("NFC", text)
