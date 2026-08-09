@@ -48,6 +48,19 @@ def place_answer(question: dict, target: int, rng: random.Random) -> dict:
     return {**question, "options": options, "answerIndex": target}
 
 
+def publishable(question: dict) -> dict:
+    """Strip a bank entry down to the keys the app reads.
+
+    `source` is bookkeeping and stays out of published files. `fact` is carried
+    through when present — without this the review screen would never see one,
+    since the bank entry is otherwise discarded here.
+    """
+    out = {k: question[k] for k in ("category", "prompt", "options", "answerIndex")}
+    if question.get("fact"):
+        out["fact"] = question["fact"]
+    return out
+
+
 def build_day(target_date: str, pool: dict[str, list[dict]]) -> tuple[dict | None, str]:
     """Draw one question per category. Returns (payload, error_message)."""
     short = [c for c in tk.CATEGORIES if not pool.get(c)]
@@ -65,10 +78,7 @@ def build_day(target_date: str, pool: dict[str, list[dict]]) -> tuple[dict | Non
     return {
         "date": target_date,
         "categories": list(tk.CATEGORIES),
-        "questions": [
-            {k: q[k] for k in ("category", "prompt", "options", "answerIndex")}
-            for q in questions
-        ],
+        "questions": [publishable(q) for q in questions],
     }, ""
 
 
@@ -94,19 +104,39 @@ def main() -> int:
 
     # Group the bank by category, skipping anything already published. Reversed
     # so .pop() draws oldest-first and the bank drains in insertion order.
+    #
+    # `used` only catches a prompt republished verbatim. Repeats far more often
+    # arrive reworded ("Which metal is liquid at room temperature?" after
+    # "Which metallic element...") or inverted, so also compare against the last
+    # year of content and the unaired buffer by meaning, not just by hash.
+    history = tk.recent_keys(start.isoformat())
+    buffered = [tk.compare_key(q)
+                for questions in tk.load_days(start=start.isoformat()).values()
+                for q in questions]
+
     pool: dict[str, list[dict]] = {c: [] for c in tk.CATEGORIES}
     kept_hashes: set[str] = set()
+    seen_keys: list[dict] = history + buffered
+    repeats_skipped = 0
     for q in bank:
         h = tk.qhash(q["prompt"])
         if h in used or h in kept_hashes or q["category"] not in pool:
             continue
+        key = tk.compare_key(q)
+        if tk.first_duplicate(key, seen_keys)[0]:
+            repeats_skipped += 1
+            continue
         kept_hashes.add(h)
+        seen_keys.append(key)
         pool[q["category"]].append(q)
     for questions in pool.values():
         questions.reverse()
 
     print(f"missing {len(missing)} day(s); bank has "
           + ", ".join(f"{c}={len(pool[c])}" for c in tk.CATEGORIES))
+    if repeats_skipped:
+        print(f"held back {repeats_skipped} bank question(s) as repeats of the "
+              f"last {tk.REPEAT_WINDOW_DAYS} days")
 
     written, drawn_hashes = [], set()
     for target_date in missing:

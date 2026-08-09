@@ -19,18 +19,20 @@
         "Hernan Cortes",
         "Christopher Columbus"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He did not survive the voyage — he was killed in the Philippines, and one ship of the original five finished the circumnavigation under Elcano."
     },
     {
       "category": "Science",
-      "prompt": "What type of rock forms from cooled magma or lava?",
+      "prompt": "What is the term for a solution with a pH below 7?",
       "options": [
-        "Igneous",
-        "Sedimentary",
-        "Metamorphic",
-        "Organic"
+        "Acidic",
+        "Alkaline",
+        "Basic",
+        "Neutral"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The scale is logarithmic, so pH 3 is ten times more acidic than pH 4 and a hundred times more than pH 5."
     },
     {
       "category": "Sports",
@@ -41,29 +43,32 @@
         "Judo",
         "Taekwondo"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Its emphasis on high, fast kicks reflects scoring that rewards them far more heavily than hand techniques."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which musician released the album 'Thriller'?",
+      "prompt": "Which film features a character riding a bicycle across the Moon?",
       "options": [
-        "Lionel Richie",
-        "Michael Jackson",
-        "Marvin Gaye",
-        "Stevie Wonder"
+        "Flight of the Navigator",
+        "E.T. the Extra-Terrestrial",
+        "Close Encounters of the Third Kind",
+        "The Goonies"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The silhouette of the bicycle against the Moon became the logo of Spielberg's production company."
     },
     {
       "category": "Geography",
-      "prompt": "What is the largest island in the world?",
+      "prompt": "Which sea does the Danube River empty into?",
       "options": [
-        "Borneo",
-        "New Guinea",
-        "Greenland",
-        "Madagascar"
+        "The Caspian Sea",
+        "The Adriatic Sea",
+        "The Black Sea",
+        "The Baltic Sea"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The Danube passes through or borders ten countries, more than any other river in the world."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Anton Chekhov",
         "August Strindberg"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The ending was so controversial that he was pressured into writing an alternative in which Nora stays."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "CSS",
         "SQL"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "CSS separates appearance from structure, so a site can be completely restyled without touching its HTML."
     }
   ]
 }

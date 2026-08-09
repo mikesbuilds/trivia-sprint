@@ -19,7 +19,8 @@
         "Adnan Menderes",
         "Ismet Inonu"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He replaced the Arabic script with a Latin alphabet almost overnight, and toured the country teaching it personally."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "John Dalton",
         "Robert Boyle"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He left gaps for elements not yet discovered and predicted their properties. When they were found, he was close to right."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "The parallel bars",
         "The uneven bars"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Women compete on four apparatus and men on six. The uneven bars and the beam are women's only."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Iron Man",
         "The Dark Knight"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Much of Downey's dialogue was improvised, and the film's success is what made the wider Marvel series possible."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "China",
         "Thailand"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Nippon means origin of the sun — the country lies east of the Asian mainland, where the sun appears to rise."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Franz Kafka",
         "Robert Musil"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He asked for his unpublished work to be burned after his death. His friend Max Brod published it instead."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "It has no license",
         "It runs only on Linux"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Anyone can read, modify and redistribute the code, which is what lets thousands of unrelated people maintain the same software."
     }
   ]
 }

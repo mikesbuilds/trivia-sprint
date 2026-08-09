@@ -19,7 +19,8 @@
         "Gadsden Purchase",
         "Louisiana Purchase"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The U.S. paid $10 million for a strip of what is now southern Arizona and New Mexico, wanted mainly because it was flat enough for a southern transcontinental railroad."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Alloy",
         "Solution"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A compound is chemically bonded, which is why water behaves nothing like the hydrogen and oxygen inside it. A mixture keeps its ingredients' properties."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Shooting",
         "Fencing"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Archery appeared at the Olympics in 1900, then vanished for 52 years. It only returned for good in 1972."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "The Elder Wand",
         "The Golden Compass"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The Ring can only be unmade where it was forged, which is why the story is a journey into Mordor rather than a hunt for a weapon to destroy it."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Atacama Desert",
         "Gobi Desert"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The Gobi is a cold desert. It sits high enough on the Mongolian plateau that snow sometimes settles on its dunes."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Panem",
         "Narnia"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Panem takes its name from panem et circenses — 'bread and circuses' — the Roman phrase for keeping a population docile with food and spectacle."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "PNG",
         "RAM"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "HTTP stands for HyperText Transfer Protocol. The S in HTTPS means the connection is encrypted, which is why browsers now warn you when it is missing."
     }
   ]
 }

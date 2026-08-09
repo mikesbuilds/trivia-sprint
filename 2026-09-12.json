@@ -19,18 +19,20 @@
         "Australia",
         "Scandinavia"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was never one road but a web of routes, and it carried ideas and disease as efficiently as it carried silk."
     },
     {
       "category": "Science",
-      "prompt": "Which particle carries a negative electric charge?",
+      "prompt": "What is the closest galaxy to the Milky Way of comparable size?",
       "options": [
-        "The proton",
-        "The neutron",
-        "The photon",
-        "The electron"
+        "Triangulum",
+        "The Large Magellanic Cloud",
+        "Centaurus A",
+        "Andromeda"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is about 2.5 million light years away and closing. It will merge with the Milky Way in a few billion years."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Yellow",
         "Black"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The player is sent off and the team plays a player short — there is no substitution for a sending-off."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Tom Hanks",
         "Robin Williams"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He took a share of the profits instead of a salary, which earned him far more than the fee would have."
     },
     {
       "category": "Geography",
-      "prompt": "What is the tallest mountain above sea level?",
+      "prompt": "Which country lies directly south of the United States?",
       "options": [
-        "Mount Everest",
-        "Denali",
-        "Kangchenjunga",
-        "K2"
+        "Mexico",
+        "Cuba",
+        "Guatemala",
+        "Belize"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The two share a border of roughly 3,145 km, containing the busiest land crossing in the world."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "A Tale of Two Cities",
         "Great Expectations"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The two cities are London and Paris, and it is among the best-selling novels ever published."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Watts",
         "Hertz"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Clock speed counts cycles per second, though modern chips gain more from doing more per cycle than from raw speed."
     }
   ]
 }

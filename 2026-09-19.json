@@ -19,18 +19,20 @@
         "Hannibal",
         "Hamilcar"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He crossed the Alps with war elephants and beat Rome repeatedly in Italy, yet never took the city itself."
     },
     {
       "category": "Science",
-      "prompt": "What is the process by which a liquid becomes a gas called?",
+      "prompt": "What is the term for the middle layer of Earth's atmosphere where meteors burn up?",
       "options": [
-        "Precipitation",
-        "Evaporation",
-        "Condensation",
-        "Sublimation"
+        "The exosphere",
+        "The mesosphere",
+        "The stratosphere",
+        "The troposphere"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Meteors burn up here because the air is thin enough to reach but dense enough to create fierce friction."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Five",
         "Three"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Three minutes with a minute's rest between, up to twelve rounds for a championship bout."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "2001: A Space Odyssey",
         "Alien"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The tagline sold the film's entire premise in seven words, and is regularly voted among the best ever written."
     },
     {
       "category": "Geography",
-      "prompt": "Which mountain is the highest peak in Africa?",
+      "prompt": "Which bay lies between India and Myanmar?",
       "options": [
-        "Ras Dashen",
-        "Kilimanjaro",
-        "Mount Kenya",
-        "Mount Meru"
+        "The Gulf of Thailand",
+        "The Bay of Bengal",
+        "The Arabian Sea",
+        "The Andaman Sea"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It is the largest bay in the world, and the cyclones that form there are among the deadliest ever recorded."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "W. B. Yeats",
         "Philip Larkin"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He wrote it as his father was dying — a villanelle, a strict form whose repeated lines make it sound like an argument he cannot let go of."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "1000",
         "2048"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "1024 is two to the tenth. Drive manufacturers use 1,000 instead, which is why a new drive always looks smaller than advertised."
     }
   ]
 }

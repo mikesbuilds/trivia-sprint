@@ -19,18 +19,20 @@
         "Elizabeth II",
         "Henry VIII"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "She reigned for over 70 years, passing Victoria's record in 2015."
     },
     {
       "category": "Science",
-      "prompt": "What is the closest star to Earth?",
+      "prompt": "What is the term for an animal that eats only plants?",
       "options": [
-        "Sirius",
-        "Alpha Centauri A",
-        "Proxima Centauri",
-        "The Sun"
+        "A carnivore",
+        "An omnivore",
+        "A scavenger",
+        "A herbivore"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "They need long digestive systems or several stomachs, because the cellulose in plants is so hard to break down."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "The Giro d'Italia",
         "The Tour de France"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "About 3,500 km over three weeks. The leader's yellow jersey matched the newsprint of the paper that founded the race."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Terminator",
         "Predator"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Ripley was written without a specified gender, and casting a woman as the sole survivor broke the convention of the time."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Australia",
         "Russia"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its coastline runs over 200,000 km, mostly around Arctic islands — longer than the next several countries put together."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Calderon de la Barca",
         "Lope de Vega"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Often called the first modern novel. The second part was written partly to spite an impostor's unauthorised sequel."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "JavaScript",
         "C++"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was written in about ten days in 1995 and named to ride the popularity of Java, to which it is unrelated."
     }
   ]
 }

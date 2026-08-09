@@ -19,7 +19,8 @@
         "Subhas Chandra Bose",
         "B. R. Ambedkar"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The march protested a tax on salt — an ordinary necessity, chosen precisely because it made the injustice legible to everyone."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The thermosphere",
         "The stratosphere"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It absorbs most ultraviolet light, which is why the hole found over Antarctica prompted a rare and effective global treaty."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Eleven",
         "Nine"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Eleven a side, and a match can run five days and still end in a draw."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Monsters, Inc.",
         "Toy Story"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The category was created in 2001, and it beat Monsters, Inc. to take the very first one."
     },
     {
       "category": "Geography",
@@ -63,18 +67,20 @@
         "Lake Superior",
         "Lake Michigan"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It holds enough water to cover both North and South America to a depth of about a foot."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Beloved'?",
+      "prompt": "Which Shakespeare comedy features the fairy king Oberon?",
       "options": [
-        "Alice Walker",
-        "Toni Morrison",
-        "Maya Angelou",
-        "Zora Neale Hurston"
+        "The Tempest",
+        "A Midsummer Night's Dream",
+        "Twelfth Night",
+        "The Winter's Tale"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The play runs three plots at once — lovers, fairies and amateur actors — and ties them together over a single night."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A hard disk drive",
         "An optical drive"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "No spinning platters means no seek time, which is why it feels instant next to a mechanical drive."
     }
   ]
 }

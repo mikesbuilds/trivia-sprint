@@ -19,7 +19,8 @@
         "The Indus Valley",
         "Sumer"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Cuneiform began as accounting marks for grain and livestock. Writing was invented for bookkeeping long before it was used for literature."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Plasma cells",
         "White blood cells"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "A single one carries roughly a billion oxygen molecules, and lasts about four months before being broken down and recycled."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Five",
         "Three"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The rings represent the inhabited continents, and their six colours were chosen so that every national flag of the time contained at least one."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Madagascar",
         "Zootopia"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was the studio's B project at the time — most of the sought-after animators asked to work on Pocahontas instead."
     },
     {
       "category": "Geography",
-      "prompt": "Which African country is entirely surrounded by South Africa?",
+      "prompt": "Which country contains the city of Timbuktu?",
       "options": [
-        "Lesotho",
-        "Zimbabwe",
-        "Eswatini",
-        "Botswana"
+        "Mali",
+        "Chad",
+        "Niger",
+        "Senegal"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Timbuktu was a centre of learning, with libraries of hundreds of thousands of manuscripts — many still privately held."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Flannery O'Connor",
         "William Faulkner"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He set most of his major novels in this invented Mississippi county, and mapped it in detail."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Alan Turing",
         "Charles Babbage"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "His work at Bletchley Park is credited with shortening the war, and he defined the theoretical machine underlying all computing."
     }
   ]
 }

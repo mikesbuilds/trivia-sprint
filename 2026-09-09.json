@@ -19,7 +19,8 @@
         "Mormon pioneers",
         "Acadian settlers"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Thousands died on the forced marches west, which went ahead despite a Supreme Court ruling against the removals."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Niels Bohr",
         "Albert Einstein"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "General relativity describes gravity as the bending of spacetime by mass — and is why GPS satellites need relativistic corrections."
     },
     {
       "category": "Sports",
@@ -41,18 +43,20 @@
         "50 meters",
         "100 meters"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Olympic pools are 50 m long, which is why records are listed separately for 25 m short-course events."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which series features the Stark and Lannister families?",
+      "prompt": "Which band released 'Hotel California'?",
       "options": [
-        "Vikings",
-        "The Witcher",
-        "Outlander",
-        "Game of Thrones"
+        "Fleetwood Mac",
+        "The Doobie Brothers",
+        "Steely Dan",
+        "The Eagles"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is widely assumed to be about a real hotel. The band described it instead as being about excess in America."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Texas",
         "Montana"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "More than twice the size of Texas, and bought from Russia in 1867 for about two cents an acre."
     },
     {
       "category": "Literature",
@@ -74,18 +79,20 @@
         "Germinal",
         "A Tale of Two Cities"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He is pursued for nineteen years over a stolen loaf of bread and a broken parole."
     },
     {
       "category": "Technology",
-      "prompt": "Who co-founded Microsoft with Bill Gates?",
+      "prompt": "What does 'CSV' stand for as a file format?",
       "options": [
-        "Gordon Moore",
-        "Steve Wozniak",
-        "Paul Allen",
-        "Steve Ballmer"
+        "Coded Segment Value",
+        "Compressed Storage Volume",
+        "Comma-Separated Values",
+        "Central System Variable"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It is barely a format at all — just text with commas — which is why almost everything can read it and nothing agrees on the edge cases."
     }
   ]
 }

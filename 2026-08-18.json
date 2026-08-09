@@ -19,7 +19,8 @@
         "HMS Beagle",
         "Santa Maria"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Darwin sailed as a gentleman companion to the captain rather than as ship's naturalist, and his father initially refused to let him go at all."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Glucose",
         "ATP"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The double helix means each strand is a template for the other, which is exactly what lets a cell copy its instructions before dividing."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Karate",
         "Wrestling"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Wrestling is among the oldest recorded sports and featured in the ancient Olympics. A pin ends the match instantly, whatever the score."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Yoda",
         "Mace Windu"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Yoda's species is never named in any film, and Frank Oz both puppeteered and voiced him."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Apennines",
         "Alps"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Andorra sits in the middle of this range: a country of about 180 square miles with two heads of state, a Spanish bishop and the president of France."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Stanley Yelnats",
         "Jonas"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Stanley Yelnats is a palindrome, and the family blames its bad luck on a curse laid on his no-good-dirty-rotten-pig-stealing-great-great-grandfather."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "File encrypted",
         "Battery full"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "404 means the server is fine but the page is not there. Codes starting with 4 blame your side; codes starting with 5 blame the server."
     }
   ]
 }

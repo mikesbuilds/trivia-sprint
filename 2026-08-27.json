@@ -19,7 +19,8 @@
         "Crimean War",
         "Boxer Rebellion"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "1917 brought two revolutions. The first, in February, ended czarist rule; the Bolsheviks took power in the second, in October."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Density",
         "Velocity"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Density is why a steel ship floats: the hull encloses enough air that the whole vessel is less dense than the water it sits in."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Rowing",
         "Speed skating"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Pit stops are won and lost in seconds — a Formula 1 crew can change all four tyres in under two."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Recess",
         "The Magic School Bus"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Ms Frizzle's catchphrase — take chances, make mistakes, get messy — was the whole teaching philosophy of the show."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Romania?",
+      "prompt": "Which line of longitude is defined as zero degrees?",
       "options": [
-        "Budapest",
-        "Belgrade",
-        "Bucharest",
-        "Sofia"
+        "The international date line",
+        "The Tropic of Capricorn",
+        "The prime meridian",
+        "The equator"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Zero degrees runs through Greenwich because Britain dominated 19th-century sea charts, not for any natural reason."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Jay Gatsby",
         "George Wilson"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Nick opens by claiming he is inclined to reserve all judgements, then spends the entire novel judging everyone. That gap is the point."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A printer cartridge",
         "A computer fan"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "HTML marks up structure — headings, lists, links. CSS controls how it looks, and JavaScript what it does."
     }
   ]
 }

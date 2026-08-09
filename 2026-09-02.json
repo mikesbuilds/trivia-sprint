@@ -19,29 +19,32 @@
         "Sumerian cuneiform",
         "Mayan glyphs"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The stone repeats the same decree in three scripts, so scholars who could read the Greek were able to work backwards into the hieroglyphs."
     },
     {
       "category": "Science",
-      "prompt": "Which organelle is known as the powerhouse of the cell?",
+      "prompt": "What is the term for an object in space orbiting a planet?",
       "options": [
-        "The nucleus",
-        "The ribosome",
-        "The mitochondrion",
-        "The Golgi apparatus"
+        "A comet",
+        "A meteor",
+        "A satellite",
+        "An asteroid"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Natural or artificial — the Moon counts too. The first artificial one, Sputnik 1, launched in 1957."
     },
     {
       "category": "Sports",
-      "prompt": "How often are the modern Summer Olympic Games held?",
+      "prompt": "How many innings are in a standard professional baseball game?",
       "options": [
-        "Every five years",
-        "Every two years",
-        "Every four years",
-        "Every three years"
+        "Ten",
+        "Seven",
+        "Nine",
+        "Six"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Nine innings and no clock, which is why a game has no fixed length and can run into extra innings."
     },
     {
       "category": "Pop Culture",
@@ -52,29 +55,32 @@
         "King of the Hill",
         "The Simpsons"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The family was drawn in minutes as filler shorts for another programme before being given a series of their own."
     },
     {
       "category": "Geography",
-      "prompt": "Which country has the most time zones?",
+      "prompt": "Which country is known for the fjords along its western coast?",
       "options": [
-        "China",
-        "France",
-        "Russia",
-        "The United States"
+        "Scotland",
+        "Norway",
+        "Denmark",
+        "Iceland"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Fjords were carved by glaciers, and these are deep enough that cruise ships sail miles inland between the cliffs."
     },
     {
       "category": "Literature",
-      "prompt": "In which novel does the character Atticus Finch appear?",
+      "prompt": "Which author wrote 'Robinson Crusoe'?",
       "options": [
-        "To Kill a Mockingbird",
-        "Of Mice and Men",
-        "The Great Gatsby",
-        "The Grapes of Wrath"
+        "Daniel Defoe",
+        "Samuel Richardson",
+        "Jonathan Swift",
+        "Henry Fielding"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Defoe drew on the real castaway Alexander Selkirk, marooned alone on a Pacific island for over four years."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Vint Cerf",
         "Bill Gates"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He built it at CERN and gave the technology away for free, which is the main reason the web spread as fast as it did."
     }
   ]
 }

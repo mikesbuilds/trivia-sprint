@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which West African empire was ruled by Mansa Musa?",
+      "prompt": "Which battle in 1066 led to Norman rule in England?",
       "options": [
-        "Zulu Kingdom",
-        "Ghana Empire",
-        "Mali Empire",
-        "Songhai Empire"
+        "The Battle of Bosworth",
+        "The Battle of Culloden",
+        "The Battle of Hastings",
+        "The Battle of Agincourt"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Harold had just marched his army 250 miles south after beating a Norwegian invasion, and met William's forces exhausted."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "30 million kilometers per second",
         "300 kilometers per second"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Light takes about 1.3 seconds to reach us from the Moon and roughly eight minutes from the Sun, so sunlight is always slightly out of date."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Albatross",
         "Double bogey"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "One under par is a birdie, two is an eagle, three is an albatross. The birds get rarer as the shot gets better."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Zombie Piglin",
         "Creeper"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The Creeper was an accident: its shape came from a pig model built with the length and height values swapped by mistake."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of New Zealand?",
+      "prompt": "Which country lies between France and Germany with Luxembourg to its north?",
       "options": [
-        "Auckland",
-        "Queenstown",
-        "Wellington",
-        "Christchurch"
+        "Netherlands",
+        "Switzerland",
+        "Belgium",
+        "Austria"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It has three official languages — Dutch, French and German — and once went 589 days without forming a government."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Lantern",
         "Mirror"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The wardrobe was based on a real one carved by C. S. Lewis's grandfather, which he sat inside as a child listening to his brother's stories."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Battery cells",
         "Keyboard keys"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A crawler follows links from page to page, which is why a page that nothing links to can be almost invisible to a search engine."
     }
   ]
 }

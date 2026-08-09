@@ -19,7 +19,8 @@
         "Scotland",
         "The Netherlands"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It ran on and off for 116 years, and the name was applied only long afterwards by historians."
     },
     {
       "category": "Science",
@@ -30,18 +31,20 @@
         "212 degrees",
         "32 degrees"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Fahrenheit set zero at the coldest temperature he could reliably reproduce with a salt-and-ice mixture, which is why water freezes at an odd number."
     },
     {
       "category": "Sports",
-      "prompt": "What is a perfect score in ten-pin bowling?",
+      "prompt": "Which race takes place annually at Le Mans?",
       "options": [
-        "200",
-        "250",
-        "300",
-        "400"
+        "A cycling classic",
+        "A horse race",
+        "A 24-hour endurance race",
+        "A marathon"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Teams of drivers rotate through day and night, and the cars cover more distance in one race than a Formula 1 season."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Jackson Pollock",
         "Roy Lichtenstein"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "There are 32 canvases, one for each variety the company sold at the time, and they were first shown on shelves like a grocery aisle."
     },
     {
       "category": "Geography",
-      "prompt": "Which canal connects the Atlantic and Pacific Oceans?",
+      "prompt": "Which country has the most people living below sea level?",
       "options": [
-        "The Erie Canal",
-        "The Suez Canal",
-        "The Kiel Canal",
-        "The Panama Canal"
+        "Denmark",
+        "Bangladesh",
+        "Belgium",
+        "The Netherlands"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "About a quarter of the country sits below sea level, protected by dikes and a storm barrier built after the 1953 flood."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Fahrenheit 451",
         "The Giver"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The title is the temperature at which Bradbury was told paper ignites."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Mozilla",
         "Oracle"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was announced in 2014 to replace Objective-C, and made open source the following year."
     }
   ]
 }

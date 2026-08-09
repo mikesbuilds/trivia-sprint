@@ -1,0 +1,1548 @@
+{
+  "facts": [
+    {
+      "prompt": "Which Caribbean nation became independent in 1804 after a successful revolution?",
+      "fact": "Haiti's revolt was the only slave uprising in history to found an independent state. France then demanded reparations for its lost 'property', which Haiti paid off in 1947."
+    },
+    {
+      "prompt": "Which process lets body cells divide for growth and repair?",
+      "fact": "Mitosis copies a cell into two identical ones. Meiosis is the other kind, and it halves the chromosomes to make egg and sperm cells."
+    },
+    {
+      "prompt": "In rugby, what kick can follow a try?",
+      "fact": "The conversion is worth two extra points and must be taken in line with where the try was grounded, so scoring nearer the posts makes the kick far easier."
+    },
+    {
+      "prompt": "Which yellow Pokémon is known for electric powers and red cheeks?",
+      "fact": "Clefairy was the original pick to front the anime. Pikachu got the job instead, largely because it appealed to boys and girls alike."
+    },
+    {
+      "prompt": "What is the capital of Turkey?",
+      "fact": "Istanbul is older and much larger, but Atatürk moved the capital inland to Ankara in 1923, away from a coast that had just proved vulnerable."
+    },
+    {
+      "prompt": "In 'Charlotte's Web,' what kind of animal is Charlotte?",
+      "fact": "Charlotte is a barn spider, and E. B. White gave her the full Latin honour: Charlotte A. Cavatica, after the species Araneus cavaticus."
+    },
+    {
+      "prompt": "What is one binary digit called?",
+      "fact": "Bit is short for binary digit. Eight of them make a byte, which is just enough to store a single character of text."
+    },
+    {
+      "prompt": "Which U.S. land deal with Mexico was completed in 1853?",
+      "fact": "The U.S. paid $10 million for a strip of what is now southern Arizona and New Mexico, wanted mainly because it was flat enough for a southern transcontinental railroad."
+    },
+    {
+      "prompt": "What do chemists call a pure substance made from two or more elements bonded together?",
+      "fact": "A compound is chemically bonded, which is why water behaves nothing like the hydrogen and oxygen inside it. A mixture keeps its ingredients' properties."
+    },
+    {
+      "prompt": "Which Olympic sport uses a bow and arrows?",
+      "fact": "Archery appeared at the Olympics in 1900, then vanished for 52 years. It only returned for good in 1972."
+    },
+    {
+      "prompt": "In The Lord of the Rings, what object is Frodo tasked with destroying?",
+      "fact": "The Ring can only be unmade where it was forged, which is why the story is a journey into Mordor rather than a hunt for a weapon to destroy it."
+    },
+    {
+      "prompt": "Which desert spans parts of Mongolia and China?",
+      "fact": "The Gobi is a cold desert. It sits high enough on the Mongolian plateau that snow sometimes settles on its dunes."
+    },
+    {
+      "prompt": "What is the nation called in 'The Hunger Games'?",
+      "fact": "Panem takes its name from panem et circenses — 'bread and circuses' — the Roman phrase for keeping a population docile with food and spectacle."
+    },
+    {
+      "prompt": "Which protocol name is commonly used at the start of website addresses?",
+      "fact": "HTTP stands for HyperText Transfer Protocol. The S in HTTPS means the connection is encrypted, which is why browsers now warn you when it is missing."
+    },
+    {
+      "prompt": "Who led the Soviet Union during the Cuban Missile Crisis?",
+      "fact": "Khrushchev and Kennedy had no direct line during the 1962 crisis, so messages took hours to arrive. The Moscow–Washington hotline was created the next year because of it."
+    },
+    {
+      "prompt": "Which unit measures frequency?",
+      "fact": "One hertz is one cycle per second, named for Heinrich Hertz — who proved radio waves exist and then said he could see no practical use for them."
+    },
+    {
+      "prompt": "Which swimmer is famous for winning 23 Olympic gold medals?",
+      "fact": "Phelps finished with 23 golds and 28 medals overall, more Olympic golds than most competing nations have won in their entire history."
+    },
+    {
+      "prompt": "Who is SpongeBob SquarePants' best friend?",
+      "fact": "Patrick is a starfish. Creator Stephen Hillenburg taught marine biology before he was an animator, and most of Bikini Bottom's cast are real sea creatures."
+    },
+    {
+      "prompt": "What is the capital of Croatia?",
+      "fact": "Zagreb grew out of two rival hilltop settlements, Gradec and Kaptol, which spent centuries feuding before finally merging into one city."
+    },
+    {
+      "prompt": "In 'The Giver,' who is selected to become the Receiver of Memory?",
+      "fact": "Jonas is chosen at the Ceremony of Twelve. The role is called the most honoured in the community because he alone is allowed to feel what everyone else gave up."
+    },
+    {
+      "prompt": "What is a database query used to do?",
+      "fact": "A query asks a database a question. SQL, the language most people ask it in, dates from the 1970s and still runs much of the world's business data."
+    },
+    {
+      "prompt": "Johannes Gutenberg's printing work is strongly associated with which German city?",
+      "fact": "Gutenberg printed his Bible in Mainz around 1455, then lost the workshop to a lawsuit from his own investor and died with little to show for the invention."
+    },
+    {
+      "prompt": "Which metal is liquid at room temperature?",
+      "fact": "Mercury is the only metal that is liquid at room temperature, which is why it filled thermometers for centuries — until its toxicity ended the practice."
+    },
+    {
+      "prompt": "How many defensive players are on the field for a baseball team?",
+      "fact": "Nine take the field: a pitcher, a catcher, four infielders and three outfielders. A designated hitter bats without ever fielding."
+    },
+    {
+      "prompt": "Who directed the 2023 movie Barbie?",
+      "fact": "Barbie made Gerwig the first solo female director of a film that passed a billion dollars at the box office."
+    },
+    {
+      "prompt": "What is the world's largest inland body of water by surface area?",
+      "fact": "The Caspian is called a sea but is legally closer to a lake — a distinction worth billions, because sea law and lake law divide its oil very differently."
+    },
+    {
+      "prompt": "Who is the main girl in 'A Wrinkle in Time'?",
+      "fact": "Meg's stubbornness and impatience are treated as the very faults that save her: they are what let her resist IT and bring Charles Wallace back."
+    },
+    {
+      "prompt": "Which tool is commonly used for version control in software projects?",
+      "fact": "Linus Torvalds wrote Git in about ten days in 2005, after the tool Linux development relied on withdrew its free licence."
+    },
+    {
+      "prompt": "Which Greek writer is often called the Father of History?",
+      "fact": "Cicero gave Herodotus the title. Critics preferred Father of Lies, since he recorded gold-digging ants and other travellers' tales alongside real history."
+    },
+    {
+      "prompt": "What type of rock forms when existing rock is changed by heat and pressure?",
+      "fact": "Heat and pressure, but no melting: that is what turns limestone into marble and shale into slate."
+    },
+    {
+      "prompt": "How long is a standard marathon?",
+      "fact": "The odd distance is a leftover from the 1908 London Olympics, when the course was stretched to 26 miles 385 yards so it could finish in front of the royal box."
+    },
+    {
+      "prompt": "In Harry Potter, what is the wizarding bank called?",
+      "fact": "Gringotts is run by goblins, and its deepest vaults are guarded by a dragon kept docile by conditioning it to fear a particular noise."
+    },
+    {
+      "prompt": "What is the capital of Portugal?",
+      "fact": "Lisbon is older than Rome. A 1755 earthquake destroyed so much of it that the rebuilt centre became one of Europe's first planned earthquake-resistant districts."
+    },
+    {
+      "prompt": "In the Percy Jackson series, which Greek god is Percy's father?",
+      "fact": "Percy being Poseidon's son is itself the problem: the three eldest gods swore an oath to father no more children, so his existence breaks it."
+    },
+    {
+      "prompt": "What does GPS stand for?",
+      "fact": "GPS satellites carry atomic clocks that must be corrected for relativity. Time runs measurably faster in orbit, and ignoring it would throw positions off by miles a day."
+    },
+    {
+      "prompt": "The assassination of Archduke Franz Ferdinand occurred in which city?",
+      "fact": "The assassin only got his chance because the Archduke's driver took a wrong turn and stopped to reverse, directly in front of him."
+    },
+    {
+      "prompt": "Which weather instrument measures air pressure?",
+      "fact": "A falling barometer usually means a storm is on the way, which made it weather forecasting's first genuinely useful instrument."
+    },
+    {
+      "prompt": "Which sport includes a play called a maul?",
+      "fact": "A maul forms when the ball carrier is held up but still on their feet and teammates bind on. If it goes to ground, it becomes a ruck instead."
+    },
+    {
+      "prompt": "Which coffee shop is a common hangout in Friends?",
+      "fact": "The famous orange sofa was not built for the show. It was found in the Warner Bros studio basement."
+    },
+    {
+      "prompt": "Which U.S. state is nicknamed the Green Mountain State?",
+      "fact": "Vermont's name comes from the French for green mountain, and it spent 14 years as an independent republic before joining the United States in 1791."
+    },
+    {
+      "prompt": "Which March sister in 'Little Women' is an aspiring writer?",
+      "fact": "Alcott based Jo on herself, and only married her off because readers demanded it. She had wanted Jo to stay single."
+    },
+    {
+      "prompt": "What is spam in a digital inbox?",
+      "fact": "The name comes from a Monty Python sketch in which a café menu repeats the word spam until nothing else can be heard."
+    },
+    {
+      "prompt": "Which Chinese text is traditionally associated with Laozi?",
+      "fact": "Laozi may never have existed as a single person. To many scholars the text reads like a compilation assembled over generations."
+    },
+    {
+      "prompt": "Which animal group includes lizards, snakes, turtles, and crocodiles?",
+      "fact": "Birds sit inside this group evolutionarily — a crocodile is more closely related to a bird than it is to a lizard."
+    },
+    {
+      "prompt": "Which sport involves riding ocean waves on a board?",
+      "fact": "Surfing was central to Hawaiian society long before it was a sport, and it only became an Olympic event in 2021."
+    },
+    {
+      "prompt": "What is the fictional African nation in Black Panther?",
+      "fact": "Wakanda's wealth comes from vibranium left by a meteorite: the same metal Captain America's shield is made from."
+    },
+    {
+      "prompt": "Which river flows through Cairo?",
+      "fact": "Egypt draws nearly all its fresh water from the Nile, and almost the entire population lives within a few miles of it."
+    },
+    {
+      "prompt": "In 'Frankenstein,' who creates the creature?",
+      "fact": "Frankenstein is the maker, not the monster. Mary Shelley was 18 when she began the book, during the same rainy summer that produced the first modern vampire story."
+    },
+    {
+      "prompt": "What is volatile computer memory that clears when power is lost?",
+      "fact": "RAM is wiped the moment power stops. That is why an unsaved document vanishes while a saved one survives on the drive."
+    },
+    {
+      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "fact": "Earhart's solo Atlantic crossing came five years to the day after Lindbergh's. She was aiming for Paris and landed in a field in Northern Ireland."
+    },
+    {
+      "prompt": "What is the main cause of ocean tides on Earth?",
+      "fact": "The Moon pulls the ocean into a bulge on the near side, and an equal one on the far side — which is why most coasts get two high tides a day."
+    },
+    {
+      "prompt": "Which cue sport is played on a table and can include red and colored balls?",
+      "fact": "A snooker table holds 15 reds and six colours. A maximum break of 147 means potting them in a near-perfect alternating sequence."
+    },
+    {
+      "prompt": "Which video game series is set in the kingdom of Hyrule?",
+      "fact": "Hyrule's landscape came from creator Shigeru Miyamoto's childhood memories of exploring caves and hillsides near Kyoto."
+    },
+    {
+      "prompt": "Which island nation sits in the North Atlantic near the Arctic Circle?",
+      "fact": "Iceland straddles the boundary between two tectonic plates, which is why it has so many volcanoes and heats almost all its buildings geothermally."
+    },
+    {
+      "prompt": "What is Sherlock Holmes's famous London address?",
+      "fact": "No 221B existed when Conan Doyle invented it. The address later became real enough that a bank had to employ someone to answer Holmes's mail."
+    },
+    {
+      "prompt": "What is a ZIP file commonly used for?",
+      "fact": "A ZIP shrinks files by replacing repeated patterns with shorter references, which is why text compresses dramatically and photos barely compress at all."
+    },
+    {
+      "prompt": "Which West African empire was ruled by Mansa Musa?",
+      "fact": "Mansa Musa's 1324 pilgrimage to Mecca handed out so much gold along the route that he is said to have depressed Egypt's economy for a decade."
+    },
+    {
+      "prompt": "About how fast does light travel in a vacuum?",
+      "fact": "Light takes about 1.3 seconds to reach us from the Moon and roughly eight minutes from the Sun, so sunlight is always slightly out of date."
+    },
+    {
+      "prompt": "In golf, what is three strokes under par on a hole called?",
+      "fact": "One under par is a birdie, two is an eagle, three is an albatross. The birds get rarer as the shot gets better."
+    },
+    {
+      "prompt": "Which Minecraft enemy is known for exploding near players?",
+      "fact": "The Creeper was an accident: its shape came from a pig model built with the length and height values swapped by mistake."
+    },
+    {
+      "prompt": "What is the capital of New Zealand?",
+      "fact": "Wellington was chosen over Auckland in 1865 largely because it sat closer to the middle of the country."
+    },
+    {
+      "prompt": "In the Narnia books, what magical object first leads the Pevensie children to Narnia?",
+      "fact": "The wardrobe was based on a real one carved by C. S. Lewis's grandfather, which he sat inside as a child listening to his brother's stories."
+    },
+    {
+      "prompt": "When a search engine crawls, what is it exploring?",
+      "fact": "A crawler follows links from page to page, which is why a page that nothing links to can be almost invisible to a search engine."
+    },
+    {
+      "prompt": "Charles Darwin sailed on which research ship?",
+      "fact": "Darwin sailed as a gentleman companion to the captain rather than as ship's naturalist, and his father initially refused to let him go at all."
+    },
+    {
+      "prompt": "Which molecule carries genetic instructions in living things?",
+      "fact": "The double helix means each strand is a template for the other, which is exactly what lets a cell copy its instructions before dividing."
+    },
+    {
+      "prompt": "Which combat sport can be won by pinning an opponent's shoulders?",
+      "fact": "Wrestling is among the oldest recorded sports and featured in the ancient Olympics. A pin ends the match instantly, whatever the score."
+    },
+    {
+      "prompt": "Which small green Jedi master trains Luke Skywalker?",
+      "fact": "Yoda's species is never named in any film, and Frank Oz both puppeteered and voiced him."
+    },
+    {
+      "prompt": "Which mountain range separates France and Spain?",
+      "fact": "Andorra sits in the middle of this range: a country of about 180 square miles with two heads of state, a Spanish bishop and the president of France."
+    },
+    {
+      "prompt": "Who is the main character in 'Holes'?",
+      "fact": "Stanley Yelnats is a palindrome, and the family blames its bad luck on a curse laid on his no-good-dirty-rotten-pig-stealing-great-great-grandfather."
+    },
+    {
+      "prompt": "What does a 404 error usually mean?",
+      "fact": "404 means the server is fine but the page is not there. Codes starting with 4 blame your side; codes starting with 5 blame the server."
+    },
+    {
+      "prompt": "Which Chinese emperor is linked to the Terracotta Army?",
+      "fact": "The army was found in 1974 by farmers digging a well, and no two of the roughly 8,000 soldiers share the same face."
+    },
+    {
+      "prompt": "Which layer of Earth lies directly beneath the crust?",
+      "fact": "This layer makes up most of Earth by volume, and although it is solid rock it flows slowly enough over millions of years to drag continents around."
+    },
+    {
+      "prompt": "Which sport uses a stick with a netted pocket to throw and catch a ball?",
+      "fact": "Lacrosse was played by Indigenous nations across North America long before Europeans arrived, sometimes with hundreds of players and games lasting days."
+    },
+    {
+      "prompt": "In Doctor Who, what is the blue time machine called?",
+      "fact": "TARDIS stands for Time And Relative Dimension In Space. It is stuck as a police box because the disguise circuit broke in 1963 and was never repaired."
+    },
+    {
+      "prompt": "Which country is home to the city of Jaipur?",
+      "fact": "Jaipur was painted pink to welcome a royal visit in 1876, and buildings in the old city are still required by law to stay that colour."
+    },
+    {
+      "prompt": "Who narrates much of 'The Book Thief'?",
+      "fact": "Death narrates, and admits early on to being haunted by humans rather than the other way round."
+    },
+    {
+      "prompt": "What is a firewall designed to help control?",
+      "fact": "A firewall decides which traffic may pass. The name comes from the solid walls built into buildings to stop fire spreading between sections."
+    },
+    {
+      "prompt": "Which 1973 agreement helped end direct U.S. military involvement in Vietnam?",
+      "fact": "Signed in January 1973, the accords saw the last U.S. combat troops leave within months — though the war between North and South ran on until 1975."
+    },
+    {
+      "prompt": "How many legs do adult insects have?",
+      "fact": "Six legs is part of the definition of an insect, not a coincidence. Spiders have eight, and are not insects at all."
+    },
+    {
+      "prompt": "Which international tournament awards soccer's World Cup trophy?",
+      "fact": "The current trophy replaced one that was stolen twice: recovered by a dog in 1966, then taken again in 1983 and never seen since."
+    },
+    {
+      "prompt": "Which actor played Princess Leia in Star Wars?",
+      "fact": "Fisher was 19 when she was cast, and went on to work as an uncredited script doctor across Hollywood."
+    },
+    {
+      "prompt": "Badlands National Park is located primarily in which U.S. state?",
+      "fact": "These formations erode about an inch a year — fast enough that the whole landscape is expected to wear away within roughly 500,000 years."
+    },
+    {
+      "prompt": "What famous diary was written while hiding during World War II?",
+      "fact": "Anne revised her own diary for publication after hearing a radio broadcast urging Dutch civilians to preserve their wartime writing."
+    },
+    {
+      "prompt": "What is an AI chatbot designed to do?",
+      "fact": "Chatbots go back to 1966, when a program called ELIZA convinced some users it understood them simply by rephrasing their sentences as questions."
+    },
+    {
+      "prompt": "What was the first U.S. capital under the Constitution?",
+      "fact": "It served as capital from 1789, and Washington was inaugurated there before the seat of government moved on to Philadelphia and finally to Washington."
+    },
+    {
+      "prompt": "Which acid is naturally found in the human stomach?",
+      "fact": "Stomach acid is strong enough to dissolve metal. The stomach survives it by replacing its own lining every few days."
+    },
+    {
+      "prompt": "In tennis, what is it called when a player serves two faults in a row?",
+      "fact": "A double fault hands the point straight to the opponent, which is why second serves are almost always slower and safer."
+    },
+    {
+      "prompt": "What town do The Simpsons live in?",
+      "fact": "The town was named for one of the most common place names in America, and the state is deliberately never confirmed."
+    },
+    {
+      "prompt": "What is the capital of Egypt?",
+      "fact": "The Arabic name al-Qāhira means 'the victorious'. Greater Cairo is the largest urban area in Africa."
+    },
+    {
+      "prompt": "Who carries the Ring for much of 'The Lord of the Rings'?",
+      "fact": "He carries the Ring but does not destroy it. At the very last moment he claims it for himself, and Gollum ends the quest by accident."
+    },
+    {
+      "prompt": "What does a browser cache store?",
+      "fact": "The cache keeps copies so a repeat visit loads faster, which is also why a page can look out of date until you force a refresh."
+    },
+    {
+      "prompt": "Which ancient seafaring people helped spread an early alphabet around the Mediterranean?",
+      "fact": "Their alphabet is the ancestor of Greek, Latin and most alphabets in use today — spread by traders rather than by conquest."
+    },
+    {
+      "prompt": "Which gas do many plants release during photosynthesis?",
+      "fact": "The oxygen is a waste product. Plants are after the carbon, and nearly all of a tree's mass comes from air rather than from soil."
+    },
+    {
+      "prompt": "The pole vault is part of which sport category?",
+      "fact": "Vaulters clear over six metres using poles that store and return energy. The switch from bamboo to fibreglass transformed the event."
+    },
+    {
+      "prompt": "What food does Winnie-the-Pooh famously love?",
+      "fact": "A. A. Milne wrote Pooh for his son Christopher Robin, whose toy bear was named after a real bear at London Zoo called Winnie."
+    },
+    {
+      "prompt": "Which ocean lies west of North and South America?",
+      "fact": "This ocean is larger than every landmass on Earth combined, and Magellan named it for its calm — pacific means peaceful."
+    },
+    {
+      "prompt": "Which pirate appears in 'Treasure Island'?",
+      "fact": "Stevenson modelled him on a one-legged friend, and the character largely invented the pirate clichés we now take for granted."
+    },
+    {
+      "prompt": "In many spreadsheets, what symbol starts a formula?",
+      "fact": "It tells the spreadsheet to calculate rather than store text. Leave it off and the formula is just a string of characters."
+    },
+    {
+      "prompt": "Which French king was known as the Sun King?",
+      "fact": "He took the sun as his emblem and reigned for 72 years, the longest of any European monarch. Moving the court to Versailles kept the nobility where he could watch them."
+    },
+    {
+      "prompt": "Which kind of heat transfer can move energy through empty space?",
+      "fact": "Conduction and convection both need matter to travel through. Radiation does not, which is how sunlight crosses 150 million km of vacuum to reach us."
+    },
+    {
+      "prompt": "Which sport is played with a puck on ice?",
+      "fact": "The puck is frozen before a game so that it slides across the ice instead of bouncing."
+    },
+    {
+      "prompt": "Who sang the hit song 'Rolling in the Deep'?",
+      "fact": "'Rolling in the Deep' came from the album 21, which Adele named after the age she was when she wrote it."
+    },
+    {
+      "prompt": "What is the largest country in the world by land area?",
+      "fact": "Russia spans 11 time zones. When it is Monday morning in Kaliningrad, it is already Monday evening in Kamchatka."
+    },
+    {
+      "prompt": "Who is the young girl at the center of 'The Secret Garden'?",
+      "fact": "Mary begins the book deliberately unlikeable — spoiled, sour and friendless. The garden's revival and her own are the same story."
+    },
+    {
+      "prompt": "What is a USB port commonly used for?",
+      "fact": "USB stands for Universal Serial Bus. Before it, almost every device arrived with its own incompatible connector."
+    },
+    {
+      "prompt": "Which colony was founded by Roger Williams after he left Massachusetts?",
+      "fact": "Williams was banished from Massachusetts for arguing that church and state should be separate, then founded a colony on exactly that principle."
+    },
+    {
+      "prompt": "What unit is used to measure electrical resistance?",
+      "fact": "Named for Georg Ohm, whose law relating voltage, current and resistance was dismissed by his contemporaries before becoming fundamental."
+    },
+    {
+      "prompt": "Sprint, pursuit, and keirin are events in which sport?",
+      "fact": "The keirin began in Japan as a betting sport: riders follow a pacer who peels off, leaving a flat-out sprint over the final laps."
+    },
+    {
+      "prompt": "Which movie series takes place largely in Andy's room with living toys?",
+      "fact": "Toy Story was the first entirely computer-animated feature film. Woody was written far less likeable in early drafts."
+    },
+    {
+      "prompt": "What is the capital of Ghana?",
+      "fact": "Ghana was the first sub-Saharan African country to win independence from colonial rule, in 1957."
+    },
+    {
+      "prompt": "Who is the telekinetic girl in Roald Dahl's book 'Matilda'?",
+      "fact": "Dahl's first draft made Matilda a much nastier child who used her powers to fix horse races. His editor persuaded him to rewrite her."
+    },
+    {
+      "prompt": "What does DNS translate domain names into?",
+      "fact": "Computers route by number, not by name. DNS is the lookup that turns a name you can remember into an address a machine can use."
+    },
+    {
+      "prompt": "What was the name of the first artificial satellite launched into space?",
+      "fact": "Sputnik was a polished metal sphere with four trailing antennas, and its steady beep could be picked up by amateur radio operators worldwide."
+    },
+    {
+      "prompt": "What is Saturn's largest moon?",
+      "fact": "Titan is the only moon with a thick atmosphere, and it has rivers and lakes — of liquid methane rather than water."
+    },
+    {
+      "prompt": "Which sport uses rotation and serve-receive formations?",
+      "fact": "Rotation is compulsory: the side winning back the serve shifts one position clockwise, so every player must eventually play every position."
+    },
+    {
+      "prompt": "Which video game series features Master Chief?",
+      "fact": "Halo launched alongside the original Xbox in 2001 and did much to establish the console."
+    },
+    {
+      "prompt": "Which city is commonly nicknamed the Big Apple?",
+      "fact": "The nickname was popularised by a 1920s racing writer who heard stablehands call New York's tracks the big apple — the biggest prize on the circuit."
+    },
+    {
+      "prompt": "Who wrote 'Green Eggs and Ham'?",
+      "fact": "It was written on a bet that he could not make a book from 50 or fewer distinct words. He won."
+    },
+    {
+      "prompt": "What usually makes a password stronger?",
+      "fact": "Length matters more than symbols: each extra character multiplies the number of combinations an attacker has to try."
+    },
+    {
+      "prompt": "In what year was Jamestown founded?",
+      "fact": "Jamestown was the first permanent English settlement in America, and it very nearly failed — most of the original colonists died within a year."
+    },
+    {
+      "prompt": "Which blood cells are best known for carrying oxygen?",
+      "fact": "They carry oxygen using haemoglobin, and in humans they discard their own nucleus to make room for more of it."
+    },
+    {
+      "prompt": "The Masters Tournament is one of the biggest events in which sport?",
+      "fact": "The Masters is the only major played on the same course every year, at Augusta National."
+    },
+    {
+      "prompt": "Which character is the green ogre voiced by Mike Myers?",
+      "fact": "Shrek was built as a deliberate send-up of the fairy-tale conventions the studio's rivals were selling at the time."
+    },
+    {
+      "prompt": "Which river flows through Rome?",
+      "fact": "Rome's founding myth has Romulus and Remus set adrift on this river as infants and rescued by a she-wolf."
+    },
+    {
+      "prompt": "Who is the narrator of 'The Catcher in the Rye'?",
+      "fact": "Holden narrates the entire book from what he eventually admits is an institution, which colours everything he tells you."
+    },
+    {
+      "prompt": "What does a read receipt show?",
+      "fact": "It confirms a message was opened, not that it was read or understood — which is why it settles as many arguments as it starts."
+    },
+    {
+      "prompt": "Which 1917 event led to the end of czarist rule in Russia?",
+      "fact": "1917 brought two revolutions. The first, in February, ended czarist rule; the Bolsheviks took power in the second, in October."
+    },
+    {
+      "prompt": "Which property describes mass per unit volume?",
+      "fact": "Density is why a steel ship floats: the hull encloses enough air that the whole vessel is less dense than the water it sits in."
+    },
+    {
+      "prompt": "Which sport uses a pit lane during races?",
+      "fact": "Pit stops are won and lost in seconds — a Formula 1 crew can change all four tyres in under two."
+    },
+    {
+      "prompt": "Which show features a school bus that can shrink and travel inside the body?",
+      "fact": "Ms Frizzle's catchphrase — take chances, make mistakes, get messy — was the whole teaching philosophy of the show."
+    },
+    {
+      "prompt": "What is the capital of Romania?",
+      "fact": "This city's Palace of the Parliament is the heaviest building in the world, built under Ceausescu at enormous human cost."
+    },
+    {
+      "prompt": "Who narrates 'The Great Gatsby'?",
+      "fact": "Nick opens by claiming he is inclined to reserve all judgements, then spends the entire novel judging everyone. That gap is the point."
+    },
+    {
+      "prompt": "What does HTML mainly structure?",
+      "fact": "HTML marks up structure — headings, lists, links. CSS controls how it looks, and JavaScript what it does."
+    },
+    {
+      "prompt": "Which two explorers led the famous Corps of Discovery expedition?",
+      "fact": "The expedition depended on Sacagawea, whose presence with an infant signalled to the nations they met that this was not a war party."
+    },
+    {
+      "prompt": "What type of eclipse happens when the Moon blocks the Sun from view?",
+      "fact": "Total solar eclipses only work because the Sun is about 400 times wider than the Moon and also about 400 times further away."
+    },
+    {
+      "prompt": "Which sport uses pins, lanes, and a heavy ball?",
+      "fact": "A perfect game is 300 — twelve strikes in a row, because the tenth frame grants two extra deliveries."
+    },
+    {
+      "prompt": "Which movie features a museum night guard named Larry Daley?",
+      "fact": "It is set in New York's American Museum of Natural History, though most of the interiors were built as sets."
+    },
+    {
+      "prompt": "On which continent is the Atacama Desert?",
+      "fact": "This is the driest non-polar desert on Earth. Some weather stations there have never recorded rainfall."
+    },
+    {
+      "prompt": "What are the names of the two dogs in 'Where the Red Fern Grows'?",
+      "fact": "The dogs hunt as a pair, and the book's title comes from a legend that a red fern only grows where something sacred is buried."
+    },
+    {
+      "prompt": "What is an authenticator app commonly used to generate?",
+      "fact": "It generates a code from a shared secret and the current time, which is why the code changes every 30 seconds and works with no signal at all."
+    },
+    {
+      "prompt": "Which city approved the Declaration of Independence in 1776?",
+      "fact": "The Declaration was approved on 4 July 1776, but most of the signatures were added weeks later, on 2 August."
+    },
+    {
+      "prompt": "Which enzyme in saliva begins breaking down starch?",
+      "fact": "Digestion starts in the mouth. Hold a piece of bread on your tongue and it slowly turns sweet as amylase breaks starch into sugar."
+    },
+    {
+      "prompt": "Freestyle and butterfly are strokes in which sport?",
+      "fact": "Butterfly began as a legal loophole in breaststroke. Swimmers exploited the rules until it was split off as its own stroke in 1952."
+    },
+    {
+      "prompt": "Which pop star is known for the album 1989?",
+      "fact": "The album is named for her birth year, and marked a deliberate move from country to pop."
+    },
+    {
+      "prompt": "Greenland is politically part of which kingdom?",
+      "fact": "Greenland is the world's largest island and governs itself, but remains part of the Kingdom of Denmark."
+    },
+    {
+      "prompt": "Which desert planet is central to the novel 'Dune'?",
+      "fact": "The planet is worth fighting over because it is the only source of the spice that makes interstellar travel possible."
+    },
+    {
+      "prompt": "What is a computer algorithm?",
+      "fact": "An algorithm is a recipe: a finite sequence of unambiguous steps. The word comes from the 9th-century mathematician al-Khwarizmi."
+    },
+    {
+      "prompt": "Which empire was centered on the city of Cusco?",
+      "fact": "Cusco was laid out as the deliberate centre of the empire, and the Inca called it the navel of the world."
+    },
+    {
+      "prompt": "What are places where bones meet called?",
+      "fact": "They are classified by how far they move: the skull's are fused solid, while the shoulder trades stability for the widest range in the body."
+    },
+    {
+      "prompt": "Which sport is played on a diamond-shaped field?",
+      "fact": "The diamond is really a square seen from behind home plate, with the bases 90 feet apart."
+    },
+    {
+      "prompt": "Which fictional bear lives in the Hundred Acre Wood?",
+      "fact": "The Hundred Acre Wood is based on Ashdown Forest in Sussex, where Milne's son played."
+    },
+    {
+      "prompt": "Which strait separates New Zealand's North and South Islands?",
+      "fact": "The strait is narrow but notoriously rough, at the point where the Tasman Sea and the Pacific meet."
+    },
+    {
+      "prompt": "In 'The Westing Game,' what is Sam Westing's puzzle tied to?",
+      "fact": "The whole game is the will: sixteen heirs are paired off and handed fragments of a clue, and the puzzle is what the will is really asking."
+    },
+    {
+      "prompt": "What does 'read/write' permission allow?",
+      "fact": "Read alone lets you look. Read/write lets you change it — which is why granting it casually is how accidents happen."
+    },
+    {
+      "prompt": "Which U.S. president gave the Fourteen Points speech?",
+      "fact": "The Fourteen Points shaped the peace terms, but Wilson could not persuade his own Senate to join the League of Nations they created."
+    },
+    {
+      "prompt": "What is the magnetic region around Earth called?",
+      "fact": "It deflects the solar wind. Where charged particles leak through near the poles, they light the sky as auroras."
+    },
+    {
+      "prompt": "Which sport's scoring can include a birdie, eagle, and bogey?",
+      "fact": "Par is the expected number of strokes for a hole. Birdie is one under, eagle two under, bogey one over."
+    },
+    {
+      "prompt": "Which animated series features Aang as the last airbender?",
+      "fact": "Each bending style was modelled on a real martial art and choreographed with a consultant, which is why they look distinct in motion."
+    },
+    {
+      "prompt": "What is the capital of Hungary?",
+      "fact": "It was two cities, Buda and Pest, facing each other across the Danube until they merged in 1873."
+    },
+    {
+      "prompt": "Who wrote 'The House of the Scorpion'?",
+      "fact": "The novel follows a clone raised as a source of transplant organs, and won the National Book Award for Young People's Literature."
+    },
+    {
+      "prompt": "What is a data center?",
+      "fact": "Data centres are built around cooling as much as computing. Getting the heat back out is often the harder engineering problem."
+    },
+    {
+      "prompt": "Which ancient wonder stood in the harbor of Alexandria?",
+      "fact": "It stood over 100 metres tall and survived for more than 1,600 years before earthquakes finally brought it down."
+    },
+    {
+      "prompt": "What is the most abundant gas in Earth's atmosphere?",
+      "fact": "Nitrogen makes up about 78% of the air. Oxygen is only about 21%, despite being the part we actually need."
+    },
+    {
+      "prompt": "How many players are on the field for one soccer team at kickoff?",
+      "fact": "Eleven a side, one of them the goalkeeper — the only player allowed to handle the ball, and only inside their own area."
+    },
+    {
+      "prompt": "Which film features the line 'May the Force be with you'?",
+      "fact": "The line appears in every film of the original trilogy, and the pun on 4 May is why that date became Star Wars Day."
+    },
+    {
+      "prompt": "Which mountain range separates Europe from Asia?",
+      "fact": "This range is the conventional dividing line, which is why Russia counts as both a European and an Asian country."
+    },
+    {
+      "prompt": "Who created the detective Sherlock Holmes?",
+      "fact": "He grew so tired of Holmes that he killed the character off, then revived him a decade later after sustained public outcry."
+    },
+    {
+      "prompt": "How many bits are in a byte?",
+      "fact": "Eight bits make a byte — 256 combinations, enough to cover every character in early text encodings."
+    },
+    {
+      "prompt": "The Rosetta Stone was key to deciphering which writing system?",
+      "fact": "The stone repeats the same decree in three scripts, so scholars who could read the Greek were able to work backwards into the hieroglyphs."
+    },
+    {
+      "prompt": "Which organelle is known as the powerhouse of the cell?",
+      "fact": "Mitochondria carry their own DNA and are thought to descend from bacteria absorbed by another cell billions of years ago."
+    },
+    {
+      "prompt": "How often are the modern Summer Olympic Games held?",
+      "fact": "The four-year gap is called an Olympiad, and only world wars have ever interrupted it."
+    },
+    {
+      "prompt": "Which animated series features a yellow family living in Springfield?",
+      "fact": "The family was drawn in minutes as filler shorts for another programme before being given a series of their own."
+    },
+    {
+      "prompt": "Which country has the most time zones?",
+      "fact": "Counting its overseas territories, France spans 12 time zones — more than any other country, Russia included."
+    },
+    {
+      "prompt": "In which novel does the character Atticus Finch appear?",
+      "fact": "Atticus was based partly on Harper Lee's own father, a lawyer in small-town Alabama."
+    },
+    {
+      "prompt": "Who is credited with inventing the World Wide Web?",
+      "fact": "He built it at CERN and gave the technology away for free, which is the main reason the web spread as fast as it did."
+    },
+    {
+      "prompt": "Which empire built an extensive road network centered on Cusco?",
+      "fact": "The road network ran for tens of thousands of kilometres, worked by relay runners who could carry a message hundreds of miles in a day."
+    },
+    {
+      "prompt": "How many chambers does a human heart have?",
+      "fact": "Two atria collect blood and two ventricles pump it out — one side to the lungs, the other to the rest of the body."
+    },
+    {
+      "prompt": "What is the maximum break in a single frame of snooker?",
+      "fact": "It means potting all 15 reds with a black each time, then the six colours in order, leaving nothing on the table."
+    },
+    {
+      "prompt": "Who directed the film 'Jaws'?",
+      "fact": "The mechanical shark broke down constantly, so he kept it off screen and suggested it with music instead. It made the film far scarier."
+    },
+    {
+      "prompt": "What is the smallest country in the world by area?",
+      "fact": "It covers about 0.44 square kilometres — small enough to walk across in twenty minutes."
+    },
+    {
+      "prompt": "Who wrote the epic poem 'The Odyssey'?",
+      "fact": "Whether this was one person, several, or a whole tradition of oral poets is still argued over."
+    },
+    {
+      "prompt": "Which programming language was created by Guido van Rossum?",
+      "fact": "Guido van Rossum named it after Monty Python's Flying Circus, not the snake."
+    },
+    {
+      "prompt": "The Berlin Wall came down in which year?",
+      "fact": "The wall opened after a spokesman misread a note at a press conference and announced the new travel rules applied immediately."
+    },
+    {
+      "prompt": "What process do plants use to convert light into chemical energy?",
+      "fact": "Nearly all of a tree's mass comes from carbon pulled out of the air, not from the soil it is standing in."
+    },
+    {
+      "prompt": "Which country has won the most FIFA World Cup titles?",
+      "fact": "Five titles, and the only country to have played in every World Cup."
+    },
+    {
+      "prompt": "In 'The Wizard of Oz', what color are Dorothy's slippers in the film?",
+      "fact": "In the book the slippers are silver. They were changed to show off Technicolor."
+    },
+    {
+      "prompt": "Which sea lies between Europe and Africa?",
+      "fact": "It is nearly landlocked, connected to the Atlantic only through the narrow Strait of Gibraltar."
+    },
+    {
+      "prompt": "Which dystopian novel introduced the phrase 'Big Brother is watching you'?",
+      "fact": "Orwell wrote it in 1948 and reversed the final two digits to get the title."
+    },
+    {
+      "prompt": "What is the binary representation of the decimal number 4?",
+      "fact": "Binary counts in powers of two: this means one four, no twos and no ones."
+    },
+    {
+      "prompt": "Which document did King John seal at Runnymede in 1215?",
+      "fact": "It was annulled by the Pope within ten weeks. Its lasting power came from later reissues, not from the original sealing at Runnymede."
+    },
+    {
+      "prompt": "What is the hardest naturally occurring mineral?",
+      "fact": "Diamond and graphite are both pure carbon. The entire difference is in how the atoms are arranged."
+    },
+    {
+      "prompt": "In tennis, what term describes a score of zero?",
+      "fact": "The likeliest explanation is the French l'oeuf — egg — for the shape of a zero."
+    },
+    {
+      "prompt": "Which sitcom featured a coffee shop called Central Perk?",
+      "fact": "The six leads negotiated their salaries together rather than separately, which is how they all reached a million dollars an episode."
+    },
+    {
+      "prompt": "What is the deepest ocean trench on Earth?",
+      "fact": "Its deepest point is nearly 11 km down, deeper than Everest is tall."
+    },
+    {
+      "prompt": "Who wrote 'The Canterbury Tales'?",
+      "fact": "He wrote in English when serious literature was expected to be in Latin or French, which helped establish English as a literary language."
+    },
+    {
+      "prompt": "Which protocol translates domain names into IP addresses?",
+      "fact": "Often called the internet's phone book. When it fails, working websites appear to be completely offline."
+    },
+    {
+      "prompt": "Which civilization developed the first known system of writing?",
+      "fact": "Cuneiform began as accounting marks for grain and livestock. Writing was invented for bookkeeping long before it was used for literature."
+    },
+    {
+      "prompt": "Which blood cells carry oxygen through the body?",
+      "fact": "A single one carries roughly a billion oxygen molecules, and lasts about four months before being broken down and recycled."
+    },
+    {
+      "prompt": "How many rings appear on the Olympic flag?",
+      "fact": "The rings represent the inhabited continents, and their six colours were chosen so that every national flag of the time contained at least one."
+    },
+    {
+      "prompt": "Which animated film features a lion cub named Simba?",
+      "fact": "It was the studio's B project at the time — most of the sought-after animators asked to work on Pocahontas instead."
+    },
+    {
+      "prompt": "Which African country is entirely surrounded by South Africa?",
+      "fact": "One of only three countries completely surrounded by another, and the only one whose lowest point is higher than any other nation's."
+    },
+    {
+      "prompt": "Which author created the fictional county of Yoknapatawpha?",
+      "fact": "He set most of his major novels in this invented Mississippi county, and mapped it in detail."
+    },
+    {
+      "prompt": "Which mathematician is considered a founder of computer science and cryptanalysis at Bletchley Park?",
+      "fact": "His work at Bletchley Park is credited with shortening the war, and he defined the theoretical machine underlying all computing."
+    },
+    {
+      "prompt": "Hadrian's Wall was built across which modern country?",
+      "fact": "The wall marked the northern limit of Roman Britain, running about 73 miles from coast to coast."
+    },
+    {
+      "prompt": "What is the speed of light in a vacuum, approximately?",
+      "fact": "Nothing with mass can reach it. That limit is why distant stars are seen as they were, not as they are."
+    },
+    {
+      "prompt": "How many points is a touchdown worth in American football?",
+      "fact": "Six for the touchdown, then a kick for one more point or a play from scrimmage for two."
+    },
+    {
+      "prompt": "Who played the title role in the 1990 film 'Edward Scissorhands'?",
+      "fact": "Tim Burton cast him against the studio's preference, beginning a collaboration that ran across decades."
+    },
+    {
+      "prompt": "Which strait separates Europe from Africa at its narrowest point?",
+      "fact": "At its narrowest the strait is about 13 km across — Europe and Africa are within sight of one another."
+    },
+    {
+      "prompt": "In 'The Great Gatsby', what color is the light at the end of Daisy's dock?",
+      "fact": "The green light is the novel's central image: he reaches for something already gone, mistaking it for something ahead."
+    },
+    {
+      "prompt": "What is the term for malicious software designed to extort payment?",
+      "fact": "It encrypts your files and sells you the key. Backups are the only reliable defence, because paying does not guarantee their return."
+    },
+    {
+      "prompt": "Which explorer's crew completed the first circumnavigation of the globe?",
+      "fact": "He did not survive the voyage — he was killed in the Philippines, and one ship of the original five finished the circumnavigation under Elcano."
+    },
+    {
+      "prompt": "What type of rock forms from cooled magma or lava?",
+      "fact": "Magma cooling slowly underground grows large crystals, as in granite. Lava cooling fast at the surface gives fine-grained rock like basalt."
+    },
+    {
+      "prompt": "Which martial art originated in Korea and emphasizes kicking?",
+      "fact": "Its emphasis on high, fast kicks reflects scoring that rewards them far more heavily than hand techniques."
+    },
+    {
+      "prompt": "Which musician released the album 'Thriller'?",
+      "fact": "It is the best-selling album in history, and its title video ran nearly 14 minutes at a time when videos were disposable promotion."
+    },
+    {
+      "prompt": "What is the largest island in the world?",
+      "fact": "It is the largest island, but Australia is larger still — which is precisely why Australia is counted as a continent rather than an island."
+    },
+    {
+      "prompt": "Who wrote the play 'A Doll's House'?",
+      "fact": "The ending was so controversial that he was pressured into writing an alternative in which Nora stays."
+    },
+    {
+      "prompt": "Which language is primarily used to style web pages?",
+      "fact": "CSS separates appearance from structure, so a site can be completely restyled without touching its HTML."
+    },
+    {
+      "prompt": "The Trail of Tears was the forced relocation of which peoples?",
+      "fact": "Thousands died on the forced marches west, which went ahead despite a Supreme Court ruling against the removals."
+    },
+    {
+      "prompt": "Which scientist proposed the theory of general relativity?",
+      "fact": "General relativity describes gravity as the bending of spacetime by mass — and is why GPS satellites need relativistic corrections."
+    },
+    {
+      "prompt": "What is the length of an Olympic swimming pool?",
+      "fact": "Olympic pools are 50 m long, which is why records are listed separately for 25 m short-course events."
+    },
+    {
+      "prompt": "Which series features the Stark and Lannister families?",
+      "fact": "It was adapted from novels the author had not finished, so the series eventually ran ahead of the books."
+    },
+    {
+      "prompt": "Which US state is the largest by land area?",
+      "fact": "More than twice the size of Texas, and bought from Russia in 1867 for about two cents an acre."
+    },
+    {
+      "prompt": "Which novel features the character Jean Valjean?",
+      "fact": "He is pursued for nineteen years over a stolen loaf of bread and a broken parole."
+    },
+    {
+      "prompt": "Who co-founded Microsoft with Bill Gates?",
+      "fact": "The two were school friends, and he talked Gates into leaving Harvard to start the company."
+    },
+    {
+      "prompt": "Who led the nonviolent Salt March in 1930?",
+      "fact": "The march protested a tax on salt — an ordinary necessity, chosen precisely because it made the injustice legible to everyone."
+    },
+    {
+      "prompt": "Which layer of the atmosphere contains the ozone layer?",
+      "fact": "It absorbs most ultraviolet light, which is why the hole found over Antarctica prompted a rare and effective global treaty."
+    },
+    {
+      "prompt": "In cricket, how many players are on a team?",
+      "fact": "Eleven a side, and a match can run five days and still end in a draw."
+    },
+    {
+      "prompt": "Which film won the first Academy Award for Best Animated Feature?",
+      "fact": "The category was created in 2001, and it beat Monsters, Inc. to take the very first one."
+    },
+    {
+      "prompt": "Which lake is the largest freshwater lake by surface area?",
+      "fact": "It holds enough water to cover both North and South America to a depth of about a foot."
+    },
+    {
+      "prompt": "Who wrote 'Beloved'?",
+      "fact": "She was the first Black woman to win the Nobel Prize in Literature."
+    },
+    {
+      "prompt": "Which storage type has no moving parts?",
+      "fact": "No spinning platters means no seek time, which is why it feels instant next to a mechanical drive."
+    },
+    {
+      "prompt": "Which war was ended by the Treaty of Versailles?",
+      "fact": "Its reparations and war-guilt clause are widely argued to have helped create the conditions for the next war."
+    },
+    {
+      "prompt": "What is the pH of a neutral solution at room temperature?",
+      "fact": "Below 7 is acidic and above is alkaline. The scale is logarithmic, so pH 4 is ten times more acidic than pH 5."
+    },
+    {
+      "prompt": "Which race is known as the Run for the Roses?",
+      "fact": "The winner is draped in a blanket of roses, over a mile and a quarter."
+    },
+    {
+      "prompt": "Which band performed 'Bohemian Rhapsody'?",
+      "fact": "It has no chorus, runs nearly six minutes, and the label insisted it was far too long for radio. It reached number one twice."
+    },
+    {
+      "prompt": "Which country contains the southern tip of mainland South America?",
+      "fact": "It stretches over 4,000 km north to south while averaging under 200 km wide."
+    },
+    {
+      "prompt": "Who wrote 'Crime and Punishment'?",
+      "fact": "He had been sentenced to death and reprieved at the last moment, an experience that runs through all his later work."
+    },
+    {
+      "prompt": "What is the most widely used operating system kernel on servers?",
+      "fact": "It runs most of the world's servers and, through Android, most of its phones — while remaining free to use and modify."
+    },
+    {
+      "prompt": "The Silk Road primarily connected China with which region?",
+      "fact": "It was never one road but a web of routes, and it carried ideas and disease as efficiently as it carried silk."
+    },
+    {
+      "prompt": "Which particle carries a negative electric charge?",
+      "fact": "About 1,800 times lighter than a proton, and its movement through a conductor is what electricity actually is."
+    },
+    {
+      "prompt": "What color card sends a soccer player off the field?",
+      "fact": "The player is sent off and the team plays a player short — there is no substitution for a sending-off."
+    },
+    {
+      "prompt": "Which actor played Forrest Gump?",
+      "fact": "He took a share of the profits instead of a salary, which earned him far more than the fee would have."
+    },
+    {
+      "prompt": "What is the tallest mountain above sea level?",
+      "fact": "It is the highest above sea level, but measured from base to summit, Mauna Kea in Hawaii is taller."
+    },
+    {
+      "prompt": "Which novel begins 'It was the best of times, it was the worst of times'?",
+      "fact": "The two cities are London and Paris, and it is among the best-selling novels ever published."
+    },
+    {
+      "prompt": "Which unit measures the clock speed of a processor?",
+      "fact": "Clock speed counts cycles per second, though modern chips gain more from doing more per cycle than from raw speed."
+    },
+    {
+      "prompt": "Who was the longest-reigning monarch in British history?",
+      "fact": "She reigned for over 70 years, passing Victoria's record in 2015."
+    },
+    {
+      "prompt": "What is the closest star to Earth?",
+      "fact": "It is about 150 million km away. The next nearest star is over 250,000 times further."
+    },
+    {
+      "prompt": "Which cycling race is the most prestigious Grand Tour?",
+      "fact": "About 3,500 km over three weeks. The leader's yellow jersey matched the newsprint of the paper that founded the race."
+    },
+    {
+      "prompt": "Which film series features the character Ellen Ripley?",
+      "fact": "Ripley was written without a specified gender, and casting a woman as the sole survivor broke the convention of the time."
+    },
+    {
+      "prompt": "Which country has the longest coastline in the world?",
+      "fact": "Its coastline runs over 200,000 km, mostly around Arctic islands — longer than the next several countries put together."
+    },
+    {
+      "prompt": "Who wrote 'Don Quixote'?",
+      "fact": "Often called the first modern novel. The second part was written partly to spite an impostor's unauthorised sequel."
+    },
+    {
+      "prompt": "Which programming language runs natively in web browsers?",
+      "fact": "It was written in about ten days in 1995 and named to ride the popularity of Java, to which it is unrelated."
+    },
+    {
+      "prompt": "Which city was destroyed by the eruption of Mount Vesuvius in AD 79?",
+      "fact": "The ash preserved the city so completely that voids left by bodies could later be filled with plaster to recover their exact positions."
+    },
+    {
+      "prompt": "Which gas do humans exhale in the greatest increased amount?",
+      "fact": "Exhaled air is still about 16% oxygen, which is the reason mouth-to-mouth resuscitation works at all."
+    },
+    {
+      "prompt": "How long is a marathon, to the nearest mile?",
+      "fact": "The exact distance is 26 miles 385 yards, a leftover from the 1908 London Olympics course."
+    },
+    {
+      "prompt": "Who is the creator of the Marvel character Spider-Man, alongside Steve Ditko?",
+      "fact": "Spider-Man was nearly rejected: he was told teenagers could only be sidekicks and that nobody would identify with a hero who had money troubles."
+    },
+    {
+      "prompt": "Which two countries share the longest international border?",
+      "fact": "The border runs about 8,900 km including Alaska, the longest between any two countries."
+    },
+    {
+      "prompt": "Which author wrote 'The Handmaid's Tale'?",
+      "fact": "Her rule while writing was to include nothing that had not already happened somewhere in history."
+    },
+    {
+      "prompt": "What does 'Wi-Fi' commonly connect devices to?",
+      "fact": "Wi-Fi is not short for anything. The name was invented by a branding firm because the actual technical term was unmarketable."
+    },
+    {
+      "prompt": "The Meiji Restoration modernized which country?",
+      "fact": "In a few decades it went from a largely closed feudal society to an industrial power, deliberately importing foreign expertise to do it."
+    },
+    {
+      "prompt": "What is the study of fungi called?",
+      "fact": "Fungi are more closely related to animals than to plants, and the largest known organism on Earth is one."
+    },
+    {
+      "prompt": "Which position in soccer is allowed to handle the ball?",
+      "fact": "And only inside their own penalty area — handling it outside concedes a free kick."
+    },
+    {
+      "prompt": "Which streaming series is set in the fictional town of Hawkins, Indiana?",
+      "fact": "The look was assembled from early-1980s Spielberg and King, right down to the typeface on the title card."
+    },
+    {
+      "prompt": "Which ocean is the largest by area?",
+      "fact": "It is larger than all of the world's land combined."
+    },
+    {
+      "prompt": "In Greek mythology retold by Homer, who is the goddess of wisdom?",
+      "fact": "She was said to have sprung fully grown and armoured from Zeus's head, and Athens is named for her."
+    },
+    {
+      "prompt": "Which technology underpins cryptocurrencies like Bitcoin?",
+      "fact": "A shared ledger in which each block references the one before, so altering an old record would mean redoing everything after it."
+    },
+    {
+      "prompt": "Who was the first president of the Republic of Turkey?",
+      "fact": "He replaced the Arabic script with a Latin alphabet almost overnight, and toured the country teaching it personally."
+    },
+    {
+      "prompt": "Which scientist developed the periodic table's modern arrangement?",
+      "fact": "He left gaps for elements not yet discovered and predicted their properties. When they were found, he was close to right."
+    },
+    {
+      "prompt": "In gymnastics, what apparatus do only women compete on?",
+      "fact": "Women compete on four apparatus and men on six. The uneven bars and the beam are women's only."
+    },
+    {
+      "prompt": "Which movie features a character named Tony Stark?",
+      "fact": "Much of Downey's dialogue was improvised, and the film's success is what made the wider Marvel series possible."
+    },
+    {
+      "prompt": "Which country is known as the Land of the Rising Sun?",
+      "fact": "Nippon means origin of the sun — the country lies east of the Asian mainland, where the sun appears to rise."
+    },
+    {
+      "prompt": "Who wrote 'The Metamorphosis'?",
+      "fact": "He asked for his unpublished work to be burned after his death. His friend Max Brod published it instead."
+    },
+    {
+      "prompt": "What does 'open source' mean for software?",
+      "fact": "Anyone can read, modify and redistribute the code, which is what lets thousands of unrelated people maintain the same software."
+    },
+    {
+      "prompt": "The Hundred Years' War was fought between England and which country?",
+      "fact": "It ran on and off for 116 years, and the name was applied only long afterwards by historians."
+    },
+    {
+      "prompt": "What is the freezing point of water in Fahrenheit?",
+      "fact": "Fahrenheit set zero at the coldest temperature he could reliably reproduce with a salt-and-ice mixture, which is why water freezes at an odd number."
+    },
+    {
+      "prompt": "What is a perfect score in ten-pin bowling?",
+      "fact": "Twelve strikes in a row: ten frames, plus the two extra deliveries earned in the tenth."
+    },
+    {
+      "prompt": "Which artist painted the Campbell's Soup Cans?",
+      "fact": "There are 32 canvases, one for each variety the company sold at the time, and they were first shown on shelves like a grocery aisle."
+    },
+    {
+      "prompt": "Which canal connects the Atlantic and Pacific Oceans?",
+      "fact": "Ships are lifted about 26 metres above sea level and lowered again, because cutting a channel at sea level proved impossible."
+    },
+    {
+      "prompt": "Which novel is set in a future where firemen burn books?",
+      "fact": "The title is the temperature at which Bradbury was told paper ignites."
+    },
+    {
+      "prompt": "Which company created the Swift programming language?",
+      "fact": "It was announced in 2014 to replace Objective-C, and made open source the following year."
+    },
+    {
+      "prompt": "Apartheid was the official policy of which nation until the 1990s?",
+      "fact": "It was dismantled through negotiation rather than civil war, ending in the first fully democratic election in 1994."
+    },
+    {
+      "prompt": "Which planet is known as the Red Planet?",
+      "fact": "It looks red because its surface is covered in iron oxide — rust."
+    },
+    {
+      "prompt": "Which country hosted the first modern Olympic Games?",
+      "fact": "Athens hosted the first modern Games in 1896, with about 240 athletes from 14 nations."
+    },
+    {
+      "prompt": "Which musical features the song 'Defying Gravity'?",
+      "fact": "It retells The Wizard of Oz from the witch's side, asking how someone comes to be called wicked in the first place."
+    },
+    {
+      "prompt": "What is the largest country in Africa by area?",
+      "fact": "It became Africa's largest country only in 2011, when South Sudan's independence split Sudan in two."
+    },
+    {
+      "prompt": "Who wrote the 'Discworld' series?",
+      "fact": "He wrote more than 40 novels set on a flat world carried by four elephants standing on the back of a turtle."
+    },
+    {
+      "prompt": "What is the term for a program's step-by-step set of instructions?",
+      "fact": "The word comes from al-Khwarizmi, a 9th-century Persian mathematician. The title of one of his books gave us algebra."
+    },
+    {
+      "prompt": "Who commanded the Carthaginian army that crossed the Alps with elephants?",
+      "fact": "He crossed the Alps with war elephants and beat Rome repeatedly in Italy, yet never took the city itself."
+    },
+    {
+      "prompt": "What is the process by which a liquid becomes a gas called?",
+      "fact": "It happens below boiling point and only at the surface, which is why a puddle dries without ever getting hot."
+    },
+    {
+      "prompt": "In boxing, how many minutes does a professional round last?",
+      "fact": "Three minutes with a minute's rest between, up to twelve rounds for a championship bout."
+    },
+    {
+      "prompt": "Which film's poster tagline was 'In space no one can hear you scream'?",
+      "fact": "The tagline sold the film's entire premise in seven words, and is regularly voted among the best ever written."
+    },
+    {
+      "prompt": "Which mountain is the highest peak in Africa?",
+      "fact": "It is a free-standing volcano rather than part of a range, and its summit glaciers have shrunk dramatically within a century."
+    },
+    {
+      "prompt": "Which poet penned 'Do not go gentle into that good night'?",
+      "fact": "He wrote it as his father was dying — a villanelle, a strict form whose repeated lines make it sound like an argument he cannot let go of."
+    },
+    {
+      "prompt": "How many bytes are in a kilobyte, by the common binary definition?",
+      "fact": "1024 is two to the tenth. Drive manufacturers use 1,000 instead, which is why a new drive always looks smaller than advertised."
+    },
+    {
+      "prompt": "The Gutenberg press was developed in which century?",
+      "fact": "The press appeared around 1450, and within fifty years there were printing shops across Europe."
+    },
+    {
+      "prompt": "Which vitamin is produced when skin is exposed to sunlight?",
+      "fact": "Skin makes it from ultraviolet light, which is why deficiency is common in winter and at high latitudes."
+    },
+    {
+      "prompt": "Which sport features terms like birdie, eagle, and bogey?",
+      "fact": "Par is the expected score for a hole. Birdie is one under, eagle two under, bogey one over."
+    },
+    {
+      "prompt": "Which TV show is set in the fictional Dunder Mifflin paper company?",
+      "fact": "The Scranton branch was filmed mostly in California, though the real Scranton embraced it anyway."
+    },
+    {
+      "prompt": "Which country has the largest population in South America?",
+      "fact": "It has more people than every other South American country combined, and is the only one where Portuguese is the official language."
+    },
+    {
+      "prompt": "Which Shakespeare tragedy is set in Denmark?",
+      "fact": "It is Shakespeare's longest play, and Elsinore is a real castle at Helsingor."
+    },
+    {
+      "prompt": "Which device directs data between networks?",
+      "fact": "It decides where to send each packet next. A switch moves traffic within one network; this moves it between networks."
+    },
+    {
+      "prompt": "Which revolution began with the storming of the Bastille?",
+      "fact": "The Bastille held only seven prisoners when it fell. It mattered as a symbol of arbitrary royal power, not as a prison."
+    },
+    {
+      "prompt": "What is the largest known type of star by volume?",
+      "fact": "The largest known stars are so vast that, placed where the Sun is, their surface would reach past the orbit of Jupiter."
+    },
+    {
+      "prompt": "How many players are on a volleyball team on court?",
+      "fact": "Six on court, rotating one position each time the side wins back the serve."
+    },
+    {
+      "prompt": "Which rapper released the album 'The Marshall Mathers LP'?",
+      "fact": "It made him one of the fastest-selling artists in US history and remains among the best-selling rap records ever made."
+    },
+    {
+      "prompt": "Which continent has no permanent human residents?",
+      "fact": "It has research staff who rotate through, but no permanent residents and no government of its own — it is run by treaty."
+    },
+    {
+      "prompt": "Who wrote 'Wuthering Heights'?",
+      "fact": "It was published under the pen name Ellis Bell, and she died the following year, aged 30."
+    },
+    {
+      "prompt": "What does 'SQL' primarily manage?",
+      "fact": "It queries tables that relate to one another through shared keys, a model set out in a 1970 paper and still dominant today."
+    },
+    {
+      "prompt": "The Ottoman Empire captured Constantinople in which year?",
+      "fact": "The city's fall ended the last continuous remnant of the Roman Empire, a thousand years after the west collapsed."
+    },
+    {
+      "prompt": "Which branch of science studies earthquakes?",
+      "fact": "Earth's interior was mapped using earthquake waves — the core was discovered by noticing where waves failed to arrive."
+    },
+    {
+      "prompt": "Which trophy is awarded to the winner of the Super Bowl?",
+      "fact": "Named for the coach who won the first two Super Bowls, and made by hand each year as a silver football on a stand."
+    },
+    {
+      "prompt": "Which Pixar film features a rat who wants to be a chef?",
+      "fact": "The title dish was designed by a real chef, who reworked a rustic vegetable stew into something that would startle a critic."
+    },
+    {
+      "prompt": "Which country is entirely within the Arabian Peninsula and borders only Saudi Arabia?",
+      "fact": "It is a peninsula with a single land border, and holds some of the largest natural gas reserves in the world."
+    },
+    {
+      "prompt": "Which novel features a whale hunt led by Captain Ahab?",
+      "fact": "It sold poorly in Melville's lifetime and only became a classic decades after his death."
+    },
+    {
+      "prompt": "Which company developed the Java programming language?",
+      "fact": "It was designed to run anywhere through a virtual machine — write once, run anywhere. Oracle acquired the company in 2010."
+    },
+    {
+      "prompt": "What is the capital of Indonesia?",
+      "fact": "Jakarta is sinking — parts of it by over 10 cm a year — which is why Indonesia is building a new capital, Nusantara, on Borneo."
+    },
+    {
+      "prompt": "Which company created the Photoshop image editor?",
+      "fact": "Photoshop was written by two brothers, one of whom worked at Industrial Light & Magic. Adobe licensed it in 1988."
+    },
+    {
+      "prompt": "Which conflict involved the Battle of Gettysburg?",
+      "fact": "It was the war's bloodiest battle and its turning point. Lincoln's address there four months later ran barely two minutes."
+    },
+    {
+      "prompt": "What is the term for the process of cell division producing two identical cells?",
+      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
+    },
+    {
+      "prompt": "Which decade saw the fall of the Soviet Union?",
+      "fact": "The Soviet Union formally dissolved on 26 December 1991, and fifteen independent states took its place."
+    },
+    {
+      "prompt": "Which planet is known for being the hottest in the solar system?",
+      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
+    },
+    {
+      "prompt": "Which film features the quote 'I'm gonna make him an offer he can't refuse'?",
+      "fact": "Brando was so unwanted by the studio that he had to screen-test for the part. He won the Oscar for it and refused to accept it."
+    },
+    {
+      "prompt": "Which streaming show features a chess prodigy named Beth Harmon?",
+      "fact": "Beth Harmon is invented, but the chess is real — Garry Kasparov advised on the games, which are based on actual matches."
+    },
+    {
+      "prompt": "Which band was fronted by Freddie Mercury?",
+      "fact": "Mercury was born Farrokh Bulsara in Zanzibar, and wrote a six-minute single with no chorus that reached number one twice."
+    },
+    {
+      "prompt": "Which US state is composed entirely of islands?",
+      "fact": "It is the only US state made entirely of islands, and the only one still growing, as lava adds new land."
+    },
+    {
+      "prompt": "Who wrote 'Rebecca'?",
+      "fact": "The narrator is never named. The only named woman of the house is the dead wife the book is titled after."
+    },
+    {
+      "prompt": "Which explorer is credited with reaching India by sea from Europe in 1498?",
+      "fact": "His sea route round Africa broke the overland spice monopoly and redirected European trade for centuries."
+    },
+    {
+      "prompt": "Which battle in 1066 led to Norman rule in England?",
+      "fact": "Harold had just marched his army 250 miles south after beating a Norwegian invasion, and met William's forces exhausted."
+    },
+    {
+      "prompt": "Which country lies between France and Germany with Luxembourg to its north?",
+      "fact": "It has three official languages — Dutch, French and German — and once went 589 days without forming a government."
+    },
+    {
+      "prompt": "What is the term for the tiny blood vessels connecting arteries and veins?",
+      "fact": "They are about one red blood cell wide, so cells pass through in single file to exchange oxygen."
+    },
+    {
+      "prompt": "What is the capital of Denmark?",
+      "fact": "More people commute by bicycle than by car in the city centre, on a network built deliberately over decades."
+    },
+    {
+      "prompt": "Which country is the most populous in Africa?",
+      "fact": "It has more people than any other African country, and more than 500 languages are spoken within its borders."
+    },
+    {
+      "prompt": "Which movie features the sinking of a famous ocean liner in 1997?",
+      "fact": "The 1997 film was the most expensive ever made at the time — it cost more than the ship it depicted."
+    },
+    {
+      "prompt": "What is the capital of Colombia?",
+      "fact": "It sits about 2,640 m above sea level, high enough that visitors often feel the altitude on arrival."
+    },
+    {
+      "prompt": "Which unit measures force in the metric system?",
+      "fact": "One is roughly the force needed to hold up a small apple — a unit named, appropriately, after Isaac Newton."
+    },
+    {
+      "prompt": "Who led the Bolsheviks during the October Revolution?",
+      "fact": "He was smuggled back into Russia in a sealed train by Germany, which correctly expected him to take Russia out of the war."
+    },
+    {
+      "prompt": "Which Japanese company created the Mario franchise?",
+      "fact": "The company was founded in 1889 making playing cards, and only moved into video games in the 1970s."
+    },
+    {
+      "prompt": "Which country contains Angkor Wat?",
+      "fact": "Angkor Wat is the largest religious monument in the world, and appears on the country's national flag."
+    },
+    {
+      "prompt": "What is the hardest substance in the human body?",
+      "fact": "Enamel is harder than bone, but unlike bone it contains no living cells — which is why it cannot repair itself."
+    },
+    {
+      "prompt": "Which line of longitude is defined as zero degrees?",
+      "fact": "Zero degrees runs through Greenwich because Britain dominated 19th-century sea charts, not for any natural reason."
+    },
+    {
+      "prompt": "Which African country has Addis Ababa as its capital?",
+      "fact": "Ethiopia was never colonised, and keeps its own calendar, which runs about seven years behind the Gregorian one."
+    },
+    {
+      "prompt": "Which type of display technology uses organic compounds that emit light?",
+      "fact": "Each pixel makes its own light, so switching one off gives true black — something a backlit LCD cannot do."
+    },
+    {
+      "prompt": "Which US state was purchased from Russia in 1867?",
+      "fact": "The purchase was mocked as Seward's Folly until gold, and later oil, were found there."
+    },
+    {
+      "prompt": "Which sport is Muhammad Ali associated with?",
+      "fact": "Ali refused the Vietnam draft and was stripped of his title, losing three years at his physical peak before winning it back."
+    },
+    {
+      "prompt": "Which artist is known for the song 'Billie Jean'?",
+      "fact": "The moonwalk debuted during this song in 1983, on a television special watched by nearly 50 million people."
+    },
+    {
+      "prompt": "Which scientist first described the laws of planetary motion?",
+      "fact": "He found that orbits are ellipses rather than circles, overturning an assumption astronomy had held for 2,000 years."
+    },
+    {
+      "prompt": "Which Roman poet wrote the Aeneid?",
+      "fact": "He asked for the poem to be burned, as he died before finishing it. Augustus overruled him."
+    },
+    {
+      "prompt": "What is the term for an object in space orbiting a planet?",
+      "fact": "Natural or artificial — the Moon counts too. The first artificial one, Sputnik 1, launched in 1957."
+    },
+    {
+      "prompt": "How many innings are in a standard professional baseball game?",
+      "fact": "Nine innings and no clock, which is why a game has no fixed length and can run into extra innings."
+    },
+    {
+      "prompt": "Which country is known for the fjords along its western coast?",
+      "fact": "Fjords were carved by glaciers, and these are deep enough that cruise ships sail miles inland between the cliffs."
+    },
+    {
+      "prompt": "Which author wrote 'Robinson Crusoe'?",
+      "fact": "Defoe drew on the real castaway Alexander Selkirk, marooned alone on a Pacific island for over four years."
+    },
+    {
+      "prompt": "Which winter sport involves sliding stones toward a target on ice?",
+      "fact": "Sweepers melt a thin film of water ahead of the stone, which lets them steer it several metres after release."
+    },
+    {
+      "prompt": "Which island is the largest in the Mediterranean Sea?",
+      "fact": "It holds Mount Etna, Europe's most active volcano, which erupts often enough to be part of ordinary life there."
+    },
+    {
+      "prompt": "Which novel is narrated by a character called Nick Carraway?",
+      "fact": "He opens by claiming he reserves all judgements, then spends the novel judging everyone. That gap is the point."
+    },
+    {
+      "prompt": "Which civilization created the Nazca Lines?",
+      "fact": "The lines are so large that most were only recognised once aircraft began flying over the desert in the 20th century."
+    },
+    {
+      "prompt": "Which country hosts the Wimbledon tennis championships?",
+      "fact": "It is the only Grand Slam still played on grass, and the only one with a strict all-white clothing rule."
+    },
+    {
+      "prompt": "What is the capital of Austria?",
+      "fact": "Its drinking water arrives by gravity from Alpine springs, through pipelines built in the 19th century."
+    },
+    {
+      "prompt": "How many quarters are in a professional basketball game?",
+      "fact": "Four quarters of 12 minutes in the NBA. College basketball uses two halves instead."
+    },
+    {
+      "prompt": "Which sitcom is set in a Boston bar where everybody knows your name?",
+      "fact": "The bar was based on a real Boston pub, which still trades on the association decades later."
+    },
+    {
+      "prompt": "Which term describes the delay between an action and its response over a network?",
+      "fact": "Bandwidth is how much can flow; this is how long the first bit takes. A satellite link can have huge bandwidth and still feel slow."
+    },
+    {
+      "prompt": "Which country contains the city of Timbuktu?",
+      "fact": "Timbuktu was a centre of learning, with libraries of hundreds of thousands of manuscripts — many still privately held."
+    },
+    {
+      "prompt": "What is the term for a solution with a pH below 7?",
+      "fact": "The scale is logarithmic, so pH 3 is ten times more acidic than pH 4 and a hundred times more than pH 5."
+    },
+    {
+      "prompt": "Which film features a character riding a bicycle across the Moon?",
+      "fact": "The silhouette of the bicycle against the Moon became the logo of Spielberg's production company."
+    },
+    {
+      "prompt": "Which sea does the Danube River empty into?",
+      "fact": "The Danube passes through or borders ten countries, more than any other river in the world."
+    },
+    {
+      "prompt": "Which band released 'Hotel California'?",
+      "fact": "It is widely assumed to be about a real hotel. The band described it instead as being about excess in America."
+    },
+    {
+      "prompt": "What does 'CSV' stand for as a file format?",
+      "fact": "It is barely a format at all — just text with commas — which is why almost everything can read it and nothing agrees on the edge cases."
+    },
+    {
+      "prompt": "Which Shakespeare comedy features the fairy king Oberon?",
+      "fact": "The play runs three plots at once — lovers, fairies and amateur actors — and ties them together over a single night."
+    },
+    {
+      "prompt": "Which treaty established the European Economic Community in 1957?",
+      "fact": "Six countries signed it, and the community they created grew into the European Union."
+    },
+    {
+      "prompt": "What is the term for the time a planet takes to orbit its star once?",
+      "fact": "It is defined by the orbit, not the calendar — which is why a leap day is added roughly every four years to keep the two in step."
+    },
+    {
+      "prompt": "What is the closest galaxy to the Milky Way of comparable size?",
+      "fact": "It is about 2.5 million light years away and closing. It will merge with the Milky Way in a few billion years."
+    },
+    {
+      "prompt": "Which country lies directly south of the United States?",
+      "fact": "The two share a border of roughly 3,145 km, containing the busiest land crossing in the world."
+    },
+    {
+      "prompt": "What is the term for an animal that eats only plants?",
+      "fact": "They need long digestive systems or several stomachs, because the cellulose in plants is so hard to break down."
+    },
+    {
+      "prompt": "Who was the first Roman emperor to convert to Christianity?",
+      "fact": "He legalised Christianity across the empire and founded Constantinople, though he was baptised only on his deathbed."
+    },
+    {
+      "prompt": "Which director made 'Schindler's List'?",
+      "fact": "Spielberg refused a salary for it, calling it blood money, and used the profits to found a Holocaust testimony archive."
+    },
+    {
+      "prompt": "Which US mountain is the highest peak in North America?",
+      "fact": "It rises higher above its own base than Everest does, because it starts from a far lower plain."
+    },
+    {
+      "prompt": "Which race takes place annually at Le Mans?",
+      "fact": "Teams of drivers rotate through day and night, and the cars cover more distance in one race than a Formula 1 season."
+    },
+    {
+      "prompt": "Which country has the most people living below sea level?",
+      "fact": "About a quarter of the country sits below sea level, protected by dikes and a storm barrier built after the 1953 flood."
+    },
+    {
+      "prompt": "Which scientist discovered radioactivity's polonium and radium?",
+      "fact": "She is still the only person to win Nobel Prizes in two different sciences, and her notebooks remain too radioactive to handle freely."
+    },
+    {
+      "prompt": "What is the term for the middle layer of Earth's atmosphere where meteors burn up?",
+      "fact": "Meteors burn up here because the air is thin enough to reach but dense enough to create fierce friction."
+    },
+    {
+      "prompt": "Which bay lies between India and Myanmar?",
+      "fact": "It is the largest bay in the world, and the cyclones that form there are among the deadliest ever recorded."
+    },
+    {
+      "prompt": "Which organ filters waste from the blood?",
+      "fact": "They filter the body's entire blood supply around 30 times a day, and most people manage perfectly well on one."
+    },
+    {
+      "prompt": "How many pieces does each player start a game of chess with?",
+      "fact": "Sixteen each: eight pawns, two rooks, two knights, two bishops, a queen and a king."
+    },
+    {
+      "prompt": "Which film features the character Hannibal Lecter?",
+      "fact": "Hopkins is on screen for about 16 minutes, one of the shortest performances ever to win the Best Actor Oscar."
+    },
+    {
+      "prompt": "Which country is located at the southern tip of Africa?",
+      "fact": "It has three capitals — Pretoria, Cape Town and Bloemfontein — splitting the executive, legislature and judiciary."
+    },
+    {
+      "prompt": "Which company introduced the first iPod?",
+      "fact": "It held 1,000 songs in 2001, when rival players held a few dozen."
+    },
+    {
+      "prompt": "Which ancient city was known for its hanging gardens?",
+      "fact": "No archaeological trace of the gardens has been found there, and some historians place them at Nineveh instead."
+    }
+  ]
+}

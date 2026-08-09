@@ -19,18 +19,20 @@
         "The Colossus of Rhodes",
         "The Lighthouse of Pharos"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It stood over 100 metres tall and survived for more than 1,600 years before earthquakes finally brought it down."
     },
     {
       "category": "Science",
-      "prompt": "What is the most abundant gas in Earth's atmosphere?",
+      "prompt": "Which scientist first described the laws of planetary motion?",
       "options": [
-        "Argon",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Oxygen"
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Tycho Brahe",
+        "Edmond Halley"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He found that orbits are ellipses rather than circles, overturning an assumption astronomy had held for 2,000 years."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Eleven",
         "Twelve"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Eleven a side, one of them the goalkeeper — the only player allowed to handle the ball, and only inside their own area."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Battlestar Galactica",
         "Dune"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The line appears in every film of the original trilogy, and the pun on 4 May is why that date became Star Wars Day."
     },
     {
       "category": "Geography",
@@ -63,18 +67,20 @@
         "The Caucasus",
         "The Carpathians"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "This range is the conventional dividing line, which is why Russia counts as both a European and an Asian country."
     },
     {
       "category": "Literature",
-      "prompt": "Who created the detective Sherlock Holmes?",
+      "prompt": "Which Roman poet wrote the Aeneid?",
       "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Wilkie Collins",
-        "G. K. Chesterton"
+        "Homer",
+        "Virgil",
+        "Ovid",
+        "Horace"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He asked for the poem to be burned, as he died before finishing it. Augustus overruled him."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Eight",
         "Four"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Eight bits make a byte — 256 combinations, enough to cover every character in early text encodings."
     }
   ]
 }

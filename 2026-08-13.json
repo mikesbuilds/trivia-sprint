@@ -12,25 +12,27 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which Greek writer is often called the Father of History?",
+      "prompt": "Which decade saw the fall of the Soviet Union?",
       "options": [
-        "Herodotus",
-        "Plato",
-        "Sophocles",
-        "Homer"
+        "The 1990s",
+        "The 2000s",
+        "The 1980s",
+        "The 1970s"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The Soviet Union formally dissolved on 26 December 1991, and fifteen independent states took its place."
     },
     {
       "category": "Science",
-      "prompt": "What type of rock forms when existing rock is changed by heat and pressure?",
+      "prompt": "Which planet is known for being the hottest in the solar system?",
       "options": [
-        "Sedimentary",
-        "Metamorphic",
-        "Igneous",
-        "Volcanic glass"
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
     },
     {
       "category": "Sports",
@@ -41,18 +43,20 @@
         "13.1 miles",
         "26.2 miles"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The odd distance is a leftover from the 1908 London Olympics, when the course was stretched to 26 miles 385 yards so it could finish in front of the royal box."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In Harry Potter, what is the wizarding bank called?",
+      "prompt": "Which film features the quote 'I'm gonna make him an offer he can't refuse'?",
       "options": [
-        "Hogsmeade",
-        "Ollivanders",
-        "Gringotts",
-        "Azkaban"
+        "Goodfellas",
+        "Casino",
+        "The Godfather",
+        "Scarface"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Brando was so unwanted by the studio that he had to screen-test for the part. He won the Oscar for it and refused to accept it."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Porto",
         "Seville"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Lisbon is older than Rome. A 1755 earthquake destroyed so much of it that the rebuilt centre became one of Europe's first planned earthquake-resistant districts."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Poseidon",
         "Apollo"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Percy being Poseidon's son is itself the problem: the three eldest gods swore an oath to father no more children, so his existence breaks it."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Global Positioning System",
         "General Pixel Standard"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "GPS satellites carry atomic clocks that must be corrected for relativity. Time runs measurably faster in orbit, and ignoring it would throw positions off by miles a day."
     }
   ]
 }

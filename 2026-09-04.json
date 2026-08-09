@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Berlin Wall came down in which year?",
+      "prompt": "Which civilization created the Nazca Lines?",
       "options": [
-        "1985",
-        "1989",
-        "1975",
-        "1991"
+        "The Inca",
+        "The Nazca of Peru",
+        "The Aztec",
+        "The Maya"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The lines are so large that most were only recognised once aircraft began flying over the desert in the 20th century."
     },
     {
       "category": "Science",
@@ -30,18 +31,20 @@
         "Respiration",
         "Transpiration"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Nearly all of a tree's mass comes from carbon pulled out of the air, not from the soil it is standing in."
     },
     {
       "category": "Sports",
-      "prompt": "Which country has won the most FIFA World Cup titles?",
+      "prompt": "Which country hosts the Wimbledon tennis championships?",
       "options": [
-        "Italy",
-        "Germany",
-        "Brazil",
-        "Argentina"
+        "The United States",
+        "France",
+        "England",
+        "Australia"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It is the only Grand Slam still played on grass, and the only one with a strict all-white clothing rule."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Emerald green",
         "Silver"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "In the book the slippers are silver. They were changed to show off Technicolor."
     },
     {
       "category": "Geography",
-      "prompt": "Which sea lies between Europe and Africa?",
+      "prompt": "What is the capital of Austria?",
       "options": [
-        "The Mediterranean",
-        "The Caspian Sea",
-        "The Black Sea",
-        "The Red Sea"
+        "Vienna",
+        "Innsbruck",
+        "Graz",
+        "Salzburg"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its drinking water arrives by gravity from Alpine springs, through pipelines built in the 19th century."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "We",
         "1984"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Orwell wrote it in 1948 and reversed the final two digits to get the title."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "110",
         "100"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Binary counts in powers of two: this means one four, no twos and no ones."
     }
   ]
 }

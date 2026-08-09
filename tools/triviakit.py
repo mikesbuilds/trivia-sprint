@@ -30,6 +30,13 @@ CATEGORIES = [
 OPTIONS_PER_QUESTION = 4
 QUESTIONS_PER_DAY = len(CATEGORIES)
 
+# `fact` is optional. It is shown on the app's post-round review screen, never
+# during the timed round. Builds older than the review screen ignore the key
+# entirely — Swift's synthesized Decodable skips keys it does not know — so
+# adding it to a published day is safe for already-installed versions.
+# The cap keeps a review row to a few lines on the narrowest supported phone.
+MAX_FACT_CHARS = 240
+
 ROOT = Path(__file__).resolve().parent.parent
 BANK_PATH = ROOT / "bank" / "questions.json"
 USED_PATH = ROOT / "bank" / "used.json"
@@ -73,6 +80,82 @@ def norm_option(value: str) -> str:
 
 def qhash(prompt: str) -> str:
     return hashlib.sha1(norm(prompt).encode()).hexdigest()[:16]
+
+
+# --- Repeat detection -------------------------------------------------------
+#
+# qhash alone only catches a prompt published verbatim. In practice repeats
+# arrive reworded ("Which metal is liquid at room temperature?" vs "Which
+# metallic element...") or inverted, where one question's answer is the other's
+# subject ("What is the capital of Egypt?" / "Which country has Cairo as its
+# capital?"). Both read as the same question to someone playing every day.
+
+REPEAT_WINDOW_DAYS = 365
+REWORD_OVERLAP = 0.5
+# Inverted pairs need topical overlap too, otherwise "What is the chemical
+# symbol for oxygen?" matches "Which gas do plants release?" on the word oxygen.
+INVERTED_OVERLAP = 0.25
+
+STOPWORDS = frozenset(
+    "what which who whom whose is are was were the a an of in on at to for and or by with "
+    "do does did how many much called known best used commonly name named it its this that "
+    "from as be been has have had you your there their they them he she his her".split()
+)
+
+
+def content_tokens(text: str) -> set[str]:
+    return {w for w in norm(text).split() if w not in STOPWORDS and len(w) > 2}
+
+
+def answer_text(question: dict) -> str:
+    options = question.get("options") or []
+    index = question.get("answerIndex")
+    if isinstance(index, int) and not isinstance(index, bool) and 0 <= index < len(options):
+        return str(options[index])
+    return ""
+
+
+def compare_key(question: dict) -> dict:
+    """Precomputed shape used for repeat comparisons."""
+    prompt = str(question.get("prompt", ""))
+    return {
+        "hash": qhash(prompt),
+        "prompt": norm(prompt),
+        "tokens": content_tokens(prompt),
+        "answer": norm(answer_text(question)),
+        "category": question.get("category", ""),
+    }
+
+
+def _same_answer(a: str, b: str) -> bool:
+    # "Khrushchev" and "Nikita Khrushchev" are the same answer.
+    return bool(a) and bool(b) and (a == b or a in b or b in a)
+
+
+def duplicate_reason(a: dict, b: dict) -> str | None:
+    """Why a and b test the same knowledge, or None. Both are compare_key()s."""
+    if a["hash"] == b["hash"]:
+        return "exact"
+
+    union = a["tokens"] | b["tokens"]
+    overlap = len(a["tokens"] & b["tokens"]) / len(union) if union else 0.0
+
+    if overlap >= REWORD_OVERLAP and _same_answer(a["answer"], b["answer"]):
+        return "reworded"
+    if (a["answer"] and b["answer"]
+            and a["answer"] in b["prompt"] and b["answer"] in a["prompt"]
+            and overlap >= INVERTED_OVERLAP):
+        return "inverted"
+    return None
+
+
+def first_duplicate(key: dict, others):
+    """Return (reason, other) for the first match in others, or (None, None)."""
+    for other in others:
+        reason = duplicate_reason(key, other)
+        if reason:
+            return reason, other
+    return None, None
 
 
 def load_json(path: Path, default):
@@ -129,6 +212,14 @@ def normalize_question(raw: dict) -> dict | None:
         "options": options,
         "answerIndex": answer_index,
     }
+    # Dropped rather than rejected: a missing or overlong fact is a cosmetic
+    # gap on one review row, not a reason to lose an otherwise good question.
+    fact = raw.get("fact")
+    if fact is not None:
+        fact = clean_text(fact)
+        if fact and len(fact) <= MAX_FACT_CHARS:
+            question["fact"] = fact
+
     if raw.get("source"):
         question["source"] = raw["source"]
     return question
@@ -195,6 +286,14 @@ def validate_day(payload: dict, expected_date: str | None = None) -> list[str]:
                 errors.append(f"{where}: duplicate prompt within the day")
             seen_prompts.add(key)
 
+        # Optional, but if it is present it has to be renderable.
+        if "fact" in q:
+            fact = q["fact"]
+            if not isinstance(fact, str) or not fact.strip():
+                errors.append(f"{where}: fact must be a non-empty string when present")
+            elif len(fact) > MAX_FACT_CHARS:
+                errors.append(f"{where}: fact is {len(fact)} chars (max {MAX_FACT_CHARS})")
+
     got = [q.get("category") for q in questions if isinstance(q, dict)]
     if len(questions) == QUESTIONS_PER_DAY and got != CATEGORIES:
         errors.append(f"categories must be exactly {CATEGORIES} in order, got {got}")
@@ -246,3 +345,36 @@ def published_dates() -> set[str]:
         for path in ROOT.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json")
         if decodes_for_app(load_json(path, None))
     }
+
+
+def day_paths() -> list[Path]:
+    return sorted(ROOT.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"))
+
+
+def load_days(start: str | None = None, end: str | None = None) -> dict[str, list[dict]]:
+    """Questions per date, for dates within [start, end]."""
+    days: dict[str, list[dict]] = {}
+    for path in day_paths():
+        if start and path.stem < start:
+            continue
+        if end and path.stem > end:
+            continue
+        payload = load_json(path, None)
+        if isinstance(payload, dict) and isinstance(payload.get("questions"), list):
+            days[path.stem] = [q for q in payload["questions"] if isinstance(q, dict)]
+    return days
+
+
+def recent_keys(today: str, window_days: int = REPEAT_WINDOW_DAYS) -> list[dict]:
+    """compare_key()s for everything aired in the window before `today`."""
+    from datetime import date as _date, timedelta as _timedelta
+
+    y, m, d = (int(part) for part in today.split("-"))
+    cutoff = (_date(y, m, d) - _timedelta(days=window_days)).isoformat()
+    keys = []
+    for day, questions in load_days(start=cutoff, end=today).items():
+        if day >= today:
+            continue
+        for question in questions:
+            keys.append(compare_key(question))
+    return keys

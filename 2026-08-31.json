@@ -19,7 +19,8 @@
         "Herbert Hoover",
         "Franklin D. Roosevelt"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The Fourteen Points shaped the peace terms, but Wilson could not persuade his own Senate to join the League of Nations they created."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Magnetosphere",
         "Troposphere"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It deflects the solar wind. Where charged particles leak through near the poles, they light the sky as auroras."
     },
     {
       "category": "Sports",
@@ -41,18 +43,20 @@
         "Golf",
         "Volleyball"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Par is the expected number of strokes for a hole. Birdie is one under, eagle two under, bogey one over."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which animated series features Aang as the last airbender?",
+      "prompt": "Which artist is known for the song 'Billie Jean'?",
       "options": [
-        "Avatar: The Last Airbender",
-        "Naruto",
-        "Teen Titans",
-        "Dragon Ball Z"
+        "Michael Jackson",
+        "Lionel Richie",
+        "George Michael",
+        "Prince"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The moonwalk debuted during this song in 1983, on a television special watched by nearly 50 million people."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Prague",
         "Bratislava"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was two cities, Buda and Pest, facing each other across the Danube until they merged in 1873."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Lois Lowry",
         "Madeleine L'Engle"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The novel follows a clone raised as a source of transplant organs, and won the National Book Award for Young People's Literature."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A printer setting",
         "A facility that houses servers and networking equipment"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Data centres are built around cooling as much as computing. Getting the heat back out is often the harder engineering problem."
     }
   ]
 }

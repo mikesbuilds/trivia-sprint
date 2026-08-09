@@ -19,7 +19,8 @@
         "Korea",
         "Thailand"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "In a few decades it went from a largely closed feudal society to an industrial power, deliberately importing foreign expertise to do it."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Entomology",
         "Mycology"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Fungi are more closely related to animals than to plants, and the largest known organism on Earth is one."
     },
     {
       "category": "Sports",
@@ -41,29 +43,32 @@
         "Midfielder",
         "Defender"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "And only inside their own penalty area — handling it outside concedes a free kick."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which streaming series is set in the fictional town of Hawkins, Indiana?",
+      "prompt": "Which director made 'Schindler's List'?",
       "options": [
-        "Dark",
-        "Stranger Things",
-        "The OA",
-        "Riverdale"
+        "Sydney Pollack",
+        "Steven Spielberg",
+        "Oliver Stone",
+        "Ron Howard"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Spielberg refused a salary for it, calling it blood money, and used the profits to found a Holocaust testimony archive."
     },
     {
       "category": "Geography",
-      "prompt": "Which ocean is the largest by area?",
+      "prompt": "Which US mountain is the highest peak in North America?",
       "options": [
-        "The Atlantic",
-        "The Arctic",
-        "The Indian",
-        "The Pacific"
+        "Mount Whitney",
+        "Mount Rainier",
+        "Mount Elbert",
+        "Denali"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It rises higher above its own base than Everest does, because it starts from a far lower plain."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Demeter",
         "Artemis"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "She was said to have sprung fully grown and armoured from Zeus's head, and Athens is named for her."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Blockchain",
         "Quantum computing"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "A shared ledger in which each block references the one before, so altering an old record would mean redoing everything after it."
     }
   ]
 }

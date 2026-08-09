@@ -19,51 +19,56 @@
         "The 15th century",
         "The 17th century"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The press appeared around 1450, and within fifty years there were printing shops across Europe."
     },
     {
       "category": "Science",
-      "prompt": "Which vitamin is produced when skin is exposed to sunlight?",
+      "prompt": "Which organ filters waste from the blood?",
       "options": [
-        "Vitamin K",
-        "Vitamin C",
-        "Vitamin A",
-        "Vitamin D"
+        "The lung",
+        "The liver",
+        "The heart",
+        "The kidney"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "They filter the body's entire blood supply around 30 times a day, and most people manage perfectly well on one."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features terms like birdie, eagle, and bogey?",
+      "prompt": "How many pieces does each player start a game of chess with?",
       "options": [
-        "Golf",
-        "Archery",
-        "Falconry",
-        "Cricket"
+        "Sixteen pieces",
+        "Eight pieces",
+        "Twenty pieces",
+        "Twelve pieces"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Sixteen each: eight pawns, two rooks, two knights, two bishops, a queen and a king."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which TV show is set in the fictional Dunder Mifflin paper company?",
+      "prompt": "Which film features the character Hannibal Lecter?",
       "options": [
-        "Parks and Recreation",
-        "The Office",
-        "Superstore",
-        "30 Rock"
+        "Se7en",
+        "The Silence of the Lambs",
+        "Zodiac",
+        "Psycho"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Hopkins is on screen for about 16 minutes, one of the shortest performances ever to win the Best Actor Oscar."
     },
     {
       "category": "Geography",
-      "prompt": "Which country has the largest population in South America?",
+      "prompt": "Which country is located at the southern tip of Africa?",
       "options": [
-        "Colombia",
-        "Brazil",
-        "Peru",
-        "Argentina"
+        "Namibia",
+        "South Africa",
+        "Mozambique",
+        "Botswana"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It has three capitals — Pretoria, Cape Town and Bloemfontein — splitting the executive, legislature and judiciary."
     },
     {
       "category": "Literature",
@@ -74,18 +79,20 @@
         "Hamlet",
         "Macbeth"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It is Shakespeare's longest play, and Elsinore is a real castle at Helsingor."
     },
     {
       "category": "Technology",
-      "prompt": "Which device directs data between networks?",
+      "prompt": "Which company introduced the first iPod?",
       "options": [
-        "A router",
-        "A keyboard",
-        "A scanner",
-        "A monitor"
+        "Apple",
+        "Microsoft",
+        "Creative",
+        "Sony"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It held 1,000 songs in 2001, when rival players held a few dozen."
     }
   ]
 }

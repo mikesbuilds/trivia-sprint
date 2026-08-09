@@ -19,7 +19,8 @@
         "Geneva Protocol",
         "Paris Peace Accords"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Signed in January 1973, the accords saw the last U.S. combat troops leave within months — though the war between North and South ran on until 1975."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Six",
         "Ten"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Six legs is part of the definition of an insect, not a coincidence. Spiders have eight, and are not insects at all."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Ryder Cup",
         "Davis Cup"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The current trophy replaced one that was stolen twice: recovered by a dog in 1966, then taken again in 1983 and never seen since."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Carrie Fisher",
         "Linda Hamilton"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Fisher was 19 when she was cast, and went on to work as an uncredited script doctor across Hollywood."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "New Mexico",
         "South Dakota"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "These formations erode about an inch a year — fast enough that the whole landscape is expected to wear away within roughly 500,000 years."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "The Diary of Anne Frank",
         "The Hiding Place"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Anne revised her own diary for publication after hearing a radio broadcast urging Dutch civilians to preserve their wartime writing."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Respond to conversation prompts",
         "Increase phone weight"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Chatbots go back to 1966, when a program called ELIZA convinced some users it understood them simply by rephrasing their sentences as questions."
     }
   ]
 }

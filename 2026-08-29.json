@@ -19,7 +19,8 @@
         "Philadelphia",
         "Boston"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The Declaration was approved on 4 July 1776, but most of the signatures were added weeks later, on 2 August."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Insulin",
         "Keratin"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Digestion starts in the mouth. Hold a piece of bread on your tongue and it slowly turns sweet as amylase breaks starch into sugar."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Track",
         "Gymnastics"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Butterfly began as a legal loophole in breaststroke. Swimmers exploited the rules until it was split off as its own stroke in 1952."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Ariana Grande",
         "Katy Perry"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The album is named for her birth year, and marked a deliberate move from country to pop."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Canada",
         "Norway"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Greenland is the world's largest island and governs itself, but remains part of the Kingdom of Denmark."
     },
     {
       "category": "Literature",
@@ -74,18 +79,20 @@
         "Arrakis",
         "Tatooine"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The planet is worth fighting over because it is the only source of the spice that makes interstellar travel possible."
     },
     {
       "category": "Technology",
-      "prompt": "What is a computer algorithm?",
+      "prompt": "Which type of display technology uses organic compounds that emit light?",
       "options": [
-        "A step-by-step procedure for solving a problem",
-        "A type of keyboard",
-        "A wireless charger",
-        "A broken monitor"
+        "OLED",
+        "Plasma",
+        "LCD",
+        "CRT"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Each pixel makes its own light, so switching one off gives true black — something a backlit LCD cannot do."
     }
   ]
 }

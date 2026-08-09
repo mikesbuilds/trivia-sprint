@@ -19,7 +19,8 @@
         "Louis XVI",
         "Napoleon III"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He took the sun as his emblem and reigned for 72 years, the longest of any European monarch. Moving the court to Versailles kept the nobility where he could watch them."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Conduction",
         "Condensation"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Conduction and convection both need matter to travel through. Radiation does not, which is how sunlight crosses 150 million km of vacuum to reach us."
     },
     {
       "category": "Sports",
@@ -41,29 +43,32 @@
         "Ringette only",
         "Lacrosse"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The puck is frozen before a game so that it slides across the ice instead of bouncing."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Who sang the hit song 'Rolling in the Deep'?",
+      "prompt": "Which movie features the sinking of a famous ocean liner in 1997?",
       "options": [
-        "Lady Gaga",
-        "Adele",
-        "Rihanna",
-        "Beyoncé"
+        "The Poseidon Adventure",
+        "Titanic",
+        "Ghost Ship",
+        "A Night to Remember"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The 1997 film was the most expensive ever made at the time — it cost more than the ship it depicted."
     },
     {
       "category": "Geography",
-      "prompt": "What is the largest country in the world by land area?",
+      "prompt": "What is the capital of Colombia?",
       "options": [
-        "China",
-        "Russia",
-        "Canada",
-        "United States"
+        "Cartagena",
+        "Bogota",
+        "Medellin",
+        "Cali"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It sits about 2,640 m above sea level, high enough that visitors often feel the altitude on arrival."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Mary Lennox",
         "Anne Shirley"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Mary begins the book deliberately unlikeable — spoiled, sour and friendless. The garden's revival and her own are the same story."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Changing room temperature",
         "Connecting devices"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "USB stands for Universal Serial Bus. Before it, almost every device arrived with its own incompatible connector."
     }
   ]
 }

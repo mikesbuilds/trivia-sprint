@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which revolution began with the storming of the Bastille?",
+      "prompt": "Which ancient city was known for its hanging gardens?",
       "options": [
-        "The American Revolution",
-        "The Russian Revolution",
-        "The French Revolution",
-        "The Haitian Revolution"
+        "Persepolis",
+        "Nineveh",
+        "Babylon",
+        "Ur"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "No archaeological trace of the gardens has been found there, and some historians place them at Nineveh instead."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "A neutron star",
         "A white dwarf"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The largest known stars are so vast that, placed where the Sun is, their surface would reach past the orbit of Jupiter."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Seven",
         "Five"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Six on court, rotating one position each time the side wins back the serve."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Eminem",
         "Jay-Z"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It made him one of the fastest-selling artists in US history and remains among the best-selling rap records ever made."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "South America",
         "Australia"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It has research staff who rotate through, but no permanent residents and no government of its own — it is run by treaty."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Anne Bronte",
         "Emily Bronte"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was published under the pen name Ellis Bell, and she died the following year, aged 30."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Network routing",
         "Relational databases"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It queries tables that relate to one another through shared keys, a model set out in a 1970 paper and still dominant today."
     }
   ]
 }

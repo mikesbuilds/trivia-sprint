@@ -19,18 +19,20 @@
         "Rhodesia",
         "Namibia"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was dismantled through negotiation rather than civil war, ending in the first fully democratic election in 1994."
     },
     {
       "category": "Science",
-      "prompt": "Which planet is known as the Red Planet?",
+      "prompt": "Which scientist discovered radioactivity's polonium and radium?",
       "options": [
-        "Mercury",
-        "Venus",
-        "Jupiter",
-        "Mars"
+        "Ernest Rutherford",
+        "Henri Becquerel",
+        "Wilhelm Roentgen",
+        "Marie Curie"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "She is still the only person to win Nobel Prizes in two different sciences, and her notebooks remain too radioactive to handle freely."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Greece",
         "France"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Athens hosted the first modern Games in 1896, with about 240 athletes from 14 nations."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Hamilton",
         "Cats"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It retells The Wizard of Oz from the witch's side, asking how someone comes to be called wicked in the first place."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Libya",
         "Sudan"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It became Africa's largest country only in 2011, when South Sudan's independence split Sudan in two."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Robert Rankin",
         "Terry Pratchett"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He wrote more than 40 novels set on a flat world carried by four elephants standing on the back of a turtle."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A compiler",
         "A protocol"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The word comes from al-Khwarizmi, a 9th-century Persian mathematician. The title of one of his books gave us algebra."
     }
   ]
 }

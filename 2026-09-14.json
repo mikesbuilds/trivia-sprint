@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which city was destroyed by the eruption of Mount Vesuvius in AD 79?",
+      "prompt": "Who was the first Roman emperor to convert to Christianity?",
       "options": [
-        "Carthage",
-        "Troy",
-        "Pompeii",
-        "Ephesus"
+        "Diocletian",
+        "Augustus",
+        "Constantine",
+        "Nero"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He legalised Christianity across the empire and founded Constantinople, though he was baptised only on his deathbed."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Oxygen",
         "Helium"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Exhaled air is still about 16% oxygen, which is the reason mouth-to-mouth resuscitation works at all."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "30 miles",
         "26 miles"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The exact distance is 26 miles 385 yards, a leftover from the 1908 London Olympics course."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Jerry Siegel",
         "Jack Kirby"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Spider-Man was nearly rejected: he was told teenagers could only be sidekicks and that nobody would identify with a hero who had money troubles."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "India and Bangladesh",
         "Argentina and Chile"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The border runs about 8,900 km including Alaska, the longest between any two countries."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Ursula K. Le Guin",
         "Alice Munro"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Her rule while writing was to include nothing that had not already happened somewhere in history."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A cellular tower only",
         "A wireless local network"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Wi-Fi is not short for anything. The name was invented by a branding firm because the actual technical term was unmarketable."
     }
   ]
 }

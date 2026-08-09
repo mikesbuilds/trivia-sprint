@@ -19,7 +19,8 @@
         "The Maya",
         "The Olmec"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The road network ran for tens of thousands of kilometres, worked by relay runners who could carry a message hundreds of miles in a day."
     },
     {
       "category": "Science",
@@ -30,18 +31,20 @@
         "Six",
         "Two"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Two atria collect blood and two ventricles pump it out — one side to the lungs, the other to the rest of the body."
     },
     {
       "category": "Sports",
-      "prompt": "What is the maximum break in a single frame of snooker?",
+      "prompt": "Which winter sport involves sliding stones toward a target on ice?",
       "options": [
-        "100",
-        "155",
-        "147",
-        "180"
+        "Skeleton",
+        "Luge",
+        "Curling",
+        "Bobsleigh"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Sweepers melt a thin film of water ahead of the stone, which lets them steer it several metres after release."
     },
     {
       "category": "Pop Culture",
@@ -52,29 +55,32 @@
         "George Lucas",
         "Steven Spielberg"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The mechanical shark broke down constantly, so he kept it off screen and suggested it with music instead. It made the film far scarier."
     },
     {
       "category": "Geography",
-      "prompt": "What is the smallest country in the world by area?",
+      "prompt": "Which island is the largest in the Mediterranean Sea?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "San Marino",
-        "Liechtenstein"
+        "Sardinia",
+        "Sicily",
+        "Cyprus",
+        "Crete"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It holds Mount Etna, Europe's most active volcano, which erupts often enough to be part of ordinary life there."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote the epic poem 'The Odyssey'?",
+      "prompt": "Which novel is narrated by a character called Nick Carraway?",
       "options": [
-        "Ovid",
-        "Hesiod",
-        "Virgil",
-        "Homer"
+        "Brideshead Revisited",
+        "A Farewell to Arms",
+        "The Sun Also Rises",
+        "The Great Gatsby"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He opens by claiming he reserves all judgements, then spends the novel judging everyone. That gap is the point."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Java",
         "Ruby"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Guido van Rossum named it after Monty Python's Flying Circus, not the snake."
     }
   ]
 }

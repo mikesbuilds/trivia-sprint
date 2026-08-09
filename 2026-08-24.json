@@ -19,18 +19,20 @@
         "Georgia",
         "Rhode Island"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Williams was banished from Massachusetts for arguing that church and state should be separate, then founded a colony on exactly that principle."
     },
     {
       "category": "Science",
-      "prompt": "What unit is used to measure electrical resistance?",
+      "prompt": "Which unit measures force in the metric system?",
       "options": [
-        "Volt",
-        "Ohm",
-        "Ampere",
-        "Watt"
+        "The joule",
+        "The newton",
+        "The pascal",
+        "The watt"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "One is roughly the force needed to hold up a small apple — a unit named, appropriately, after Isaac Newton."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Cycling",
         "Skiing"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The keirin began in Japan as a betting sport: riders follow a pacer who peels off, leaving a flat-out sprint over the final laps."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Toy Story",
         "Shrek"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Toy Story was the first entirely computer-animated feature film. Woody was written far less likeable in early drafts."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Dakar",
         "Nairobi"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Ghana was the first sub-Saharan African country to win independence from colonial rule, in 1957."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Violet Beauregarde",
         "Sophie"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Dahl's first draft made Matilda a much nastier child who used her powers to fix horse races. His editor persuaded him to rewrite her."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Battery percentages",
         "Audio waves"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Computers route by number, not by name. DNS is the lookup that turns a name you can remember into an address a machine can use."
     }
   ]
 }
