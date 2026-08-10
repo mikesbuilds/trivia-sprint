@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Silk Road primarily connected China with which region?",
+      "options": [
+        "The Mediterranean",
+        "Southern Africa",
+        "Australia",
+        "Scandinavia"
+      ],
+      "answerIndex": 0,
+      "fact": "It was never one road but a web of routes, and it carried ideas and disease as efficiently as it carried silk."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the closest galaxy to the Milky Way of comparable size?",
+      "options": [
+        "Triangulum",
+        "The Large Magellanic Cloud",
+        "Centaurus A",
+        "Andromeda"
+      ],
+      "answerIndex": 3,
+      "fact": "It is about 2.5 million light years away and closing. It will merge with the Milky Way in a few billion years."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What color card sends a soccer player off the field?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Black"
+      ],
+      "answerIndex": 1,
+      "fact": "The player is sent off and the team plays a player short — there is no substitution for a sending-off."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Forrest Gump?",
+      "options": [
+        "Kevin Costner",
+        "Michael Douglas",
+        "Tom Hanks",
+        "Robin Williams"
+      ],
+      "answerIndex": 2,
+      "fact": "He took a share of the profits instead of a salary, which earned him far more than the fee would have."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies directly south of the United States?",
+      "options": [
+        "Mexico",
+        "Cuba",
+        "Guatemala",
+        "Belize"
+      ],
+      "answerIndex": 0,
+      "fact": "The two share a border of roughly 3,145 km, containing the busiest land crossing in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins 'It was the best of times, it was the worst of times'?",
+      "options": [
+        "Bleak House",
+        "Oliver Twist",
+        "A Tale of Two Cities",
+        "Great Expectations"
+      ],
+      "answerIndex": 2,
+      "fact": "The two cities are London and Paris, and it is among the best-selling novels ever published."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit measures the clock speed of a processor?",
+      "options": [
+        "Pixels",
+        "Bytes",
+        "Watts",
+        "Hertz"
+      ],
+      "answerIndex": 3,
+      "fact": "Clock speed counts cycles per second, though modern chips gain more from doing more per cycle than from raw speed."
+    }
+  ]
+}

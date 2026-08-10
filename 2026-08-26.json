@@ -19,18 +19,20 @@
         "1776",
         "1492"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Jamestown was the first permanent English settlement in America, and it very nearly failed — most of the original colonists died within a year."
     },
     {
       "category": "Science",
-      "prompt": "Which blood cells are best known for carrying oxygen?",
+      "prompt": "What is the hardest substance in the human body?",
       "options": [
-        "White blood cells",
-        "Plasma cells",
-        "Platelets",
-        "Red blood cells"
+        "Cartilage",
+        "Bone",
+        "Keratin",
+        "Tooth enamel"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Enamel is harder than bone, but unlike bone it contains no living cells — which is why it cannot repair itself."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Golf",
         "Basketball"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The Masters is the only major played on the same course every year, at Augusta National."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Shrek",
         "Fiona"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Shrek was built as a deliberate send-up of the fairy-tale conventions the studio's rivals were selling at the time."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Rhine",
         "Tiber"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Rome's founding myth has Romulus and Remus set adrift on this river as infants and rescued by a she-wolf."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Atticus Finch",
         "Jay Gatsby"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Holden narrates the entire book from what he eventually admits is an institution, which colours everything he tells you."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "That Wi‑Fi is faster",
         "That a battery was replaced"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It confirms a message was opened, not that it was read or understood — which is why it settles as many arguments as it starts."
     }
   ]
 }

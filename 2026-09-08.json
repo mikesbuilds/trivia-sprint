@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer's crew completed the first circumnavigation of the globe?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Hernan Cortes",
+        "Christopher Columbus"
+      ],
+      "answerIndex": 0,
+      "fact": "He did not survive the voyage — he was killed in the Philippines, and one ship of the original five finished the circumnavigation under Elcano."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a solution with a pH below 7?",
+      "options": [
+        "Acidic",
+        "Alkaline",
+        "Basic",
+        "Neutral"
+      ],
+      "answerIndex": 0,
+      "fact": "The scale is logarithmic, so pH 3 is ten times more acidic than pH 4 and a hundred times more than pH 5."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which martial art originated in Korea and emphasizes kicking?",
+      "options": [
+        "Kung fu",
+        "Karate",
+        "Judo",
+        "Taekwondo"
+      ],
+      "answerIndex": 3,
+      "fact": "Its emphasis on high, fast kicks reflects scoring that rewards them far more heavily than hand techniques."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character riding a bicycle across the Moon?",
+      "options": [
+        "Flight of the Navigator",
+        "E.T. the Extra-Terrestrial",
+        "Close Encounters of the Third Kind",
+        "The Goonies"
+      ],
+      "answerIndex": 1,
+      "fact": "The silhouette of the bicycle against the Moon became the logo of Spielberg's production company."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea does the Danube River empty into?",
+      "options": [
+        "The Caspian Sea",
+        "The Adriatic Sea",
+        "The Black Sea",
+        "The Baltic Sea"
+      ],
+      "answerIndex": 2,
+      "fact": "The Danube passes through or borders ten countries, more than any other river in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play 'A Doll's House'?",
+      "options": [
+        "George Bernard Shaw",
+        "Henrik Ibsen",
+        "Anton Chekhov",
+        "August Strindberg"
+      ],
+      "answerIndex": 1,
+      "fact": "The ending was so controversial that he was pressured into writing an alternative in which Nora stays."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is primarily used to style web pages?",
+      "options": [
+        "HTML",
+        "XML",
+        "CSS",
+        "SQL"
+      ],
+      "answerIndex": 2,
+      "fact": "CSS separates appearance from structure, so a site can be completely restyled without touching its HTML."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire built an extensive road network centered on Cusco?",
+      "options": [
+        "The Aztec",
+        "The Inca",
+        "The Maya",
+        "The Olmec"
+      ],
+      "answerIndex": 1,
+      "fact": "The road network ran for tens of thousands of kilometres, worked by relay runners who could carry a message hundreds of miles in a day."
+    },
+    {
+      "category": "Science",
+      "prompt": "How many chambers does a human heart have?",
+      "options": [
+        "Four",
+        "Three",
+        "Six",
+        "Two"
+      ],
+      "answerIndex": 0,
+      "fact": "Two atria collect blood and two ventricles pump it out — one side to the lungs, the other to the rest of the body."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which winter sport involves sliding stones toward a target on ice?",
+      "options": [
+        "Skeleton",
+        "Luge",
+        "Curling",
+        "Bobsleigh"
+      ],
+      "answerIndex": 2,
+      "fact": "Sweepers melt a thin film of water ahead of the stone, which lets them steer it several metres after release."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed the film 'Jaws'?",
+      "options": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "George Lucas",
+        "Steven Spielberg"
+      ],
+      "answerIndex": 3,
+      "fact": "The mechanical shark broke down constantly, so he kept it off screen and suggested it with music instead. It made the film far scarier."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island is the largest in the Mediterranean Sea?",
+      "options": [
+        "Sardinia",
+        "Sicily",
+        "Cyprus",
+        "Crete"
+      ],
+      "answerIndex": 1,
+      "fact": "It holds Mount Etna, Europe's most active volcano, which erupts often enough to be part of ordinary life there."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a character called Nick Carraway?",
+      "options": [
+        "Brideshead Revisited",
+        "A Farewell to Arms",
+        "The Sun Also Rises",
+        "The Great Gatsby"
+      ],
+      "answerIndex": 3,
+      "fact": "He opens by claiming he reserves all judgements, then spends the novel judging everyone. That gap is the point."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language was created by Guido van Rossum?",
+      "options": [
+        "Python",
+        "Perl",
+        "Java",
+        "Ruby"
+      ],
+      "answerIndex": 0,
+      "fact": "Guido van Rossum named it after Monty Python's Flying Circus, not the snake."
+    }
+  ]
+}

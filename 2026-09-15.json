@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Meiji Restoration modernized which country?",
+      "options": [
+        "Japan",
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "answerIndex": 0,
+      "fact": "In a few decades it went from a largely closed feudal society to an industrial power, deliberately importing foreign expertise to do it."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of fungi called?",
+      "options": [
+        "Virology",
+        "Botany",
+        "Entomology",
+        "Mycology"
+      ],
+      "answerIndex": 3,
+      "fact": "Fungi are more closely related to animals than to plants, and the largest known organism on Earth is one."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which position in soccer is allowed to handle the ball?",
+      "options": [
+        "Goalkeeper",
+        "Striker",
+        "Midfielder",
+        "Defender"
+      ],
+      "answerIndex": 0,
+      "fact": "And only inside their own penalty area — handling it outside concedes a free kick."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director made 'Schindler's List'?",
+      "options": [
+        "Sydney Pollack",
+        "Steven Spielberg",
+        "Oliver Stone",
+        "Ron Howard"
+      ],
+      "answerIndex": 1,
+      "fact": "Spielberg refused a salary for it, calling it blood money, and used the profits to found a Holocaust testimony archive."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US mountain is the highest peak in North America?",
+      "options": [
+        "Mount Whitney",
+        "Mount Rainier",
+        "Mount Elbert",
+        "Denali"
+      ],
+      "answerIndex": 3,
+      "fact": "It rises higher above its own base than Everest does, because it starts from a far lower plain."
+    },
+    {
+      "category": "Literature",
+      "prompt": "In Greek mythology retold by Homer, who is the goddess of wisdom?",
+      "options": [
+        "Hera",
+        "Athena",
+        "Demeter",
+        "Artemis"
+      ],
+      "answerIndex": 1,
+      "fact": "She was said to have sprung fully grown and armoured from Zeus's head, and Athens is named for her."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology underpins cryptocurrencies like Bitcoin?",
+      "options": [
+        "Machine learning",
+        "Cloud storage",
+        "Blockchain",
+        "Quantum computing"
+      ],
+      "answerIndex": 2,
+      "fact": "A shared ledger in which each block references the one before, so altering an old record would mean redoing everything after it."
+    }
+  ]
+}

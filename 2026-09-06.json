@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilization developed the first known system of writing?",
+      "options": [
+        "Ancient China",
+        "Ancient Egypt",
+        "The Indus Valley",
+        "Sumer"
+      ],
+      "answerIndex": 3,
+      "fact": "Cuneiform began as accounting marks for grain and livestock. Writing was invented for bookkeeping long before it was used for literature."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood cells carry oxygen through the body?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma cells",
+        "White blood cells"
+      ],
+      "answerIndex": 0,
+      "fact": "A single one carries roughly a billion oxygen molecules, and lasts about four months before being broken down and recycled."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many rings appear on the Olympic flag?",
+      "options": [
+        "Four",
+        "Six",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 2,
+      "fact": "The rings represent the inhabited continents, and their six colours were chosen so that every national flag of the time contained at least one."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a lion cub named Simba?",
+      "options": [
+        "Tarzan",
+        "The Lion King",
+        "Madagascar",
+        "Zootopia"
+      ],
+      "answerIndex": 1,
+      "fact": "It was the studio's B project at the time — most of the sought-after animators asked to work on Pocahontas instead."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the city of Timbuktu?",
+      "options": [
+        "Mali",
+        "Chad",
+        "Niger",
+        "Senegal"
+      ],
+      "answerIndex": 0,
+      "fact": "Timbuktu was a centre of learning, with libraries of hundreds of thousands of manuscripts — many still privately held."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the fictional county of Yoknapatawpha?",
+      "options": [
+        "Eudora Welty",
+        "Carson McCullers",
+        "Flannery O'Connor",
+        "William Faulkner"
+      ],
+      "answerIndex": 3,
+      "fact": "He set most of his major novels in this invented Mississippi county, and mapped it in detail."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which mathematician is considered a founder of computer science and cryptanalysis at Bletchley Park?",
+      "options": [
+        "John von Neumann",
+        "Claude Shannon",
+        "Alan Turing",
+        "Charles Babbage"
+      ],
+      "answerIndex": 2,
+      "fact": "His work at Bletchley Park is credited with shortening the war, and he defined the theoretical machine underlying all computing."
+    }
+  ]
+}

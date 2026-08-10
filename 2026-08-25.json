@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "What was the name of the first artificial satellite launched into space?",
+      "prompt": "Who led the Bolsheviks during the October Revolution?",
       "options": [
-        "Apollo 1",
-        "Sputnik 1",
-        "Vostok 1",
-        "Explorer 1"
+        "Alexander Kerensky",
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Joseph Stalin"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He was smuggled back into Russia in a sealed train by Germany, which correctly expected him to take Russia out of the war."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Europa",
         "Ganymede"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Titan is the only moon with a thick atmosphere, and it has rivers and lakes — of liquid methane rather than water."
     },
     {
       "category": "Sports",
@@ -41,29 +43,32 @@
         "Golf",
         "Curling"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Rotation is compulsory: the side winning back the serve shifts one position clockwise, so every player must eventually play every position."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which video game series features Master Chief?",
+      "prompt": "Which Japanese company created the Mario franchise?",
       "options": [
-        "Halo",
-        "Metroid",
-        "Doom",
-        "Mass Effect"
+        "Nintendo",
+        "Sony",
+        "Sega",
+        "Konami"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The company was founded in 1889 making playing cards, and only moved into video games in the 1970s."
     },
     {
       "category": "Geography",
-      "prompt": "Which city is commonly nicknamed the Big Apple?",
+      "prompt": "Which country contains Angkor Wat?",
       "options": [
-        "Boston",
-        "New York City",
-        "Los Angeles",
-        "Chicago"
+        "Vietnam",
+        "Cambodia",
+        "Thailand",
+        "Laos"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Angkor Wat is the largest religious monument in the world, and appears on the country's national flag."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Dr. Seuss",
         "Maurice Sendak"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was written on a bet that he could not make a book from 50 or fewer distinct words. He won."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Using only your first name",
         "Posting it online"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Length matters more than symbols: each extra character multiplies the number of combinations an attacker has to try."
     }
   ]
 }

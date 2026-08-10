@@ -1,0 +1,51 @@
+name: Publish daily trivia
+
+# Keeps a rolling 30-day buffer of published day files. Because it publishes
+# ahead rather than just-in-time, a failed run costs buffer depth instead of
+# taking the app down the next morning.
+
+on:
+  schedule:
+    # 09:10 UTC daily. Off the hour because GitHub queues cron heavily on the
+    # hour, which delays runs. Comfortably before midnight in New York either
+    # side of a DST change.
+    - cron: "10 9 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Days of future coverage to maintain"
+        required: false
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-trivia
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish missing days
+        run: python3 tools/publish.py --days "${{ inputs.days || 30 }}"
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publish trivia buffer $(date -u +%Y-%m-%d)"
+          git push

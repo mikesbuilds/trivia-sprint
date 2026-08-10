@@ -19,7 +19,8 @@
         "Sarajevo",
         "Vienna"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The assassin only got his chance because the Archduke's driver took a wrong turn and stopped to reverse, directly in front of him."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Thermometer",
         "Hygrometer"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A falling barometer usually means a storm is on the way, which made it weather forecasting's first genuinely useful instrument."
     },
     {
       "category": "Sports",
@@ -41,18 +43,20 @@
         "Basketball",
         "Rugby"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "A maul forms when the ball carrier is held up but still on their feet and teammates bind on. If it goes to ground, it becomes a ruck instead."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which coffee shop is a common hangout in Friends?",
+      "prompt": "Which streaming show features a chess prodigy named Beth Harmon?",
       "options": [
-        "Central Perk",
-        "Luke's Diner",
-        "The Max",
-        "Monk's Café"
+        "The Queen's Gambit",
+        "Mindhunter",
+        "The Crown",
+        "Ozark"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Beth Harmon is invented, but the chess is real — Garry Kasparov advised on the games, which are based on actual matches."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Oregon",
         "Vermont"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Vermont's name comes from the French for green mountain, and it spent 14 years as an independent republic before joining the United States in 1791."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Amy",
         "Meg"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Alcott based Jo on herself, and only married her off because readers demanded it. She had wanted Jo to stay single."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Saved passwords",
         "Unwanted messages"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The name comes from a Monty Python sketch in which a café menu repeats the word spam until nothing else can be heard."
     }
   ]
 }

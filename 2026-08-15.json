@@ -19,7 +19,8 @@
         "Tao Te Ching",
         "Analects"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Laozi may never have existed as a single person. To many scholars the text reads like a compilation assembled over generations."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Reptiles",
         "Amphibians"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Birds sit inside this group evolutionarily — a crocodile is more closely related to a bird than it is to a lizard."
     },
     {
       "category": "Sports",
@@ -41,40 +43,44 @@
         "Surfing",
         "Sailing"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Surfing was central to Hawaiian society long before it was a sport, and it only became an Olympic event in 2021."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the fictional African nation in Black Panther?",
+      "prompt": "Which band was fronted by Freddie Mercury?",
       "options": [
-        "Genovia",
-        "Wakanda",
-        "Latveria",
-        "Zamunda"
+        "The Clash",
+        "Queen",
+        "Duran Duran",
+        "The Police"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Mercury was born Farrokh Bulsara in Zanzibar, and wrote a six-minute single with no chorus that reached number one twice."
     },
     {
       "category": "Geography",
-      "prompt": "Which river flows through Cairo?",
+      "prompt": "Which US state is composed entirely of islands?",
       "options": [
-        "Nile",
-        "Jordan",
-        "Tigris",
-        "Congo"
+        "Hawaii",
+        "Florida",
+        "Alaska",
+        "Rhode Island"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is the only US state made entirely of islands, and the only one still growing, as lava adds new land."
     },
     {
       "category": "Literature",
-      "prompt": "In 'Frankenstein,' who creates the creature?",
+      "prompt": "Who wrote 'Rebecca'?",
       "options": [
-        "Dracula",
-        "Robert Walton",
-        "Henry Clerval",
-        "Victor Frankenstein"
+        "Mary Stewart",
+        "Agatha Christie",
+        "Barbara Pym",
+        "Daphne du Maurier"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The narrator is never named. The only named woman of the house is the dead wife the book is titled after."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "ROM",
         "Blu-ray"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "RAM is wiped the moment power stops. That is why an unsaved document vanishes while a saved one survives on the drive."
     }
   ]
 }

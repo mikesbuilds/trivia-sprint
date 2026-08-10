@@ -19,18 +19,20 @@
         "Berlin",
         "Munich"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Gutenberg printed his Bible in Mainz around 1455, then lost the workshop to a lawsuit from his own investor and died with little to show for the invention."
     },
     {
       "category": "Science",
-      "prompt": "Which metal is liquid at room temperature?",
+      "prompt": "What is the term for the process of cell division producing two identical cells?",
       "options": [
-        "Mercury",
-        "Iron",
-        "Copper",
-        "Aluminum"
+        "Mitosis",
+        "Osmosis",
+        "Diffusion",
+        "Meiosis"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Ten",
         "Nine"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Nine take the field: a pitcher, a catcher, four infielders and three outfielders. A designated hitter bats without ever fielding."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Greta Gerwig",
         "Kathryn Bigelow"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Barbie made Gerwig the first solo female director of a film that passed a billion dollars at the box office."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Lake Victoria",
         "Lake Superior"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The Caspian is called a sea but is legally closer to a lake — a distinction worth billions, because sea law and lake law divide its oil very differently."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Matilda Wormwood",
         "Meg Murry"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Meg's stubbornness and impatience are treated as the very faults that save her: they are what let her resist IT and bring Charles Wallace back."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Bluetooth",
         "Zoom"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Linus Torvalds wrote Git in about ten days in 2005, after the tool Linux development relied on withdrew its free licence."
     }
   ]
 }

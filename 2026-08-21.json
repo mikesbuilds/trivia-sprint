@@ -19,7 +19,8 @@
         "Philadelphia",
         "Washington, D.C."
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It served as capital from 1789, and Washington was inaugurated there before the seat of government moved on to Philadelphia and finally to Washington."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Sulfuric acid",
         "Citric acid"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Stomach acid is strong enough to dissolve metal. The stomach survives it by replacing its own lining every few days."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Let",
         "Double fault"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "A double fault hands the point straight to the opponent, which is why second serves are almost always slower and safer."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Springfield",
         "Shelbyville"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The town was named for one of the most common place names in America, and the state is deliberately never confirmed."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Egypt?",
+      "prompt": "What is the capital of Denmark?",
       "options": [
-        "Giza",
-        "Cairo",
-        "Luxor",
-        "Alexandria"
+        "Aalborg",
+        "Copenhagen",
+        "Aarhus",
+        "Odense"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "More people commute by bicycle than by car in the city centre, on a network built deliberately over decades."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Aragorn",
         "Gandalf"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He carries the Ring but does not destroy it. At the very last moment he claims it for himself, and Gollum ends the quest by accident."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Only deleted emails",
         "Temporary copies of website files"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The cache keeps copies so a repeat visit loads faster, which is also why a page can look out of date until you force a refresh."
     }
   ]
 }

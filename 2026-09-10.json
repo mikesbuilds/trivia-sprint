@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the nonviolent Salt March in 1930?",
+      "options": [
+        "Mohandas Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "B. R. Ambedkar"
+      ],
+      "answerIndex": 0,
+      "fact": "The march protested a tax on salt — an ordinary necessity, chosen precisely because it made the injustice legible to everyone."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of the atmosphere contains the ozone layer?",
+      "options": [
+        "The mesosphere",
+        "The troposphere",
+        "The thermosphere",
+        "The stratosphere"
+      ],
+      "answerIndex": 3,
+      "fact": "It absorbs most ultraviolet light, which is why the hole found over Antarctica prompted a rare and effective global treaty."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, how many players are on a team?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Eleven",
+        "Nine"
+      ],
+      "answerIndex": 2,
+      "fact": "Eleven a side, and a match can run five days and still end in a draw."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the first Academy Award for Best Animated Feature?",
+      "options": [
+        "Shrek",
+        "Finding Nemo",
+        "Monsters, Inc.",
+        "Toy Story"
+      ],
+      "answerIndex": 0,
+      "fact": "The category was created in 2001, and it beat Monsters, Inc. to take the very first one."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake is the largest freshwater lake by surface area?",
+      "options": [
+        "Lake Victoria",
+        "Lake Baikal",
+        "Lake Superior",
+        "Lake Michigan"
+      ],
+      "answerIndex": 2,
+      "fact": "It holds enough water to cover both North and South America to a depth of about a foot."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare comedy features the fairy king Oberon?",
+      "options": [
+        "The Tempest",
+        "A Midsummer Night's Dream",
+        "Twelfth Night",
+        "The Winter's Tale"
+      ],
+      "answerIndex": 1,
+      "fact": "The play runs three plots at once — lovers, fairies and amateur actors — and ties them together over a single night."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage type has no moving parts?",
+      "options": [
+        "A floppy disk",
+        "A solid state drive",
+        "A hard disk drive",
+        "An optical drive"
+      ],
+      "answerIndex": 1,
+      "fact": "No spinning platters means no seek time, which is why it feels instant next to a mechanical drive."
+    }
+  ]
+}

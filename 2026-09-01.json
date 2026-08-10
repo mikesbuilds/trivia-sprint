@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder stood in the harbor of Alexandria?",
+      "options": [
+        "The Temple of Artemis",
+        "The Hanging Gardens",
+        "The Colossus of Rhodes",
+        "The Lighthouse of Pharos"
+      ],
+      "answerIndex": 3,
+      "fact": "It stood over 100 metres tall and survived for more than 1,600 years before earthquakes finally brought it down."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist first described the laws of planetary motion?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Tycho Brahe",
+        "Edmond Halley"
+      ],
+      "answerIndex": 1,
+      "fact": "He found that orbits are ellipses rather than circles, overturning an assumption astronomy had held for 2,000 years."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on the field for one soccer team at kickoff?",
+      "options": [
+        "Ten",
+        "Nine",
+        "Eleven",
+        "Twelve"
+      ],
+      "answerIndex": 2,
+      "fact": "Eleven a side, one of them the goalkeeper — the only player allowed to handle the ball, and only inside their own area."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line 'May the Force be with you'?",
+      "options": [
+        "Star Wars",
+        "Star Trek",
+        "Battlestar Galactica",
+        "Dune"
+      ],
+      "answerIndex": 0,
+      "fact": "The line appears in every film of the original trilogy, and the pun on 4 May is why that date became Star Wars Day."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Europe from Asia?",
+      "options": [
+        "The Urals",
+        "The Alps",
+        "The Caucasus",
+        "The Carpathians"
+      ],
+      "answerIndex": 0,
+      "fact": "This range is the conventional dividing line, which is why Russia counts as both a European and an Asian country."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Roman poet wrote the Aeneid?",
+      "options": [
+        "Homer",
+        "Virgil",
+        "Ovid",
+        "Horace"
+      ],
+      "answerIndex": 1,
+      "fact": "He asked for the poem to be burned, as he died before finishing it. Augustus overruled him."
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bits are in a byte?",
+      "options": [
+        "Sixteen",
+        "Two",
+        "Eight",
+        "Four"
+      ],
+      "answerIndex": 2,
+      "fact": "Eight bits make a byte — 256 combinations, enough to cover every character in early text encodings."
+    }
+  ]
+}

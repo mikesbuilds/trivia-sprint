@@ -19,7 +19,8 @@
         "Stanley and Livingstone",
         "Lewis and Clark"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The expedition depended on Sacagawea, whose presence with an infant signalled to the nations they met that this was not a war party."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Annular tide",
         "Lunar eclipse"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Total solar eclipses only work because the Sun is about 400 times wider than the Moon and also about 400 times further away."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Bocce",
         "Cricket"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A perfect game is 300 — twelve strikes in a row, because the tenth frame grants two extra deliveries."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Zathura",
         "Jumanji"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is set in New York's American Museum of Natural History, though most of the interiors were built as sets."
     },
     {
       "category": "Geography",
-      "prompt": "On which continent is the Atacama Desert?",
+      "prompt": "Which African country has Addis Ababa as its capital?",
       "options": [
-        "Asia",
-        "South America",
-        "Africa",
-        "Australia"
+        "Djibouti",
+        "Ethiopia",
+        "Somalia",
+        "Eritrea"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Ethiopia was never colonised, and keeps its own calendar, which runs about seven years behind the Gregorian one."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Old Dan and Little Ann",
         "Toto and Max"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The dogs hunt as a pair, and the book's title comes from a legend that a red fern only grows where something sacred is buried."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Screen wallpapers",
         "Login verification codes"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It generates a code from a shared secret and the current time, which is why the code changes every 30 seconds and works with no signal at all."
     }
   ]
 }

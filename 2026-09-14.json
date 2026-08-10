@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first Roman emperor to convert to Christianity?",
+      "options": [
+        "Diocletian",
+        "Augustus",
+        "Constantine",
+        "Nero"
+      ],
+      "answerIndex": 2,
+      "fact": "He legalised Christianity across the empire and founded Constantinople, though he was baptised only on his deathbed."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas do humans exhale in the greatest increased amount?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Helium"
+      ],
+      "answerIndex": 0,
+      "fact": "Exhaled air is still about 16% oxygen, which is the reason mouth-to-mouth resuscitation works at all."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a marathon, to the nearest mile?",
+      "options": [
+        "24 miles",
+        "20 miles",
+        "30 miles",
+        "26 miles"
+      ],
+      "answerIndex": 3,
+      "fact": "The exact distance is 26 miles 385 yards, a leftover from the 1908 London Olympics course."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who is the creator of the Marvel character Spider-Man, alongside Steve Ditko?",
+      "options": [
+        "Stan Lee",
+        "Bob Kane",
+        "Jerry Siegel",
+        "Jack Kirby"
+      ],
+      "answerIndex": 0,
+      "fact": "Spider-Man was nearly rejected: he was told teenagers could only be sidekicks and that nobody would identify with a hero who had money troubles."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which two countries share the longest international border?",
+      "options": [
+        "Russia and China",
+        "Canada and the United States",
+        "India and Bangladesh",
+        "Argentina and Chile"
+      ],
+      "answerIndex": 1,
+      "fact": "The border runs about 8,900 km including Alaska, the longest between any two countries."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'The Handmaid's Tale'?",
+      "options": [
+        "Doris Lessing",
+        "Margaret Atwood",
+        "Ursula K. Le Guin",
+        "Alice Munro"
+      ],
+      "answerIndex": 1,
+      "fact": "Her rule while writing was to include nothing that had not already happened somewhere in history."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'Wi-Fi' commonly connect devices to?",
+      "options": [
+        "A fiber optic cable directly",
+        "A satellite directly",
+        "A cellular tower only",
+        "A wireless local network"
+      ],
+      "answerIndex": 3,
+      "fact": "Wi-Fi is not short for anything. The name was invented by a branding firm because the actual technical term was unmarketable."
+    }
+  ]
+}

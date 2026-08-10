@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Apartheid was the official policy of which nation until the 1990s?",
+      "options": [
+        "South Africa",
+        "Angola",
+        "Rhodesia",
+        "Namibia"
+      ],
+      "answerIndex": 0,
+      "fact": "It was dismantled through negotiation rather than civil war, ending in the first fully democratic election in 1994."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist discovered radioactivity's polonium and radium?",
+      "options": [
+        "Ernest Rutherford",
+        "Henri Becquerel",
+        "Wilhelm Roentgen",
+        "Marie Curie"
+      ],
+      "answerIndex": 3,
+      "fact": "She is still the only person to win Nobel Prizes in two different sciences, and her notebooks remain too radioactive to handle freely."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the first modern Olympic Games?",
+      "options": [
+        "Italy",
+        "Britain",
+        "Greece",
+        "France"
+      ],
+      "answerIndex": 2,
+      "fact": "Athens hosted the first modern Games in 1896, with about 240 athletes from 14 nations."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musical features the song 'Defying Gravity'?",
+      "options": [
+        "Rent",
+        "Wicked",
+        "Hamilton",
+        "Cats"
+      ],
+      "answerIndex": 1,
+      "fact": "It retells The Wizard of Oz from the witch's side, asking how someone comes to be called wicked in the first place."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the largest country in Africa by area?",
+      "options": [
+        "Algeria",
+        "Egypt",
+        "Libya",
+        "Sudan"
+      ],
+      "answerIndex": 0,
+      "fact": "It became Africa's largest country only in 2011, when South Sudan's independence split Sudan in two."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the 'Discworld' series?",
+      "options": [
+        "Douglas Adams",
+        "Neil Gaiman",
+        "Robert Rankin",
+        "Terry Pratchett"
+      ],
+      "answerIndex": 3,
+      "fact": "He wrote more than 40 novels set on a flat world carried by four elephants standing on the back of a turtle."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program's step-by-step set of instructions?",
+      "options": [
+        "A database",
+        "An algorithm",
+        "A compiler",
+        "A protocol"
+      ],
+      "answerIndex": 1,
+      "fact": "The word comes from al-Khwarizmi, a 9th-century Persian mathematician. The title of one of his books gave us algebra."
+    }
+  ]
+}

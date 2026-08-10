@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Hadrian's Wall was built across which modern country?",
+      "options": [
+        "France",
+        "Spain",
+        "England",
+        "Germany"
+      ],
+      "answerIndex": 2,
+      "fact": "The wall marked the northern limit of Roman Britain, running about 73 miles from coast to coast."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the speed of light in a vacuum, approximately?",
+      "options": [
+        "300,000 km per hour",
+        "30,000 km per second",
+        "3,000 km per second",
+        "300,000 km per second"
+      ],
+      "answerIndex": 3,
+      "fact": "Nothing with mass can reach it. That limit is why distant stars are seen as they were, not as they are."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a touchdown worth in American football?",
+      "options": [
+        "Five",
+        "Three",
+        "Seven",
+        "Six"
+      ],
+      "answerIndex": 3,
+      "fact": "Six for the touchdown, then a kick for one more point or a play from scrimmage for two."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who played the title role in the 1990 film 'Edward Scissorhands'?",
+      "options": [
+        "Johnny Depp",
+        "Brad Pitt",
+        "Keanu Reeves",
+        "Tom Cruise"
+      ],
+      "answerIndex": 0,
+      "fact": "Tim Burton cast him against the studio's preference, beginning a collaboration that ran across decades."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates Europe from Africa at its narrowest point?",
+      "options": [
+        "The Strait of Gibraltar",
+        "The Bering Strait",
+        "The Bosphorus",
+        "The Strait of Hormuz"
+      ],
+      "answerIndex": 0,
+      "fact": "At its narrowest the strait is about 13 km across — Europe and Africa are within sight of one another."
+    },
+    {
+      "category": "Literature",
+      "prompt": "In 'The Great Gatsby', what color is the light at the end of Daisy's dock?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "White"
+      ],
+      "answerIndex": 1,
+      "fact": "The green light is the novel's central image: he reaches for something already gone, mistaking it for something ahead."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for malicious software designed to extort payment?",
+      "options": [
+        "Spyware",
+        "Adware",
+        "Ransomware",
+        "Firmware"
+      ],
+      "answerIndex": 2,
+      "fact": "It encrypts your files and sells you the key. Backups are the only reliable defence, because paying does not guarantee their return."
+    }
+  ]
+}

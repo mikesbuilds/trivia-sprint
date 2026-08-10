@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was known for its hanging gardens?",
+      "options": [
+        "Persepolis",
+        "Nineveh",
+        "Babylon",
+        "Ur"
+      ],
+      "answerIndex": 2,
+      "fact": "No archaeological trace of the gardens has been found there, and some historians place them at Nineveh instead."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest known type of star by volume?",
+      "options": [
+        "A hypergiant",
+        "A brown dwarf",
+        "A neutron star",
+        "A white dwarf"
+      ],
+      "answerIndex": 0,
+      "fact": "The largest known stars are so vast that, placed where the Sun is, their surface would reach past the orbit of Jupiter."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a volleyball team on court?",
+      "options": [
+        "Eight",
+        "Six",
+        "Seven",
+        "Five"
+      ],
+      "answerIndex": 1,
+      "fact": "Six on court, rotating one position each time the side wins back the serve."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which rapper released the album 'The Marshall Mathers LP'?",
+      "options": [
+        "Dr. Dre",
+        "Nas",
+        "Eminem",
+        "Jay-Z"
+      ],
+      "answerIndex": 2,
+      "fact": "It made him one of the fastest-selling artists in US history and remains among the best-selling rap records ever made."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has no permanent human residents?",
+      "options": [
+        "Africa",
+        "Antarctica",
+        "South America",
+        "Australia"
+      ],
+      "answerIndex": 1,
+      "fact": "It has research staff who rotate through, but no permanent residents and no government of its own — it is run by treaty."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Wuthering Heights'?",
+      "options": [
+        "Charlotte Bronte",
+        "Elizabeth Gaskell",
+        "Anne Bronte",
+        "Emily Bronte"
+      ],
+      "answerIndex": 3,
+      "fact": "It was published under the pen name Ellis Bell, and she died the following year, aged 30."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SQL' primarily manage?",
+      "options": [
+        "Image compression",
+        "Web page layout",
+        "Network routing",
+        "Relational databases"
+      ],
+      "answerIndex": 3,
+      "fact": "It queries tables that relate to one another through shared keys, a model set out in a 1970 paper and still dominant today."
+    }
+  ]
+}

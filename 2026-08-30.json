@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which empire was centered on the city of Cusco?",
+      "prompt": "Which US state was purchased from Russia in 1867?",
       "options": [
-        "Aztec Empire",
-        "Olmec civilization",
-        "Maya Empire",
-        "Inca Empire"
+        "Washington",
+        "Hawaii",
+        "Oregon",
+        "Alaska"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The purchase was mocked as Seward's Folly until gold, and later oil, were found there."
     },
     {
       "category": "Science",
@@ -30,18 +31,20 @@
         "Tendons",
         "Alveoli"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "They are classified by how far they move: the skull's are fused solid, while the shoulder trades stability for the widest range in the body."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport is played on a diamond-shaped field?",
+      "prompt": "Which sport is Muhammad Ali associated with?",
       "options": [
-        "Soccer",
-        "Baseball",
-        "Tennis",
-        "Rugby"
+        "Martial arts",
+        "Boxing",
+        "Wrestling",
+        "Track and field"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Ali refused the Vietnam draft and was stripped of his title, losing three years at his physical peak before winning it back."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Yogi Bear",
         "Winnie-the-Pooh"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The Hundred Acre Wood is based on Ashdown Forest in Sussex, where Milne's son played."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Torres Strait",
         "Cook Strait"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The strait is narrow but notoriously rough, at the point where the Tasman Sea and the Pacific meet."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "A school contest",
         "A missing spaceship"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The whole game is the will: sixteen heirs are paired off and handed fragments of a clue, and the puzzle is what the will is really asking."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Viewing and changing data",
         "Only charging a phone"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Read alone lets you look. Read/write lets you change it — which is why granting it casually is how accidents happen."
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who commanded the Carthaginian army that crossed the Alps with elephants?",
+      "options": [
+        "Hasdrubal",
+        "Scipio",
+        "Hannibal",
+        "Hamilcar"
+      ],
+      "answerIndex": 2,
+      "fact": "He crossed the Alps with war elephants and beat Rome repeatedly in Italy, yet never took the city itself."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the middle layer of Earth's atmosphere where meteors burn up?",
+      "options": [
+        "The exosphere",
+        "The mesosphere",
+        "The stratosphere",
+        "The troposphere"
+      ],
+      "answerIndex": 1,
+      "fact": "Meteors burn up here because the air is thin enough to reach but dense enough to create fierce friction."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, how many minutes does a professional round last?",
+      "options": [
+        "Four",
+        "Two",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 3,
+      "fact": "Three minutes with a minute's rest between, up to twelve rounds for a championship bout."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film's poster tagline was 'In space no one can hear you scream'?",
+      "options": [
+        "Gravity",
+        "Interstellar",
+        "2001: A Space Odyssey",
+        "Alien"
+      ],
+      "answerIndex": 3,
+      "fact": "The tagline sold the film's entire premise in seven words, and is regularly voted among the best ever written."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which bay lies between India and Myanmar?",
+      "options": [
+        "The Gulf of Thailand",
+        "The Bay of Bengal",
+        "The Arabian Sea",
+        "The Andaman Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the largest bay in the world, and the cyclones that form there are among the deadliest ever recorded."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet penned 'Do not go gentle into that good night'?",
+      "options": [
+        "Dylan Thomas",
+        "Seamus Heaney",
+        "W. B. Yeats",
+        "Philip Larkin"
+      ],
+      "answerIndex": 0,
+      "fact": "He wrote it as his father was dying — a villanelle, a strict form whose repeated lines make it sound like an argument he cannot let go of."
+    },
+    {
+      "category": "Technology",
+      "prompt": "How many bytes are in a kilobyte, by the common binary definition?",
+      "options": [
+        "1024",
+        "512",
+        "1000",
+        "2048"
+      ],
+      "answerIndex": 0,
+      "fact": "1024 is two to the tenth. Drive manufacturers use 1,000 instead, which is why a new drive always looks smaller than advertised."
+    }
+  ]
+}

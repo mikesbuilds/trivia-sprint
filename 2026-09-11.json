@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which treaty established the European Economic Community in 1957?",
+      "options": [
+        "The Treaty of Lisbon",
+        "The Treaty of Rome",
+        "The Treaty of Paris",
+        "The Maastricht Treaty"
+      ],
+      "answerIndex": 1,
+      "fact": "Six countries signed it, and the community they created grew into the European Union."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the time a planet takes to orbit its star once?",
+      "options": [
+        "A year",
+        "A day",
+        "A month",
+        "An epoch"
+      ],
+      "answerIndex": 0,
+      "fact": "It is defined by the orbit, not the calendar — which is why a leap day is added roughly every four years to keep the two in step."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which race is known as the Run for the Roses?",
+      "options": [
+        "The Preakness Stakes",
+        "The Grand National",
+        "The Belmont Stakes",
+        "The Kentucky Derby"
+      ],
+      "answerIndex": 3,
+      "fact": "The winner is draped in a blanket of roses, over a mile and a quarter."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band performed 'Bohemian Rhapsody'?",
+      "options": [
+        "Led Zeppelin",
+        "The Eagles",
+        "Queen",
+        "Fleetwood Mac"
+      ],
+      "answerIndex": 2,
+      "fact": "It has no chorus, runs nearly six minutes, and the label insisted it was far too long for radio. It reached number one twice."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the southern tip of mainland South America?",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Argentina",
+        "Chile"
+      ],
+      "answerIndex": 3,
+      "fact": "It stretches over 4,000 km north to south while averaging under 200 km wide."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Crime and Punishment'?",
+      "options": [
+        "Nikolai Gogol",
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev"
+      ],
+      "answerIndex": 1,
+      "fact": "He had been sentenced to death and reprieved at the last moment, an experience that runs through all his later work."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the most widely used operating system kernel on servers?",
+      "options": [
+        "Linux",
+        "Solaris",
+        "Windows NT",
+        "BSD"
+      ],
+      "answerIndex": 0,
+      "fact": "It runs most of the world's servers and, through Android, most of its phones — while remaining free to use and modify."
+    }
+  ]
+}

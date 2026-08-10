@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone was key to deciphering which writing system?",
+      "options": [
+        "Egyptian hieroglyphs",
+        "Linear B",
+        "Sumerian cuneiform",
+        "Mayan glyphs"
+      ],
+      "answerIndex": 0,
+      "fact": "The stone repeats the same decree in three scripts, so scholars who could read the Greek were able to work backwards into the hieroglyphs."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an object in space orbiting a planet?",
+      "options": [
+        "A comet",
+        "A meteor",
+        "A satellite",
+        "An asteroid"
+      ],
+      "answerIndex": 2,
+      "fact": "Natural or artificial — the Moon counts too. The first artificial one, Sputnik 1, launched in 1957."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many innings are in a standard professional baseball game?",
+      "options": [
+        "Ten",
+        "Seven",
+        "Nine",
+        "Six"
+      ],
+      "answerIndex": 2,
+      "fact": "Nine innings and no clock, which is why a game has no fixed length and can run into extra innings."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features a yellow family living in Springfield?",
+      "options": [
+        "Bob's Burgers",
+        "Family Guy",
+        "King of the Hill",
+        "The Simpsons"
+      ],
+      "answerIndex": 3,
+      "fact": "The family was drawn in minutes as filler shorts for another programme before being given a series of their own."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known for the fjords along its western coast?",
+      "options": [
+        "Scotland",
+        "Norway",
+        "Denmark",
+        "Iceland"
+      ],
+      "answerIndex": 1,
+      "fact": "Fjords were carved by glaciers, and these are deep enough that cruise ships sail miles inland between the cliffs."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'Robinson Crusoe'?",
+      "options": [
+        "Daniel Defoe",
+        "Samuel Richardson",
+        "Jonathan Swift",
+        "Henry Fielding"
+      ],
+      "answerIndex": 0,
+      "fact": "Defoe drew on the real castaway Alexander Selkirk, marooned alone on a Pacific island for over four years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Who is credited with inventing the World Wide Web?",
+      "options": [
+        "Alan Turing",
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Bill Gates"
+      ],
+      "answerIndex": 1,
+      "fact": "He built it at CERN and gave the technology away for free, which is the main reason the web spread as fast as it did."
+    }
+  ]
+}

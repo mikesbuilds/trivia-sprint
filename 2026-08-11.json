@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who led the Soviet Union during the Cuban Missile Crisis?",
+      "prompt": "Which conflict involved the Battle of Gettysburg?",
       "options": [
-        "Joseph Stalin",
-        "Leonid Brezhnev",
-        "Nikita Khrushchev",
-        "Mikhail Gorbachev"
+        "The Revolutionary War",
+        "The War of 1812",
+        "The American Civil War",
+        "The Mexican-American War"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was the war's bloodiest battle and its turning point. Lincoln's address there four months later ran barely two minutes."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Liter",
         "Newton"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "One hertz is one cycle per second, named for Heinrich Hertz — who proved radio waves exist and then said he could see no practical use for them."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Mark Spitz only",
         "Michael Phelps"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Phelps finished with 23 golds and 28 medals overall, more Olympic golds than most competing nations have won in their entire history."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Mr. Krabs",
         "Squidward"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Patrick is a starfish. Creator Stephen Hillenburg taught marine biology before he was an animator, and most of Bikini Bottom's cast are real sea creatures."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Sarajevo",
         "Zagreb"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Zagreb grew out of two rival hilltop settlements, Gradec and Kaptol, which spent centuries feuding before finally merging into one city."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Gabriel",
         "Jonas"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Jonas is chosen at the Ceremony of Twelve. The role is called the most honoured in the community because he alone is allowed to feel what everyone else gave up."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Resize a monitor",
         "Request information from a database"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "A query asks a database a question. SQL, the language most people ask it in, dates from the 1970s and still runs much of the world's business data."
     }
   ]
 }

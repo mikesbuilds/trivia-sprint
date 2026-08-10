@@ -19,7 +19,8 @@
         "Normans",
         "Phoenicians"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Their alphabet is the ancestor of Greek, Latin and most alphabets in use today — spread by traders rather than by conquest."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Methane",
         "Hydrogen"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The oxygen is a waste product. Plants are after the carbon, and nearly all of a tree's mass comes from air rather than from soil."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Weightlifting",
         "Track and field"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Vaulters clear over six metres using poles that store and return energy. The switch from bamboo to fibreglass transformed the event."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Cookies",
         "Carrots"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A. A. Milne wrote Pooh for his son Christopher Robin, whose toy bear was named after a real bear at London Zoo called Winnie."
     },
     {
       "category": "Geography",
-      "prompt": "Which ocean lies west of North and South America?",
+      "prompt": "Which country is the most populous in Africa?",
       "options": [
-        "Arctic Ocean",
-        "Atlantic Ocean",
-        "Pacific Ocean",
-        "Indian Ocean"
+        "Egypt",
+        "South Africa",
+        "Nigeria",
+        "Ethiopia"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It has more people than any other African country, and more than 500 languages are spoken within its borders."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Blackbeard",
         "Long John Silver"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Stevenson modelled him on a one-legged friend, and the character largely invented the pirate clichés we now take for granted."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Equals sign",
         "Dollar sign only"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It tells the spreadsheet to calculate rather than store text. Leave it off and the formula is just a string of characters."
     }
   ]
 }

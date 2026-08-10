@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Ottoman Empire captured Constantinople in which year?",
+      "options": [
+        "1571",
+        "1683",
+        "1204",
+        "1453"
+      ],
+      "answerIndex": 3,
+      "fact": "The city's fall ended the last continuous remnant of the Roman Empire, a thousand years after the west collapsed."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which branch of science studies earthquakes?",
+      "options": [
+        "Hydrology",
+        "Seismology",
+        "Volcanology",
+        "Meteorology"
+      ],
+      "answerIndex": 1,
+      "fact": "Earth's interior was mapped using earthquake waves — the core was discovered by noticing where waves failed to arrive."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the Super Bowl?",
+      "options": [
+        "The Commissioner's Trophy",
+        "The Larry O'Brien Trophy",
+        "The Heisman Trophy",
+        "The Vince Lombardi Trophy"
+      ],
+      "answerIndex": 3,
+      "fact": "Named for the coach who won the first two Super Bowls, and made by hand each year as a silver football on a stand."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar film features a rat who wants to be a chef?",
+      "options": [
+        "WALL-E",
+        "Up",
+        "Ratatouille",
+        "Cars"
+      ],
+      "answerIndex": 2,
+      "fact": "The title dish was designed by a real chef, who reworked a rustic vegetable stew into something that would startle a critic."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is entirely within the Arabian Peninsula and borders only Saudi Arabia?",
+      "options": [
+        "Qatar",
+        "Bahrain",
+        "Kuwait",
+        "Oman"
+      ],
+      "answerIndex": 0,
+      "fact": "It is a peninsula with a single land border, and holds some of the largest natural gas reserves in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a whale hunt led by Captain Ahab?",
+      "options": [
+        "Typee",
+        "Moby-Dick",
+        "Two Years Before the Mast",
+        "The Sea-Wolf"
+      ],
+      "answerIndex": 1,
+      "fact": "It sold poorly in Melville's lifetime and only became a classic decades after his death."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Java programming language?",
+      "options": [
+        "Microsoft",
+        "IBM",
+        "Sun Microsystems",
+        "Netscape"
+      ],
+      "answerIndex": 2,
+      "fact": "It was designed to run anywhere through a virtual machine — write once, run anywhere. Oracle acquired the company in 2010."
+    }
+  ]
+}

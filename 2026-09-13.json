@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the longest-reigning monarch in British history?",
+      "options": [
+        "Victoria",
+        "George III",
+        "Elizabeth II",
+        "Henry VIII"
+      ],
+      "answerIndex": 2,
+      "fact": "She reigned for over 70 years, passing Victoria's record in 2015."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal that eats only plants?",
+      "options": [
+        "A carnivore",
+        "An omnivore",
+        "A scavenger",
+        "A herbivore"
+      ],
+      "answerIndex": 3,
+      "fact": "They need long digestive systems or several stomachs, because the cellulose in plants is so hard to break down."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which cycling race is the most prestigious Grand Tour?",
+      "options": [
+        "Paris-Roubaix",
+        "The Vuelta a Espana",
+        "The Giro d'Italia",
+        "The Tour de France"
+      ],
+      "answerIndex": 3,
+      "fact": "About 3,500 km over three weeks. The leader's yellow jersey matched the newsprint of the paper that founded the race."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features the character Ellen Ripley?",
+      "options": [
+        "RoboCop",
+        "Alien",
+        "Terminator",
+        "Predator"
+      ],
+      "answerIndex": 1,
+      "fact": "Ripley was written without a specified gender, and casting a woman as the sole survivor broke the convention of the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the longest coastline in the world?",
+      "options": [
+        "Canada",
+        "Indonesia",
+        "Australia",
+        "Russia"
+      ],
+      "answerIndex": 0,
+      "fact": "Its coastline runs over 200,000 km, mostly around Arctic islands — longer than the next several countries put together."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Don Quixote'?",
+      "options": [
+        "Miguel de Cervantes",
+        "Federico Garcia Lorca",
+        "Calderon de la Barca",
+        "Lope de Vega"
+      ],
+      "answerIndex": 0,
+      "fact": "Often called the first modern novel. The second part was written partly to spite an impostor's unauthorised sequel."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language runs natively in web browsers?",
+      "options": [
+        "Swift",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "answerIndex": 2,
+      "fact": "It was written in about ten days in 1995 and named to ride the popularity of Java, to which it is unrelated."
+    }
+  ]
+}

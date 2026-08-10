@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document did King John seal at Runnymede in 1215?",
+      "options": [
+        "Magna Carta",
+        "The Domesday Book",
+        "The Bill of Rights",
+        "The Petition of Right"
+      ],
+      "answerIndex": 0,
+      "fact": "It was annulled by the Pope within ten weeks. Its lasting power came from later reissues, not from the original sealing at Runnymede."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest naturally occurring mineral?",
+      "options": [
+        "Quartz",
+        "Corundum",
+        "Diamond",
+        "Topaz"
+      ],
+      "answerIndex": 2,
+      "fact": "Diamond and graphite are both pure carbon. The entire difference is in how the atoms are arranged."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many quarters are in a professional basketball game?",
+      "options": [
+        "Five",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "answerIndex": 3,
+      "fact": "Four quarters of 12 minutes in the NBA. College basketball uses two halves instead."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom is set in a Boston bar where everybody knows your name?",
+      "options": [
+        "Night Court",
+        "Cheers",
+        "Frasier",
+        "Taxi"
+      ],
+      "answerIndex": 1,
+      "fact": "The bar was based on a real Boston pub, which still trades on the association decades later."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the deepest ocean trench on Earth?",
+      "options": [
+        "The Mariana Trench",
+        "The Java Trench",
+        "The Tonga Trench",
+        "The Puerto Rico Trench"
+      ],
+      "answerIndex": 0,
+      "fact": "Its deepest point is nearly 11 km down, deeper than Everest is tall."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Canterbury Tales'?",
+      "options": [
+        "William Langland",
+        "Geoffrey Chaucer",
+        "Thomas Malory",
+        "John Milton"
+      ],
+      "answerIndex": 1,
+      "fact": "He wrote in English when serious literature was expected to be in Latin or French, which helped establish English as a literary language."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes the delay between an action and its response over a network?",
+      "options": [
+        "Throughput",
+        "Jitter",
+        "Bandwidth",
+        "Latency"
+      ],
+      "answerIndex": 3,
+      "fact": "Bandwidth is how much can flow; this is how long the first bit takes. A satellite link can have huge bandwidth and still feel slow."
+    }
+  ]
+}

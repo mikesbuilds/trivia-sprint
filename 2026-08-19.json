@@ -19,18 +19,20 @@
         "Kublai Khan",
         "Sun Yat-sen"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The army was found in 1974 by farmers digging a well, and no two of the roughly 8,000 soldiers share the same face."
     },
     {
       "category": "Science",
-      "prompt": "Which layer of Earth lies directly beneath the crust?",
+      "prompt": "What is the term for the tiny blood vessels connecting arteries and veins?",
       "options": [
-        "Atmosphere",
-        "Mantle",
-        "Outer core",
-        "Inner core"
+        "Venules",
+        "Capillaries",
+        "Ventricles",
+        "Arterioles"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "They are about one red blood cell wide, so cells pass through in single file to exchange oxygen."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Cricket",
         "Polo"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Lacrosse was played by Indigenous nations across North America long before Europeans arrived, sometimes with hundreds of players and games lasting days."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Serenity",
         "Enterprise"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "TARDIS stands for Time And Relative Dimension In Space. It is stuck as a police box because the disguise circuit broke in 1963 and was never repaired."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "India",
         "Bangladesh"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Jaipur was painted pink to welcome a royal visit in 1876, and buildings in the old city are still required by law to stay that colour."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Death",
         "Max"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Death narrates, and admits early on to being haunted by humans rather than the other way round."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Keyboard height",
         "Speaker volume"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "A firewall decides which traffic may pass. The name comes from the solid walls built into buildings to stop fire spreading between sections."
     }
   ]
 }

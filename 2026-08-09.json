@@ -19,7 +19,8 @@
         "Haiti",
         "Barbados"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Haiti's revolt was the only slave uprising in history to found an independent state. France then demanded reparations for its lost 'property', which Haiti paid off in 1947."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Meiosis",
         "Osmosis"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Mitosis copies a cell into two identical ones. Meiosis is the other kind, and it halves the chromosomes to make egg and sperm cells."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Conversion",
         "Free throw"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The conversion is worth two extra points and must be taken in line with where the try was grounded, so scoring nearer the posts makes the kick far easier."
     },
     {
       "category": "Pop Culture",
@@ -52,18 +55,20 @@
         "Charmander",
         "Pikachu"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Clefairy was the original pick to front the anime. Pikachu got the job instead, largely because it appealed to boys and girls alike."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Turkey?",
+      "prompt": "What is the capital of Indonesia?",
       "options": [
-        "Izmir",
-        "Istanbul",
-        "Ankara",
-        "Bursa"
+        "Medan",
+        "Bandung",
+        "Jakarta",
+        "Surabaya"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Jakarta is sinking — parts of it by over 10 cm a year — which is why Indonesia is building a new capital, Nusantara, on Borneo."
     },
     {
       "category": "Literature",
@@ -74,18 +79,20 @@
         "Rat",
         "Goose"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Charlotte is a barn spider, and E. B. White gave her the full Latin honour: Charlotte A. Cavatica, after the species Araneus cavaticus."
     },
     {
       "category": "Technology",
-      "prompt": "What is one binary digit called?",
+      "prompt": "Which company created the Photoshop image editor?",
       "options": [
-        "Pixel",
-        "Bytecode",
-        "Query",
-        "Bit"
+        "Corel",
+        "Autodesk",
+        "Serif",
+        "Adobe"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Photoshop was written by two brothers, one of whom worked at Industrial Light & Magic. Adobe licensed it in 1988."
     }
   ]
 }

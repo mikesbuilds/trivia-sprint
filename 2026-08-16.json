@@ -12,14 +12,15 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "prompt": "Which explorer is credited with reaching India by sea from Europe in 1498?",
       "options": [
-        "Bessie Coleman",
-        "Amelia Earhart",
-        "Harriet Quimby",
-        "Sally Ride"
+        "Bartolomeu Dias",
+        "Vasco da Gama",
+        "Amerigo Vespucci",
+        "Christopher Columbus"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "His sea route round Africa broke the overland spice monopoly and redirected European trade for centuries."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Ocean salt",
         "The Moon's gravity"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The Moon pulls the ocean into a bulge on the near side, and an equal one on the far side — which is why most coasts get two high tides a day."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Curling",
         "Snooker"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "A snooker table holds 15 reds and six colours. A maximum break of 147 means potting them in a near-perfect alternating sequence."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Sonic the Hedgehog",
         "Halo"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Hyrule's landscape came from creator Shigeru Miyamoto's childhood memories of exploring caves and hillsides near Kyoto."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Sri Lanka",
         "Malta"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Iceland straddles the boundary between two tectonic plates, which is why it has so many volcanoes and heats almost all its buildings geothermally."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "12 Grimmauld Place",
         "221B Baker Street"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "No 221B existed when Conan Doyle invented it. The address later became real enough that a bank had to employ someone to answer Holmes's mail."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Improving screen color",
         "Compressing and packaging files"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "A ZIP shrinks files by replacing repeated patterns with shorter references, which is why text compresses dramatically and photos barely compress at all."
     }
   ]
 }
