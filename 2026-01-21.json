@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-21",
+  "date": "2026-01-21",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who was the British prime minister for much of World War II, famous for speeches about resilience?",
+      "prompt": "Hannibal famously crossed the Alps to attack which power?",
       "options": [
-        "Neville Chamberlain",
-        "Winston Churchill",
-        "Clement Attlee",
-        "Harold Macmillan"
+        "Gaul",
+        "Greece",
+        "Egypt",
+        "Rome"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "He won nearly every battle in Italy for fifteen years and still lost the war, because he could never take the city itself."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for animals that maintain a constant internal body temperature?",
+      "prompt": "Which scientist left gaps in his table to predict elements not yet discovered?",
       "options": [
-        "Ectotherms",
-        "Endotherms",
-        "Amphibians",
-        "Invertebrates"
+        "John Dalton",
+        "Robert Boyle",
+        "Dmitri Mendeleev",
+        "Antoine Lavoisier"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "He predicted the properties of gallium and germanium years before anyone found them, and the measurements came back close to his numbers."
     },
     {
       "category": "Sports",
-      "prompt": "How many players are on the court for one team in standard basketball?",
+      "prompt": "Which boxer was universally known as The Greatest?",
       "options": [
-        "4",
-        "5",
-        "6",
-        "7"
+        "Muhammad Ali",
+        "Joe Frazier",
+        "Sugar Ray Robinson",
+        "Rocky Marciano"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "He was stripped of his title and banned from boxing for over three years at the peak of his career, then came back and regained it."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer released the album '25' featuring the hit 'Hello'?",
+      "prompt": "Which musician was known as the King of Rock and Roll?",
       "options": [
-        "Taylor Swift",
-        "Adele",
-        "Beyoncé",
-        "Rihanna"
+        "Little Richard",
+        "Buddy Holly",
+        "Chuck Berry",
+        "Elvis Presley"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "He never performed a full concert outside North America, despite being one of the most globally recognised performers of his era."
     },
     {
       "category": "Geography",
-      "prompt": "Which country has the city of Marrakech?",
+      "prompt": "Which country's name comes from the Spanish word for equator?",
       "options": [
-        "Morocco",
-        "Egypt",
-        "Turkey",
-        "Greece"
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Bolivia"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "Because the planet bulges at the equator, its highest peak's summit is the furthest point from the centre of the Earth."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "prompt": "In Hamlet, who murders the prince's father?",
       "options": [
-        "Jane Austen",
-        "Mary Shelley",
-        "Emily Brontë",
-        "Louisa May Alcott"
+        "Horatio",
+        "Polonius",
+        "Claudius",
+        "Laertes"
       ],
-      "answerIndex": 0
+      "answerIndex": 2,
+      "fact": "At roughly 4,000 lines it is Shakespeare's longest play, and is rarely performed uncut."
     },
     {
       "category": "Technology",
-      "prompt": "In cybersecurity, what does '2FA' stand for?",
+      "prompt": "Who co-founded Apple alongside Steve Jobs?",
       "options": [
-        "Two-Factor Authentication",
-        "Two-File Access",
-        "Second Firewall Activation",
-        "Two-Frequency Alignment"
+        "Steve Wozniak",
+        "Andy Grove",
+        "Bill Gates",
+        "Paul Allen"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "A third founder sold his 10 percent stake for 800 dollars less than two weeks in."
     }
   ]
 }

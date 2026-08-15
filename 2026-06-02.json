@@ -1,1 +1,98 @@
-test
+{
+  "date": "2026-06-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
+      "options": [
+        "Tutankhamun",
+        "Ramesses II",
+        "Akhenaten",
+        "Khufu"
+      ],
+      "answerIndex": 0,
+      "fact": "He was a minor pharaoh who died around eighteen. The tomb mattered because it was small and easily overlooked, which is why robbers largely missed it."
+    },
+    {
+      "category": "Science",
+      "prompt": "How long does light from the Sun take to reach Earth?",
+      "options": [
+        "About 8 minutes",
+        "About 80 minutes",
+        "About 8 seconds",
+        "About 8 hours"
+      ],
+      "answerIndex": 0,
+      "fact": "So you never see the Sun as it is, only as it was eight minutes ago. For the next nearest star, the delay is over four years."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many periods are in a standard ice hockey game?",
+      "options": [
+        "Four",
+        "Two",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 3,
+      "fact": "The three-period format was adopted partly so the ice could be resurfaced twice, which visibly improves play in the later stages."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed 'Pulp Fiction'?",
+      "options": [
+        "David Fincher",
+        "Robert Rodriguez",
+        "Quentin Tarantino",
+        "Guy Ritchie"
+      ],
+      "answerIndex": 2,
+      "fact": "He wrote much of it while working in a video rental shop, where he had watched an enormous number of films on the job."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which body of water separates Alaska from Russia?",
+      "options": [
+        "The Davis Strait",
+        "The Bering Strait",
+        "The Hudson Strait",
+        "The Denmark Strait"
+      ],
+      "answerIndex": 1,
+      "fact": "Two islands sit in the middle of it on opposite sides of the date line, roughly four kilometres and almost a full day apart."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "options": [
+        "Bram Stoker",
+        "Robert Louis Stevenson",
+        "Henry James",
+        "Oscar Wilde"
+      ],
+      "answerIndex": 3,
+      "fact": "A magazine editor cut passages before publication without telling him, and the toned-down version was still attacked as immoral."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is phishing?",
+      "options": [
+        "A type of encryption",
+        "A scam that tricks users into revealing information",
+        "A file compression method",
+        "A network speed test"
+      ],
+      "answerIndex": 1,
+      "fact": "The unusual spelling traces back to phone phreaking, an earlier culture of exploring and exploiting telephone systems."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-26",
+  "date": "2026-01-26",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which U.S. amendment abolished slavery?",
+      "prompt": "Which civilisation built the stepped pyramid at Chichén Itzá?",
       "options": [
-        "10th",
-        "13th",
-        "14th",
-        "15th"
+        "Zapotec",
+        "Toltec",
+        "Maya",
+        "Inca"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "On the equinoxes, light and shadow along the staircase produce the shape of a serpent descending the pyramid."
     },
     {
       "category": "Science",
-      "prompt": "What is the approximate speed of light in a vacuum?",
+      "prompt": "What is a substance that speeds up a reaction without being consumed called?",
       "options": [
-        "300,000 km/s",
-        "150,000 km/s",
-        "30,000 km/s",
-        "3,000 km/s"
+        "Reagent",
+        "Catalyst",
+        "Isotope",
+        "Solvent"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "Nearly every chemical process in your body depends on them. Biological versions are called enzymes."
     },
     {
       "category": "Sports",
-      "prompt": "In soccer, what is the name of the rule that can nullify a goal if an attacker is too far forward?",
+      "prompt": "Which events make up a triathlon in order?",
       "options": [
-        "Handball",
-        "Offside",
-        "Advantage",
-        "Stoppage time"
+        "Swim, run, cycle",
+        "Swim, cycle, run",
+        "Cycle, run, swim",
+        "Run, cycle, swim"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Swimming goes first for safety. Exhausted swimmers in open water are far more dangerous than exhausted runners on land."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In the Marvel universe, what is Captain America’s shield primarily made of?",
+      "prompt": "Which fashion house did Coco Chanel found?",
       "options": [
-        "Adamantium",
-        "Vibranium",
-        "Titanium",
-        "Carbon fiber"
+        "Chanel",
+        "Balenciaga",
+        "Dior",
+        "Givenchy"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "She started as a hat maker. The move into clothing came from using jersey fabric, then considered suitable only for underwear."
     },
     {
       "category": "Geography",
-      "prompt": "Which desert covers much of northern China and southern Mongolia?",
+      "prompt": "Which is the highest uninterrupted waterfall in the world?",
       "options": [
-        "Gobi Desert",
-        "Atacama Desert",
-        "Kalahari Desert",
-        "Mojave Desert"
+        "Iguazu Falls",
+        "Niagara Falls",
+        "Angel Falls",
+        "Victoria Falls"
       ],
-      "answerIndex": 0
+      "answerIndex": 2,
+      "fact": "It is so tall that in the dry season much of the water evaporates or blows away before reaching the bottom."
     },
     {
       "category": "Literature",
-      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "prompt": "Which novel opens with a dream of a house called Manderley?",
       "options": [
-        "Macbeth",
-        "Hamlet",
-        "Othello",
-        "King Lear"
+        "Rebecca",
+        "The Turn of the Screw",
+        "Wuthering Heights",
+        "Northanger Abbey"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "The narrator is never given a first name anywhere in the book, a detail most readers only notice on reflection."
     },
     {
       "category": "Technology",
-      "prompt": "Which programming language is primarily used for iOS app development alongside Objective-C?",
+      "prompt": "Which company created the Game Boy?",
       "options": [
-        "Swift",
-        "Ruby",
-        "Go",
-        "Lua"
+        "Sega",
+        "Sony",
+        "Atari",
+        "Nintendo"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "Its screen was deliberately low-tech so the batteries would last, and it outsold more powerful colour rivals for years."
     }
   ]
 }

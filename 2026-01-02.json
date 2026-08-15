@@ -1,91 +1,98 @@
 {
   "date": "2026-01-02",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The ancient Olympic Games originated in which country?",
+      "category": "History",
+      "prompt": "Who became the first person to travel into space?",
       "options": [
-        "Italy",
-        "Greece",
-        "Egypt",
-        "Persia"
+        "John Glenn",
+        "Yuri Gagarin",
+        "Alan Shepard",
+        "Valentina Tereshkova"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The flight lasted 108 minutes, and he was later barred from further missions because he had become too valuable to risk."
     },
     {
       "category": "Science",
-      "prompt": "DNA is best described as a molecule that stores what?",
+      "prompt": "Which plant tissue carries water upward from the roots?",
       "options": [
-        "Weather patterns",
-        "Genetic information",
-        "Muscle strength",
-        "Light energy"
+        "Phloem",
+        "Cortex",
+        "Xylem",
+        "Cambium"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the name of the line of latitude at 0 degrees?",
-      "options": [
-        "Prime Meridian",
-        "Tropic of Cancer",
-        "Equator",
-        "International Date Line"
-      ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "There is no pump involved. Water is pulled up by evaporation from the leaves, a chain that can hold together over a hundred metres."
     },
     {
       "category": "Sports",
-      "prompt": "Which country is credited with inventing modern ice hockey?",
+      "prompt": "How long is an Olympic-standard swimming pool?",
       "options": [
-        "Sweden",
-        "Canada",
-        "Russia",
-        "United States"
+        "100 metres",
+        "50 metres",
+        "25 metres",
+        "75 metres"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Deeper pools produce faster times, because depth reduces the turbulence bouncing back up at the swimmers."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer is known for the 2014 hit 'Shake It Off'?",
+      "prompt": "Which film is set on the moon Pandora?",
       "options": [
-        "Adele",
-        "Taylor Swift",
-        "Beyoncé",
-        "Rihanna"
+        "Avatar",
+        "Dune",
+        "Elysium",
+        "Prometheus"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Its director waited years to make it, saying the technology needed to film it convincingly did not yet exist."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Central American country abolished its standing army in 1948?",
+      "options": [
+        "Belize",
+        "Panama",
+        "Costa Rica",
+        "Honduras"
+      ],
+      "answerIndex": 2,
+      "fact": "The military budget was redirected largely into education and healthcare, and the policy has held for over seventy-five years."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Raven'?",
+      "prompt": "Which Dickens novel features the convict Magwitch?",
       "options": [
-        "Edgar Allan Poe",
-        "Robert Frost",
-        "Walt Whitman",
-        "Langston Hughes"
+        "Hard Times",
+        "Bleak House",
+        "Oliver Twist",
+        "Great Expectations"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "Dickens rewrote the ending after a friend objected, replacing a bleaker original with something more hopeful."
     },
     {
-      "category": "Math",
-      "prompt": "What is 9 × 8?",
+      "category": "Technology",
+      "prompt": "Which company publishes the Ubuntu operating system?",
       "options": [
-        "64",
-        "72",
-        "81",
-        "96"
+        "Oracle",
+        "SUSE",
+        "Red Hat",
+        "Canonical"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The name comes from a southern African concept usually translated as humanity toward others."
     }
   ]
 }

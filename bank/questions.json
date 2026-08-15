@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which body of water separates Alaska from Russia?",
-      "options": [
-        "The Bering Strait",
-        "The Hudson Strait",
-        "The Davis Strait",
-        "The Denmark Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country has the most volcanoes?",
       "options": [
         "Indonesia",
@@ -104,18 +92,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
-      "options": [
-        "Tutankhamun",
-        "Ramesses II",
-        "Akhenaten",
-        "Khufu"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -374,18 +350,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
-      "options": [
-        "Oscar Wilde",
-        "Bram Stoker",
-        "Robert Louis Stevenson",
-        "Henry James"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which epic poem describes the fall of Troy from a Roman perspective?",
       "options": [
         "The Aeneid",
@@ -572,18 +536,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Who directed 'Pulp Fiction'?",
-      "options": [
-        "Quentin Tarantino",
-        "Robert Rodriguez",
-        "David Fincher",
-        "Guy Ritchie"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -902,18 +854,6 @@
     },
     {
       "category": "Science",
-      "prompt": "How long does light from the Sun take to reach Earth?",
-      "options": [
-        "About 8 minutes",
-        "About 8 seconds",
-        "About 8 hours",
-        "About 80 minutes"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which element makes up the majority of the Sun's mass?",
       "options": [
         "Hydrogen",
@@ -1118,18 +1058,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "How many periods are in a standard ice hockey game?",
-      "options": [
-        "Three",
-        "Four",
-        "Two",
-        "Five"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which athlete is nicknamed the Lightning Bolt?",
       "options": [
         "Usain Bolt",
@@ -1328,18 +1256,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is phishing?",
-      "options": [
-        "A scam that tricks users into revealing information",
-        "A network speed test",
-        "A file compression method",
-        "A type of encryption"
       ],
       "answerIndex": 0,
       "source": "curated"

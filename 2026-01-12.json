@@ -1,91 +1,98 @@
 {
   "date": "2026-01-12",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The first successful printing press in Europe is most associated with which inventor?",
+      "category": "History",
+      "prompt": "Which royal dynasty was overthrown in the Russian Revolution of 1917?",
       "options": [
-        "Isaac Newton",
-        "Johannes Gutenberg",
-        "Leonardo da Vinci",
-        "Galileo Galilei"
+        "The Habsburgs",
+        "The Romanovs",
+        "The Hohenzollerns",
+        "The Bourbons"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "They had ruled for just over three hundred years when the last tsar abdicated."
     },
     {
       "category": "Science",
-      "prompt": "A change in an organism’s DNA sequence is called a what?",
+      "prompt": "Which scientist developed the first widely used polio vaccine?",
       "options": [
-        "Mutation",
-        "Fermentation",
-        "Diffusion",
-        "Osmosis"
+        "Albert Sabin",
+        "Edward Jenner",
+        "Jonas Salk",
+        "Paul Ehrlich"
       ],
-      "answerIndex": 0
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which city is famously built on canals and known as 'The Floating City'?",
-      "options": [
-        "Amsterdam",
-        "Bruges",
-        "Venice",
-        "Stockholm"
-      ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He declined to patent it, and when asked who owned it replied that the people did, comparing it to owning the Sun."
     },
     {
       "category": "Sports",
-      "prompt": "In track, how many meters is a standard outdoor lap around the track?",
+      "prompt": "Which annual cycling race is the oldest of the sport's three grand tours?",
       "options": [
-        "200",
-        "300",
-        "400",
-        "800"
+        "Paris-Roubaix",
+        "Giro d'Italia",
+        "Tour de France",
+        "Vuelta a España"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was invented in 1903 purely as a circulation stunt by a struggling newspaper, and it worked spectacularly."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which character says 'I am your father' in Star Wars (as commonly quoted)?",
+      "prompt": "Which musical by Lin-Manuel Miranda tells the story of a US founding father?",
       "options": [
-        "Yoda",
-        "Darth Vader",
-        "Obi-Wan Kenobi",
-        "Luke Skywalker"
+        "Rent",
+        "Hamilton",
+        "In the Heights",
+        "Come From Away"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He began writing it after picking up a biography to read on holiday, expecting it to be a relaxing beach book."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country is almost entirely enclosed by Senegal?",
+      "options": [
+        "The Gambia",
+        "Sierra Leone",
+        "Guinea-Bissau",
+        "Togo"
+      ],
+      "answerIndex": 0,
+      "fact": "Its borders follow a river, and the country is barely fifty kilometres wide at its broadest point."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the characters Piggy and Ralph on a deserted island?",
+      "prompt": "Which ancient epic follows a Mesopotamian king and his companion Enkidu?",
       "options": [
-        "Lord of the Flies",
-        "Animal Farm",
-        "The Road",
-        "Dune"
+        "The Aeneid",
+        "The Ramayana",
+        "The Mahabharata",
+        "The Epic of Gilgamesh"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "It survives on clay tablets and includes a flood narrative that predates the biblical version by centuries."
     },
     {
-      "category": "Math",
-      "prompt": "What is the median of the numbers 3, 9, 9, 10, 12?",
+      "category": "Technology",
+      "prompt": "Which machine was built at Bletchley Park to break German codes?",
       "options": [
-        "9",
-        "9.5",
-        "10",
-        "12"
+        "ENIAC",
+        "Z3",
+        "UNIVAC",
+        "Colossus"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "Most of them were dismantled after the war and the work stayed secret for decades, so its designers received no public credit at the time."
     }
   ]
 }

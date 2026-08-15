@@ -1,91 +1,98 @@
 {
   "date": "2026-01-05",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The French Revolution began in 1789 with the storming of which prison-fortress?",
+      "category": "History",
+      "prompt": "Which 1815 battle ended Napoleon's rule?",
       "options": [
-        "The Bastille",
-        "The Tower of London",
-        "Alcatraz",
-        "The Kremlin"
+        "Waterloo",
+        "Borodino",
+        "Leipzig",
+        "Austerlitz"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was decided in a single day, and contemporaries noted how close the outcome was for most of the afternoon."
     },
     {
       "category": "Science",
-      "prompt": "What is the approximate pH of a neutral solution at room temperature?",
+      "prompt": "What are animals without a backbone collectively called?",
       "options": [
-        "0",
-        "7",
-        "10",
-        "14"
+        "Arthropods",
+        "Invertebrates",
+        "Amphibians",
+        "Vertebrates"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is both an island and a continent?",
-      "options": [
-        "Greenland",
-        "Iceland",
-        "Australia",
-        "Madagascar"
-      ],
-      "answerIndex": 2
+      "answerIndex": 1,
+      "fact": "They account for roughly 95 percent of all known animal species, with beetles alone making up a startling share of that."
     },
     {
       "category": "Sports",
-      "prompt": "In volleyball, how many touches maximum may a team have before sending the ball over the net?",
+      "prompt": "In cricket, what is a batter dismissed without scoring called?",
       "options": [
-        "2",
-        "3",
-        "4",
-        "5"
+        "A blank",
+        "A goose",
+        "A duck",
+        "A nought"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The term comes from the resemblance between a zero on the scoreboard and a duck's egg."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which video game franchise includes the characters Link and Princess Zelda?",
+      "prompt": "Which comedian voiced Donkey in the Shrek films?",
       "options": [
-        "Final Fantasy",
-        "The Legend of Zelda",
-        "Halo",
-        "Minecraft"
+        "Eddie Murphy",
+        "Chris Tucker",
+        "Martin Lawrence",
+        "Chris Rock"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "He recorded his lines separately from the other leads, which is common in animation and often surprises audiences."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which body of water lies between Great Britain and Ireland?",
+      "options": [
+        "The North Sea",
+        "The Celtic Sea",
+        "The English Channel",
+        "The Irish Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "At its narrowest the crossing is around 20 kilometres, and on clear days each coast is plainly visible from the other."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Catcher in the Rye'?",
+      "prompt": "Which Japanese poetic form has three lines of five, seven, and five syllables?",
       "options": [
-        "J.R.R. Tolkien",
-        "J.D. Salinger",
-        "Ernest Hemingway",
-        "Mark Twain"
+        "Tanka",
+        "Sonnet",
+        "Haiku",
+        "Renga"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Traditional examples nearly always reference a season, often through a single conventional word."
     },
     {
-      "category": "Math",
-      "prompt": "Convert 0.75 to a fraction in simplest form.",
+      "category": "Technology",
+      "prompt": "Which company develops the Photoshop image editing software?",
       "options": [
-        "1/2",
-        "2/3",
-        "3/4",
-        "4/5"
+        "Serif",
+        "Corel",
+        "Autodesk",
+        "Adobe"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "It was written by two brothers, one of whom went on to work in visual effects at Industrial Light and Magic."
     }
   ]
 }

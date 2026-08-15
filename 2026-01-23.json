@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-23",
+  "date": "2026-01-23",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The 'Black Death' reached Europe in the 14th century and was primarily what disease?",
+      "prompt": "Which conference of 1884 to 1885 carved up Africa among European powers?",
       "options": [
-        "Smallpox",
-        "Bubonic plague",
-        "Cholera",
-        "Typhus"
+        "The Yalta Conference",
+        "The Congress of Vienna",
+        "The Berlin Conference",
+        "The Hague Convention"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "No African representatives attended. Many of the resulting straight-line borders are still in place today."
     },
     {
       "category": "Science",
-      "prompt": "What kind of bond involves the sharing of electron pairs between atoms?",
+      "prompt": "Which force binds protons and neutrons inside an atomic nucleus?",
       "options": [
-        "Ionic bond",
-        "Covalent bond",
-        "Hydrogen bond",
-        "Metallic bond"
+        "Electromagnetism",
+        "The weak nuclear force",
+        "The strong nuclear force",
+        "Gravity"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "It is the strongest of the four fundamental forces but acts only across distances about the width of a nucleus."
     },
     {
       "category": "Sports",
-      "prompt": "Which Grand Slam tennis tournament is played on clay courts?",
+      "prompt": "Which country is the birthplace of sumo wrestling?",
       "options": [
-        "Wimbledon",
-        "US Open",
-        "Australian Open",
-        "French Open"
+        "Mongolia",
+        "Korea",
+        "China",
+        "Japan"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Many of its rituals come from Shinto practice, which is why salt is thrown into the ring before bouts."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which sitcom is set in a New York City coffee shop called Central Perk?",
+      "prompt": "Which reggae artist recorded No Woman, No Cry?",
       "options": [
-        "Seinfeld",
-        "Friends",
-        "How I Met Your Mother",
-        "The Office"
+        "Bob Marley",
+        "Toots Hibbert",
+        "Peter Tosh",
+        "Jimmy Cliff"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "The songwriting credit went to a friend who ran a Kingston soup kitchen, reportedly so the royalties would keep it running."
     },
     {
       "category": "Geography",
-      "prompt": "Which sea separates Europe from Africa?",
+      "prompt": "Which archipelago nation is made up of more than 7,000 islands?",
       "options": [
-        "Black Sea",
-        "Red Sea",
-        "Mediterranean Sea",
-        "Caspian Sea"
+        "The Philippines",
+        "Vanuatu",
+        "The Maldives",
+        "Fiji"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "Only around 2,000 of them are inhabited, and several hundred still do not have official names."
     },
     {
       "category": "Literature",
-      "prompt": "Which author created the world of Narnia?",
+      "prompt": "Which term describes a story with a hidden moral or political meaning?",
       "options": [
-        "J.R.R. Tolkien",
-        "C.S. Lewis",
-        "Roald Dahl",
-        "E.B. White"
+        "Pastiche",
+        "Allegory",
+        "Satire",
+        "Parody"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Writers under censorship have relied on it heavily, since a story about animals or islands can say what a direct essay cannot."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'GPU' stand for?",
+      "prompt": "What does DNS do on the internet?",
       "options": [
-        "General Processing Utility",
-        "Graphics Processing Unit",
-        "Graphical Program Unit",
-        "Grid Processing Unit"
+        "Compresses images",
+        "Translates domain names to IP addresses",
+        "Encrypts traffic",
+        "Routes email"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Without it the web would still work, but you would have to remember a string of numbers for every site you visit."
     }
   ]
 }

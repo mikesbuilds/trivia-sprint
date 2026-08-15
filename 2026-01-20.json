@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-20",
+  "date": "2026-01-20",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 CE?",
+      "prompt": "Who led the revolution that made Haiti independent?",
       "options": [
-        "Carthage",
-        "Pompeii",
-        "Athens",
-        "Troy"
+        "Bernardo O'Higgins",
+        "Simón Bolívar",
+        "Toussaint Louverture",
+        "José Martí"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "It remains the only slave uprising in history that produced a lasting independent state."
     },
     {
       "category": "Science",
-      "prompt": "What is the most abundant element in the Sun?",
+      "prompt": "What is absolute zero on the Celsius scale?",
       "options": [
-        "Oxygen",
-        "Helium",
-        "Hydrogen",
-        "Carbon"
+        "-100 degrees",
+        "-273.15 degrees",
+        "-459.67 degrees",
+        "0 degrees"
       ],
-      "answerIndex": 2
+      "answerIndex": 1,
+      "fact": "It can be approached but never reached. Laboratories have got within a billionth of a degree and no closer."
     },
     {
       "category": "Sports",
-      "prompt": "In Olympic swimming, what stroke is NOT part of the individual medley?",
+      "prompt": "How many players from one team are on a rugby union field at kickoff?",
       "options": [
-        "Butterfly",
-        "Backstroke",
-        "Breaststroke",
-        "Freestyle"
+        "Fifteen",
+        "Seventeen",
+        "Eleven",
+        "Thirteen"
       ],
-      "answerIndex": 3
+      "answerIndex": 0,
+      "fact": "Rugby league split away partly over this. It dropped to thirteen a side to make the game faster and more open."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which movie features the characters Buzz Lightyear and Woody?",
+      "prompt": "Which awards honour achievement in American television?",
       "options": [
-        "Shrek",
-        "Toy Story",
-        "Cars",
-        "Finding Nemo"
+        "The Emmys",
+        "The Obies",
+        "The Grammys",
+        "The Tonys"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Winning one in all four major American entertainment award categories is known as an EGOT, and fewer than twenty people have done it."
     },
     {
       "category": "Geography",
-      "prompt": "Which U.S. state is home to the Grand Canyon?",
+      "prompt": "Which country is nicknamed the Land of Fire and Ice?",
       "options": [
-        "Utah",
-        "Arizona",
-        "Colorado",
-        "Nevada"
+        "Finland",
+        "Iceland",
+        "Norway",
+        "Greenland"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It sits on the boundary of two tectonic plates, which are pulling apart at roughly the rate fingernails grow."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features a monster created by Victor Frankenstein?",
+      "prompt": "Which literary device gives human qualities to objects or animals?",
       "options": [
-        "Dracula",
-        "Frankenstein",
-        "The Invisible Man",
-        "The Strange Case of Dr Jekyll and Mr Hyde"
+        "Allegory",
+        "Hyperbole",
+        "Personification",
+        "Simile"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Fables depend on it almost entirely, which is why talking animals feel natural in stories aimed at teaching a lesson."
     },
     {
       "category": "Technology",
-      "prompt": "What is the name of the version-control system created by Linus Torvalds?",
+      "prompt": "Which operating system kernel did Linus Torvalds create?",
       "options": [
-        "Subversion",
-        "Mercurial",
-        "Git",
-        "Perforce"
+        "Unix",
+        "BSD",
+        "Minix",
+        "Linux"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "He announced it as a hobby project that would not be big and professional, and it now runs most of the world's servers."
     }
   ]
 }

@@ -1,91 +1,98 @@
 {
   "date": "2026-01-03",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which U.S. purchase in 1803 doubled the nation’s size by acquiring territory from France?",
+      "category": "History",
+      "prompt": "Which US constitutional amendment abolished slavery?",
       "options": [
-        "Gadsden Purchase",
-        "Louisiana Purchase",
-        "Alaska Purchase",
-        "Treaty of Guadalupe Hidalgo"
+        "The Fifteenth",
+        "The Thirteenth",
+        "The Tenth",
+        "The Nineteenth"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It passed in 1865, though the last state to formally ratify it did not complete the paperwork until 2013."
     },
     {
       "category": "Science",
-      "prompt": "What is the process by which liquid water becomes water vapor?",
+      "prompt": "Which astronomer published the heliocentric model in 1543?",
       "options": [
-        "Condensation",
-        "Evaporation",
-        "Precipitation",
-        "Sublimation"
+        "Galileo Galilei",
+        "Tycho Brahe",
+        "Nicolaus Copernicus",
+        "Ptolemy"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which European river runs through Vienna, Bratislava, Budapest, and Belgrade?",
-      "options": [
-        "Rhine",
-        "Danube",
-        "Seine",
-        "Thames"
-      ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The book appeared in the year he died, which some historians think spared him the controversy that later engulfed Galileo."
     },
     {
       "category": "Sports",
-      "prompt": "In American football, how many yards is a standard first down distance?",
+      "prompt": "Which country has won the most Olympic gold medals in total?",
       "options": [
-        "5",
-        "10",
-        "15",
-        "20"
+        "China",
+        "The United States",
+        "Russia",
+        "Germany"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Its tally is helped by swimming and athletics, which award far more medals than most other sports on the programme."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In Marvel, what is the name of Thor’s hammer?",
+      "prompt": "Which British band released the album OK Computer?",
       "options": [
-        "Gungnir",
-        "Mjolnir",
-        "Stormbreaker",
-        "Excalibur"
+        "Radiohead",
+        "Blur",
+        "Pulp",
+        "Oasis"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Much of it was recorded in a historic country mansion, with the band setting up in different rooms for different sounds."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is traditionally known as the Eternal City?",
+      "options": [
+        "Athens",
+        "Jerusalem",
+        "Istanbul",
+        "Rome"
+      ],
+      "answerIndex": 3,
+      "fact": "It contains an entire sovereign state within its boundaries, which no other city in the world can claim."
     },
     {
       "category": "Literature",
-      "prompt": "In 'To Kill a Mockingbird', who is the lawyer defending Tom Robinson?",
+      "prompt": "Which literary device repeats initial consonant sounds in nearby words?",
       "options": [
-        "Atticus Finch",
-        "Jay Gatsby",
-        "Huckleberry Finn",
-        "Holden Caulfield"
+        "Alliteration",
+        "Metonymy",
+        "Onomatopoeia",
+        "Assonance"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Old English poetry used it structurally rather than decoratively, taking the place that rhyme holds in later verse."
     },
     {
-      "category": "Math",
-      "prompt": "If a dozen eggs cost $3, how much do 2 dozen eggs cost?",
+      "category": "Technology",
+      "prompt": "Which technology underlies cryptocurrencies such as Bitcoin?",
       "options": [
-        "$3",
-        "$4",
-        "$6",
-        "$9"
+        "Federated learning",
+        "Containerisation",
+        "Blockchain",
+        "Torrenting"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The design solves the problem of agreeing on a shared record without anyone in charge, which is harder than the cryptography involved."
     }
   ]
 }

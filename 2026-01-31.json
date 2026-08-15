@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-31",
+  "date": "2026-01-31",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which leader is associated with the nonviolent movement for Indian independence and the Salt March?",
+      "prompt": "Which ancient library was the largest of the classical world?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Muhammad Ali Jinnah"
+        "Library of Nineveh",
+        "Library of Pergamum",
+        "Library of Alexandria",
+        "Library of Celsus"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "There was no single dramatic fire. It declined over centuries through budget cuts, neglect, and repeated damage."
     },
     {
       "category": "Science",
-      "prompt": "What is the largest organ in the human body?",
+      "prompt": "What are the four bases that make up DNA commonly abbreviated as?",
       "options": [
-        "Liver",
-        "Skin",
-        "Lung",
-        "Brain"
+        "A, T, C, G",
+        "A, B, C, D",
+        "X, Y, Z, W",
+        "P, Q, R, S"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "The full human sequence runs to about three billion of these pairs, and any two people match across roughly 99.9 percent of them."
     },
     {
       "category": "Sports",
-      "prompt": "In track and field, the decathlon consists of how many events?",
+      "prompt": "How many players are on the field per side in association football?",
       "options": [
-        "8",
-        "9",
-        "10",
-        "12"
+        "Nine",
+        "Ten",
+        "Twelve",
+        "Eleven"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "Goalkeepers were not required to wear a distinguishing colour until 1909, before which telling them apart was genuinely difficult."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which reality competition show features contestants singing while judges critique performances?",
+      "prompt": "Which South Korean group released the English-language single Dynamite?",
       "options": [
-        "Survivor",
-        "The Voice",
-        "Amazing Race",
-        "Top Chef"
+        "Blackpink",
+        "Twice",
+        "Stray Kids",
+        "BTS"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It was their first single recorded entirely in English, released during a year when touring was impossible."
     },
     {
       "category": "Geography",
-      "prompt": "Which U.S. state is nicknamed the 'Land of 10,000 Lakes'?",
+      "prompt": "Which country officially spans the most time zones?",
       "options": [
-        "Michigan",
-        "Minnesota",
-        "Wisconsin",
-        "Alaska"
+        "China",
+        "The United States",
+        "France",
+        "Russia"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Counting its overseas territories it covers twelve, more than Russia. China, despite its width, uses only one."
     },
     {
       "category": "Literature",
-      "prompt": "In 'The Odyssey,' who is the hero trying to return home to Ithaca?",
+      "prompt": "Who wrote the dystopian novel featuring the Thought Police?",
       "options": [
-        "Achilles",
-        "Odysseus",
-        "Hector",
-        "Perseus"
+        "Yevgeny Zamyatin",
+        "George Orwell",
+        "Anthony Burgess",
+        "Philip K. Dick"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He finished it while seriously ill on a remote Scottish island, typing the final draft himself in bed."
     },
     {
       "category": "Technology",
-      "prompt": "Which device converts an analog signal (like sound) into digital data for a computer?",
+      "prompt": "Which social network was launched from a Harvard dorm room in 2004?",
       "options": [
-        "DAC",
-        "ADC",
-        "GPU",
-        "PSU"
+        "Twitter",
+        "Facebook",
+        "LinkedIn",
+        "MySpace"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It required a university email address for its first two years, which is much of why it spread campus by campus."
     }
   ]
 }

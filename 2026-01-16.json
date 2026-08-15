@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Peace of Westphalia in 1648 ended which conflict?",
+      "options": [
+        "The War of the Roses",
+        "The Crimean War",
+        "The Thirty Years' War",
+        "The Seven Years' War"
+      ],
+      "answerIndex": 2,
+      "fact": "Historians often date the modern idea of state sovereignty to this settlement, which is why it turns up in international law courses."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the strongest winds ever measured in the solar system?",
+      "options": [
+        "Saturn",
+        "Neptune",
+        "Venus",
+        "Jupiter"
+      ],
+      "answerIndex": 1,
+      "fact": "Winds there approach 2,000 km/h, which is strange given it receives roughly a thousandth of the sunlight Earth does."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which colour jersey is worn by the overall leader of the Tour de France?",
+      "options": [
+        "White",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "answerIndex": 3,
+      "fact": "The colour was chosen to match the yellow newsprint of L'Auto, the newspaper that created the race to sell more copies."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which album is the best-selling of all time?",
+      "options": [
+        "Thriller",
+        "Rumours",
+        "The Dark Side of the Moon",
+        "Back in Black"
+      ],
+      "answerIndex": 0,
+      "fact": "Its title track's video ran fourteen minutes, long enough that it was screened in cinemas to qualify for an Academy Award."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest desert in the world?",
+      "options": [
+        "The Sahara",
+        "The Gobi",
+        "The Antarctic Desert",
+        "The Arabian Desert"
+      ],
+      "answerIndex": 2,
+      "fact": "Deserts are defined by how little precipitation they receive, not by heat, which is why the coldest place on Earth qualifies."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Greek playwright wrote Antigone?",
+      "options": [
+        "Sophocles",
+        "Euripides",
+        "Aristophanes",
+        "Aeschylus"
+      ],
+      "answerIndex": 0,
+      "fact": "He wrote well over a hundred plays and only seven survive complete, which is roughly the survival rate for Greek drama overall."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym VR stand for in computing?",
+      "options": [
+        "Visual Response",
+        "Virtual Reality",
+        "Variable Rendering",
+        "Vector Resolution"
+      ],
+      "answerIndex": 1,
+      "fact": "Working head-mounted displays date to the 1960s. One early rig was so heavy it had to be suspended from the ceiling."
+    }
+  ]
+}

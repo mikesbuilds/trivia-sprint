@@ -1,91 +1,98 @@
 {
   "date": "2026-01-04",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Who was the leader of India’s nonviolent independence movement known for the Salt March?",
+      "category": "History",
+      "prompt": "Which Roman general crossed the Rubicon in 49 BC?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Indira Gandhi"
+        "Pompey",
+        "Julius Caesar",
+        "Mark Antony",
+        "Sulla"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Bringing an army across that river counted as declaring war on Rome itself, which is why the phrase still means a decision you cannot undo."
     },
     {
       "category": "Science",
-      "prompt": "Which blood cells are primarily responsible for fighting infection?",
+      "prompt": "Which organ stores bile produced by the liver?",
       "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma cells"
+        "Gallbladder",
+        "Pancreas",
+        "Spleen",
+        "Appendix"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which U.S. state is known as the 'Land of 10,000 Lakes'?",
-      "options": [
-        "Michigan",
-        "Minnesota",
-        "Wisconsin",
-        "Alaska"
-      ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "It can be removed entirely with few lasting effects, since bile simply flows into the intestine continuously instead."
     },
     {
       "category": "Sports",
-      "prompt": "Which Olympic sport features épée, foil, and sabre?",
+      "prompt": "Which sport is contested in a velodrome?",
       "options": [
-        "Archery",
-        "Fencing",
+        "Motorcycling",
         "Rowing",
-        "Gymnastics"
+        "Track cycling",
+        "Speed skating"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The banking on the steepest bends reaches around 45 degrees, too steep for a rider to remain upright while stationary."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which TV show features the characters Ross, Rachel, Monica, Chandler, Joey, and Phoebe?",
+      "prompt": "Which quiz show made the phrase phone a friend famous?",
       "options": [
-        "Friends",
-        "The Office",
-        "How I Met Your Mother",
-        "Parks and Recreation"
+        "Jeopardy",
+        "Who Wants to Be a Millionaire",
+        "Family Feud",
+        "The Weakest Link"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "The format has been licensed to well over a hundred countries, making it one of television's most exported formats."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the largest population in Africa?",
+      "options": [
+        "Nigeria",
+        "Egypt",
+        "South Africa",
+        "Ethiopia"
+      ],
+      "answerIndex": 0,
+      "fact": "More than five hundred languages are spoken within its borders, one of the highest counts of any country on Earth."
     },
     {
       "category": "Literature",
-      "prompt": "Which series features a wardrobe that leads to another world?",
+      "prompt": "Which novel opens with the words It was the best of times?",
       "options": [
-        "His Dark Materials",
-        "The Chronicles of Narnia",
-        "Percy Jackson",
-        "The Wheel of Time"
+        "Vanity Fair",
+        "Middlemarch",
+        "Bleak House",
+        "A Tale of Two Cities"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "That opening sentence runs to well over a hundred words before it reaches a full stop."
     },
     {
-      "category": "Math",
-      "prompt": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+      "category": "Technology",
+      "prompt": "Which wireless standard is used for short-range device pairing?",
       "options": [
-        "24",
-        "30",
-        "32",
-        "34"
+        "LoRa",
+        "NFC",
+        "Zigbee",
+        "Bluetooth"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "It is named after a tenth-century Danish king, and its logo combines the runes for his initials."
     }
   ]
 }

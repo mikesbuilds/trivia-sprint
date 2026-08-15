@@ -1,91 +1,98 @@
 {
   "date": "2026-01-14",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The 'Domesday Book' was compiled in 1086 under which English king?",
+      "category": "History",
+      "prompt": "Which Chinese admiral led vast treasure fleets in the early 1400s?",
       "options": [
-        "Henry VIII",
-        "William the Conqueror",
-        "Richard I",
-        "Edward I"
+        "Sun Tzu",
+        "Zhang Qian",
+        "Zheng He",
+        "Li Shimin"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "His largest ships dwarfed anything in contemporary Europe. The voyages were halted by imperial decree and the fleet left to rot."
     },
     {
       "category": "Science",
-      "prompt": "The study of earthquakes is called what?",
+      "prompt": "Which process turns a gas directly into a solid without passing through liquid?",
       "options": [
-        "Seismology",
-        "Ecology",
-        "Astronomy",
-        "Entomology"
+        "Condensation",
+        "Deposition",
+        "Sublimation",
+        "Fusion"
       ],
-      "answerIndex": 0
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which U.S. national park is primarily known for geysers like Old Faithful?",
-      "options": [
-        "Yosemite",
-        "Grand Canyon",
-        "Yellowstone",
-        "Zion"
-      ],
-      "answerIndex": 2
+      "answerIndex": 1,
+      "fact": "Frost forms this way. Water vapour becomes ice on a cold surface without ever pooling as liquid first."
     },
     {
       "category": "Sports",
-      "prompt": "In baseball, how many outs are in a half-inning?",
+      "prompt": "Which city hosted the first modern Olympic Games in 1896?",
       "options": [
-        "2",
-        "3",
-        "4",
-        "5"
+        "Athens",
+        "London",
+        "Paris",
+        "Rome"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Winners received silver medals, not gold. The gold-silver-bronze arrangement only settled in from 1904."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which sitcom is set in Pawnee, Indiana and stars Leslie Knope?",
+      "prompt": "Which horror film franchise features the character Michael Myers?",
       "options": [
-        "Brooklyn Nine-Nine",
-        "Parks and Recreation",
-        "Modern Family",
-        "Community"
+        "Scream",
+        "A Nightmare on Elm Street",
+        "Friday the 13th",
+        "Halloween"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The mask was a cheap Star Trek Captain Kirk mask, bought for under two dollars and painted white by the crew."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Moroccan city is known for its large historic medina and souks?",
+      "options": [
+        "Casablanca",
+        "Rabat",
+        "Tangier",
+        "Marrakesh"
+      ],
+      "answerIndex": 3,
+      "fact": "The old walled quarter is largely closed to cars, and its street layout has changed remarkably little in eight centuries."
     },
     {
       "category": "Literature",
-      "prompt": "In 'Frankenstein', who is the scientist who creates the creature?",
+      "prompt": "Which Jane Austen novel centres on a matchmaker named Emma Woodhouse?",
       "options": [
-        "Victor Frankenstein",
-        "Dr. Jekyll",
-        "Dr. Moreau",
-        "Van Helsing"
+        "Mansfield Park",
+        "Emma",
+        "Persuasion",
+        "Sense and Sensibility"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "Austen reportedly said she was taking on a heroine whom no one but herself would much like."
     },
     {
-      "category": "Math",
-      "prompt": "What is 5 factorial (5!)?",
+      "category": "Technology",
+      "prompt": "Which company manufactures the majority of the world's most advanced chips?",
       "options": [
-        "60",
-        "90",
-        "100",
-        "120"
+        "GlobalFoundries",
+        "Micron",
+        "TSMC",
+        "Samsung"
       ],
-      "answerIndex": 3
+      "answerIndex": 2,
+      "fact": "It builds chips designed by other companies rather than selling its own, a model that barely existed before it proved it could work."
     }
   ]
 }

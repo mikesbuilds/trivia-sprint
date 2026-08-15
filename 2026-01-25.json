@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-25",
+  "date": "2026-01-25",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "What was the name of the first artificial Earth satellite launched in 1957?",
+      "prompt": "Peter the Great founded which city as a new capital?",
       "options": [
-        "Explorer 1",
-        "Vostok 1",
-        "Sputnik 1",
-        "Luna 2"
+        "St Petersburg",
+        "Odesa",
+        "Novgorod",
+        "Kyiv"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "It was built on marshland at enormous human cost, largely because he wanted a port facing Europe rather than inland Moscow."
     },
     {
       "category": "Science",
-      "prompt": "Which organelle packages and ships proteins within the cell?",
+      "prompt": "Which naturalist independently arrived at natural selection alongside Darwin?",
       "options": [
-        "Chloroplast",
-        "Golgi apparatus",
-        "Lysosome",
-        "Vacuole"
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel",
+        "Alfred Russel Wallace",
+        "Thomas Huxley"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "His essay arriving in the post is what finally pushed Darwin, who had sat on the idea for twenty years, into publishing."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport uses a 'puck' instead of a ball?",
+      "prompt": "The Kentucky Derby is a race in which sport?",
       "options": [
-        "Field hockey",
-        "Ice hockey",
-        "Lacrosse",
-        "Rugby"
+        "Motor racing",
+        "Cycling",
+        "Horse racing",
+        "Sled dog racing"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "It is nicknamed the most exciting two minutes in sport, because that is roughly how long the race actually lasts."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which band is known for the song 'Smells Like Teen Spirit'?",
+      "prompt": "Which actor played Wolverine across nearly two decades of films?",
       "options": [
-        "Nirvana",
-        "Pearl Jam",
-        "Radiohead",
-        "Green Day"
+        "Chris Hemsworth",
+        "Ryan Reynolds",
+        "Jason Momoa",
+        "Hugh Jackman"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "He was cast only weeks into filming after the original actor dropped out, and had not read the comics beforehand."
     },
     {
       "category": "Geography",
-      "prompt": "Which country’s capital is Stockholm?",
+      "prompt": "Which country was formerly known as Ceylon?",
       "options": [
-        "Norway",
-        "Sweden",
-        "Finland",
-        "Denmark"
+        "Thailand",
+        "Bangladesh",
+        "Myanmar",
+        "Sri Lanka"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The name change came in 1972, though the old name survives commercially on tea packaging to this day."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Great Gatsby'?",
+      "prompt": "Which epic poem follows Odysseus on his journey home?",
       "options": [
-        "F. Scott Fitzgerald",
-        "Mark Twain",
-        "Virginia Woolf",
-        "Jack London"
+        "Beowulf",
+        "The Odyssey",
+        "The Iliad",
+        "The Aeneid"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "The word odyssey entered English as a common noun only in the 1880s, borrowed straight from the poem's title."
     },
     {
       "category": "Technology",
-      "prompt": "What is the main purpose of a router in a home network?",
+      "prompt": "Which number base does the binary system use?",
       "options": [
-        "Store files",
-        "Connect networks and direct traffic",
-        "Boost monitor brightness",
-        "Clean viruses automatically"
+        "Base 2",
+        "Base 16",
+        "Base 8",
+        "Base 10"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Computers use it because a circuit only has to distinguish between on and off, which is far more reliable than ten voltage levels."
     }
   ]
 }

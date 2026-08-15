@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-24",
+  "date": "2026-01-24",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which agreement ended World War I and imposed heavy reparations on Germany?",
+      "prompt": "Which country is named after Simón Bolívar?",
       "options": [
-        "Treaty of Tordesillas",
-        "Treaty of Versailles",
-        "Treaty of Paris (1783)",
-        "Treaty of Ghent"
+        "Colombia",
+        "Bolivia",
+        "Venezuela",
+        "Ecuador"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He was offered the honour and initially tried to decline it, arguing that naming a country after a living man set a bad precedent."
     },
     {
       "category": "Science",
-      "prompt": "What is the scientific name for the study of earthquakes?",
+      "prompt": "Which type of rock forms when magma cools and solidifies?",
       "options": [
-        "Ecology",
-        "Seismology",
-        "Meteorology",
-        "Volcanology"
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Organic"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "How fast it cools decides the crystal size. Slow cooling underground gives granite; fast cooling at the surface gives basalt."
     },
     {
       "category": "Sports",
-      "prompt": "In baseball, how many innings are in a regulation Major League game?",
+      "prompt": "Which trophy is the oldest in North American professional sport?",
       "options": [
-        "7",
-        "8",
-        "9",
-        "10"
+        "The Larry O'Brien Trophy",
+        "The Vince Lombardi Trophy",
+        "The Stanley Cup",
+        "The Commissioner's Trophy"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was donated in 1892, predating the league that now awards it by about twenty-five years. Winners' names are engraved directly on it."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the name of the wizarding newspaper in the Harry Potter series?",
+      "prompt": "Which streaming service released House of Cards as an early flagship original?",
       "options": [
-        "The Daily Bugle",
-        "The Daily Prophet",
-        "The Wizard Times",
-        "The Magic Gazette"
+        "HBO Max",
+        "Hulu",
+        "Amazon Prime Video",
+        "Netflix"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "Releasing an entire season at once was a deliberate break from weekly scheduling, and it effectively invented modern binge-watching."
     },
     {
       "category": "Geography",
-      "prompt": "What is the largest island in the world (not a continent)?",
+      "prompt": "Which mountain range is traditionally taken as the boundary between Europe and Asia?",
       "options": [
-        "Borneo",
-        "Madagascar",
-        "Greenland",
-        "New Guinea"
+        "The Alps",
+        "The Caucasus",
+        "The Urals",
+        "The Carpathians"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "They are among the oldest mountains on the planet, which is why they are comparatively low and heavily worn down."
     },
     {
       "category": "Literature",
-      "prompt": "In George Orwell’s '1984,' what is the name of the all-seeing authority figure?",
+      "prompt": "Which novel features a character called Offred?",
       "options": [
-        "Big Brother",
-        "The Overseer",
-        "The Director",
-        "High Guardian"
+        "Never Let Me Go",
+        "Oryx and Crake",
+        "The Children of Men",
+        "The Handmaid's Tale"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "The name is not a name at all. It marks her as belonging to a man called Fred, which is the point of it."
     },
     {
       "category": "Technology",
-      "prompt": "Which technology uses small chips and antennas to identify items wirelessly, often in badges and inventory tags?",
+      "prompt": "Which test for machine intelligence is named after a British mathematician?",
       "options": [
-        "NFC",
-        "RFID",
-        "Bluetooth",
-        "Infrared"
+        "The Babbage test",
+        "The Turing test",
+        "The Church test",
+        "The Shannon test"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He framed it as an imitation game, sidestepping the question of whether a machine thinks in favour of whether it can convince you."
     }
   ]
 }
