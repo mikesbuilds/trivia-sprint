@@ -1,91 +1,98 @@
 {
   "date": "2026-01-09",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The Meiji Restoration, starting in 1868, marked rapid modernization in which country?",
+      "category": "History",
+      "prompt": "Which ancient Mesopotamian people developed cuneiform writing?",
       "options": [
-        "China",
-        "Japan",
-        "Korea",
-        "Thailand"
+        "Assyrians",
+        "Hittites",
+        "Sumerians",
+        "Phoenicians"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The earliest tablets are overwhelmingly accounting records. Writing appears to have been invented to track grain and livestock."
     },
     {
       "category": "Science",
-      "prompt": "Sound travels fastest through which medium?",
+      "prompt": "Which metal is the best conductor of electricity?",
       "options": [
-        "Vacuum",
-        "Air",
-        "Water",
-        "Steel"
+        "Aluminium",
+        "Copper",
+        "Silver",
+        "Gold"
       ],
-      "answerIndex": 3
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which African country has three capital cities (executive, legislative, judicial)?",
-      "options": [
-        "Nigeria",
-        "Kenya",
-        "South Africa",
-        "Ghana"
-      ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Copper is used almost everywhere instead, purely because it costs a fraction as much for a barely measurable drop in performance."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport awards a 'birdie' for finishing one under par on a hole?",
+      "prompt": "Which trophy is contested annually between national teams in men's tennis?",
       "options": [
-        "Golf",
-        "Disc golf",
-        "Cricket",
-        "Skiing"
+        "The Solheim Cup",
+        "The Davis Cup",
+        "The Ryder Cup",
+        "The Ashes"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "It began in 1900 as a match between the United States and Britain, and now involves well over a hundred nations."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In 'The Lion King', what is Simba’s father’s name?",
+      "prompt": "Which South Korean film won the Academy Award for Best Picture?",
       "options": [
-        "Scar",
-        "Mufasa",
-        "Rafiki",
-        "Zazu"
+        "Oldboy",
+        "Parasite",
+        "Burning",
+        "Train to Busan"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was the first film not in English to win the award, in a ceremony held ninety-two years after the first Oscars."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Italy and the Balkan peninsula?",
+      "options": [
+        "The Tyrrhenian Sea",
+        "The Aegean Sea",
+        "The Ionian Sea",
+        "The Adriatic Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "Venice sits at its northern end, and the city's long dominance of its trade routes is why it grew so wealthy."
     },
     {
       "category": "Literature",
-      "prompt": "In 'Harry Potter', what is the name of Harry’s owl?",
+      "prompt": "Which novel is narrated by a butler reflecting on his years of service?",
       "options": [
-        "Hedwig",
-        "Errol",
-        "Crookshanks",
-        "Scabbers"
+        "Brideshead Revisited",
+        "Howards End",
+        "Atonement",
+        "The Remains of the Day"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "Its author has said he wrote it in roughly four weeks of deliberately isolated, uninterrupted work."
     },
     {
-      "category": "Math",
-      "prompt": "Solve: 36 ÷ 6",
+      "category": "Technology",
+      "prompt": "Which company designs the graphics processors most widely used to train AI models?",
       "options": [
-        "4",
-        "5",
-        "6",
-        "7"
+        "Nvidia",
+        "Broadcom",
+        "Qualcomm",
+        "Intel"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "The chips were built for rendering game graphics. Their usefulness for AI came from the same ability to do many simple calculations at once."
     }
   ]
 }

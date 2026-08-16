@@ -1,91 +1,98 @@
 {
   "date": "2026-01-07",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "The 'Iron Curtain' was a term popularized to describe division in Europe after which war?",
+      "category": "History",
+      "prompt": "Which pandemic killed roughly a third of Europe's population in the 1340s?",
       "options": [
-        "World War I",
-        "World War II",
-        "The Crimean War",
-        "The Napoleonic Wars"
+        "Smallpox",
+        "The Spanish flu",
+        "Cholera",
+        "The Black Death"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "Labour became so scarce afterwards that wages rose sharply, and several governments passed laws trying to force them back down."
     },
     {
       "category": "Science",
-      "prompt": "In the metric system, how many millimeters are in 1 centimeter?",
+      "prompt": "Which organs filter waste products from the blood?",
       "options": [
-        "1",
-        "10",
-        "100",
-        "1000"
+        "Kidneys",
+        "Lungs",
+        "Liver",
+        "Intestines"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which mountain range separates much of Europe from Asia?",
-      "options": [
-        "Alps",
-        "Rockies",
-        "Ural Mountains",
-        "Andes"
-      ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "They process the body's entire blood supply roughly every thirty minutes, filtering around 180 litres of fluid a day."
     },
     {
       "category": "Sports",
-      "prompt": "Which race is traditionally held on the last Sunday in May at Indianapolis?",
+      "prompt": "Which martial art and Olympic sport originated in Japan and means gentle way?",
       "options": [
-        "Daytona 500",
-        "Indy 500",
-        "Monaco Grand Prix",
-        "Le Mans"
+        "Jujutsu",
+        "Aikido",
+        "Judo",
+        "Karate"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Its founder built it around using an opponent's own momentum, which is why size matters less in it than in most combat sports."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the name of the coffee shop central to the show 'Friends'?",
+      "prompt": "Which band released the album Nevermind?",
       "options": [
-        "Central Perk",
-        "Bean There",
-        "Java Junction",
-        "Daily Grind"
+        "Pearl Jam",
+        "Alice in Chains",
+        "Soundgarden",
+        "Nirvana"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "It knocked Michael Jackson off the top of the US chart in early 1992, a moment often used to date the mainstream arrival of grunge."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European capital was formed by merging Buda and Pest?",
+      "options": [
+        "Vienna",
+        "Budapest",
+        "Belgrade",
+        "Bratislava"
+      ],
+      "answerIndex": 1,
+      "fact": "The two sides were only joined by a permanent bridge in 1849, and unified into one city a quarter century later."
     },
     {
       "category": "Literature",
-      "prompt": "Which dystopian novel features the concept of 'Big Brother'?",
+      "prompt": "Which Shakespeare tragedy is set largely in Verona?",
       "options": [
-        "Fahrenheit 451",
-        "1984",
-        "Brave New World",
-        "The Giver"
+        "Coriolanus",
+        "Julius Caesar",
+        "Romeo and Juliet",
+        "Othello"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The entire action covers only about four days, which is part of why the events feel so headlong."
     },
     {
-      "category": "Math",
-      "prompt": "If you roll a fair six-sided die, what is the probability of rolling a 6?",
+      "category": "Technology",
+      "prompt": "Which satellite navigation system is operated by the European Union?",
       "options": [
-        "1/2",
-        "1/3",
-        "1/6",
-        "1/12"
+        "Galileo",
+        "BeiDou",
+        "GLONASS",
+        "QZSS"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "It was built partly so Europe would not depend on a system controlled by another government's military."
     }
   ]
 }

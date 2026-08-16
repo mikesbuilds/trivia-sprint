@@ -1,91 +1,98 @@
 {
   "date": "2026-01-08",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which document, signed in 1776, declared the American colonies’ independence from Britain?",
+      "category": "History",
+      "prompt": "Which leader founded the largest contiguous land empire in history?",
       "options": [
-        "Bill of Rights",
-        "Declaration of Independence",
-        "Constitution",
-        "Emancipation Proclamation"
+        "Alexander the Great",
+        "Genghis Khan",
+        "Attila",
+        "Tamerlane"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "His empire ran a relay postal system across thousands of kilometres, with fresh horses stationed at regular intervals."
     },
     {
       "category": "Science",
-      "prompt": "Which organelle is often called the 'powerhouse of the cell'?",
+      "prompt": "Which scale was traditionally used to measure earthquake magnitude?",
       "options": [
-        "Nucleus",
-        "Mitochondrion",
-        "Ribosome",
-        "Golgi apparatus"
+        "Beaufort",
+        "Mohs",
+        "Kelvin",
+        "Richter"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "The Strait of Gibraltar separates Spain from which country?",
-      "options": [
-        "Italy",
-        "Morocco",
-        "Algeria",
-        "Tunisia"
-      ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It is logarithmic, so each whole step represents about thirty times more energy released, not simply one unit more."
     },
     {
       "category": "Sports",
-      "prompt": "In tennis, what is the score called when both players have 40?",
+      "prompt": "How many rounds are scheduled in a modern professional world title boxing fight?",
       "options": [
-        "Set point",
-        "Deuce",
-        "Advantage",
-        "Break"
+        "Twenty",
+        "Fifteen",
+        "Ten",
+        "Twelve"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It was reduced from fifteen in the 1980s after research linked the closing rounds to the most serious injuries."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which actor voiced Woody in 'Toy Story'?",
+      "prompt": "Which director made Inception and Interstellar?",
       "options": [
-        "Tim Allen",
-        "Tom Hanks",
-        "Billy Crystal",
-        "Robin Williams"
+        "Alfonso Cuarón",
+        "Darren Aronofsky",
+        "Christopher Nolan",
+        "Denis Villeneuve"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "He shoots on film rather than digitally and avoids digital effects where a practical one will do, including building sets that rotate."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake holds the most fresh water and is the deepest in the world?",
+      "options": [
+        "Lake Michigan",
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Tanganyika"
+      ],
+      "answerIndex": 2,
+      "fact": "It contains roughly a fifth of all unfrozen fresh water on the planet, more than all five North American Great Lakes together."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Great Gatsby'?",
+      "prompt": "Which Irish author wrote Ulysses?",
       "options": [
-        "F. Scott Fitzgerald",
-        "John Steinbeck",
-        "Harper Lee",
-        "George Eliot"
+        "James Joyce",
+        "Samuel Beckett",
+        "W.B. Yeats",
+        "Oscar Wilde"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The whole novel takes place across a single day in Dublin, 16 June 1904, still marked annually as Bloomsday."
     },
     {
-      "category": "Math",
-      "prompt": "What is 7² (7 squared)?",
+      "category": "Technology",
+      "prompt": "What is a network of compromised computers controlled remotely called?",
       "options": [
-        "14",
-        "28",
-        "49",
-        "56"
+        "Botnet",
+        "Honeypot",
+        "Sandbox",
+        "Mesh"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "Owners usually have no idea their machine is part of one, since the software is designed to stay quiet and use spare capacity."
     }
   ]
 }

@@ -1,91 +1,98 @@
 {
   "date": "2026-01-15",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which civilization is credited with developing cuneiform writing?",
+      "category": "History",
+      "prompt": "The 1969 Stonewall uprising took place in which city?",
       "options": [
-        "Sumerians",
-        "Romans",
-        "Vikings",
-        "Phoenicians"
+        "Los Angeles",
+        "Chicago",
+        "San Francisco",
+        "New York"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "The first anniversary marches the following year are generally counted as the origin of Pride events worldwide."
     },
     {
       "category": "Science",
-      "prompt": "What is H2O commonly known as?",
+      "prompt": "Which body system includes the heart and blood vessels?",
       "options": [
-        "Hydrogen peroxide",
-        "Salt",
-        "Water",
-        "Ammonia"
+        "Circulatory",
+        "Lymphatic",
+        "Respiratory",
+        "Endocrine"
       ],
-      "answerIndex": 2
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which continent has the greatest number of countries?",
-      "options": [
-        "Europe",
-        "Africa",
-        "Asia",
-        "South America"
-      ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Laid end to end, an adult's blood vessels would wrap around the equator roughly two and a half times."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features the terms 'scrum' and 'try'?",
+      "prompt": "How long is a marathon?",
       "options": [
-        "Rugby",
-        "Soccer",
-        "Basketball",
-        "Baseball"
+        "40 km",
+        "50 km",
+        "45 km",
+        "42.195 km"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "The awkward distance was fixed at the 1908 London Games, reportedly so the race could finish in front of the royal box."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which franchise features the character 'Geralt of Rivia'?",
+      "prompt": "Which studio produced Toy Story, the first fully computer-animated feature film?",
       "options": [
-        "The Witcher",
-        "Game of Thrones",
-        "The Expanse",
-        "The Matrix"
+        "DreamWorks",
+        "Pixar",
+        "Illumination",
+        "Studio Ghibli"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "The studio began as a computer hardware division and only moved into films after the hardware business struggled."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain sits on the border between Nepal and Tibet?",
+      "options": [
+        "Annapurna",
+        "Lhotse",
+        "Mount Everest",
+        "Kangchenjunga"
+      ],
+      "answerIndex": 2,
+      "fact": "It grows by roughly four millimetres a year as the Indian plate continues pushing north into Asia."
     },
     {
       "category": "Literature",
-      "prompt": "Which epic poem tells the story of the Trojan War and is attributed to Homer?",
+      "prompt": "Which novel is written as a series of letters from a woman named Celie?",
       "options": [
-        "The Aeneid",
-        "The Iliad",
-        "Paradise Lost",
-        "Beowulf"
+        "Their Eyes Were Watching God",
+        "Kindred",
+        "The Color Purple",
+        "Sula"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "It won both the Pulitzer Prize and the National Book Award, and has been among the most frequently challenged books in US schools."
     },
     {
-      "category": "Math",
-      "prompt": "If y = 2x and x = 6, what is y?",
+      "category": "Technology",
+      "prompt": "Which search engine was founded by two Stanford graduate students in 1998?",
       "options": [
-        "8",
-        "10",
-        "12",
-        "14"
+        "Google",
+        "Ask Jeeves",
+        "AltaVista",
+        "Yahoo"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "They tried to sell the technology early on for around a million dollars, and could not find a buyer willing to pay it."
     }
   ]
 }

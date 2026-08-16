@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-27",
+  "date": "2026-01-27",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who was the Egyptian pharaoh whose tomb was discovered largely intact in 1922?",
+      "prompt": "Which empire recorded information using knotted cords called quipu?",
       "options": [
-        "Ramses II",
-        "Tutankhamun",
-        "Akhenaten",
-        "Khufu"
+        "Nubian",
+        "Aztec",
+        "Hittite",
+        "Inca"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The knots reliably encode numbers. Whether they also carried language is still an open question."
     },
     {
       "category": "Science",
-      "prompt": "Which planet has the most extensive ring system in our solar system?",
+      "prompt": "Which is the densest planet in the solar system?",
       "options": [
-        "Jupiter",
+        "Earth",
         "Saturn",
-        "Uranus",
-        "Neptune"
+        "Jupiter",
+        "Mercury"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Saturn sits at the other extreme. Its average density is below that of water, so it would notionally float given a big enough ocean."
     },
     {
       "category": "Sports",
-      "prompt": "What is the maximum score possible in a single frame of ten-pin bowling?",
+      "prompt": "Which ground is known as the Home of Cricket?",
       "options": [
-        "20",
-        "30",
-        "40",
-        "50"
+        "Edgbaston",
+        "Headingley",
+        "Lord's",
+        "The Oval"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Its playing surface has a noticeable slope, dropping around two and a half metres from one side of the ground to the other."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film studio is known for the lamp mascot that bounces on the letter 'I'?",
+      "prompt": "Which singer is nicknamed the Material Girl?",
       "options": [
-        "DreamWorks",
-        "Pixar",
-        "Illumination",
-        "Blue Sky"
+        "Whitney Houston",
+        "Cyndi Lauper",
+        "Madonna",
+        "Cher"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "She has said she came to dislike the nickname, since the song was intended as satire rather than a personal statement."
     },
     {
       "category": "Geography",
-      "prompt": "Which canal connects the Mediterranean Sea to the Red Sea?",
+      "prompt": "Which lake is so salty that swimmers float without effort?",
       "options": [
-        "Panama Canal",
-        "Suez Canal",
-        "Kiel Canal",
-        "Erie Canal"
+        "The Dead Sea",
+        "The Aral Sea",
+        "The Caspian Sea",
+        "Great Salt Lake"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Its shoreline is the lowest exposed land on Earth, sitting more than 400 metres below sea level and still dropping."
     },
     {
       "category": "Literature",
-      "prompt": "What is the name of the ship in 'Moby-Dick'?",
+      "prompt": "Who wrote Wide Sargasso Sea, a response to an earlier English novel?",
       "options": [
-        "Hispaniola",
-        "Pequod",
-        "Nautilus",
-        "Endeavour"
+        "Iris Murdoch",
+        "Daphne du Maurier",
+        "Muriel Spark",
+        "Jean Rhys"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It retells Jane Eyre from the perspective of the first wife, and was published nearly 120 years after the original."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'VPN' stand for?",
+      "prompt": "Which company designs the processor architecture used in most smartphones?",
       "options": [
-        "Verified Private Network",
-        "Virtual Private Network",
-        "Variable Protocol Node",
-        "Visual Packet Number"
+        "IBM",
+        "ARM",
+        "AMD",
+        "Intel"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It manufactures almost nothing itself. The business is licensing designs, which is why its architecture is nearly everywhere."
     }
   ]
 }

@@ -1,91 +1,98 @@
 {
   "date": "2026-01-01",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which ship is famous for bringing the Pilgrims to North America in 1620?",
+      "category": "History",
+      "prompt": "Which country was the first to grant women the national right to vote?",
       "options": [
-        "Santa Maria",
-        "Mayflower",
-        "Beagle",
-        "Endeavour"
+        "Finland",
+        "New Zealand",
+        "Norway",
+        "Australia"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It happened in 1893, though women could not stand for election there for another twenty–six years."
     },
     {
       "category": "Science",
-      "prompt": "Which planet is known for its prominent rings?",
+      "prompt": "Which acid gives vinegar its sharp taste?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Venus"
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Formic acid"
       ],
-      "answerIndex": 2
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which desert is the largest hot desert in the world?",
-      "options": [
-        "Gobi",
-        "Sahara",
-        "Kalahari",
-        "Atacama"
-      ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "It is produced by bacteria that convert alcohol, which is why wine left open long enough turns sour on its own."
     },
     {
       "category": "Sports",
-      "prompt": "What is the maximum score possible in a single frame of ten-pin bowling?",
+      "prompt": "Which two nations compete for the Ashes?",
       "options": [
-        "20",
-        "30",
-        "40",
-        "50"
+        "India and Pakistan",
+        "England and Australia",
+        "South Africa and New Zealand",
+        "West Indies and England"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The trophy is a small urn said to contain the ashes of a burnt bail, following a mock obituary for English cricket in 1882."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the name of the fictional school in 'Harry Potter'?",
+      "prompt": "Which Swedish group released the song Waterloo in 1974?",
       "options": [
-        "Beauxbatons",
-        "Hogwarts",
-        "Durmstrang",
-        "Ilvermorny"
+        "ABBA",
+        "Ace of Base",
+        "The Cardigans",
+        "Roxette"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Winning Eurovision with it launched a career that made the group one of Sweden's most valuable exports for a time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates the Arabian Peninsula from northeast Africa?",
+      "options": [
+        "The Arabian Sea",
+        "The Caspian Sea",
+        "The Red Sea",
+        "The Black Sea"
+      ],
+      "answerIndex": 2,
+      "fact": "It is widening by about a centimetre a year as the plates on either side pull apart, and will eventually become an ocean."
     },
     {
       "category": "Literature",
-      "prompt": "Which book begins with the line 'Call me Ishmael'?",
+      "prompt": "How many lines does a sonnet have?",
       "options": [
-        "Moby-Dick",
-        "The Great Gatsby",
-        "Dracula",
-        "Frankenstein"
+        "Sixteen",
+        "Twelve",
+        "Eighteen",
+        "Fourteen"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "The Italian and English forms split those lines differently, which changes where the argument of the poem is allowed to turn."
     },
     {
-      "category": "Math",
-      "prompt": "A triangle has angles 90°, 30°, and ___°.",
+      "category": "Technology",
+      "prompt": "What is a CAPTCHA designed to determine?",
       "options": [
-        "40",
-        "50",
-        "60",
-        "70"
+        "Screen resolution",
+        "Connection speed",
+        "Password strength",
+        "Whether a user is human"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "Early versions doubled as free labour, using the answers to digitise words that scanning software had failed to read from old books."
     }
   ]
 }

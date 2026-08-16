@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-19",
+  "date": "2026-01-19",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "What was the name of the trade route network that connected China with the Mediterranean world?",
+      "prompt": "Which country was known as Persia until 1935?",
       "options": [
-        "Silk Road",
-        "Spice Route",
-        "Amber Road",
-        "Royal Road"
+        "Afghanistan",
+        "Iran",
+        "Turkey",
+        "Iraq"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "The name Iran comes from a much older root meaning land of the Aryans, so the change was a return rather than an invention."
     },
     {
       "category": "Science",
-      "prompt": "Which blood type is known as the universal donor for red blood cells?",
+      "prompt": "Which cell structure carries its own separate DNA?",
       "options": [
-        "A+",
-        "B-",
-        "O-",
-        "AB+"
+        "Mitochondrion",
+        "Ribosome",
+        "Golgi apparatus",
+        "Lysosome"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "That DNA is inherited almost entirely from the mother, and it is the main evidence these structures were once free-living bacteria."
     },
     {
       "category": "Sports",
-      "prompt": "Which country is credited with inventing the modern sport of golf?",
+      "prompt": "Which is Canada's official national summer sport?",
       "options": [
-        "Ireland",
-        "Scotland",
-        "England",
-        "Netherlands"
+        "Curling",
+        "Ice hockey",
+        "Baseball",
+        "Lacrosse"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "Canada legislated two national sports in 1994: lacrosse for summer and ice hockey for winter."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Who plays the title character in the film 'Iron Man' (2008)?",
+      "prompt": "Which film features the character Vito Corleone?",
       "options": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo"
+        "Scarface",
+        "Casino",
+        "The Godfather",
+        "Goodfellas"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "The studio fought hard against casting Marlon Brando, who had to audition on tape despite already being a major star."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of New Zealand?",
+      "prompt": "Which is the deepest known point in the ocean?",
       "options": [
-        "Auckland",
-        "Wellington",
-        "Christchurch",
-        "Hamilton"
+        "The Mariana Trench",
+        "The Puerto Rico Trench",
+        "The Java Trench",
+        "The Tonga Trench"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "Drop Everest into it and the peak would still sit more than two kilometres below the surface."
     },
     {
       "category": "Literature",
-      "prompt": "In 'The Wizard of Oz,' what is Dorothy’s last name?",
+      "prompt": "Which Russian novel opens with a famous line about happy families?",
       "options": [
-        "Gale",
-        "Baker",
-        "Parker",
-        "Hale"
+        "Doctor Zhivago",
+        "Dead Souls",
+        "Fathers and Sons",
+        "Anna Karenina"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "Its author later dismissed his own great novels as trivial, having undergone a severe religious and moral crisis."
     },
     {
       "category": "Technology",
-      "prompt": "Which file extension is commonly used for a PDF document?",
+      "prompt": "What was the first message ever sent over ARPANET?",
       "options": [
-        ".docx",
-        ".pdf",
-        ".png",
-        ".mp3"
+        "TEST",
+        "READY",
+        "LO",
+        "HELLO"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "They were typing LOGIN and the system crashed after two characters, making the accidental first word LO."
     }
   ]
 }

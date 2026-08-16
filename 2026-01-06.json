@@ -1,91 +1,98 @@
 {
   "date": "2026-01-06",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which empire was ruled by Mansa Musa, famous for his pilgrimage to Mecca and immense wealth?",
+      "category": "History",
+      "prompt": "Which island was Napoleon exiled to after his final defeat?",
       "options": [
-        "Mali Empire",
-        "Roman Empire",
-        "Mughal Empire",
-        "Ottoman Empire"
+        "Corsica",
+        "Malta",
+        "Elba",
+        "Saint Helena"
       ],
-      "answerIndex": 0
+      "answerIndex": 3,
+      "fact": "It sits roughly 1,900 kilometres from the nearest mainland, chosen specifically because escaping it would be far harder than his first exile."
     },
     {
       "category": "Science",
-      "prompt": "Which force keeps planets in orbit around the Sun?",
+      "prompt": "Which scientist discovered penicillin?",
       "options": [
-        "Friction",
-        "Magnetism",
-        "Gravity",
-        "Surface tension"
+        "Joseph Lister",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Louis Pasteur"
       ],
-      "answerIndex": 2
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of New Zealand?",
-      "options": [
-        "Auckland",
-        "Wellington",
-        "Christchurch",
-        "Dunedin"
-      ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "He found it by accident on a contaminated dish he had left out, and then struggled for a decade to get anyone interested."
     },
     {
       "category": "Sports",
-      "prompt": "What is the term for scoring three goals in a single hockey game by one player?",
+      "prompt": "The 24 Hours of Le Mans endurance race is held in which country?",
       "options": [
-        "Triple",
-        "Hat trick",
-        "Grand slam",
-        "Clean sweep"
+        "Italy",
+        "Germany",
+        "France",
+        "Belgium"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Cars cover a distance roughly equivalent to eighteen Formula One races in a single day, with drivers rotating throughout."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which animated movie features the song 'Let It Go'?",
+      "prompt": "Which television series follows a chemistry teacher who begins manufacturing drugs?",
       "options": [
-        "Moana",
-        "Frozen",
-        "Tangled",
-        "Brave"
+        "Weeds",
+        "The Wire",
+        "Ozark",
+        "Breaking Bad"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The network nearly cancelled it early on, and a writers' strike cut the first season short, which reshaped the whole arc."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Baghdad?",
+      "options": [
+        "The Euphrates",
+        "The Tigris",
+        "The Jordan",
+        "The Orontes"
+      ],
+      "answerIndex": 1,
+      "fact": "Together with the Euphrates it defined Mesopotamia, a name that simply means the land between the rivers."
     },
     {
       "category": "Literature",
-      "prompt": "In 'A Christmas Carol', what is the name of Scrooge’s partner who appears as a ghost?",
+      "prompt": "Which novel follows the Joad family west during the Dust Bowl?",
       "options": [
-        "Bob Cratchit",
-        "Jacob Marley",
-        "Tiny Tim",
-        "Fezziwig"
+        "East of Eden",
+        "The Grapes of Wrath",
+        "Of Mice and Men",
+        "Cannery Row"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was publicly burned and banned in parts of California, where local authorities disputed its portrayal of migrant conditions."
     },
     {
-      "category": "Math",
-      "prompt": "What is the sum of the interior angles of a triangle?",
+      "category": "Technology",
+      "prompt": "What does the term phishing describe?",
       "options": [
-        "90°",
-        "180°",
-        "270°",
-        "360°"
+        "Tricking people into revealing credentials",
+        "Slowing a network deliberately",
+        "Copying software illegally",
+        "Scanning open ports"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "The unusual spelling traces back to phone phreaking, an earlier culture of exploring and exploiting telephone systems."
     }
   ]
 }

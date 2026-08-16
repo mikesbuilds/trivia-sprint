@@ -1,91 +1,98 @@
 {
   "date": "2026-01-10",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which ancient trade route connected East Asia with Europe and the Middle East?",
+      "category": "History",
+      "prompt": "Which English monarch reigned when the Spanish Armada was defeated in 1588?",
       "options": [
-        "Amber Road",
-        "Silk Road",
-        "Spice Trail",
-        "Royal Road"
+        "Mary I",
+        "Henry VIII",
+        "Elizabeth I",
+        "James I"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Storms destroyed more of the fleet than the English navy did, on the return voyage around Scotland and Ireland."
     },
     {
       "category": "Science",
-      "prompt": "What is the name of the boundary between Earth's crust and mantle?",
+      "prompt": "What is a young frog called before it develops legs?",
       "options": [
-        "Core line",
-        "Moho (Mohorovičić discontinuity)",
-        "Tropopause",
-        "Rift zone"
+        "Tadpole",
+        "Fry",
+        "Larva",
+        "Nymph"
       ],
-      "answerIndex": 1
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is home to the ancient city of Petra?",
-      "options": [
-        "Jordan",
-        "Lebanon",
-        "Syria",
-        "Iraq"
-      ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The transformation involves reabsorbing the tail rather than shedding it, recycling the tissue into the developing body."
     },
     {
       "category": "Sports",
-      "prompt": "In American football, a touchdown is worth how many points (before the extra point attempt)?",
+      "prompt": "Which is the oldest of golf's four major championships?",
       "options": [
-        "3",
-        "6",
-        "7",
-        "8"
+        "The Open Championship",
+        "The US Open",
+        "The PGA Championship",
+        "The Masters"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "First played in 1860, its trophy is a jug, and winners traditionally keep it only until the following year's tournament."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film series features a ring that must be destroyed in Mount Doom?",
+      "prompt": "Which streaming drama chronicles the reign of the British royal family?",
       "options": [
-        "Harry Potter",
-        "The Lord of the Rings",
-        "Star Trek",
-        "Indiana Jones"
+        "Wolf Hall",
+        "Victoria",
+        "Downton Abbey",
+        "The Crown"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The cast was deliberately recast every two seasons so the actors could age with the characters across decades."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the northernmost capital city of a sovereign state?",
+      "options": [
+        "Stockholm",
+        "Reykjavik",
+        "Oslo",
+        "Helsinki"
+      ],
+      "answerIndex": 1,
+      "fact": "Almost all of its heating and electricity comes from geothermal and hydroelectric sources, thanks to the volcanic ground beneath it."
     },
     {
       "category": "Literature",
-      "prompt": "Which author created Sherlock Holmes?",
+      "prompt": "Which Greek tragedy ends with a king blinding himself?",
       "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Ian Fleming",
-        "Stephen King"
+        "The Bacchae",
+        "Oedipus Rex",
+        "Antigone",
+        "Medea"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Aristotle used it as his central example of tragic structure, which is much of why it dominates drama syllabuses."
     },
     {
-      "category": "Math",
-      "prompt": "What is the perimeter of a square with side length 9?",
+      "category": "Technology",
+      "prompt": "Which company owns Instagram?",
       "options": [
-        "18",
-        "27",
-        "36",
-        "45"
+        "Snap",
+        "Alphabet",
+        "Meta",
+        "ByteDance"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was bought in 2012 for about a billion dollars when it had thirteen employees and no revenue."
     }
   ]
 }

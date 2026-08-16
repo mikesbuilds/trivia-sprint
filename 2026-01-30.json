@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-30",
+  "date": "2026-01-30",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "What was the name of the ship that carried the Pilgrims to North America in 1620?",
+      "prompt": "Which explorer completed the first circumnavigation of the globe?",
       "options": [
-        "Santa Maria",
-        "Mayflower",
-        "Endeavour",
-        "Beagle"
+        "Vasco da Gama",
+        "Ferdinand Magellan",
+        "Francis Drake",
+        "Juan Sebastián Elcano"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "Magellan planned the voyage but died partway. Elcano brought one ship and 18 survivors home out of an original 270 men."
     },
     {
       "category": "Science",
-      "prompt": "Which vitamin is produced in human skin when exposed to sunlight?",
+      "prompt": "Which process converts a liquid to a gas below its boiling point?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Condensation",
+        "Precipitation",
+        "Evaporation",
+        "Sublimation"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It cools whatever is left behind, because the fastest-moving molecules escape first. That is exactly how sweating works."
     },
     {
       "category": "Sports",
-      "prompt": "In boxing, what is the term for a fight-ending blow that leaves the opponent unable to stand before the count?",
+      "prompt": "In which sport would you compete for the America's Cup?",
       "options": [
-        "Decision",
-        "Knockout",
-        "Draw",
-        "Clinch"
+        "Sailing",
+        "Rowing",
+        "Swimming",
+        "Surfing"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "It is the oldest international trophy in sport, older than the modern Olympics by almost half a century."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the name of the fictional African nation in 'Black Panther'?",
+      "prompt": "Which annual music festival is held in the California desert at Indio?",
       "options": [
-        "Genosha",
-        "Wakanda",
-        "Latveria",
-        "Zamunda"
+        "Coachella",
+        "Lollapalooza",
+        "Bonnaroo",
+        "Glastonbury"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "It grew out of a single 1993 protest concert staged at the site by a band boycotting a nearby venue."
     },
     {
       "category": "Geography",
-      "prompt": "Which European city is divided by the River Danube and known for thermal baths?",
+      "prompt": "Which country contains the Southern Alps?",
       "options": [
-        "Vienna",
-        "Budapest",
-        "Prague",
-        "Munich"
+        "Austria",
+        "New Zealand",
+        "Switzerland",
+        "Chile"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The range is still rising by roughly a centimetre a year, though erosion removes almost as much as the uplift adds."
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'The Grapes of Wrath'?",
+      "prompt": "Which Chilean poet won the Nobel Prize in Literature in 1971?",
       "options": [
-        "John Steinbeck",
-        "Harper Lee",
-        "Toni Morrison",
-        "J.D. Salinger"
+        "Octavio Paz",
+        "Gabriela Mistral",
+        "Pablo Neruda",
+        "César Vallejo"
       ],
-      "answerIndex": 0
+      "answerIndex": 2,
+      "fact": "Pablo Neruda was a pen name. He adopted it as a teenager, partly to keep his father from discovering he wrote poetry."
     },
     {
       "category": "Technology",
-      "prompt": "In email, what does 'CC' stand for?",
+      "prompt": "Which storage format held 1.44 megabytes and was standard into the 1990s?",
       "options": [
-        "Carbon Copy",
-        "Clear Cache",
-        "Control Center",
-        "Cross Check"
+        "Cassette tape",
+        "The 3.5 inch floppy disk",
+        "Zip disk",
+        "CD-ROM"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "Its shape survives as the save icon in software written for people who have never handled one."
     }
   ]
 }

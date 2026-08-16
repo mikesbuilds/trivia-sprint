@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-22",
+  "date": "2026-01-22",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which civilization developed cuneiform writing in Mesopotamia?",
+      "prompt": "Which city fell in 1453, ending the Byzantine Empire?",
       "options": [
-        "Sumerians",
-        "Hittites",
-        "Phoenicians",
-        "Egyptians"
+        "Alexandria",
+        "Antioch",
+        "Constantinople",
+        "Thessaloniki"
       ],
-      "answerIndex": 0
+      "answerIndex": 2,
+      "fact": "Its walls had held off attackers for a thousand years. Large cannon finally made them obsolete in under two months."
     },
     {
       "category": "Science",
-      "prompt": "Which particle has a negative electric charge?",
+      "prompt": "Which animal has the largest brain of any living creature?",
       "options": [
-        "Proton",
-        "Neutron",
-        "Electron",
-        "Photon"
+        "African elephant",
+        "Giraffe",
+        "Blue whale",
+        "Sperm whale"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "It weighs around 7 kilograms, roughly five times a human brain, though brain size alone is a poor guide to intelligence."
     },
     {
       "category": "Sports",
-      "prompt": "In ice hockey, what is it called when a player scores three goals in one game?",
+      "prompt": "Which athlete won four gold medals at the 1936 Berlin Olympics?",
       "options": [
-        "Triple",
-        "Hat trick",
-        "Three-peat",
-        "Clean sweep"
+        "Jesse Owens",
+        "Emil Zátopek",
+        "Carl Lewis",
+        "Paavo Nurmi"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "A German long jumper reportedly offered him technique advice during the competition, and the two remained friends for life."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In 'The Lion King,' what is the name of Simba’s father?",
+      "prompt": "Which Indian film industry takes its name from Bombay?",
       "options": [
-        "Mufasa",
-        "Scar",
-        "Rafiki",
-        "Zazu"
+        "Tollywood",
+        "Bollywood",
+        "Kollywood",
+        "Mollywood"
       ],
-      "answerIndex": 0
+      "answerIndex": 1,
+      "fact": "India releases more feature films per year than any other country, by a wide margin."
     },
     {
       "category": "Geography",
-      "prompt": "The Andes Mountains run along the western edge of which continent?",
+      "prompt": "Which is the driest non-polar desert on Earth?",
       "options": [
-        "North America",
-        "Europe",
-        "South America",
-        "Africa"
+        "The Thar",
+        "The Mojave",
+        "The Atacama",
+        "The Namib"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Some weather stations there have never recorded rainfall, and the terrain is used to test equipment bound for Mars."
     },
     {
       "category": "Literature",
-      "prompt": "What is the name of the boy who never grows up in J.M. Barrie’s story?",
+      "prompt": "Which novel features the character Bigger Thomas?",
       "options": [
-        "Oliver Twist",
-        "Peter Pan",
-        "Tom Sawyer",
-        "Huckleberry Finn"
+        "Go Tell It on the Mountain",
+        "Cane",
+        "Invisible Man",
+        "Native Son"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It was among the first books by a Black American author selected by the Book of the Month Club, which made it a national bestseller."
     },
     {
       "category": "Technology",
-      "prompt": "Which company is known for the Windows operating system?",
+      "prompt": "In computing, where does the term bug reportedly come from?",
       "options": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Oracle"
+        "A type of punch card",
+        "A moth found in a relay",
+        "A misprinted manual",
+        "An early virus"
       ],
-      "answerIndex": 2
+      "answerIndex": 1,
+      "fact": "The moth was taped into a logbook in 1947 with the note that it was the first actual case of a bug being found."
     }
   ]
 }

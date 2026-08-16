@@ -1,91 +1,98 @@
 {
   "date": "2026-01-11",
   "categories": [
-    "World History",
+    "History",
     "Science",
-    "Geography",
     "Sports",
     "Pop Culture",
+    "Geography",
     "Literature",
-    "Math"
+    "Technology"
   ],
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Who was the Egyptian queen known for her alliance with Julius Caesar and Mark Antony?",
+      "category": "History",
+      "prompt": "Which US president delivered the Gettysburg Address?",
       "options": [
-        "Nefertiti",
-        "Cleopatra VII",
-        "Hatshepsut",
-        "Merneith"
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "James Buchanan",
+        "Abraham Lincoln"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It ran to about two minutes. The speaker before him talked for two hours and is now almost entirely forgotten."
     },
     {
       "category": "Science",
-      "prompt": "Which vitamin is primarily produced in the skin when exposed to sunlight?",
+      "prompt": "Which moon is the largest in the solar system?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Callisto",
+        "Europa",
+        "Titan",
+        "Ganymede"
       ],
-      "answerIndex": 2
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the longest river in South America?",
-      "options": [
-        "Orinoco",
-        "Amazon",
-        "Paraná",
-        "Madeira"
-      ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "It is larger than the planet Mercury, and is the only moon known to generate its own magnetic field."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport’s championship trophy is called the Stanley Cup?",
+      "prompt": "In which country did the modern game of golf develop?",
       "options": [
-        "Basketball",
-        "Ice hockey",
-        "Baseball",
-        "Soccer"
+        "Netherlands",
+        "England",
+        "Scotland",
+        "Ireland"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "Parliament banned it in 1457 because men were playing instead of practising archery, which the crown considered a defence problem."
     },
     {
       "category": "Pop Culture",
-      "prompt": "What is the name of the kingdom in 'Black Panther'?",
+      "prompt": "Which 1985 concert raised money for famine relief in Ethiopia?",
       "options": [
-        "Genosha",
-        "Wakanda",
-        "Latveria",
-        "Asgard"
+        "The Concert for Bangladesh",
+        "Live Aid",
+        "Woodstock",
+        "Farm Aid"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was broadcast to an estimated 1.5 billion viewers across more than a hundred countries, using satellite links that had never been attempted at that scale."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert spans much of Botswana and Namibia?",
+      "options": [
+        "The Kalahari",
+        "The Nubian Desert",
+        "The Sahel",
+        "The Karoo"
+      ],
+      "answerIndex": 0,
+      "fact": "It receives too much rainfall to be a true desert by strict definition, and supports far more vegetation than most people expect."
     },
     {
       "category": "Literature",
-      "prompt": "In Greek mythology, who is the god of the sea often featured in literature?",
+      "prompt": "Which poem begins Two roads diverged in a yellow wood?",
       "options": [
-        "Zeus",
-        "Hades",
-        "Poseidon",
-        "Apollo"
+        "The Road Not Taken",
+        "Stopping by Woods",
+        "Mending Wall",
+        "Birches"
       ],
-      "answerIndex": 2
+      "answerIndex": 0,
+      "fact": "It is widely read as a celebration of individualism, though the poet described it as a gently ironic joke about indecision."
     },
     {
-      "category": "Math",
-      "prompt": "If an item costs $50 and is discounted 20%, what is the sale price?",
+      "category": "Technology",
+      "prompt": "What does a firewall do on a computer network?",
       "options": [
-        "$30",
-        "$35",
-        "$40",
-        "$45"
+        "Backs up data",
+        "Compresses downloads",
+        "Filters network traffic",
+        "Encrypts stored files"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The name is borrowed from building construction, where a fire wall is a physical barrier meant to stop a fire spreading between sections."
     }
   ]
 }

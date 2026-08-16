@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which English king sealed the Magna Carta in 1215?",
+      "options": [
+        "John",
+        "Edward I",
+        "Richard I",
+        "Henry II"
+      ],
+      "answerIndex": 0,
+      "fact": "The Pope annulled it within ten weeks. It only survived because later kings kept reissuing it to buy support."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet rotates on its side, tipped nearly 98 degrees?",
+      "options": [
+        "Neptune",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answerIndex": 2,
+      "fact": "The leading explanation is an ancient collision with something roughly Earth-sized that knocked the whole planet over."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many balls are bowled in a standard cricket over?",
+      "options": [
+        "Eight",
+        "Five",
+        "Four",
+        "Six"
+      ],
+      "answerIndex": 3,
+      "fact": "Australia used eight-ball overs domestically as recently as the 1970s before falling in line with the rest of the game."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "In which television series do characters meet at Central Perk?",
+      "options": [
+        "Cheers",
+        "How I Met Your Mother",
+        "Friends",
+        "Seinfeld"
+      ],
+      "answerIndex": 2,
+      "fact": "The six leads negotiated their salaries collectively rather than individually, which was almost unheard of in television at the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the tallest when measured from its base rather than sea level?",
+      "options": [
+        "Mount Everest",
+        "K2",
+        "Denali",
+        "Mauna Kea"
+      ],
+      "answerIndex": 3,
+      "fact": "Measured from its base on the ocean floor it exceeds 10,000 metres, comfortably beating Everest, but most of it is underwater."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a woman forced to wear a scarlet letter A?",
+      "options": [
+        "The House of Mirth",
+        "The Scarlet Letter",
+        "The Awakening",
+        "Ethan Frome"
+      ],
+      "answerIndex": 1,
+      "fact": "Its long opening chapter about a customs house has almost nothing to do with the plot and was added to pad the length."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which key on a standard keyboard is the widest?",
+      "options": [
+        "Space bar",
+        "Shift",
+        "Tab",
+        "Enter"
+      ],
+      "answerIndex": 0,
+      "fact": "The QWERTY arrangement around it was designed for mechanical typewriters, and survives purely because retraining everyone was never worth it."
+    }
+  ]
+}

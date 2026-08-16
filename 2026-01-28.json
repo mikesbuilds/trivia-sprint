@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-28",
+  "date": "2026-01-28",
   "categories": [
     "History",
     "Science",
@@ -12,80 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which dynasty built much of the Great Wall’s best-known stone-and-brick sections?",
+      "prompt": "The Gunpowder Plot of 1605 targeted which building?",
       "options": [
-        "Qin",
-        "Han",
-        "Ming",
-        "Tang"
+        "The Tower of London",
+        "Westminster Abbey",
+        "Buckingham Palace",
+        "The House of Lords"
       ],
-      "answerIndex": 2
+      "answerIndex": 3,
+      "fact": "The cellars beneath Parliament are still ceremonially searched before each State Opening, four centuries later."
     },
     {
       "category": "Science",
-      "prompt": "What is the name of the process by which liquid water becomes water vapor?",
+      "prompt": "Which lobe of the brain primarily processes vision?",
       "options": [
-        "Condensation",
-        "Evaporation",
-        "Sublimation",
-        "Precipitation"
+        "Parietal",
+        "Occipital",
+        "Frontal",
+        "Temporal"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It sits at the very back of the skull, about as far from the eyes as it is possible to be inside the head."
     },
     {
       "category": "Sports",
-      "prompt": "Which competition trophy is awarded to the champion of the NBA?",
+      "prompt": "How many players from each team are on a basketball court during play?",
       "options": [
-        "Stanley Cup",
-        "Larry O'Brien Trophy",
-        "Commissioner’s Trophy",
-        "Lombardi Trophy"
+        "Seven",
+        "Six",
+        "Four",
+        "Five"
       ],
-      "answerIndex": 1
+      "answerIndex": 3,
+      "fact": "The game was invented in 1891 using peach baskets, and someone had to retrieve the ball by ladder after every score."
     },
     {
       "category": "Pop Culture",
-      "prompt": "In 'Star Trek,' what is the name of the starship commanded by Captain Kirk?",
+      "prompt": "Which board game involves buying and trading properties?",
       "options": [
-        "Voyager",
-        "Enterprise",
-        "Defiant",
-        "Discovery"
+        "Risk",
+        "Scrabble",
+        "Monopoly",
+        "Cluedo"
       ],
-      "answerIndex": 1
+      "answerIndex": 2,
+      "fact": "An earlier version was designed to demonstrate how rent extraction concentrates wealth, which is close to the opposite of how it is played."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Brazil?",
+      "prompt": "Which country holds the largest share of the Amazon rainforest?",
       "options": [
-        "Rio de Janeiro",
-        "Brasília",
-        "São Paulo",
-        "Salvador"
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "Venezuela"
       ],
-      "answerIndex": 1
+      "answerIndex": 0,
+      "fact": "The forest generates much of its own rainfall, with moisture recycled through the canopy several times on its way inland."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'?",
+      "prompt": "Which Belgian detective did Agatha Christie create?",
       "options": [
-        "C.S. Lewis",
-        "J.K. Rowling",
-        "Philip Pullman",
-        "L. Frank Baum"
+        "Hercule Poirot",
+        "Inspector Maigret",
+        "Lord Peter Wimsey",
+        "Father Brown"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He is the only fictional character to have received a front-page obituary in The New York Times."
     },
     {
       "category": "Technology",
-      "prompt": "Which web browser is developed by Mozilla?",
+      "prompt": "What is a self-replicating program that spreads across networks called?",
       "options": [
-        "Safari",
-        "Firefox",
-        "Edge",
-        "Chrome"
+        "Trojan",
+        "Worm",
+        "Rootkit",
+        "Macro"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The first widely known one in 1988 was meant to measure the size of the internet, and accidentally took down much of it."
     }
   ]
 }
