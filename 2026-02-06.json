@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Domesday Book was a survey of which country?",
+      "options": [
+        "England",
+        "Denmark",
+        "France",
+        "Scotland"
+      ],
+      "answerIndex": 0,
+      "fact": "Compiled in 1086, it recorded holdings in such detail that its findings were treated as final, which is where the name comes from."
+    },
+    {
+      "category": "Science",
+      "prompt": "What does a seismograph record?",
+      "options": [
+        "Rainfall",
+        "Wind speed",
+        "Air pressure",
+        "Ground movement"
+      ],
+      "answerIndex": 3,
+      "fact": "The instrument works by keeping one mass still while everything around it shakes, then measuring the difference."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a standard Olympic marathon swimming race?",
+      "options": [
+        "1.5 km",
+        "10 km",
+        "5 km",
+        "25 km"
+      ],
+      "answerIndex": 1,
+      "fact": "It is held in open water, and races have been cancelled over water temperature rather than weather."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is known as the King of Pop?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "George Michael",
+        "Elton John"
+      ],
+      "answerIndex": 1,
+      "fact": "The moonwalk he made famous had been performed by street dancers for years before he put it on television."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the second-largest country by land area?",
+      "options": [
+        "China",
+        "The United States",
+        "Canada",
+        "Brazil"
+      ],
+      "answerIndex": 2,
+      "fact": "Roughly nine in ten of its people live within about 160 kilometres of the southern border."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play A Streetcar Named Desire?",
+      "options": [
+        "Edward Albee",
+        "Arthur Miller",
+        "Eugene O'Neill",
+        "Tennessee Williams"
+      ],
+      "answerIndex": 3,
+      "fact": "The streetcar line in its title was real, running through New Orleans to a street actually named Desire."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a compiler?",
+      "options": [
+        "To run code line by line",
+        "To detect viruses",
+        "To translate source code into machine code",
+        "To store code remotely"
+      ],
+      "answerIndex": 2,
+      "fact": "The first one was written by Grace Hopper, who had to argue that a computer could usefully write its own programs."
+    }
+  ]
+}

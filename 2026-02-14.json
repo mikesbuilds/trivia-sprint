@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict is often called the war to end all wars?",
+      "options": [
+        "The Napoleonic Wars",
+        "The Crimean War",
+        "The First World War",
+        "The Franco-Prussian War"
+      ],
+      "answerIndex": 2,
+      "fact": "The phrase came from a book by H.G. Wells and was already being used sarcastically within a decade."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest structure in the human skeleton by volume?",
+      "options": [
+        "Spine",
+        "Skull",
+        "Pelvis",
+        "Femur"
+      ],
+      "answerIndex": 2,
+      "fact": "It fuses from three separate bones during adolescence, which is why a child's is more flexible than an adult's."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is a perfect score in Olympic gymnastics under the old scoring system?",
+      "options": [
+        "20.0",
+        "100",
+        "6.0",
+        "10.0"
+      ],
+      "answerIndex": 3,
+      "fact": "The scoreboard could not display it the first time it was achieved in 1976, so it showed 1.00 instead."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which instrument is Jimi Hendrix most associated with?",
+      "options": [
+        "Piano",
+        "Bass",
+        "Drums",
+        "Guitar"
+      ],
+      "answerIndex": 3,
+      "fact": "He played right-handed instruments upside down, restringing them, which changed the tone in ways guitarists still chase."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest sea entirely within one country's borders?",
+      "options": [
+        "The Dead Sea",
+        "The Sea of Marmara",
+        "The Salton Sea",
+        "The Aral Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "It sits wholly within Turkey and links the Black Sea to the Aegean through two narrow straits."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Russian author wrote the short story The Overcoat?",
+      "options": [
+        "Nikolai Gogol",
+        "Ivan Turgenev",
+        "Anton Chekhov",
+        "Maxim Gorky"
+      ],
+      "answerIndex": 0,
+      "fact": "A famous remark holds that all Russian literature came out from under this one coat."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a pixel?",
+      "options": [
+        "The smallest element of a digital image",
+        "A type of processor",
+        "A unit of storage",
+        "A screen coating"
+      ],
+      "answerIndex": 0,
+      "fact": "The word is a contraction of picture element, and modern phone screens pack them tighter than the eye can resolve."
+    }
+  ]
+}

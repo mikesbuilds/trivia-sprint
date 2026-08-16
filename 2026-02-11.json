@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which two countries fought the Hundred Years' War?",
+      "options": [
+        "England and France",
+        "Spain and Portugal",
+        "Sweden and Denmark",
+        "Austria and Prussia"
+      ],
+      "answerIndex": 0,
+      "fact": "It ran 116 years, and was not one continuous war but a series of conflicts with long truces between them."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood component is responsible for clotting?",
+      "options": [
+        "Platelets",
+        "Red cells",
+        "Plasma",
+        "White cells"
+      ],
+      "answerIndex": 0,
+      "fact": "They are not whole cells but fragments shed from much larger cells in the bone marrow."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athletics event combines ten disciplines over two days?",
+      "options": [
+        "Triathlon",
+        "Heptathlon",
+        "Pentathlon",
+        "Decathlon"
+      ],
+      "answerIndex": 3,
+      "fact": "Its winner has traditionally been called the world's greatest athlete, a phrase attributed to a king of Sweden."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fashion week is not one of the traditional big four?",
+      "options": [
+        "London",
+        "New York",
+        "Milan",
+        "Tokyo"
+      ],
+      "answerIndex": 3,
+      "fact": "Paris completes the four, and the order they run in has barely changed in decades."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the southernmost city in the world?",
+      "options": [
+        "New Zealand",
+        "South Africa",
+        "Chile",
+        "Argentina"
+      ],
+      "answerIndex": 2,
+      "fact": "Puerto Williams holds the title, though nearby Ushuaia in Argentina is far better known for claiming it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a character called Scout?",
+      "options": [
+        "A Separate Peace",
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye",
+        "The Bell Jar"
+      ],
+      "answerIndex": 1,
+      "fact": "The narrator is an adult looking back, which is why the voice shifts between a child's view and a grown-up's."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company produced the Walkman?",
+      "options": [
+        "Panasonic",
+        "Sharp",
+        "Sony",
+        "Toshiba"
+      ],
+      "answerIndex": 2,
+      "fact": "It had no recording function, which the company's own engineers thought would doom it."
+    }
+  ]
+}

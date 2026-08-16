@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer is credited with first sighting the Pacific from the Americas?",
+      "options": [
+        "Amerigo Vespucci",
+        "Vasco Núñez de Balboa",
+        "Francisco Pizarro",
+        "Hernán Cortés"
+      ],
+      "answerIndex": 1,
+      "fact": "He crossed Panama on foot in 1513, and was executed six years later by a rival who had him charged with treason."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human sense is most closely linked to memory and emotion?",
+      "options": [
+        "Smell",
+        "Sight",
+        "Hearing",
+        "Touch"
+      ],
+      "answerIndex": 0,
+      "fact": "Its signals reach the emotional centres of the brain almost directly, bypassing the relay every other sense goes through."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What does a yellow card signify in football?",
+      "options": [
+        "Full time",
+        "A caution",
+        "A goal",
+        "A substitution"
+      ],
+      "answerIndex": 1,
+      "fact": "The idea came from traffic lights, after a referee struggled to make himself understood across a language barrier."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director is known for the films Vertigo and Rear Window?",
+      "options": [
+        "Billy Wilder",
+        "John Ford",
+        "Alfred Hitchcock",
+        "Orson Welles"
+      ],
+      "answerIndex": 2,
+      "fact": "He appeared briefly in most of his own films, and moved the cameos early so audiences would stop hunting for him mid-plot."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the world's longest mountain range, including underwater sections?",
+      "options": [
+        "The Mid-Atlantic Ridge",
+        "The Rockies",
+        "The Andes",
+        "The Himalayas"
+      ],
+      "answerIndex": 0,
+      "fact": "It runs some 16,000 kilometres along the ocean floor, and Iceland is one of the few places it breaks the surface."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set at Manderley?",
+      "options": [
+        "Jane Eyre",
+        "Wuthering Heights",
+        "Jamaica Inn",
+        "Rebecca"
+      ],
+      "answerIndex": 3,
+      "fact": "Its opening line about dreaming of Manderley is regularly voted among the best in English fiction."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a router do on a network?",
+      "options": [
+        "Generates IP addresses",
+        "Stores web pages",
+        "Encrypts passwords",
+        "Directs data between networks"
+      ],
+      "answerIndex": 3,
+      "fact": "Every packet you send crosses a dozen or more of them, each deciding independently where to pass it next."
+    }
+  ]
+}

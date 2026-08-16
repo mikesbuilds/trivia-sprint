@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first Prime Minister of independent India?",
+      "options": [
+        "Mohandas Gandhi",
+        "Jawaharlal Nehru",
+        "Indira Gandhi",
+        "Sardar Patel"
+      ],
+      "answerIndex": 1,
+      "fact": "His speech that night, given as midnight struck, is remembered by the phrase about a tryst with destiny."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the eye controls how much light enters?",
+      "options": [
+        "Retina",
+        "Iris",
+        "Cornea",
+        "Lens"
+      ],
+      "answerIndex": 1,
+      "fact": "Its pattern is essentially unique to each person and stable through life, which is why it works for identification."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is the term for winning a point directly from the serve?",
+      "options": [
+        "Ace",
+        "Let",
+        "Deuce",
+        "Fault"
+      ],
+      "answerIndex": 0,
+      "fact": "The fastest recorded serves exceed 250 km/h, giving the receiver under half a second to react."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Japanese art form of comics is read right to left?",
+      "options": [
+        "Manga",
+        "Anime",
+        "Kabuki",
+        "Ukiyo-e"
+      ],
+      "answerIndex": 0,
+      "fact": "English editions once flipped the artwork to read left to right, until publishers found readers preferred the original layout."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the world's largest coffee-growing region?",
+      "options": [
+        "Colombia",
+        "Ethiopia",
+        "Brazil",
+        "Vietnam"
+      ],
+      "answerIndex": 2,
+      "fact": "It has led world production for over 150 years, and a single bad frost there can move global prices."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Winston Smith?",
+      "options": [
+        "Fahrenheit 451",
+        "A Clockwork Orange",
+        "Brave New World",
+        "Nineteen Eighty-Four"
+      ],
+      "answerIndex": 3,
+      "fact": "The title is often said to be a reversal of 1948, the year it was written, though its author never confirmed it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a modem do?",
+      "options": [
+        "Cools components",
+        "Stores files",
+        "Displays graphics",
+        "Converts digital signals for transmission"
+      ],
+      "answerIndex": 3,
+      "fact": "The name is a contraction of modulator-demodulator, describing the two halves of the job."
+    }
+  ]
+}

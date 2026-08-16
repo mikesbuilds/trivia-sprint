@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Terracotta Army was built to guard the tomb of a ruler of which country?",
+      "options": [
+        "Korea",
+        "China",
+        "Japan",
+        "Mongolia"
+      ],
+      "answerIndex": 1,
+      "fact": "The figures were originally painted in bright colours, most of which flaked away within minutes of being exposed to air."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ produces the hormone adrenaline?",
+      "options": [
+        "Thyroid",
+        "Adrenal glands",
+        "Pancreas",
+        "Pituitary"
+      ],
+      "answerIndex": 1,
+      "fact": "They sit on top of the kidneys, which is exactly what their name describes."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the terms bogey, par and eagle?",
+      "options": [
+        "Archery",
+        "Bowling",
+        "Golf",
+        "Cricket"
+      ],
+      "answerIndex": 2,
+      "fact": "Bogey originally meant the score a good player should make, before par took over that role and bogey slipped a shot."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which social media platform was originally limited to 140 characters per post?",
+      "options": [
+        "Tumblr",
+        "Facebook",
+        "Reddit",
+        "Twitter"
+      ],
+      "answerIndex": 3,
+      "fact": "The limit came from text messages, which allowed 160 characters, leaving twenty for the username."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Sweden from Latvia?",
+      "options": [
+        "The Baltic Sea",
+        "The Barents Sea",
+        "The Norwegian Sea",
+        "The North Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "Its water is barely salty, because so many rivers drain into a sea with only one narrow outlet."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Great Expectations?",
+      "options": [
+        "Charles Dickens",
+        "Thomas Hardy",
+        "Anthony Trollope",
+        "George Eliot"
+      ],
+      "answerIndex": 0,
+      "fact": "Nearly all his novels were serialised, which is why they are so long and end so many chapters on a hook."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming paradigm organises code around objects and classes?",
+      "options": [
+        "Procedural",
+        "Declarative",
+        "Object-oriented",
+        "Functional"
+      ],
+      "answerIndex": 2,
+      "fact": "Its originator later said he had meant to emphasise messages between objects rather than the objects themselves."
+    }
+  ]
+}

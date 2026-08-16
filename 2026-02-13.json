@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilisation is credited with inventing concrete used in domes and aqueducts?",
+      "options": [
+        "Greek",
+        "Roman",
+        "Persian",
+        "Egyptian"
+      ],
+      "answerIndex": 1,
+      "fact": "Their seawater harbour concrete grows stronger over time, a property modern cement does not share."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which subatomic particle has no electric charge?",
+      "options": [
+        "Neutron",
+        "Positron",
+        "Proton",
+        "Electron"
+      ],
+      "answerIndex": 0,
+      "fact": "Outside an atomic nucleus one survives only about fifteen minutes before decaying into other particles."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which competition is contested by the best golfers of Europe and the United States?",
+      "options": [
+        "The Walker Cup",
+        "The Presidents Cup",
+        "The Solheim Cup",
+        "The Ryder Cup"
+      ],
+      "answerIndex": 3,
+      "fact": "It was originally Britain against the United States. Continental Europe was added in 1979 to make it competitive."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played the Joker in the 2008 film The Dark Knight?",
+      "options": [
+        "Jared Leto",
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "answerIndex": 2,
+      "fact": "He kept a diary in character during filming, and won a posthumous Academy Award for the performance."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island is divided between Haiti and the Dominican Republic?",
+      "options": [
+        "Jamaica",
+        "Cuba",
+        "Hispaniola",
+        "Puerto Rico"
+      ],
+      "answerIndex": 2,
+      "fact": "The border is visible from orbit, with dense forest on one side and cleared land on the other."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote The Hitchhiker's Guide to the Galaxy?",
+      "options": [
+        "Douglas Adams",
+        "Terry Pratchett",
+        "Kurt Vonnegut",
+        "Iain Banks"
+      ],
+      "answerIndex": 0,
+      "fact": "It started as a radio series, and he was famously so late with deadlines that publishers locked him in a hotel to finish one book."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology allows contactless card payments?",
+      "options": [
+        "Infrared",
+        "NFC",
+        "Bluetooth",
+        "Wi-Fi"
+      ],
+      "answerIndex": 1,
+      "fact": "Its range is a few centimetres by design, since being hard to intercept is the point rather than a limitation."
+    }
+  ]
+}

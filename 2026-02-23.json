@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first European known to reach India by sea around Africa?",
+      "options": [
+        "Bartolomeu Dias",
+        "Henry the Navigator",
+        "Vasco da Gama",
+        "Pedro Cabral"
+      ],
+      "answerIndex": 2,
+      "fact": "The voyage took him longer to cross the Indian Ocean than the entire Atlantic leg, because he had to wait on the monsoon."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body part contains the smallest bones in the human body?",
+      "options": [
+        "Hand",
+        "Foot",
+        "Ear",
+        "Nose"
+      ],
+      "answerIndex": 2,
+      "fact": "The smallest is about the size of a grain of rice, and all three reach full adult size before birth."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the men's football World Cup?",
+      "options": [
+        "The Jules Rimet Trophy",
+        "The Copa América",
+        "The Henri Delaunay Cup",
+        "The FIFA World Cup Trophy"
+      ],
+      "answerIndex": 3,
+      "fact": "The original trophy was won outright by Brazil in 1970, then stolen in 1983 and never recovered."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero team includes Cyclops, Storm and Wolverine?",
+      "options": [
+        "The X-Men",
+        "The Fantastic Four",
+        "The Avengers",
+        "The Justice League"
+      ],
+      "answerIndex": 0,
+      "fact": "The 1975 relaunch that made them famous deliberately assembled an international line-up to sell the comic overseas."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean lies between Africa and Australia?",
+      "options": [
+        "The Indian",
+        "The Pacific",
+        "The Atlantic",
+        "The Southern"
+      ],
+      "answerIndex": 0,
+      "fact": "It is the warmest ocean, which limits how much oxygen its water can hold and shapes what lives in it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with a family fleeing the Oklahoma Dust Bowl?",
+      "options": [
+        "East of Eden",
+        "Of Mice and Men",
+        "Cannery Row",
+        "The Grapes of Wrath"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author spent months living in migrant camps before writing a word of it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a cookie in a web browser?",
+      "options": [
+        "An encryption key",
+        "A small data file stored by a site",
+        "A cached image",
+        "A type of plugin"
+      ],
+      "answerIndex": 1,
+      "fact": "The name comes from magic cookie, an older programming term for a token passed back and forth unchanged."
+    }
+  ]
+}

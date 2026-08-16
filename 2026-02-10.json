@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which disaster struck the passenger liner Titanic in 1912?",
+      "options": [
+        "A boiler explosion",
+        "A torpedo",
+        "A fire",
+        "An iceberg collision"
+      ],
+      "answerIndex": 3,
+      "fact": "The wreck was not located until 1985, and the search was partly cover for a classified mission to find two sunken submarines."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist is credited with the discovery of the electron?",
+      "options": [
+        "James Chadwick",
+        "J.J. Thomson",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "answerIndex": 1,
+      "fact": "He proposed atoms were a soup of electrons in positive charge, a model his own student later demolished."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a baseball team's fielding side?",
+      "options": [
+        "Nine",
+        "Eight",
+        "Ten",
+        "Eleven"
+      ],
+      "answerIndex": 0,
+      "fact": "The pitcher and catcher are together called the battery, a term borrowed from artillery."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming platform produced the series Squid Game?",
+      "options": [
+        "Disney Plus",
+        "Amazon Prime Video",
+        "Netflix",
+        "Apple TV Plus"
+      ],
+      "answerIndex": 2,
+      "fact": "Its writer spent a decade failing to sell the script, at one point selling his laptop to cover living costs."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country has the most active volcano in the region?",
+      "options": [
+        "Portugal",
+        "Greece",
+        "Italy",
+        "France"
+      ],
+      "answerIndex": 2,
+      "fact": "Mount Etna has erupted almost continuously for thousands of years, and towns on its slopes simply rebuild around the lava."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a whale called the White Whale?",
+      "options": [
+        "Billy Budd",
+        "Typee",
+        "The Sea-Wolf",
+        "Moby-Dick"
+      ],
+      "answerIndex": 3,
+      "fact": "It was inspired partly by a real whale that reportedly attacked ships off Chile and survived dozens of harpoons."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a duplicate copy of data kept for safety?",
+      "options": [
+        "Cache",
+        "Backup",
+        "Buffer",
+        "Mirror"
+      ],
+      "answerIndex": 1,
+      "fact": "The standard advice is three copies on two kinds of media with one kept off site, usually shortened to three-two-one."
+    }
+  ]
+}

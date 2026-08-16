@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Egyptian structure was the tallest building on Earth for around 3,800 years?",
+      "options": [
+        "The Temple of Karnak",
+        "The Sphinx",
+        "The Great Pyramid of Giza",
+        "The Lighthouse of Alexandria"
+      ],
+      "answerIndex": 2,
+      "fact": "It only lost the record to Lincoln Cathedral in England, whose spire later collapsed and was never rebuilt."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which plants lose water through their leaves?",
+      "options": [
+        "Transpiration",
+        "Photosynthesis",
+        "Respiration",
+        "Germination"
+      ],
+      "answerIndex": 0,
+      "fact": "A large tree can move hundreds of litres a day this way, and the pull is what drags water up from the roots."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a ball with 32 panels in its traditional design?",
+      "options": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Water polo"
+      ],
+      "answerIndex": 0,
+      "fact": "The pattern of twenty hexagons and twelve pentagons became standard at the 1970 World Cup, chosen to show up on black-and-white television."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set aboard the Nostromo?",
+      "options": [
+        "Silent Running",
+        "Sunshine",
+        "Event Horizon",
+        "Alien"
+      ],
+      "answerIndex": 3,
+      "fact": "The cast were not shown the creature before the chest scene, so their reactions are close to genuine."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the deepest lake in Africa?",
+      "options": [
+        "Lake Malawi",
+        "Lake Tanganyika",
+        "Lake Victoria",
+        "Lake Turkana"
+      ],
+      "answerIndex": 1,
+      "fact": "It reaches over 1,400 metres and holds around 16 percent of the world's available fresh water."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel begins in a place called the Shire?",
+      "options": [
+        "The Chronicles of Narnia",
+        "Watership Down",
+        "The Lord of the Rings",
+        "The Once and Future King"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author drew the maps first and insisted the geography had to work before the plot could move through it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which file format is designed for lossless image compression?",
+      "options": [
+        "GIF",
+        "JPEG",
+        "WebP",
+        "PNG"
+      ],
+      "answerIndex": 3,
+      "fact": "It was created specifically to replace GIF after the company holding GIF's compression patent began demanding fees."
+    }
+  ]
+}

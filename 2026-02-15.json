@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document begins with the words We the People?",
+      "options": [
+        "The Federalist Papers",
+        "The Bill of Rights",
+        "The United States Constitution",
+        "The Declaration of Independence"
+      ],
+      "answerIndex": 2,
+      "fact": "The original draft opened by listing the states individually. It was shortened when nobody could be sure which would ratify."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas do fireflies use in the reaction that makes them glow?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answerIndex": 1,
+      "fact": "The reaction is nearly 100 percent efficient, wasting almost no energy as heat, which no light bulb comes close to."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played on the largest standard field?",
+      "options": [
+        "Polo",
+        "Rugby",
+        "Football",
+        "Cricket"
+      ],
+      "answerIndex": 0,
+      "fact": "A full-size pitch is around nine football fields in area, which is part of why the sport stayed expensive."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series is set in the fictional Yorkshire village of Emmerdale?",
+      "options": [
+        "Hollyoaks",
+        "EastEnders",
+        "Emmerdale",
+        "Coronation Street"
+      ],
+      "answerIndex": 2,
+      "fact": "It began as a daytime programme called Emmerdale Farm and only dropped the farm from its title in 1989."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has the most countries?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answerIndex": 1,
+      "fact": "It has 54, a number that owes more to the borders drawn in Berlin in 1885 than to anything on the ground."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Sydney Carton?",
+      "options": [
+        "A Tale of Two Cities",
+        "Great Expectations",
+        "David Copperfield",
+        "Bleak House"
+      ],
+      "answerIndex": 0,
+      "fact": "Its closing line about a far, far better thing is among the most quoted endings in English fiction."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym GIF stand for?",
+      "options": [
+        "General Image File",
+        "Graphic Inline Frame",
+        "Grouped Icon Frame",
+        "Graphics Interchange Format"
+      ],
+      "answerIndex": 3,
+      "fact": "Its creator insisted the name is pronounced with a soft g, and lost that argument comprehensively."
+    }
+  ]
+}
