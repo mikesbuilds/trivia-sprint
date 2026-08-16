@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's civil war ended in 1939 with Franco in power?",
+      "options": [
+        "Spain",
+        "Greece",
+        "Portugal",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "fact": "It served as a testing ground for weapons and tactics both Germany and the Soviet Union used soon after."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which sense do bats primarily use to navigate in darkness?",
+      "options": [
+        "Smell",
+        "Magnetism",
+        "Echolocation",
+        "Sight"
+      ],
+      "answerIndex": 2,
+      "fact": "They emit calls loud enough to deafen themselves, and briefly disconnect their own ear bones with each shout."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a device called a starting block?",
+      "options": [
+        "Both swimming and sprinting",
+        "Cycling",
+        "Swimming",
+        "Sprinting"
+      ],
+      "answerIndex": 0,
+      "fact": "Both fit them with sensors, and a reaction under a tenth of a second is ruled a false start as physically impossible."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which comedy film features a wedding planner named Franck?",
+      "options": [
+        "Bridesmaids",
+        "27 Dresses",
+        "The Wedding Singer",
+        "Father of the Bride"
+      ],
+      "answerIndex": 3,
+      "fact": "The character's near-incomprehensible accent was invented by the actor during auditions and kept."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known for the fjord called Geirangerfjord?",
+      "options": [
+        "Iceland",
+        "Sweden",
+        "Denmark",
+        "Norway"
+      ],
+      "answerIndex": 3,
+      "fact": "Cruise ships were restricted there over emissions, since the steep walls trap exhaust in the valley."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Master and Margarita?",
+      "options": [
+        "Andrei Bely",
+        "Alexander Solzhenitsyn",
+        "Mikhail Bulgakov",
+        "Boris Pasternak"
+      ],
+      "answerIndex": 2,
+      "fact": "He burned an early draft, then rewrote it, and it was published only twenty-six years after his death."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym UI stand for?",
+      "options": [
+        "Update Instance",
+        "User Interface",
+        "Universal Input",
+        "Unified Integration"
+      ],
+      "answerIndex": 1,
+      "fact": "UX is the broader experience, so a beautiful interface can still sit inside a terrible one."
+    }
+  ]
+}

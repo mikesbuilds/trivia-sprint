@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which plague-carrying pandemic reached Europe in 1347 by ship?",
+      "options": [
+        "Typhus",
+        "Cholera",
+        "Smallpox",
+        "The Black Death"
+      ],
+      "answerIndex": 3,
+      "fact": "Quarantine gets its name from the forty days Venetian ships were held offshore during outbreaks."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the outermost layer of the Earth?",
+      "options": [
+        "Core",
+        "Lithosphere",
+        "Mantle",
+        "Crust"
+      ],
+      "answerIndex": 3,
+      "fact": "Under the oceans it is only about six kilometres thick, thinner relative to the planet than an apple skin."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How heavy is a men's Olympic shot?",
+      "options": [
+        "7.26 kg",
+        "4 kg",
+        "5.4 kg",
+        "9 kg"
+      ],
+      "answerIndex": 0,
+      "fact": "That is exactly sixteen pounds, another metric figure that gives itself away as an imperial conversion."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist painted The Persistence of Memory with its melting clocks?",
+      "options": [
+        "Joan Miró",
+        "Max Ernst",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answerIndex": 2,
+      "fact": "He said the clocks were inspired by camembert cheese softening in the sun."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Great Rift Valley's northern end?",
+      "options": [
+        "Israel and Jordan",
+        "Ethiopia",
+        "Kenya",
+        "Tanzania"
+      ],
+      "answerIndex": 0,
+      "fact": "The system runs some 6,000 kilometres, and East Africa is slowly tearing away along it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Rebecca and the short story The Birds?",
+      "options": [
+        "Shirley Jackson",
+        "Daphne du Maurier",
+        "Elizabeth Bowen",
+        "Muriel Spark"
+      ],
+      "answerIndex": 1,
+      "fact": "Both were adapted by Hitchcock, and she reportedly disliked what he did to the second one."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for combining code changes from different branches?",
+      "options": [
+        "Compiling",
+        "Staging",
+        "Merging",
+        "Deploying"
+      ],
+      "answerIndex": 2,
+      "fact": "Conflicts arise only when two branches change the same lines, which is why small frequent changes hurt less."
+    }
+  ]
+}

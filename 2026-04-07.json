@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Roman structure could be flooded to stage mock naval battles?",
+      "options": [
+        "The Colosseum",
+        "The Baths of Caracalla",
+        "The Circus Maximus",
+        "The Forum"
+      ],
+      "answerIndex": 0,
+      "fact": "The capability was lost once a network of underground chambers was built beneath the arena floor."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a star that suddenly increases dramatically in brightness?",
+      "options": [
+        "Pulsar",
+        "Nova",
+        "Quasar",
+        "Nebula"
+      ],
+      "answerIndex": 1,
+      "fact": "The name means new, because early astronomers assumed a star had appeared where none had been."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is a home run with the bases loaded called?",
+      "options": [
+        "A full house",
+        "A four-bagger",
+        "A cycle",
+        "A grand slam"
+      ],
+      "answerIndex": 3,
+      "fact": "The term was borrowed from bridge, where it means winning every trick."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist created the sculpture known as The Thinker?",
+      "options": [
+        "Constantin Brancusi",
+        "Michelangelo",
+        "Donatello",
+        "Auguste Rodin"
+      ],
+      "answerIndex": 3,
+      "fact": "It was originally a small figure meant to sit above a much larger doorway, and was only later enlarged."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the deepest point of the Atlantic Ocean?",
+      "options": [
+        "The South Sandwich Trench",
+        "The Puerto Rico Trench",
+        "The Cayman Trough",
+        "The Romanche Trench"
+      ],
+      "answerIndex": 1,
+      "fact": "It reaches over 8,000 metres, and the tectonic strain there makes the Caribbean a tsunami risk."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes giving a hint of what is to come in a story?",
+      "options": [
+        "Denouement",
+        "Exposition",
+        "Foreshadowing",
+        "Flashback"
+      ],
+      "answerIndex": 2,
+      "fact": "The advice about a gun on the wall having to be fired later comes from Chekhov, describing exactly this."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which format is commonly used for lossy audio compression?",
+      "options": [
+        "FLAC",
+        "WAV",
+        "MP3",
+        "AIFF"
+      ],
+      "answerIndex": 2,
+      "fact": "It discards sound the ear is unlikely to notice, a technique borrowed from research into human hearing."
+    }
+  ]
+}

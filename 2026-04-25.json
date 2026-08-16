@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Hagia Sophia was built as what kind of building?",
+      "options": [
+        "A mosque",
+        "A palace",
+        "A library",
+        "A cathedral"
+      ],
+      "answerIndex": 3,
+      "fact": "It held the record for the world's largest interior space for nearly a thousand years."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of a comet points away from the Sun?",
+      "options": [
+        "The core",
+        "The tail",
+        "The coma",
+        "The nucleus"
+      ],
+      "answerIndex": 1,
+      "fact": "It is pushed by solar wind rather than trailing behind, so on the outbound leg it precedes the comet."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the Premier League?",
+      "options": [
+        "The Charity Shield",
+        "The FA Cup",
+        "The Premier League Trophy",
+        "The League Cup"
+      ],
+      "answerIndex": 2,
+      "fact": "A second identical trophy exists so presentations can be staged simultaneously if the title is undecided on the final day."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which festival is held annually in the Nevada desert?",
+      "options": [
+        "SXSW",
+        "Burning Man",
+        "Coachella",
+        "Lollapalooza"
+      ],
+      "answerIndex": 1,
+      "fact": "Participants are expected to remove everything they bring, leaving the site as they found it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's currency is the yen?",
+      "options": [
+        "South Korea",
+        "Vietnam",
+        "China",
+        "Japan"
+      ],
+      "answerIndex": 3,
+      "fact": "It has no smaller circulating unit, having abolished the sen in 1953 to end wartime inflation accounting."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel All the Light We Cannot See?",
+      "options": [
+        "Anthony Doerr",
+        "Kristin Hannah",
+        "Sebastian Faulks",
+        "Markus Zusak"
+      ],
+      "answerIndex": 0,
+      "fact": "He spent ten years on it, and its very short chapters were designed to be read in single sittings."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is used to query relational databases?",
+      "options": [
+        "CSS",
+        "YAML",
+        "SQL",
+        "HTML"
+      ],
+      "answerIndex": 2,
+      "fact": "Every database vendor has its own dialect, so queries rarely move between systems unchanged."
+    }
+  ]
+}

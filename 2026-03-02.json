@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Antikythera mechanism was used to predict what?",
+      "options": [
+        "Astronomical positions",
+        "Tides",
+        "Harvests",
+        "Earthquakes"
+      ],
+      "answerIndex": 0,
+      "fact": "Nothing of comparable gearing complexity appears again for well over a thousand years."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for the point at which a liquid becomes a gas?",
+      "options": [
+        "Critical point",
+        "Triple point",
+        "Melting point",
+        "Boiling point"
+      ],
+      "answerIndex": 3,
+      "fact": "It falls with altitude, which is why cooking instructions differ at high elevation and water boils cooler on Everest."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a sport-specific term called a bogey?",
+      "options": [
+        "Cricket",
+        "Golf",
+        "Curling",
+        "Bowling"
+      ],
+      "answerIndex": 1,
+      "fact": "It comes from a Victorian song about a bogeyman, adopted by golfers as the phantom opponent they were chasing."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV drama is set in the fictional Sterling Cooper advertising agency?",
+      "options": [
+        "Mad Men",
+        "Billions",
+        "The Newsroom",
+        "Suits"
+      ],
+      "answerIndex": 0,
+      "fact": "Its creator wrote the pilot years earlier and used it as a writing sample to get a job on The Sopranos."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city sits at the mouth of the River Tagus?",
+      "options": [
+        "Cadiz",
+        "Porto",
+        "Seville",
+        "Lisbon"
+      ],
+      "answerIndex": 3,
+      "fact": "Its lower town was rebuilt on a strict grid after 1755, using some of the earliest earthquake-resistant design in Europe."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem begins Let us go then, you and I?",
+      "options": [
+        "The Waste Land",
+        "The Love Song of J. Alfred Prufrock",
+        "Four Quartets",
+        "Ash Wednesday"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author wrote most of it while still a student, years before it found a publisher."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Unix operating system?",
+      "options": [
+        "Xerox",
+        "DEC",
+        "Bell Labs",
+        "IBM"
+      ],
+      "answerIndex": 2,
+      "fact": "It began as a side project after a larger operating system was cancelled, written partly to run a game."
+    }
+  ]
+}

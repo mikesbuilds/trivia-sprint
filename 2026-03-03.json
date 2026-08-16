@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by the Tokugawa shogunate?",
+      "options": [
+        "Korea",
+        "Japan",
+        "Vietnam",
+        "China"
+      ],
+      "answerIndex": 1,
+      "fact": "It closed the country to almost all foreign contact for over two centuries, permitting one Dutch trading post."
+    },
+    {
+      "category": "Science",
+      "prompt": "What does an ecologist study?",
+      "options": [
+        "Relationships between organisms and environment",
+        "Rocks",
+        "Ancient life",
+        "Stars"
+      ],
+      "answerIndex": 0,
+      "fact": "The word ecosystem was coined only in 1935, long after the study itself began."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on an Australian rules football team on the field?",
+      "options": [
+        "Fifteen",
+        "Twenty",
+        "Sixteen",
+        "Eighteen"
+      ],
+      "answerIndex": 3,
+      "fact": "The oval ground it is played on is borrowed from cricket, since the sport was invented to keep cricketers fit in winter."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist is known for the Marilyn Diptych?",
+      "options": [
+        "Keith Haring",
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Jackson Pollock"
+      ],
+      "answerIndex": 2,
+      "fact": "He made it in the weeks after her death, using a publicity photograph from a film released ten years earlier."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Tian Shan mountain range's highest peak?",
+      "options": [
+        "Uzbekistan",
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Tajikistan"
+      ],
+      "answerIndex": 2,
+      "fact": "Roughly ninety percent of the country sits above 1,500 metres, making it one of the most mountainous on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Lolita?",
+      "options": [
+        "Boris Pasternak",
+        "Ivan Bunin",
+        "Yevgeny Zamyatin",
+        "Vladimir Nabokov"
+      ],
+      "answerIndex": 3,
+      "fact": "He wrote in his third language, and claimed his English prose was a poor substitute for his Russian."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program that translates code line by line at runtime?",
+      "options": [
+        "Interpreter",
+        "Assembler",
+        "Linker",
+        "Compiler"
+      ],
+      "answerIndex": 0,
+      "fact": "It runs slower than compiled code but lets you test a change instantly, which is why scripting languages use it."
+    }
+  ]
+}

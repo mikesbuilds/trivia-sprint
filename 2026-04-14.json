@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Italian city-state was ruled by the Medici family?",
+      "options": [
+        "Genoa",
+        "Florence",
+        "Venice",
+        "Milan"
+      ],
+      "answerIndex": 1,
+      "fact": "They began as bankers, and their funding of artists is much of why the Renaissance happened where it did."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for an atom with a different number of neutrons?",
+      "options": [
+        "Allotrope",
+        "Isomer",
+        "Ion",
+        "Isotope"
+      ],
+      "answerIndex": 3,
+      "fact": "Carbon dating works by measuring how much of one unstable version remains in organic material."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country's team is nicknamed the All Blacks?",
+      "options": [
+        "New Zealand",
+        "Fiji",
+        "Australia",
+        "South Africa"
+      ],
+      "answerIndex": 0,
+      "fact": "The name may have come from a printer's error, with all backs misread as all blacks in a match report."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which social platform is built around short vertical videos?",
+      "options": [
+        "TikTok",
+        "Discord",
+        "LinkedIn",
+        "Pinterest"
+      ],
+      "answerIndex": 0,
+      "fact": "It grew out of a merger with a lip-syncing app that already had tens of millions of users."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's largest city is Ho Chi Minh City?",
+      "options": [
+        "Cambodia",
+        "Laos",
+        "Thailand",
+        "Vietnam"
+      ],
+      "answerIndex": 3,
+      "fact": "It is still widely called Saigon in everyday speech, including by the airport's own international code."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Boo Radley?",
+      "options": [
+        "A Time to Kill",
+        "To Kill a Mockingbird",
+        "Cold Sassy Tree",
+        "The Help"
+      ],
+      "answerIndex": 1,
+      "fact": "He appears in person only at the very end, having been present in the story's imagination throughout."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym LED's successor OLED add?",
+      "options": [
+        "Overclocked drivers",
+        "Optical lenses",
+        "Organic compounds that emit light",
+        "Outer laminated glass"
+      ],
+      "answerIndex": 2,
+      "fact": "Because each pixel makes its own light, switching one off produces genuine black rather than dark grey."
+    }
+  ]
+}

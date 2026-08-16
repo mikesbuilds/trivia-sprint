@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Anglo-Zanzibar War of 1896 is notable for what?",
+      "options": [
+        "Its treaty",
+        "Its naval scale",
+        "Its casualties",
+        "Its length of under an hour"
+      ],
+      "answerIndex": 3,
+      "fact": "It is generally recorded as the shortest war in history, lasting roughly 38 minutes."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the largest volcano in the solar system?",
+      "options": [
+        "Mars",
+        "Io",
+        "Venus",
+        "Earth"
+      ],
+      "answerIndex": 0,
+      "fact": "Olympus Mons is roughly the size of France and so wide that from its slopes the summit would sit below the horizon."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the men's football World Cup in 1966?",
+      "options": [
+        "Brazil",
+        "West Germany",
+        "England",
+        "Italy"
+      ],
+      "answerIndex": 2,
+      "fact": "The trophy had been stolen months earlier and was found by a dog named Pickles under a hedge in south London."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV format features contestants in a house under constant filming?",
+      "options": [
+        "The Bachelor",
+        "Survivor",
+        "Big Brother",
+        "Love Island"
+      ],
+      "answerIndex": 2,
+      "fact": "It began in the Netherlands in 1999 and takes its name from the surveillance state in Orwell's novel."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is bordered by Vietnam, the Philippines and China?",
+      "options": [
+        "The South China Sea",
+        "The Andaman Sea",
+        "The Java Sea",
+        "The East China Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly a third of global shipping passes through it, which is much of why its islands are so fiercely contested."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Half of a Yellow Sun?",
+      "options": [
+        "Chinua Achebe",
+        "Chimamanda Ngozi Adichie",
+        "Ben Okri",
+        "Wole Soyinka"
+      ],
+      "answerIndex": 1,
+      "fact": "The title refers to the emblem on the flag of Biafra, the breakaway state at the centre of the story."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a copy of a website stored to serve faster?",
+      "options": [
+        "Archive",
+        "Snapshot",
+        "Mirror",
+        "Cache"
+      ],
+      "answerIndex": 3,
+      "fact": "Deciding when to discard it is famously one of the two hardest problems in computing, alongside naming things."
+    }
+  ]
+}

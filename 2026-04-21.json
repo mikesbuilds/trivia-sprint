@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Gold Rush of 1849 drew prospectors to which US state?",
+      "options": [
+        "California",
+        "Nevada",
+        "Alaska",
+        "Colorado"
+      ],
+      "answerIndex": 0,
+      "fact": "Most miners lost money. The reliable fortunes were made selling them tools, food and trousers."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure in plants absorbs water and nutrients from soil?",
+      "options": [
+        "Leaf",
+        "Stem",
+        "Bud",
+        "Root"
+      ],
+      "answerIndex": 3,
+      "fact": "Most of the absorbing is done by microscopic hairs, and many plants effectively outsource the job to fungi."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country invented the sport of lacrosse?",
+      "options": [
+        "England",
+        "Canada",
+        "France",
+        "The United States"
+      ],
+      "answerIndex": 1,
+      "fact": "It descends from games played by Indigenous nations, some involving hundreds of players and lasting days."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features a prison called Litchfield?",
+      "options": [
+        "Orange Is the New Black",
+        "Wentworth",
+        "Prison Break",
+        "Oz"
+      ],
+      "answerIndex": 0,
+      "fact": "It was based on a memoir, and the real author served just over a year."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Korea from Japan?",
+      "options": [
+        "The Yellow Sea",
+        "The Philippine Sea",
+        "The East China Sea",
+        "The Sea of Japan"
+      ],
+      "answerIndex": 3,
+      "fact": "Its name is itself a long-running diplomatic dispute, with Korea preferring the East Sea."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Brief History of Seven Killings?",
+      "options": [
+        "Colson Whitehead",
+        "Marlon James",
+        "Zadie Smith",
+        "Paul Beatty"
+      ],
+      "answerIndex": 1,
+      "fact": "It circles an attempt on Bob Marley's life, and is narrated by more than seventy different voices."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SQL injection exploit?",
+      "options": [
+        "Weak passwords",
+        "Open ports",
+        "Unsanitised database queries",
+        "Outdated firmware"
+      ],
+      "answerIndex": 2,
+      "fact": "It has been in published top-ten vulnerability lists for over twenty years and still appears regularly."
+    }
+  ]
+}

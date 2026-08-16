@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first European monarch to break with the Roman Catholic Church in the 1530s?",
+      "options": [
+        "Charles V",
+        "Philip II",
+        "Francis I",
+        "Henry VIII"
+      ],
+      "answerIndex": 3,
+      "fact": "The Pope had earlier given him a title defending the faith, which English monarchs still carry today."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas makes up the majority of the air we exhale?",
+      "options": [
+        "Oxygen",
+        "Water vapour",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answerIndex": 3,
+      "fact": "Nitrogen passes through untouched, and exhaled air still contains about 16 percent oxygen, which is what makes rescue breathing work."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How wide is a regulation football goal?",
+      "options": [
+        "7.32 metres",
+        "8 metres",
+        "9.15 metres",
+        "6.4 metres"
+      ],
+      "answerIndex": 0,
+      "fact": "The figure is 8 yards converted, which is why it comes out at such an awkward metric number."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician was known as Slowhand?",
+      "options": [
+        "Keith Richards",
+        "Eric Clapton",
+        "Jeff Beck",
+        "Jimmy Page"
+      ],
+      "answerIndex": 1,
+      "fact": "The nickname came from audiences slow-clapping while he changed a broken string mid-song."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the world's highest waterfall by uninterrupted drop?",
+      "options": [
+        "Venezuela",
+        "Colombia",
+        "Brazil",
+        "Guyana"
+      ],
+      "answerIndex": 0,
+      "fact": "It was unknown outside the region until an American pilot crash-landed nearby in 1937."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Never Let Me Go?",
+      "options": [
+        "Ian McEwan",
+        "Julian Barnes",
+        "Kazuo Ishiguro",
+        "Martin Amis"
+      ],
+      "answerIndex": 2,
+      "fact": "He has said he tried the same premise twice before, over fifteen years, and abandoned both attempts."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the PostScript page description language?",
+      "options": [
+        "HP",
+        "Adobe",
+        "Apple",
+        "Xerox"
+      ],
+      "answerIndex": 1,
+      "fact": "Combined with the laser printer and a Mac, it created desktop publishing more or less overnight."
+    }
+  ]
+}

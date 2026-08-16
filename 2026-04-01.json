@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war ended with the Treaty of Ghent in 1814?",
+      "options": [
+        "The Seven Years' War",
+        "The Mexican-American War",
+        "The War of 1812",
+        "The Napoleonic Wars"
+      ],
+      "answerIndex": 2,
+      "fact": "The largest battle of the war was fought after the treaty was signed, because news took weeks to cross the Atlantic."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human organ system includes the skin, hair and nails?",
+      "options": [
+        "Muscular",
+        "Integumentary",
+        "Endocrine",
+        "Lymphatic"
+      ],
+      "answerIndex": 1,
+      "fact": "Skin is the body's largest organ, weighing more than the brain and liver combined."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which position in football is the only one permitted to handle the ball?",
+      "options": [
+        "Goalkeeper",
+        "Defender",
+        "Midfielder",
+        "Sweeper"
+      ],
+      "answerIndex": 0,
+      "fact": "Even then only inside the penalty area, a restriction introduced in 1912 after keepers began roaming."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which comedian created the character Ali G?",
+      "options": [
+        "Steve Coogan",
+        "Ricky Gervais",
+        "Sacha Baron Cohen",
+        "Matt Lucas"
+      ],
+      "answerIndex": 2,
+      "fact": "Several interviewees only realised the character was fictional after their footage aired."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Serengeti plains?",
+      "options": [
+        "Tanzania",
+        "Zambia",
+        "Kenya",
+        "Uganda"
+      ],
+      "answerIndex": 0,
+      "fact": "Its annual wildebeest migration involves nearly two million animals moving in a rough circle across the border and back."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a long speech by one character in a play?",
+      "options": [
+        "Aside",
+        "Dialogue",
+        "Chorus",
+        "Monologue"
+      ],
+      "answerIndex": 3,
+      "fact": "A soliloquy differs in that the character is alone and speaking their thoughts rather than addressing anyone."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for the first version of a product released for testing?",
+      "options": [
+        "Release candidate",
+        "Beta",
+        "Patch",
+        "Alpha"
+      ],
+      "answerIndex": 3,
+      "fact": "Beta follows it, and the practice of public betas began largely because testing at scale is impossible in-house."
+    }
+  ]
+}

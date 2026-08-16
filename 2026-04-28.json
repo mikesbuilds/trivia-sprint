@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city's walls are described in the Epic of Gilgamesh?",
+      "options": [
+        "Ur",
+        "Nippur",
+        "Uruk",
+        "Lagash"
+      ],
+      "answerIndex": 2,
+      "fact": "The poem opens and closes by praising the walls, framing the whole story as a monument the king left behind."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the SI unit of electric current?",
+      "options": [
+        "Ohm",
+        "Ampere",
+        "Coulomb",
+        "Volt"
+      ],
+      "answerIndex": 1,
+      "fact": "It is defined by the force between two current-carrying wires, one of the few units tied to a physical effect rather than an object."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes is a period of extra time in knockout football?",
+      "options": [
+        "Thirty",
+        "Ten",
+        "Fifteen",
+        "Twenty"
+      ],
+      "answerIndex": 2,
+      "fact": "Two such periods are played in full, with no sudden death, after the golden goal experiment was abandoned in 2004."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician performed at Live Aid wearing a white vest and led the crowd in call and response?",
+      "options": [
+        "Freddie Mercury",
+        "Phil Collins",
+        "Bono",
+        "David Bowie"
+      ],
+      "answerIndex": 0,
+      "fact": "Phil Collins played both London and Philadelphia that day, crossing the Atlantic on Concorde between sets."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's northernmost point lies inside the Arctic Circle and hosts a midnight sun?",
+      "options": [
+        "Norway",
+        "Ireland",
+        "Estonia",
+        "Denmark"
+      ],
+      "answerIndex": 0,
+      "fact": "In its far north the sun does not set for around ten weeks, and does not rise for a similar stretch in winter."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a recurring image or idea in a work?",
+      "options": [
+        "Genre",
+        "Motif",
+        "Conceit",
+        "Trope"
+      ],
+      "answerIndex": 1,
+      "fact": "It differs from a theme in being concrete: the theme is the idea, this is the thing that keeps appearing."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Slack messaging platform?",
+      "options": [
+        "Atlassian",
+        "Salesforce",
+        "Microsoft",
+        "A failed game studio"
+      ],
+      "answerIndex": 3,
+      "fact": "It was the internal chat tool built for a game that flopped, and the tool outlived the game."
+    }
+  ]
+}

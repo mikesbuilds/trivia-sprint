@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which civilisation produced the Code of Hammurabi?",
+      "options": [
+        "Assyrian",
+        "Babylonian",
+        "Hittite",
+        "Egyptian"
+      ],
+      "answerIndex": 1,
+      "fact": "It set penalties by social rank, so the same offence cost a noble and a commoner very different amounts."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of insects called?",
+      "options": [
+        "Entomology",
+        "Etymology",
+        "Herpetology",
+        "Ichthyology"
+      ],
+      "answerIndex": 0,
+      "fact": "It is regularly confused with etymology, the study of word origins, which is itself a nice piece of etymology."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do teams compete for the Webb Ellis Cup?",
+      "options": [
+        "Cricket",
+        "Rugby league",
+        "Rugby union",
+        "Hockey"
+      ],
+      "answerIndex": 2,
+      "fact": "It is named after the schoolboy of the founding legend, a story historians consider almost certainly invented."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series is set in the Upside Down?",
+      "options": [
+        "Stranger Things",
+        "The OA",
+        "Dark",
+        "Locke and Key"
+      ],
+      "answerIndex": 0,
+      "fact": "Its early working title was Montauk, after the Long Island town where it was originally to be set."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state is the only one to border two oceans?",
+      "options": [
+        "California",
+        "Florida",
+        "Texas",
+        "Alaska"
+      ],
+      "answerIndex": 3,
+      "fact": "It touches both the Pacific and the Arctic, and its northern coast is icebound for much of the year."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Greek myth is retold in the novel Circe?",
+      "options": [
+        "Theogony",
+        "The Iliad",
+        "Oedipus",
+        "The Odyssey"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author taught classics for a decade before writing fiction, and translated her own source passages."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for a network attack that overwhelms a server with traffic?",
+      "options": [
+        "Phishing",
+        "Denial of service",
+        "Man in the middle",
+        "SQL injection"
+      ],
+      "answerIndex": 1,
+      "fact": "Distributed versions use thousands of compromised machines, which is what makes them so hard to block by address."
+    }
+  ]
+}

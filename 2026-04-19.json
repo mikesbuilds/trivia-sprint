@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who commanded the Allied invasion of Normandy in 1944?",
+      "options": [
+        "Omar Bradley",
+        "Dwight Eisenhower",
+        "George Patton",
+        "Bernard Montgomery"
+      ],
+      "answerIndex": 1,
+      "fact": "He wrote a note accepting full blame in case it failed, kept it in his wallet, and found it weeks later."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest type of white blood cell?",
+      "options": [
+        "Basophil",
+        "Lymphocyte",
+        "Neutrophil",
+        "Monocyte"
+      ],
+      "answerIndex": 3,
+      "fact": "They mature into cells that engulf debris and pathogens whole, a process named for the Greek for devouring."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many events make up the women's heptathlon?",
+      "options": [
+        "Six",
+        "Five",
+        "Seven",
+        "Eight"
+      ],
+      "answerIndex": 2,
+      "fact": "It replaced the pentathlon in 1984, and the 800 metres that closes it is regularly where the medals change hands."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album 1989?",
+      "options": [
+        "Taylor Swift",
+        "Lorde",
+        "Halsey",
+        "Katy Perry"
+      ],
+      "answerIndex": 0,
+      "fact": "She re-recorded it years later to own the masters, a move that reshaped industry conversations about artist rights."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies immediately south of Saudi Arabia on the Red Sea coast?",
+      "options": [
+        "Yemen",
+        "Qatar",
+        "Oman",
+        "Kuwait"
+      ],
+      "answerIndex": 0,
+      "fact": "Its island of Socotra hosts hundreds of plant species found nowhere else, including the dragon's blood tree."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Rosencrantz and Guildenstern Are Dead?",
+      "options": [
+        "Peter Shaffer",
+        "Alan Ayckbourn",
+        "Tom Stoppard",
+        "Harold Pinter"
+      ],
+      "answerIndex": 2,
+      "fact": "He arrived in Britain as a refugee child and learned English from scratch at eight."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes reducing an image's file size by discarding detail?",
+      "options": [
+        "Dithering",
+        "Lossless compression",
+        "Rasterisation",
+        "Lossy compression"
+      ],
+      "answerIndex": 3,
+      "fact": "Repeatedly saving the same file this way degrades it each time, which is where visibly mangled memes come from."
+    }
+  ]
+}

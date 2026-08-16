@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which African kingdom was known for its bronze plaques taken by British forces in 1897?",
+      "options": [
+        "Kongo",
+        "Benin",
+        "Dahomey",
+        "Ashanti"
+      ],
+      "answerIndex": 1,
+      "fact": "The plaques are held in museums across Europe and North America, and repatriation has been under way since 2021."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body system is responsible for producing antibodies?",
+      "options": [
+        "Digestive",
+        "Skeletal",
+        "Nervous",
+        "Immune"
+      ],
+      "answerIndex": 3,
+      "fact": "It keeps a memory of past infections, which is the entire principle vaccines exploit."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race called the Paris-Roubaix?",
+      "options": [
+        "Cycling",
+        "Horse racing",
+        "Running",
+        "Motor racing"
+      ],
+      "answerIndex": 0,
+      "fact": "Much of it runs over cobbles so rough that riders use wider tyres and extra padding on the handlebars."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's members include Thom Yorke?",
+      "options": [
+        "Doves",
+        "Elbow",
+        "Radiohead",
+        "Interpol"
+      ],
+      "answerIndex": 2,
+      "fact": "They took their name from a Talking Heads song, having previously been called On a Friday after rehearsal day."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country has the most coastline relative to its size?",
+      "options": [
+        "Greece",
+        "Croatia",
+        "Italy",
+        "Norway"
+      ],
+      "answerIndex": 3,
+      "fact": "Its fjords make the measured coastline longer than the distance from Norway to Australia."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a poem mourning someone who has died?",
+      "options": [
+        "Ode",
+        "Sonnet",
+        "Elegy",
+        "Ballad"
+      ],
+      "answerIndex": 2,
+      "fact": "The form dates to ancient Greece, where it originally described a metre rather than a subject."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which wireless generation introduced widespread mobile video streaming?",
+      "options": [
+        "4G",
+        "3G",
+        "5G",
+        "2G"
+      ],
+      "answerIndex": 0,
+      "fact": "3G made it technically possible; 4G made it cheap enough that people actually did it."
+    }
+  ]
+}

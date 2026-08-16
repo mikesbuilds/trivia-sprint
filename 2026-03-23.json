@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Simón Bolívar first liberate from Spanish rule?",
+      "options": [
+        "Peru",
+        "Argentina",
+        "Chile",
+        "Venezuela"
+      ],
+      "answerIndex": 3,
+      "fact": "He declared independence three separate times before it held, losing and regaining the country in between."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the scientific name for the windpipe?",
+      "options": [
+        "Trachea",
+        "Oesophagus",
+        "Bronchus",
+        "Larynx"
+      ],
+      "answerIndex": 0,
+      "fact": "It is held open by C-shaped rings of cartilage, with the gap at the back so the food pipe behind it can expand."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Tour de France titles by nationality?",
+      "options": [
+        "Belgium",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "answerIndex": 1,
+      "fact": "No French rider has won it since 1985, which has become a running national frustration."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set in the fictional African nation of Wakanda?",
+      "options": [
+        "The Woman King",
+        "Coming to America",
+        "Black Panther",
+        "Blood Diamond"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the first superhero film nominated for the Academy Award for Best Picture."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is completely surrounded by Italy and Switzerland?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "None of these",
+        "Monaco"
+      ],
+      "answerIndex": 2,
+      "fact": "Liechtenstein sits between Switzerland and Austria, and it is one of only two doubly landlocked countries on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set at a boarding school called Hailsham?",
+      "options": [
+        "Never Let Me Go",
+        "A Separate Peace",
+        "Black Swan Green",
+        "The Secret History"
+      ],
+      "answerIndex": 0,
+      "fact": "The nature of the school is withheld for much of the book, and the narrator reveals it almost casually."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym API rate limiting prevent?",
+      "options": [
+        "Password theft",
+        "Slow rendering",
+        "Data loss",
+        "Excessive requests"
+      ],
+      "answerIndex": 3,
+      "fact": "Well-designed limits return a header telling you when to try again, rather than simply refusing."
+    }
+  ]
+}

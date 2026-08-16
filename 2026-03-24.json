@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone was discovered during whose military campaign?",
+      "options": [
+        "Kitchener's",
+        "Nelson's",
+        "Wellington's",
+        "Napoleon's"
+      ],
+      "answerIndex": 3,
+      "fact": "The expedition brought scholars as well as soldiers, and their survey created the modern study of ancient Egypt."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle is exchanged to produce the electromagnetic force?",
+      "options": [
+        "Neutrino",
+        "Boson",
+        "Photon",
+        "Gluon"
+      ],
+      "answerIndex": 2,
+      "fact": "It has no mass, which is why the force it carries reaches across the entire universe rather than fading out."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is contested at the Crucible Theatre in Sheffield?",
+      "options": [
+        "Bowls",
+        "Snooker",
+        "Squash",
+        "Darts"
+      ],
+      "answerIndex": 1,
+      "fact": "The venue seats under a thousand, making it far smaller than most sports would accept for a world final."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which game show features the phrase Is that your final answer?",
+      "options": [
+        "Jeopardy",
+        "Who Wants to Be a Millionaire",
+        "Deal or No Deal",
+        "The Weakest Link"
+      ],
+      "answerIndex": 1,
+      "fact": "The lighting and music were designed to intensify as the money rose, a format detail licensed along with the questions."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US city is known as the Big Easy?",
+      "options": [
+        "New Orleans",
+        "Memphis",
+        "Savannah",
+        "Nashville"
+      ],
+      "answerIndex": 0,
+      "fact": "Much of it sits below sea level, protected by a levee system that failed catastrophically in 2005."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the repetition of vowel sounds within nearby words?",
+      "options": [
+        "Alliteration",
+        "Consonance",
+        "Assonance",
+        "Sibilance"
+      ],
+      "answerIndex": 2,
+      "fact": "It binds a line together more subtly than rhyme, which is why it is common in free verse."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage medium held about 700 megabytes?",
+      "options": [
+        "CD-ROM",
+        "Floppy disk",
+        "Blu-ray",
+        "DVD"
+      ],
+      "answerIndex": 0,
+      "fact": "Its 74-minute capacity is often said to have been chosen so Beethoven's Ninth would fit on one disc."
+    }
+  ]
+}

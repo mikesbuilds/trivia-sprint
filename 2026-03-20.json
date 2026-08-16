@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Suez Crisis of 1956 involved the nationalisation of what?",
+      "options": [
+        "Railways",
+        "Cotton exports",
+        "Oil fields",
+        "The Suez Canal"
+      ],
+      "answerIndex": 3,
+      "fact": "It ended when the United States pressured its own allies to withdraw, a moment often read as the end of British imperial reach."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest artery in the human body?",
+      "options": [
+        "Carotid",
+        "Pulmonary",
+        "Femoral",
+        "Aorta"
+      ],
+      "answerIndex": 3,
+      "fact": "It is about the diameter of a garden hose, and every drop of blood leaving the heart's left side passes through it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which martial art is the national sport of Korea?",
+      "options": [
+        "Karate",
+        "Taekwondo",
+        "Judo",
+        "Hapkido"
+      ],
+      "answerIndex": 1,
+      "fact": "It became a full Olympic medal sport in 2000, after two Games as a demonstration event."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film studio produced Snow White and the Seven Dwarfs?",
+      "options": [
+        "Warner Bros",
+        "Disney",
+        "MGM",
+        "Universal"
+      ],
+      "answerIndex": 1,
+      "fact": "It was called Disney's Folly during production, since nobody believed audiences would sit through a feature-length cartoon."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the longest land border in the world?",
+      "options": [
+        "India",
+        "Brazil",
+        "China",
+        "Russia"
+      ],
+      "answerIndex": 2,
+      "fact": "It borders fourteen countries, tied with Russia, but its total border length is greater."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which literary term describes an ironic gap between what a character knows and the audience knows?",
+      "options": [
+        "Dramatic irony",
+        "Satire",
+        "Verbal irony",
+        "Situational irony"
+      ],
+      "answerIndex": 0,
+      "fact": "Greek tragedy relies on it almost entirely, since audiences already knew the myths being staged."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Java programming language's current steward Oracle acquired?",
+      "options": [
+        "Netscape",
+        "Borland",
+        "Sun Microsystems",
+        "Novell"
+      ],
+      "answerIndex": 2,
+      "fact": "The acquisition led to a decade-long lawsuit with Google over whether an API can be copyrighted."
+    }
+  ]
+}

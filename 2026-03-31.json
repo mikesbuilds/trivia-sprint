@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Elgin Marbles were removed from which building?",
+      "options": [
+        "The Hagia Sophia",
+        "The Parthenon",
+        "The Pantheon",
+        "The Colosseum"
+      ],
+      "answerIndex": 1,
+      "fact": "Their ownership has been formally disputed since Greek independence in the 1830s and remains unresolved."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which a solid becomes a gas directly?",
+      "options": [
+        "Evaporation",
+        "Deposition",
+        "Sublimation",
+        "Condensation"
+      ],
+      "answerIndex": 2,
+      "fact": "Dry ice does it at ordinary pressure, which is why it produces fog rather than a puddle."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many pins are set at the start of a tenpin bowling frame?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Eleven",
+        "Nine"
+      ],
+      "answerIndex": 0,
+      "fact": "The game exists because an earlier nine-pin version was banned in parts of America over gambling."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game series is set in the Mushroom Kingdom?",
+      "options": [
+        "Zelda",
+        "Super Mario",
+        "Metroid",
+        "Kirby"
+      ],
+      "answerIndex": 1,
+      "fact": "Its designer has said the pipes came from watching workers install plumbing outside his office."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the smallest country in mainland Africa by area?",
+      "options": [
+        "The Gambia",
+        "Djibouti",
+        "Eswatini",
+        "Rwanda"
+      ],
+      "answerIndex": 0,
+      "fact": "Its shape follows a river, and one story holds the borders were fixed by how far a gunboat could fire from midstream."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem features the Lady of Shalott?",
+      "options": [
+        "Browning's My Last Duchess",
+        "Keats's Lamia",
+        "Coleridge's Christabel",
+        "Tennyson's The Lady of Shalott"
+      ],
+      "answerIndex": 3,
+      "fact": "It became a favourite subject of Pre-Raphaelite painters, who returned to the same scene repeatedly."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology allows a single machine to run multiple isolated operating systems?",
+      "options": [
+        "Sharding",
+        "Compilation",
+        "Virtualisation",
+        "Clustering"
+      ],
+      "answerIndex": 2,
+      "fact": "Containers do something similar with far less overhead by sharing one kernel rather than emulating hardware."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US document was adopted on 4 July 1776?",
+      "options": [
+        "The Constitution",
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "The Bill of Rights"
+      ],
+      "answerIndex": 1,
+      "fact": "Most signatures were added weeks later, so the famous scene of everyone signing that day never happened."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin deficiency causes rickets?",
+      "options": [
+        "Vitamin K",
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C"
+      ],
+      "answerIndex": 2,
+      "fact": "It surged in industrial cities where smog blocked the sunlight children needed to make it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards the Claret Jug?",
+      "options": [
+        "Rowing",
+        "Cricket",
+        "Sailing",
+        "Golf"
+      ],
+      "answerIndex": 3,
+      "fact": "The winner keeps a replica. The original goes back before the next championship, engraved with their name."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features the Iron Throne?",
+      "options": [
+        "The Last Kingdom",
+        "The Witcher",
+        "Game of Thrones",
+        "Vikings"
+      ],
+      "answerIndex": 2,
+      "fact": "The book describes it as vastly larger and more jagged than any screen version could practically build."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert lies mostly in Chile?",
+      "options": [
+        "The Patagonian",
+        "The Atacama",
+        "The Sechura",
+        "The Monte"
+      ],
+      "answerIndex": 1,
+      "fact": "Its skies are so clear and dry that several of the world's largest telescopes are built there."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features a shipwreck on a magical island?",
+      "options": [
+        "The Winter's Tale",
+        "Pericles",
+        "Twelfth Night",
+        "The Tempest"
+      ],
+      "answerIndex": 3,
+      "fact": "It is widely read as his farewell to the stage, since the magician breaks his staff and gives up his art at the end."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a repository in version control?",
+      "options": [
+        "A store of code and its history",
+        "A package manager",
+        "A backup drive",
+        "A build server"
+      ],
+      "answerIndex": 0,
+      "fact": "Git stores every version as a full snapshot rather than a set of differences, which is why history is so fast to search."
+    }
+  ]
+}

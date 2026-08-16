@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which trading company effectively governed large parts of India?",
+      "options": [
+        "The Hudson's Bay Company",
+        "The Royal African Company",
+        "The Dutch West India Company",
+        "The East India Company"
+      ],
+      "answerIndex": 3,
+      "fact": "It maintained an army roughly twice the size of the British Army before the Crown took direct control in 1858."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which subatomic particles make up a proton?",
+      "options": [
+        "Neutrinos",
+        "Photons",
+        "Electrons",
+        "Quarks"
+      ],
+      "answerIndex": 3,
+      "fact": "Their combined mass accounts for only a small fraction of the proton's. The rest is the energy binding them."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the 2016 Summer Olympics?",
+      "options": [
+        "Brazil",
+        "China",
+        "Japan",
+        "Greece"
+      ],
+      "answerIndex": 0,
+      "fact": "It was the first Games held in South America, and the first in the southern hemisphere's winter."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which board game involves solving a murder at Tudor Mansion?",
+      "options": [
+        "Risk",
+        "Scrabble",
+        "Cluedo",
+        "Monopoly"
+      ],
+      "answerIndex": 2,
+      "fact": "It was invented during the Second World War by a British clerk to pass the time during air raids."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river forms much of the border between Germany and France?",
+      "options": [
+        "The Rhône",
+        "The Rhine",
+        "The Meuse",
+        "The Moselle"
+      ],
+      "answerIndex": 1,
+      "fact": "Its course has been straightened so heavily since the 1800s that it is now roughly eighty kilometres shorter."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set aboard a Mississippi raft?",
+      "options": [
+        "The Adventures of Huckleberry Finn",
+        "Tom Sawyer",
+        "Life on the Mississippi",
+        "The Prince and the Pauper"
+      ],
+      "answerIndex": 0,
+      "fact": "It has been among the most frequently banned books in American schools since the year it was published."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the first widely adopted smartphone touchscreen keyboard?",
+      "options": [
+        "Palm",
+        "BlackBerry",
+        "Apple",
+        "Nokia"
+      ],
+      "answerIndex": 2,
+      "fact": "Its predictive correction was what made a glass keyboard usable, and it was considered the riskiest part of the design."
+    }
+  ]
+}

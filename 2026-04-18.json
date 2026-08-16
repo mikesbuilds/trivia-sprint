@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conference in 1919 produced the post-war settlement of Europe?",
+      "options": [
+        "Berlin",
+        "Paris",
+        "Geneva",
+        "Vienna"
+      ],
+      "answerIndex": 1,
+      "fact": "An economist attending resigned in protest and wrote a book predicting the settlement would cause another war."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which physical quantity is measured in pascals?",
+      "options": [
+        "Force",
+        "Energy",
+        "Pressure",
+        "Power"
+      ],
+      "answerIndex": 2,
+      "fact": "Atmospheric pressure at sea level is about 101,000 of them, which is roughly a kilogram pressing on every square centimetre of you."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which stadium is known as the Theatre of Dreams?",
+      "options": [
+        "Camp Nou",
+        "Wembley",
+        "Old Trafford",
+        "Anfield"
+      ],
+      "answerIndex": 2,
+      "fact": "The nickname came from a former player turned commentator, and the club adopted it in its own marketing."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Neo?",
+      "options": [
+        "Ex Machina",
+        "Inception",
+        "Tron",
+        "The Matrix"
+      ],
+      "answerIndex": 3,
+      "fact": "Its bullet-time effect used over a hundred still cameras fired in sequence rather than a moving camera."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state has the most national parks?",
+      "options": [
+        "Alaska",
+        "Utah",
+        "Colorado",
+        "California"
+      ],
+      "answerIndex": 3,
+      "fact": "It has nine, spanning desert, alpine and coastal terrain within a single state."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Road's earlier work, Blood Meridian?",
+      "options": [
+        "Cormac McCarthy",
+        "Annie Proulx",
+        "Larry McMurtry",
+        "Denis Johnson"
+      ],
+      "answerIndex": 0,
+      "fact": "It draws closely on documented events of the 1840s southwest, which is much of what makes it so bleak."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CMS stand for in web publishing?",
+      "options": [
+        "Coded Markup Standard",
+        "Content Management System",
+        "Client Messaging Service",
+        "Central Media Server"
+      ],
+      "answerIndex": 1,
+      "fact": "WordPress alone powers a substantial share of all websites, which makes its security everyone's problem."
+    }
+  ]
+}

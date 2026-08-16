@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by apartheid until the early 1990s?",
+      "options": [
+        "Namibia",
+        "South Africa",
+        "Zimbabwe",
+        "Angola"
+      ],
+      "answerIndex": 1,
+      "fact": "The system was formalised in 1948 and dismantled through negotiations that took four years to complete."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a self-sustaining nuclear reaction?",
+      "options": [
+        "Critical mass",
+        "Chain reaction",
+        "Decay series",
+        "Half-life"
+      ],
+      "answerIndex": 1,
+      "fact": "The first controlled one was achieved under a disused squash court at the University of Chicago in 1942."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic gold medals in gymnastics?",
+      "options": [
+        "Russia and the Soviet Union",
+        "China",
+        "Japan",
+        "The United States"
+      ],
+      "answerIndex": 0,
+      "fact": "Their dominance was built on a state system that identified and trained gymnasts from early childhood."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features the character Tony Soprano?",
+      "options": [
+        "Goodfellas",
+        "The Wire",
+        "The Sopranos",
+        "Boardwalk Empire"
+      ],
+      "answerIndex": 2,
+      "fact": "Its final scene cuts abruptly to black, and viewers initially assumed their televisions had failed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the world's largest island country by area?",
+      "options": [
+        "Philippines",
+        "Madagascar",
+        "Japan",
+        "Indonesia"
+      ],
+      "answerIndex": 3,
+      "fact": "It is moving its capital away from Jakarta, partly because the current one is sinking."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Humbert Humbert?",
+      "options": [
+        "Despair",
+        "Pnin",
+        "Pale Fire",
+        "Lolita"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author insisted the doubled name was chosen to sound repellent and faintly absurd at once."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Tor anonymity network's original design?",
+      "options": [
+        "The US Naval Research Laboratory",
+        "Mozilla",
+        "MIT",
+        "The EFF"
+      ],
+      "answerIndex": 0,
+      "fact": "It only provides anonymity if many different people use it, so its designers needed it to be public."
+    }
+  ]
+}

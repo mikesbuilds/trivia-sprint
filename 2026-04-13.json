@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Underground Railroad helped people escape from what?",
+      "options": [
+        "Famine",
+        "Slavery",
+        "Conscription",
+        "Debtors' prison"
+      ],
+      "answerIndex": 1,
+      "fact": "It was neither underground nor a railroad, but the railway vocabulary of stations and conductors served as code."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ produces bile?",
+      "options": [
+        "Stomach",
+        "Gallbladder",
+        "Liver",
+        "Pancreas"
+      ],
+      "answerIndex": 2,
+      "fact": "The gallbladder only stores it, which is why removing that organ changes little about digestion."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the Iron Man and Iron Woman events?",
+      "options": [
+        "Triathlon",
+        "Cross-country",
+        "Rowing",
+        "Surf lifesaving"
+      ],
+      "answerIndex": 3,
+      "fact": "It combines swimming, board paddling, ski paddling and running, and is a major spectator sport in Australia."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musical is based on the songs of ABBA?",
+      "options": [
+        "Mamma Mia",
+        "Rock of Ages",
+        "Jersey Boys",
+        "We Will Rock You"
+      ],
+      "answerIndex": 0,
+      "fact": "Its writer built an entirely new story around existing songs, a format that became known as the jukebox musical."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain sits closest to the equator among major peaks?",
+      "options": [
+        "Kilimanjaro",
+        "Mount Kenya",
+        "Cotopaxi",
+        "Chimborazo"
+      ],
+      "answerIndex": 1,
+      "fact": "It has glaciers despite straddling the equator, though they have shrunk by over ninety percent in a century."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem contains the line I am the master of my fate?",
+      "options": [
+        "Invictus",
+        "Ozymandias",
+        "The Charge of the Light Brigade",
+        "If"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author wrote it while recovering from surgery that had already cost him one leg."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Photoshop-rival GIMP?",
+      "options": [
+        "Adobe",
+        "Corel",
+        "Serif",
+        "A volunteer community"
+      ],
+      "answerIndex": 3,
+      "fact": "It began as a university project in 1995 and has been maintained by contributors ever since."
+    }
+  ]
+}

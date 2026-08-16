@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first person to be elected US president four times?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Theodore Roosevelt",
+        "Woodrow Wilson"
+      ],
+      "answerIndex": 0,
+      "fact": "A constitutional amendment passed shortly after his death capped future presidents at two terms."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of galaxy is the Milky Way?",
+      "options": [
+        "Elliptical",
+        "Lenticular",
+        "Spiral",
+        "Irregular"
+      ],
+      "answerIndex": 2,
+      "fact": "We only worked this out indirectly, since we cannot get outside it to look."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would you perform a triple axel?",
+      "options": [
+        "Diving",
+        "Gymnastics",
+        "Figure skating",
+        "Trampolining"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the only jump taken off facing forwards, which adds an extra half rotation compared with every other triple."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows the Crawley family at a country estate?",
+      "options": [
+        "Brideshead Revisited",
+        "Upstairs Downstairs",
+        "Peaky Blinders",
+        "Downton Abbey"
+      ],
+      "answerIndex": 3,
+      "fact": "The real house used for filming remains a private family home and opens to visitors for part of the year."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's coastline forms the Bay of Bengal's western edge?",
+      "options": [
+        "India",
+        "Bangladesh",
+        "Sri Lanka",
+        "Myanmar"
+      ],
+      "answerIndex": 0,
+      "fact": "The bay funnels cyclones toward its northern coast, which is why it produces some of the deadliest storms on record."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Randle McMurphy?",
+      "options": [
+        "Catch-22",
+        "One Flew Over the Cuckoo's Nest",
+        "From Here to Eternity",
+        "The Naked and the Dead"
+      ],
+      "answerIndex": 1,
+      "fact": "The novel is narrated by a different character entirely, a detail the film adaptation abandoned."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Linux distribution Red Hat Enterprise Linux?",
+      "options": [
+        "SUSE",
+        "Red Hat",
+        "Canonical",
+        "Oracle"
+      ],
+      "answerIndex": 1,
+      "fact": "It sells support rather than software, a model that made a large business out of something given away free."
+    }
+  ]
+}

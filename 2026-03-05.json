@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder stood on the island of Pharos?",
+      "options": [
+        "The Colossus",
+        "The Lighthouse of Alexandria",
+        "The Mausoleum",
+        "The Temple of Artemis"
+      ],
+      "answerIndex": 1,
+      "fact": "It stood for around 1,600 years before earthquakes finally brought it down, outlasting every other wonder but the pyramids."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that maintain a stable internal temperature?",
+      "options": [
+        "Endotherms",
+        "Hibernators",
+        "Ectotherms",
+        "Poikilotherms"
+      ],
+      "answerIndex": 0,
+      "fact": "It costs enormously more food, which is why a lizard can live on a fraction of what a similar-sized mammal needs."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for scoring three goals in one ice hockey game?",
+      "options": [
+        "A treble",
+        "A triple",
+        "A trifecta",
+        "A hat-trick"
+      ],
+      "answerIndex": 3,
+      "fact": "Fans traditionally throw hats onto the ice, and the arena staff collect them during the next stoppage."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album Lemonade?",
+      "options": [
+        "Alicia Keys",
+        "Beyoncé",
+        "Rihanna",
+        "Solange"
+      ],
+      "answerIndex": 1,
+      "fact": "It was released with an hour-long film, and arrived with no advance announcement at all."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the largest producer of cocoa beans?",
+      "options": [
+        "Ghana",
+        "Ecuador",
+        "Nigeria",
+        "Ivory Coast"
+      ],
+      "answerIndex": 3,
+      "fact": "It and Ghana together grow well over half the world's supply, almost all of it on smallholder farms."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with the line Call me Jonah?",
+      "options": [
+        "Cat's Cradle",
+        "Galápagos",
+        "Slaughterhouse-Five",
+        "Breakfast of Champions"
+      ],
+      "answerIndex": 0,
+      "fact": "The opening deliberately echoes Moby-Dick, and the novel invents a religion built on admitted lies."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym DNS resolve?",
+      "options": [
+        "Passwords",
+        "Video codecs",
+        "Domain names",
+        "File formats"
+      ],
+      "answerIndex": 2,
+      "fact": "There are thirteen root server addresses worldwide, though each is actually many machines answering to the same address."
+    }
+  ]
+}

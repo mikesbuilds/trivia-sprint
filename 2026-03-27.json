@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Reign of Terror occurred during which revolution?",
+      "options": [
+        "Haitian",
+        "Russian",
+        "French",
+        "American"
+      ],
+      "answerIndex": 2,
+      "fact": "Its chief architect was executed by the same method he had used on others, within a year of taking power."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which mineral is measured as 10 on the Mohs scale?",
+      "options": [
+        "Diamond",
+        "Quartz",
+        "Topaz",
+        "Corundum"
+      ],
+      "answerIndex": 0,
+      "fact": "The scale is ordinal, not proportional: the gap between 9 and 10 is far larger than between 1 and 9."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a position called the hooker?",
+      "options": [
+        "Handball",
+        "Hockey",
+        "Rugby",
+        "Cricket"
+      ],
+      "answerIndex": 2,
+      "fact": "The name describes the job: hooking the ball backwards with the foot once the scrum engages."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the character Amélie Poulain?",
+      "options": [
+        "The Intouchables",
+        "Amélie",
+        "Delicatessen",
+        "La Vie en Rose"
+      ],
+      "answerIndex": 1,
+      "fact": "Its colour grading pushed greens and reds heavily, a look widely imitated for years afterwards."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the world's largest producer of natural rubber?",
+      "options": [
+        "Thailand",
+        "Malaysia",
+        "Brazil",
+        "India"
+      ],
+      "answerIndex": 0,
+      "fact": "The trees are native to the Amazon, and were smuggled to Asia in the 1870s in a single shipment of seeds."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is subtitled A Story of the Great Fire of London?",
+      "options": [
+        "Restoration",
+        "Pepys's Diary",
+        "The Plague",
+        "Old St Paul's"
+      ],
+      "answerIndex": 3,
+      "fact": "Samuel Pepys's diary remains the most cited eyewitness source, including his burying of cheese to save it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes making software work in another language and region?",
+      "options": [
+        "Normalisation",
+        "Federation",
+        "Virtualisation",
+        "Localisation"
+      ],
+      "answerIndex": 3,
+      "fact": "The hardest parts are usually dates, plurals and text direction rather than the words themselves."
+    }
+  ]
+}

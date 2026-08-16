@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ended by the fall of Constantinople in 1453?",
+      "options": [
+        "Latin",
+        "Roman",
+        "Bulgarian",
+        "Byzantine"
+      ],
+      "answerIndex": 3,
+      "fact": "Scholars fleeing westward carried Greek manuscripts with them, feeding the Italian Renaissance directly."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the amount of matter in an object?",
+      "options": [
+        "Mass",
+        "Volume",
+        "Weight",
+        "Density"
+      ],
+      "answerIndex": 0,
+      "fact": "It does not change with location, which is why an astronaut has the same amount on the Moon and weighs a sixth as much."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Formula One team has won the most constructors' championships?",
+      "options": [
+        "Mercedes",
+        "Williams",
+        "McLaren",
+        "Ferrari"
+      ],
+      "answerIndex": 3,
+      "fact": "It is the only team to have competed in every season since the championship began in 1950."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director is known for Spirited Away and My Neighbour Totoro?",
+      "options": [
+        "Makoto Shinkai",
+        "Isao Takahata",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda"
+      ],
+      "answerIndex": 2,
+      "fact": "He has announced his retirement several times and returned to directing after each one."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country produces the most wine by volume?",
+      "options": [
+        "Spain",
+        "Italy",
+        "The United States",
+        "France"
+      ],
+      "answerIndex": 1,
+      "fact": "It and France swap the lead most years depending on harvest, while Spain has the most land under vine."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the use of exaggeration for effect?",
+      "options": [
+        "Hyperbole",
+        "Irony",
+        "Litotes",
+        "Understatement"
+      ],
+      "answerIndex": 0,
+      "fact": "Its opposite, litotes, states something by denying the reverse, as in not bad meaning very good."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes a single point of failure being eliminated?",
+      "options": [
+        "Concurrency",
+        "Redundancy",
+        "Latency",
+        "Throughput"
+      ],
+      "answerIndex": 1,
+      "fact": "Achieving it properly means duplicating the thing you forgot about, which is usually the power or the network."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did the Soviet Union invade in 1956 to crush an uprising?",
+      "options": [
+        "Czechoslovakia",
+        "Hungary",
+        "Romania",
+        "Poland"
+      ],
+      "answerIndex": 1,
+      "fact": "Around 200,000 people fled the country in the weeks that followed, most crossing on foot into Austria."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which process describes water moving from soil into the atmosphere via plants?",
+      "options": [
+        "Precipitation",
+        "Percolation",
+        "Evapotranspiration",
+        "Infiltration"
+      ],
+      "answerIndex": 2,
+      "fact": "The Amazon moves so much water this way that it effectively creates its own rainfall."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms peloton and domestique?",
+      "options": [
+        "Cycling",
+        "Marathon running",
+        "Speed skating",
+        "Rowing"
+      ],
+      "answerIndex": 0,
+      "fact": "Riding in the pack saves up to forty percent of a rider's energy, which is why breakaways so often fail."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features the Millennium Falcon?",
+      "options": [
+        "Battlestar Galactica",
+        "Star Trek",
+        "Firefly",
+        "Star Wars"
+      ],
+      "answerIndex": 3,
+      "fact": "Its distinctive shape came late in design, after the original was judged too similar to a rival series' ship."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Uluru rock formation?",
+      "options": [
+        "New Zealand",
+        "South Africa",
+        "Australia",
+        "Namibia"
+      ],
+      "answerIndex": 2,
+      "fact": "Climbing it was banned in 2019 at the request of its traditional owners, the Anangu."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Long Day's Journey into Night?",
+      "options": [
+        "Eugene O'Neill",
+        "Clifford Odets",
+        "Tennessee Williams",
+        "Arthur Miller"
+      ],
+      "answerIndex": 0,
+      "fact": "He asked for it not to be staged until twenty-five years after his death; his widow allowed it after three."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a firewall rule?",
+      "options": [
+        "To cache DNS",
+        "To permit or block specific traffic",
+        "To compress packets",
+        "To assign IP addresses"
+      ],
+      "answerIndex": 1,
+      "fact": "Default-deny is the safer design: block everything, then allow only what is needed."
+    }
+  ]
+}

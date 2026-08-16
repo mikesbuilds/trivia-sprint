@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first Holy Roman Emperor?",
+      "options": [
+        "Otto I",
+        "Frederick Barbarossa",
+        "Charles V",
+        "Charlemagne"
+      ],
+      "answerIndex": 3,
+      "fact": "He reportedly could not write fluently, keeping a writing tablet under his pillow to practise at night."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical formula for methane?",
+      "options": [
+        "NH3",
+        "CH4",
+        "CO2",
+        "C2H6"
+      ],
+      "answerIndex": 1,
+      "fact": "As a greenhouse gas it traps far more heat than carbon dioxide, but breaks down in the atmosphere much faster."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has hosted the Summer Olympics most often?",
+      "options": [
+        "The United States",
+        "The United Kingdom",
+        "France",
+        "Greece"
+      ],
+      "answerIndex": 0,
+      "fact": "It has hosted four times and will host a fifth in 2028, more than any other nation."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the song Wonderwall?",
+      "options": [
+        "Pulp",
+        "Blur",
+        "Oasis",
+        "The Verve"
+      ],
+      "answerIndex": 2,
+      "fact": "The title came from a 1968 film soundtrack by George Harrison, and has nothing to do with the lyrics."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which South American country has no coastline?",
+      "options": [
+        "Guyana",
+        "Ecuador",
+        "Paraguay",
+        "Uruguay"
+      ],
+      "answerIndex": 2,
+      "fact": "Bolivia is the other landlocked one, and it still maintains a navy on rivers and Lake Titicaca."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play The Importance of Being Earnest?",
+      "options": [
+        "Oscar Wilde",
+        "Ben Jonson",
+        "George Bernard Shaw",
+        "Richard Sheridan"
+      ],
+      "answerIndex": 0,
+      "fact": "It opened weeks before the trial that ruined him, and his name was removed from the theatre's billboards."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the ARM architecture originally?",
+      "options": [
+        "Amstrad",
+        "Psion",
+        "Sinclair",
+        "Acorn Computers"
+      ],
+      "answerIndex": 3,
+      "fact": "It was designed by a tiny team for a British home computer, and now ships in tens of billions of devices."
+    }
+  ]
+}

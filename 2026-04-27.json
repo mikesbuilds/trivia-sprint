@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Domesday Book was commissioned by which king?",
+      "options": [
+        "Edward the Confessor",
+        "William the Conqueror",
+        "Alfred the Great",
+        "Henry I"
+      ],
+      "answerIndex": 1,
+      "fact": "Its purpose was almost entirely fiscal: he wanted to know exactly what the country could be taxed."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which class of animal are dolphins?",
+      "options": [
+        "Fish",
+        "Amphibians",
+        "Mammals",
+        "Reptiles"
+      ],
+      "answerIndex": 2,
+      "fact": "They sleep with one half of the brain at a time, because breathing for them is a conscious act."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Roland Garros?",
+      "options": [
+        "Football",
+        "Cycling",
+        "Rugby",
+        "Tennis"
+      ],
+      "answerIndex": 3,
+      "fact": "The venue is named after a First World War aviator, not a tennis player."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the fictional Dunder Mifflin paper company?",
+      "options": [
+        "Horrible Bosses",
+        "Corporate",
+        "Office Space",
+        "The Office"
+      ],
+      "answerIndex": 3,
+      "fact": "It is a television series rather than a film, which is the trap in this question."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake sits on the border of Bolivia and Peru?",
+      "options": [
+        "Lake Titicaca",
+        "Lake Argentino",
+        "Lake Poopó",
+        "Lake Maracaibo"
+      ],
+      "answerIndex": 0,
+      "fact": "At over 3,800 metres it is the highest navigable lake in the world, with commercial ferries operating on it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Cloud Atlas?",
+      "options": [
+        "Jonathan Coe",
+        "Ian McEwan",
+        "David Mitchell",
+        "Will Self"
+      ],
+      "answerIndex": 2,
+      "fact": "Its six nested stories run forward then backward, so the first is also the last."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology powers most electric vehicle batteries today?",
+      "options": [
+        "Lithium-ion",
+        "Lead-acid",
+        "Sodium-sulfur",
+        "Nickel-cadmium"
+      ],
+      "answerIndex": 0,
+      "fact": "The chemistry won a Nobel Prize in 2019, roughly thirty years after it first reached consumers in camcorders."
+    }
+  ]
+}

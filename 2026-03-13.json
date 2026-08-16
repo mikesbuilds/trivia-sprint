@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which treaty divided the New World between Spain and Portugal?",
+      "options": [
+        "Treaty of Utrecht",
+        "Treaty of Zaragoza",
+        "Treaty of Tordesillas",
+        "Treaty of Madrid"
+      ],
+      "answerIndex": 2,
+      "fact": "The line was drawn before anyone knew what was there, which is the accident that made Brazil Portuguese."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH range of an acidic solution?",
+      "options": [
+        "Above 7",
+        "Exactly 7",
+        "Above 14",
+        "Below 7"
+      ],
+      "answerIndex": 3,
+      "fact": "The scale is logarithmic, so a pH of 3 is a hundred times more acidic than a pH of 5."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, what is the fielding position directly behind the batter called?",
+      "options": [
+        "Slip",
+        "Wicketkeeper",
+        "Point",
+        "Gully"
+      ],
+      "answerIndex": 1,
+      "fact": "They typically take more catches than any other fielder, and are the only player permitted gloves and pads."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fashion designer created the little black dress in the 1920s?",
+      "options": [
+        "Coco Chanel",
+        "Madeleine Vionnet",
+        "Christian Dior",
+        "Elsa Schiaparelli"
+      ],
+      "answerIndex": 0,
+      "fact": "A magazine compared it to the Ford Model T, meaning it was a uniform anyone could wear."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African river is the second longest?",
+      "options": [
+        "The Niger",
+        "The Zambezi",
+        "The Orange",
+        "The Congo"
+      ],
+      "answerIndex": 3,
+      "fact": "It crosses the equator twice, which means part of its basin is always in a rainy season."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the epic poem Paradise Lost?",
+      "options": [
+        "Edmund Spenser",
+        "John Donne",
+        "John Milton",
+        "Andrew Marvell"
+      ],
+      "answerIndex": 2,
+      "fact": "He was completely blind by the time he composed it, dictating the lines to whoever was available."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for testing software by feeding it random input?",
+      "options": [
+        "Profiling",
+        "Fuzzing",
+        "Linting",
+        "Mocking"
+      ],
+      "answerIndex": 1,
+      "fact": "It has found serious flaws in software that had passed years of careful hand-written tests."
+    }
+  ]
+}

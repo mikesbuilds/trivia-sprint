@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Meiji Restoration ended rule by which class?",
+      "options": [
+        "Farmers",
+        "Samurai",
+        "Priests",
+        "Merchants"
+      ],
+      "answerIndex": 1,
+      "fact": "Samurai were compensated with government bonds, and many promptly lost everything investing them badly."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed the theory of continental drift?",
+      "options": [
+        "Harry Hess",
+        "Alfred Wegener",
+        "James Hutton",
+        "Charles Lyell"
+      ],
+      "answerIndex": 1,
+      "fact": "He was ridiculed for decades because he could not explain what moved the continents. Seafloor spreading later supplied the answer."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which race is known as the Greatest Show on Turf in horse racing's British calendar?",
+      "options": [
+        "The Derby",
+        "Royal Ascot",
+        "The Grand National",
+        "The Cheltenham Gold Cup"
+      ],
+      "answerIndex": 2,
+      "fact": "Its fences are named rather than numbered, and Becher's Brook is called after a rider who fell into it in 1839."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom features an apartment above Monk's Café?",
+      "options": [
+        "Seinfeld",
+        "Will and Grace",
+        "Frasier",
+        "Friends"
+      ],
+      "answerIndex": 0,
+      "fact": "It was pitched as a show about nothing, a phrase that began as an in-joke and became its actual reputation."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the Grand Canyon?",
+      "options": [
+        "The Snake",
+        "The Green",
+        "The Rio Grande",
+        "The Colorado"
+      ],
+      "answerIndex": 3,
+      "fact": "It carved roughly a mile of depth over six million years, exposing rock nearly two billion years old at the bottom."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created the character Jeeves?",
+      "options": [
+        "Saki",
+        "Nancy Mitford",
+        "P.G. Wodehouse",
+        "Evelyn Waugh"
+      ],
+      "answerIndex": 2,
+      "fact": "The character was originally a minor figure with two lines, and took over the series almost by accident."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language was designed by Bjarne Stroustrup?",
+      "options": [
+        "C",
+        "Rust",
+        "Java",
+        "C++"
+      ],
+      "answerIndex": 3,
+      "fact": "The name is a programmer's joke: the ++ operator means add one to what came before."
+    }
+  ]
+}

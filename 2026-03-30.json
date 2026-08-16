@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's revolution of 1979 replaced a monarchy with an Islamic republic?",
+      "options": [
+        "Iraq",
+        "Egypt",
+        "Afghanistan",
+        "Iran"
+      ],
+      "answerIndex": 3,
+      "fact": "The Shah left on what was officially described as a holiday, and never returned."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main function of red blood cells?",
+      "options": [
+        "Clotting",
+        "Carrying oxygen",
+        "Storing fat",
+        "Fighting infection"
+      ],
+      "answerIndex": 1,
+      "fact": "A single one makes the full circuit of the body roughly every minute."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which competition is contested by women's golfers of Europe and the United States?",
+      "options": [
+        "The Curtis Cup",
+        "The Solheim Cup",
+        "The Ryder Cup",
+        "The Presidents Cup"
+      ],
+      "answerIndex": 1,
+      "fact": "It began in 1990, more than sixty years after the men's equivalent."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer performed the theme to Skyfall?",
+      "options": [
+        "Adele",
+        "Sam Smith",
+        "Billie Eilish",
+        "Shirley Bassey"
+      ],
+      "answerIndex": 0,
+      "fact": "It was the first Bond theme to win an Academy Award, fifty years into the series."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river runs through Vienna and Budapest?",
+      "options": [
+        "The Elbe",
+        "The Rhine",
+        "The Danube",
+        "The Vistula"
+      ],
+      "answerIndex": 2,
+      "fact": "It flows west to east, unusual for a major European river, which shaped centuries of trade along it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Wolf Hall?",
+      "options": [
+        "Sarah Waters",
+        "Pat Barker",
+        "Hilary Mantel",
+        "Rose Tremain"
+      ],
+      "answerIndex": 2,
+      "fact": "She became the first woman to win the Booker Prize twice, taking it for this novel and its sequel."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym HTTP status 404 indicate?",
+      "options": [
+        "Not found",
+        "Unauthorised",
+        "Server error",
+        "Redirect"
+      ],
+      "answerIndex": 0,
+      "fact": "The 4 at the start means the client's request was at fault, which is why 500 codes blame the server instead."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which battle in 1066 preceded the Battle of Hastings by weeks?",
+      "options": [
+        "Bannockburn",
+        "Towton",
+        "Stamford Bridge",
+        "Agincourt"
+      ],
+      "answerIndex": 2,
+      "fact": "Harold marched his army about 300 kilometres between the two battles, which is a plausible reason he lost the second."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the brain regulates breathing and heart rate?",
+      "options": [
+        "Brainstem",
+        "Thalamus",
+        "Cerebrum",
+        "Cerebellum"
+      ],
+      "answerIndex": 0,
+      "fact": "It runs these functions without conscious input, which is why you cannot hold your breath until you pass out and stay out."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a move called the Fosbury Flop?",
+      "options": [
+        "Long jump",
+        "High jump",
+        "Pole vault",
+        "Triple jump"
+      ],
+      "answerIndex": 1,
+      "fact": "It only became possible once landing pits changed from sand and sawdust to deep foam."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director made the films Kill Bill and Reservoir Dogs?",
+      "options": [
+        "Robert Rodriguez",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Guy Ritchie"
+      ],
+      "answerIndex": 1,
+      "fact": "He sold his first screenplay for fifty thousand dollars and used the money to fund his own directing debut."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait lies between Denmark and Sweden?",
+      "options": [
+        "The Øresund",
+        "The Kattegat",
+        "The Skagerrak",
+        "The Great Belt"
+      ],
+      "answerIndex": 0,
+      "fact": "A bridge and tunnel cross it, switching from one to the other on an artificial island built for the purpose."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote One Flew Over the Cuckoo's Nest?",
+      "options": [
+        "Tom Wolfe",
+        "Hunter S. Thompson",
+        "Jack Kerouac",
+        "Ken Kesey"
+      ],
+      "answerIndex": 3,
+      "fact": "He drew on night shifts at a psychiatric hospital, where he had volunteered for government drug trials."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol secures web traffic with encryption?",
+      "options": [
+        "HTTP",
+        "SMTP",
+        "TLS",
+        "FTP"
+      ],
+      "answerIndex": 2,
+      "fact": "It replaced SSL, though almost everyone still calls certificates SSL certificates out of habit."
+    }
+  ]
+}
