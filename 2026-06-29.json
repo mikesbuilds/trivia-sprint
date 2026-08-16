@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US law ended legal segregation in public accommodations?",
+      "options": [
+        "Brown v Board",
+        "The Fair Housing Act",
+        "The Voting Rights Act",
+        "The Civil Rights Act of 1964"
+      ],
+      "answerIndex": 3,
+      "fact": "The Senate debate included the longest filibuster in that body's history against a civil rights measure."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal that eats dead organic matter?",
+      "options": [
+        "Predator",
+        "Filter feeder",
+        "Scavenger",
+        "Herbivore"
+      ],
+      "answerIndex": 2,
+      "fact": "Vultures have stomach acid strong enough to destroy anthrax and botulism, which is why carrion does not kill them."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the 2020 Summer Olympics, held in 2021?",
+      "options": [
+        "France",
+        "China",
+        "Japan",
+        "South Korea"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the first Games postponed rather than cancelled, and was held almost entirely without spectators."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known for the song Respect?",
+      "options": [
+        "Etta James",
+        "Gladys Knight",
+        "Tina Turner",
+        "Aretha Franklin"
+      ],
+      "answerIndex": 3,
+      "fact": "The spelling out of the title and the sock-it-to-me refrain were both her additions to the original."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the island of Sicily?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Tunisia",
+        "Malta"
+      ],
+      "answerIndex": 0,
+      "fact": "It has its own autonomous statute, granted in 1946 partly to head off a separatist movement."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Handmaid's Tale's Canadian contemporary, The Stone Angel?",
+      "options": [
+        "Carol Shields",
+        "Margaret Laurence",
+        "Mavis Gallant",
+        "Alice Munro"
+      ],
+      "answerIndex": 1,
+      "fact": "Alice Munro later became the first Canadian to win the Nobel Prize in Literature, in 2013."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Slack competitor Microsoft Teams?",
+      "options": [
+        "Zoom",
+        "Microsoft",
+        "Cisco",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "fact": "Bundling it with existing office subscriptions triggered a European competition complaint."
+    }
+  ]
+}

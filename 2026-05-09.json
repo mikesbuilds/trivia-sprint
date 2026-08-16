@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which structure did Emperor Qin Shi Huang begin connecting into a defensive line?",
+      "options": [
+        "The Forbidden City",
+        "The Grand Canal",
+        "The Great Wall",
+        "The Silk Road"
+      ],
+      "answerIndex": 2,
+      "fact": "He linked existing walls built by rival states, which is why the earliest sections vary so much in construction."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the path an electron takes around a nucleus?",
+      "options": [
+        "Orbit",
+        "Ring",
+        "Shell path",
+        "Orbital"
+      ],
+      "answerIndex": 3,
+      "fact": "It is a probability cloud rather than a path, which is why the neat planetary diagram is now considered misleading."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many rounds are there in an Olympic boxing bout?",
+      "options": [
+        "Twelve",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answerIndex": 2,
+      "fact": "Amateur rules prioritise scoring hits over damage, which is a different sport from professional boxing in practice."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features Ethan Hunt's team leader Jim Phelps?",
+      "options": [
+        "Bond",
+        "Mission: Impossible",
+        "Bourne",
+        "Jack Ryan"
+      ],
+      "answerIndex": 1,
+      "fact": "Making that character a villain in the first film angered many fans of the original television series."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the largest economy in South America?",
+      "options": [
+        "Brazil",
+        "Chile",
+        "Argentina",
+        "Colombia"
+      ],
+      "answerIndex": 0,
+      "fact": "It is also the only Portuguese-speaking country on the continent, and larger than the contiguous United States."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the Little House on the Prairie books?",
+      "options": [
+        "Louisa May Alcott",
+        "Kate Douglas Wiggin",
+        "Frances Hodgson Burnett",
+        "Laura Ingalls Wilder"
+      ],
+      "answerIndex": 3,
+      "fact": "Her daughter, a professional writer, edited them heavily, and the extent of that involvement is still debated."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym DRM restrict?",
+      "options": [
+        "Copying of digital content",
+        "Screen resolution",
+        "Network bandwidth",
+        "Battery drain"
+      ],
+      "answerIndex": 0,
+      "fact": "Several services have shut down their servers, leaving purchased content permanently unplayable."
+    }
+  ]
+}

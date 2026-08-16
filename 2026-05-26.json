@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone dates from the reign of which dynasty?",
+      "options": [
+        "Fourth",
+        "Saite",
+        "Nineteenth",
+        "Ptolemaic"
+      ],
+      "answerIndex": 3,
+      "fact": "That dynasty was Greek-speaking, which is why a Greek translation appeared on an Egyptian decree at all."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most extreme temperature difference between day and night?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Uranus"
+      ],
+      "answerIndex": 0,
+      "fact": "It swings roughly 600 degrees Celsius, because it has essentially no atmosphere to retain heat."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many gates does a slalom skier typically pass through?",
+      "options": [
+        "Around 80",
+        "Around 55",
+        "Around 20",
+        "Around 40"
+      ],
+      "answerIndex": 1,
+      "fact": "Skiers deliberately knock the poles aside with arms and shins, which is why they wear shin and hand guards."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series follows a chess prodigy in the 1960s?",
+      "options": [
+        "Checkmate",
+        "Endgame",
+        "The Queen's Gambit",
+        "Fischer"
+      ],
+      "answerIndex": 2,
+      "fact": "Chess set sales and online play both surged worldwide in the weeks after it aired."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Gobi Desert's southern portion?",
+      "options": [
+        "China",
+        "Mongolia",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "answerIndex": 0,
+      "fact": "It is expanding southward, and China has planted a vast belt of trees to try to slow it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Bathsheba Everdene?",
+      "options": [
+        "The Mayor of Casterbridge",
+        "Far from the Madding Crowd",
+        "Tess of the d'Urbervilles",
+        "Jude the Obscure"
+      ],
+      "answerIndex": 1,
+      "fact": "The surname was borrowed for the heroine of The Hunger Games as a deliberate nod."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym HDR improve in photography?",
+      "options": [
+        "Colour accuracy only",
+        "File size",
+        "Range between light and dark",
+        "Shutter speed"
+      ],
+      "answerIndex": 2,
+      "fact": "It works by combining several exposures, which is why moving subjects can produce ghosting."
+    }
+  ]
+}

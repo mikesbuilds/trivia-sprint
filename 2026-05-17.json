@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first Emperor of Rome?",
+      "options": [
+        "Tiberius",
+        "Nero",
+        "Julius Caesar",
+        "Augustus"
+      ],
+      "answerIndex": 3,
+      "fact": "He avoided the title of king entirely, preferring first citizen, which let him hold power without provoking the Senate."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of the Earth is liquid?",
+      "options": [
+        "Outer core",
+        "Crust",
+        "Lithosphere",
+        "Inner core"
+      ],
+      "answerIndex": 0,
+      "fact": "Its churning generates the planet's magnetic field, which is why Mars lost most of its atmosphere when its core cooled."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In American football, how many points is a safety worth?",
+      "options": [
+        "Six",
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the only score awarded to the defending team, and the conceding side must then kick the ball away."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which reality format sends contestants to a remote location to be voted off?",
+      "options": [
+        "The Amazing Race",
+        "Survivor",
+        "The Apprentice",
+        "Big Brother"
+      ],
+      "answerIndex": 1,
+      "fact": "The format originated in Sweden, where the first series ended in controversy after a contestant's death by suicide."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest lake in South America?",
+      "options": [
+        "Lake Argentino",
+        "Lake Maracaibo",
+        "Lake Titicaca",
+        "Lake Poopó"
+      ],
+      "answerIndex": 1,
+      "fact": "It is connected to the sea, so whether it counts as a lake at all is a matter of definition."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Room with a View?",
+      "options": [
+        "E.M. Forster",
+        "Ford Madox Ford",
+        "Somerset Maugham",
+        "Henry James"
+      ],
+      "answerIndex": 0,
+      "fact": "He published no novels for the last forty-five years of his life, though he wrote one that appeared posthumously."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym OCR do?",
+      "options": [
+        "Encrypts documents",
+        "Renders 3D graphics",
+        "Converts images of text into text",
+        "Compresses audio"
+      ],
+      "answerIndex": 2,
+      "fact": "Early systems were trained on a single typeface, which is why documents had to be printed in a specific font."
+    }
+  ]
+}

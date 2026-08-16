@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who wrote the Communist Manifesto with Friedrich Engels?",
+      "options": [
+        "Pierre-Joseph Proudhon",
+        "Vladimir Lenin",
+        "Karl Marx",
+        "Mikhail Bakunin"
+      ],
+      "answerIndex": 2,
+      "fact": "It was published weeks before revolutions broke out across Europe in 1848, and had almost no influence on them."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist developed the first successful vaccine?",
+      "options": [
+        "Edward Jenner",
+        "Robert Koch",
+        "Jonas Salk",
+        "Louis Pasteur"
+      ],
+      "answerIndex": 0,
+      "fact": "The word vaccine comes from the Latin for cow, after the cowpox he used to protect against smallpox."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country originated the sport of cricket?",
+      "options": [
+        "Australia",
+        "England",
+        "India",
+        "South Africa"
+      ],
+      "answerIndex": 1,
+      "fact": "The earliest definite reference is a 1597 court case about a piece of land, where a witness recalled playing there as a boy."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Nevermind's successor, In Utero?",
+      "options": [
+        "Pearl Jam",
+        "Nirvana",
+        "Alice in Chains",
+        "Hole"
+      ],
+      "answerIndex": 1,
+      "fact": "It was deliberately recorded rough, and the label initially asked for parts of it to be remixed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Sahel region?",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "fact": "It is the transition belt between the Sahara and the savanna, and its boundaries shift with rainfall."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Raskolnikov?",
+      "options": [
+        "The Brothers Karamazov",
+        "The Idiot",
+        "Demons",
+        "Crime and Punishment"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author had faced a firing squad years earlier in a mock execution staged by the Tsar's government."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company produced the ZX Spectrum?",
+      "options": [
+        "Commodore",
+        "Acorn",
+        "Sinclair",
+        "Amstrad"
+      ],
+      "answerIndex": 2,
+      "fact": "Its rubber keyboard was chosen purely to keep the price under a psychological threshold."
+    }
+  ]
+}

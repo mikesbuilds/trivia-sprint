@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was located at the eastern end of the Mediterranean and famed for purple dye?",
+      "options": [
+        "Byblos",
+        "Alexandria",
+        "Tyre",
+        "Athens"
+      ],
+      "answerIndex": 2,
+      "fact": "The dye came from sea snails, and producing a single gram required thousands of them."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human organ contains alveoli?",
+      "options": [
+        "Kidney",
+        "Lung",
+        "Liver",
+        "Pancreas"
+      ],
+      "answerIndex": 1,
+      "fact": "There are around 300 million of them, and their combined surface area is roughly that of a tennis court."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, how many sets must a man win to take a Grand Slam match?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answerIndex": 2,
+      "fact": "Best of five is used only at the four majors, and the longest recorded match ran over eleven hours across three days."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming platform produced The Mandalorian?",
+      "options": [
+        "Disney Plus",
+        "HBO Max",
+        "Netflix",
+        "Paramount Plus"
+      ],
+      "answerIndex": 0,
+      "fact": "It was shot against a curved LED wall displaying real-time backgrounds, largely replacing green screen."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies between Poland and Estonia?",
+      "options": [
+        "Lithuania",
+        "Both Latvia and Lithuania",
+        "Latvia",
+        "Belarus"
+      ],
+      "answerIndex": 1,
+      "fact": "Lithuania borders Poland and Latvia borders Estonia, so the two together fill the gap."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Old Curiosity Shop?",
+      "options": [
+        "Anthony Trollope",
+        "Wilkie Collins",
+        "William Thackeray",
+        "Charles Dickens"
+      ],
+      "answerIndex": 3,
+      "fact": "Crowds reportedly waited at New York docks for the ship carrying the final instalment, shouting to ask if a character lived."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym UX designer primarily study?",
+      "options": [
+        "Server performance",
+        "Code quality",
+        "Network topology",
+        "How people use a product"
+      ],
+      "answerIndex": 3,
+      "fact": "Much of the work is watching people fail to do something, which is more informative than asking them."
+    }
+  ]
+}

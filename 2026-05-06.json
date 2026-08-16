@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Spanish Armada sailed in which year?",
+      "options": [
+        "1588",
+        "1492",
+        "1620",
+        "1605"
+      ],
+      "answerIndex": 0,
+      "fact": "The fleet was scattered by fireships at Calais before any decisive battle was fought."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of rock is marble?",
+      "options": [
+        "Metamorphic",
+        "Igneous",
+        "Volcanic",
+        "Sedimentary"
+      ],
+      "answerIndex": 0,
+      "fact": "It starts as limestone, and heat and pressure recrystallise it into the interlocking grains that take a polish."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the length of a cricket pitch between the wickets?",
+      "options": [
+        "24 yards",
+        "20 yards",
+        "22 yards",
+        "18 yards"
+      ],
+      "answerIndex": 2,
+      "fact": "That distance equals one chain, an old surveying unit that also explains the length of a furlong."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game features a character called Link?",
+      "options": [
+        "Chrono Trigger",
+        "The Legend of Zelda",
+        "Secret of Mana",
+        "Final Fantasy"
+      ],
+      "answerIndex": 1,
+      "fact": "Zelda is the princess, not the hero, which is among the most persistent misconceptions in gaming."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island nation lies southeast of Florida?",
+      "options": [
+        "Jamaica",
+        "Bahamas",
+        "Haiti",
+        "Cuba"
+      ],
+      "answerIndex": 1,
+      "fact": "It is an archipelago of some 700 islands, only about thirty of which are inhabited."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Yuri Zhivago?",
+      "options": [
+        "War and Peace",
+        "And Quiet Flows the Don",
+        "Doctor Zhivago",
+        "Life and Fate"
+      ],
+      "answerIndex": 2,
+      "fact": "It was banned at home and smuggled out for publication in Italy, which is how it reached the world."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage technology uses magnetic tape?",
+      "options": [
+        "NVMe",
+        "eMMC",
+        "SSD",
+        "LTO"
+      ],
+      "answerIndex": 3,
+      "fact": "Tape is still used for long-term archives because it is cheap, durable and cannot be altered remotely."
+    }
+  ]
+}

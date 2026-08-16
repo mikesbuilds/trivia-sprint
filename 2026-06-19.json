@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first person to reach the summit of Everest with Tenzing Norgay?",
+      "options": [
+        "Chris Bonington",
+        "George Mallory",
+        "Edmund Hillary",
+        "John Hunt"
+      ],
+      "answerIndex": 2,
+      "fact": "The two never publicly said who stepped up first, agreeing to describe it as a joint achievement."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an organism in the earliest stage of development after fertilisation?",
+      "options": [
+        "Embryo",
+        "Zygote",
+        "Fetus",
+        "Larva"
+      ],
+      "answerIndex": 1,
+      "fact": "It is a single cell, and the first division typically happens within about a day."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what is a set score of 7-6 usually decided by?",
+      "options": [
+        "Golden point",
+        "A deciding game",
+        "Sudden death",
+        "A tiebreak"
+      ],
+      "answerIndex": 3,
+      "fact": "It was introduced in 1970 to stop sets running indefinitely, which had been making scheduling impossible."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is known for the album Definitely Maybe?",
+      "options": [
+        "Oasis",
+        "Blur",
+        "The Verve",
+        "Suede"
+      ],
+      "answerIndex": 0,
+      "fact": "It became the fastest-selling debut album in British history when released in 1994."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state produces the most oil?",
+      "options": [
+        "California",
+        "Texas",
+        "North Dakota",
+        "Alaska"
+      ],
+      "answerIndex": 1,
+      "fact": "It alone would rank among the largest oil-producing countries in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Poisonwood Bible?",
+      "options": [
+        "Barbara Kingsolver",
+        "Jane Smiley",
+        "Ann Patchett",
+        "Marilynne Robinson"
+      ],
+      "answerIndex": 0,
+      "fact": "It is narrated in rotation by a mother and her four daughters, each with a distinct voice."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Steam games platform?",
+      "options": [
+        "Electronic Arts",
+        "Ubisoft",
+        "Epic Games",
+        "Valve"
+      ],
+      "answerIndex": 3,
+      "fact": "It was launched to deliver patches for the company's own games and was widely resented by players at first."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Battle of Thermopylae was fought between Greece and which empire?",
+      "options": [
+        "Persia",
+        "Macedon",
+        "Carthage",
+        "Rome"
+      ],
+      "answerIndex": 0,
+      "fact": "The Greeks were outflanked by a mountain path shown to the Persians by a local resident hoping for a reward."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet rotates fastest on its axis?",
+      "options": [
+        "Jupiter",
+        "Earth",
+        "Mars",
+        "Venus"
+      ],
+      "answerIndex": 0,
+      "fact": "The speed flattens it noticeably: its diameter through the equator is about seven percent greater than pole to pole."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is two under par on a hole called?",
+      "options": [
+        "Albatross",
+        "Condor",
+        "Birdie",
+        "Eagle"
+      ],
+      "answerIndex": 3,
+      "fact": "The bird names escalate by rarity, with albatross for three under and condor for the almost mythical four."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album Sgt. Pepper's Lonely Hearts Club Band?",
+      "options": [
+        "The Zombies",
+        "The Hollies",
+        "The Beatles",
+        "The Kinks"
+      ],
+      "answerIndex": 2,
+      "fact": "The cover crowd was assembled from life-sized cutouts, and several requested figures were removed for legal reasons."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which two countries does Ecuador border?",
+      "options": [
+        "Peru and Bolivia",
+        "Colombia and Peru",
+        "Colombia and Venezuela",
+        "Peru and Brazil"
+      ],
+      "answerIndex": 1,
+      "fact": "It is one of only two South American countries that do not border Brazil, the other being Chile."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jean Brodie?",
+      "options": [
+        "Brideshead Revisited",
+        "The Prime of Miss Jean Brodie",
+        "A Kind of Loving",
+        "The Rachel Papers"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author reveals characters' futures midway through, deliberately removing suspense to focus on how things happen."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Go programming language?",
+      "options": [
+        "Apple",
+        "Mozilla",
+        "Google",
+        "Microsoft"
+      ],
+      "answerIndex": 2,
+      "fact": "It was designed partly because compiling large C++ programs at Google was taking unacceptably long."
+    }
+  ]
+}

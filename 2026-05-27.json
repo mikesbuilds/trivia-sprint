@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Native American leader led resistance at the Battle of the Little Bighorn?",
+      "options": [
+        "Red Cloud",
+        "Tecumseh",
+        "Sitting Bull",
+        "Geronimo"
+      ],
+      "answerIndex": 2,
+      "fact": "Crazy Horse led much of the fighting, while Sitting Bull's role was as spiritual and political leader."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the process of a liquid turning to solid?",
+      "options": [
+        "Condensing",
+        "Sublimating",
+        "Melting",
+        "Freezing"
+      ],
+      "answerIndex": 3,
+      "fact": "Water is unusual in expanding as it does this, which is why ice floats and why pipes burst."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country's national sport is baseball by popularity?",
+      "options": [
+        "South Korea",
+        "All of these",
+        "Cuba",
+        "Japan"
+      ],
+      "answerIndex": 1,
+      "fact": "It arrived in Japan with an American teacher in 1872 and in Cuba via students returning from the United States."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the song Paranoid Android?",
+      "options": [
+        "Radiohead",
+        "Placebo",
+        "Muse",
+        "Blur"
+      ],
+      "answerIndex": 0,
+      "fact": "The title references a depressed robot from The Hitchhiker's Guide to the Galaxy."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest island in Asia?",
+      "options": [
+        "Sumatra",
+        "Borneo",
+        "Honshu",
+        "Sulawesi"
+      ],
+      "answerIndex": 1,
+      "fact": "It is shared by three countries, which is unusual for an island of any size."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Things Fall Apart's sequel, No Longer at Ease?",
+      "options": [
+        "Chinua Achebe",
+        "Ayi Kwei Armah",
+        "Wole Soyinka",
+        "Ngũgĩ wa Thiong'o"
+      ],
+      "answerIndex": 0,
+      "fact": "The two, with a third novel, form a trilogy following three generations of the same family."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes a piece of code that runs on a schedule?",
+      "options": [
+        "Daemon",
+        "Thread",
+        "Callback",
+        "Cron job"
+      ],
+      "answerIndex": 3,
+      "fact": "Its syntax of five fields is famously unmemorable, and most people look it up every single time."
+    }
+  ]
+}

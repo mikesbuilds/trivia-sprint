@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Peloponnesian War was fought between Athens and which city-state?",
+      "options": [
+        "Corinth",
+        "Sparta",
+        "Thebes",
+        "Argos"
+      ],
+      "answerIndex": 1,
+      "fact": "Its historian served as a general, was exiled for a defeat, and used the freedom to interview both sides."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet's atmosphere is thickest?",
+      "options": [
+        "Venus",
+        "Titan",
+        "Mars",
+        "Earth"
+      ],
+      "answerIndex": 0,
+      "fact": "Surface pressure is about ninety times Earth's, equivalent to being a kilometre underwater."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a bat called a paddle?",
+      "options": [
+        "Table tennis",
+        "Baseball",
+        "Rounders",
+        "Cricket"
+      ],
+      "answerIndex": 0,
+      "fact": "The rubber surfaces are regulated in thickness and must be a different colour on each side, so opponents can read the spin."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known for the album Back to Black?",
+      "options": [
+        "Adele",
+        "Amy Winehouse",
+        "Paloma Faith",
+        "Duffy"
+      ],
+      "answerIndex": 1,
+      "fact": "Its horn arrangements were played by a Brooklyn band that recorded much of it on vintage equipment."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river passes through Cologne and Rotterdam?",
+      "options": [
+        "The Weser",
+        "The Elbe",
+        "The Rhine",
+        "The Maas"
+      ],
+      "answerIndex": 2,
+      "fact": "It carries more freight than any other river in Europe, and Rotterdam grew into a mega-port on the back of it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Time Traveller's precursor, The Time Machine?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Edgar Rice Burroughs",
+        "H.G. Wells"
+      ],
+      "answerIndex": 3,
+      "fact": "It coined the term time machine, and the concept had no established name before it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Vim text editor's predecessor, vi?",
+      "options": [
+        "Microsoft",
+        "IBM",
+        "Bell Labs",
+        "Bill Joy at Berkeley"
+      ],
+      "answerIndex": 3,
+      "fact": "Its keyboard shortcuts assume a terminal without arrow keys, which is why movement uses letters."
+    }
+  ]
+}

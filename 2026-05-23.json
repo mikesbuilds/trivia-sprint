@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was Vasco da Gama sailing for?",
+      "options": [
+        "Italy",
+        "England",
+        "Portugal",
+        "Spain"
+      ],
+      "answerIndex": 2,
+      "fact": "His route broke the Venetian and Ottoman monopoly on the spice trade almost overnight."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal's inherited behaviour requiring no learning?",
+      "options": [
+        "Conditioning",
+        "Imprinting",
+        "Instinct",
+        "Habituation"
+      ],
+      "answerIndex": 2,
+      "fact": "Spiders spin correct webs on their first attempt, having never seen one."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Melbourne Cup?",
+      "options": [
+        "Ireland",
+        "Australia",
+        "South Africa",
+        "New Zealand"
+      ],
+      "answerIndex": 1,
+      "fact": "It is a public holiday in its home state, which is unusual for a single horse race."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Rick Blaine?",
+      "options": [
+        "Key Largo",
+        "To Have and Have Not",
+        "The Maltese Falcon",
+        "Casablanca"
+      ],
+      "answerIndex": 3,
+      "fact": "The ending was not settled when filming began, so the cast played several scenes without knowing the outcome."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the highest life expectancy among large nations?",
+      "options": [
+        "Italy",
+        "Switzerland",
+        "Spain",
+        "Japan"
+      ],
+      "answerIndex": 3,
+      "fact": "Okinawa in particular has been studied for decades over its unusually high number of centenarians."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel American Psycho?",
+      "options": [
+        "Chuck Palahniuk",
+        "Bret Easton Ellis",
+        "Don DeLillo",
+        "Jay McInerney"
+      ],
+      "answerIndex": 1,
+      "fact": "Its original publisher dropped it before release, and another picked it up within days."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company makes the Photoshop alternative Affinity Photo?",
+      "options": [
+        "Serif",
+        "Adobe",
+        "Autodesk",
+        "Corel"
+      ],
+      "answerIndex": 0,
+      "fact": "It sold as a one-off purchase during a period when nearly all competitors moved to subscriptions."
+    }
+  ]
+}

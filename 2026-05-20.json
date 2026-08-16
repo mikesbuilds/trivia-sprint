@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer disappeared searching for a lost city in the Amazon in 1925?",
+      "options": [
+        "David Livingstone",
+        "Henry Bates",
+        "Percy Fawcett",
+        "Richard Burton"
+      ],
+      "answerIndex": 2,
+      "fact": "Dozens of later expeditions went looking for him, and several of those parties also vanished."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which animal has the longest recorded lifespan?",
+      "options": [
+        "Galápagos tortoise",
+        "Bowhead whale",
+        "Koi carp",
+        "Greenland shark"
+      ],
+      "answerIndex": 3,
+      "fact": "Individuals have been estimated at over 400 years old, dated by chemical markers in the lens of the eye."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is contested annually between Australia and England in cricket?",
+      "options": [
+        "The Wisden Trophy",
+        "The Ashes",
+        "The Border-Gavaskar Trophy",
+        "The Frank Worrell Trophy"
+      ],
+      "answerIndex": 1,
+      "fact": "The urn itself is tiny, about fifteen centimetres tall, and is too fragile to be presented on the field."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the Nakatomi Plaza?",
+      "options": [
+        "Speed",
+        "Die Hard",
+        "Lethal Weapon",
+        "Under Siege"
+      ],
+      "answerIndex": 1,
+      "fact": "The building is a real office block, and its owners still receive requests to film there."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Iguazu Falls' larger share?",
+      "options": [
+        "Argentina",
+        "Uruguay",
+        "Brazil",
+        "Paraguay"
+      ],
+      "answerIndex": 0,
+      "fact": "Argentina holds most of the falls, while Brazil is generally agreed to have the better view of them."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Jane Eyre's employer?",
+      "options": [
+        "Villette",
+        "Agnes Grey",
+        "Jane Eyre",
+        "Wuthering Heights"
+      ],
+      "answerIndex": 2,
+      "fact": "The novel was published under the name Currer Bell, and reviewers spent years speculating about the author's sex."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a checksum?",
+      "options": [
+        "Detecting data corruption",
+        "Compressing archives",
+        "Speeding transfers",
+        "Encrypting files"
+      ],
+      "answerIndex": 0,
+      "fact": "Bank card numbers include one, which is why a single mistyped digit is usually rejected instantly."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire did Cortés bring down in 1521?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Tarascan",
+        "Maya"
+      ],
+      "answerIndex": 0,
+      "fact": "He had a few hundred men, and won largely by allying with tens of thousands of the empire's own resentful subjects."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a chemical reaction that releases heat?",
+      "options": [
+        "Catalytic",
+        "Reversible",
+        "Exothermic",
+        "Endothermic"
+      ],
+      "answerIndex": 2,
+      "fact": "Burning and rusting are both examples, differing mainly in how fast the heat comes out."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Flushing Meadows?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Baseball",
+        "Athletics"
+      ],
+      "answerIndex": 1,
+      "fact": "Aircraft noise from the nearby airport is loud enough that flight paths are sometimes altered during finals."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Clarice Starling?",
+      "options": [
+        "Manhunter",
+        "Red Dragon",
+        "Hannibal",
+        "The Silence of the Lambs"
+      ],
+      "answerIndex": 3,
+      "fact": "It is one of only three films to win all five of the major Academy Awards."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has the fewest countries?",
+      "options": [
+        "Australia",
+        "South America",
+        "North America",
+        "Antarctica"
+      ],
+      "answerIndex": 3,
+      "fact": "Antarctica has none at all; seven countries maintain territorial claims that most others do not recognise."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The God of Small Things?",
+      "options": [
+        "Arundhati Roy",
+        "Kiran Desai",
+        "Jhumpa Lahiri",
+        "Anita Desai"
+      ],
+      "answerIndex": 0,
+      "fact": "She published no second novel for twenty years, spending the interval on political writing instead."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Erlang programming language?",
+      "options": [
+        "Nokia",
+        "Ericsson",
+        "Siemens",
+        "Alcatel"
+      ],
+      "answerIndex": 1,
+      "fact": "It was built for telephone exchanges, where systems must keep running while being upgraded."
+    }
+  ]
+}

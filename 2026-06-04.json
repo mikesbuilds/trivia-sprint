@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Portugal hand back to China in 1999?",
+      "options": [
+        "Hainan",
+        "Macau",
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "answerIndex": 1,
+      "fact": "Portugal had tried to return it in the 1970s and China declined, preferring to wait."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure carries signals away from a neuron's body?",
+      "options": [
+        "Dendrite",
+        "Axon",
+        "Myelin",
+        "Synapse"
+      ],
+      "answerIndex": 1,
+      "fact": "The longest in a human runs from the base of the spine to the toe, around a metre in a single cell."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the most medals at the first modern Olympics?",
+      "options": [
+        "Germany",
+        "France",
+        "Greece",
+        "The United States"
+      ],
+      "answerIndex": 2,
+      "fact": "It won the most medals overall, while the United States won the most first places."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the character Tony Montana?",
+      "options": [
+        "Scarface",
+        "The Untouchables",
+        "Donnie Brasco",
+        "Carlito's Way"
+      ],
+      "answerIndex": 0,
+      "fact": "It was a remake of a 1932 film, relocated from Prohibition Chicago to 1980s Miami."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the world's largest cave passage?",
+      "options": [
+        "Malaysia",
+        "Slovenia",
+        "Vietnam",
+        "Mexico"
+      ],
+      "answerIndex": 2,
+      "fact": "Son Doong is large enough to hold a city block, and has its own jungle and weather system inside."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with a family arriving at a lighthouse-facing holiday house?",
+      "options": [
+        "The Waves",
+        "Mrs Dalloway",
+        "Orlando",
+        "To the Lighthouse"
+      ],
+      "answerIndex": 3,
+      "fact": "Its middle section compresses ten years and several deaths into a few pages, mostly in brackets."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for the practice of hiding a system's internal detail?",
+      "options": [
+        "Abstraction",
+        "Serialisation",
+        "Instantiation",
+        "Compilation"
+      ],
+      "answerIndex": 0,
+      "fact": "Every layer of a computer is one, which is why you can use a phone without knowing what a transistor is."
+    }
+  ]
+}

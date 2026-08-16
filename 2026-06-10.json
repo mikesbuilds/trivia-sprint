@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Congress of Vienna reorganised Europe after which conflict?",
+      "options": [
+        "The Seven Years' War",
+        "The Napoleonic Wars",
+        "The Crimean War",
+        "The Thirty Years' War"
+      ],
+      "answerIndex": 1,
+      "fact": "It was interrupted mid-session when Napoleon escaped from Elba, and simply resumed after Waterloo."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human bone protects the brain?",
+      "options": [
+        "Scapula",
+        "Sternum",
+        "Clavicle",
+        "Cranium"
+      ],
+      "answerIndex": 3,
+      "fact": "It is eight fused bones, and the joints between them stay slightly flexible into adulthood."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a scoring shot called a conversion?",
+      "options": [
+        "American football",
+        "Hockey",
+        "Rugby",
+        "Both rugby and American football"
+      ],
+      "answerIndex": 3,
+      "fact": "Both inherited it from the same nineteenth-century ancestor, which is why so much of their vocabulary overlaps."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Rumours' follow-up, Tusk?",
+      "options": [
+        "Steely Dan",
+        "Toto",
+        "Fleetwood Mac",
+        "The Eagles"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the most expensive album ever made at the time, and its title track features a marching band."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains Cappadocia's rock formations?",
+      "options": [
+        "Iran",
+        "Greece",
+        "Turkey",
+        "Georgia"
+      ],
+      "answerIndex": 2,
+      "fact": "People carved entire underground cities there, some deep enough to shelter thousands for months."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Rebecca's opening line about Manderley?",
+      "options": [
+        "Daphne du Maurier",
+        "Agatha Christie",
+        "Georgette Heyer",
+        "Mary Stewart"
+      ],
+      "answerIndex": 0,
+      "fact": "The house was based on a Cornish estate she later leased and lived in for over twenty years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym GDPR regulate?",
+      "options": [
+        "Personal data handling",
+        "Software patents",
+        "Digital payments",
+        "Network neutrality"
+      ],
+      "answerIndex": 0,
+      "fact": "It applies to any organisation handling EU residents' data, regardless of where that organisation is based."
+    }
+  ]
+}

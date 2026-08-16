@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Roman general was defeated at the Battle of the Teutoburg Forest?",
+      "options": [
+        "Varus",
+        "Drusus",
+        "Agrippa",
+        "Germanicus"
+      ],
+      "answerIndex": 0,
+      "fact": "Rome lost three legions and effectively abandoned any attempt to hold territory east of the Rhine."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an inherited characteristic that improves survival?",
+      "options": [
+        "Variation",
+        "Mutation",
+        "Adaptation",
+        "Selection"
+      ],
+      "answerIndex": 2,
+      "fact": "It is always relative to an environment, so the same trait can be an advantage in one place and a liability elsewhere."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country invented the sport of volleyball?",
+      "options": [
+        "Japan",
+        "Italy",
+        "Brazil",
+        "The United States"
+      ],
+      "answerIndex": 3,
+      "fact": "It was designed in 1895 as a gentler alternative to basketball for older members of a gym."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features the Bluth family?",
+      "options": [
+        "Modern Family",
+        "Arrested Development",
+        "Schitt's Creek",
+        "Succession"
+      ],
+      "answerIndex": 1,
+      "fact": "It was cancelled after three seasons and revived years later by a streaming service."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Wellington rather than its largest city?",
+      "options": [
+        "All of these",
+        "Canada",
+        "New Zealand",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "fact": "Canberra, Wellington and Ottawa are all smaller than their countries' largest cities, all for similar political reasons."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Cold Comfort Farm?",
+      "options": [
+        "Nancy Mitford",
+        "Barbara Pym",
+        "E.F. Benson",
+        "Stella Gibbons"
+      ],
+      "answerIndex": 3,
+      "fact": "It parodies rural melodrama so precisely that it helped end the genre it was mocking."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the LLVM compiler infrastructure?",
+      "options": [
+        "IBM",
+        "A university project, later Apple",
+        "Google",
+        "Intel"
+      ],
+      "answerIndex": 1,
+      "fact": "It began as a research project in Illinois and now underpins compilers for a long list of languages."
+    }
+  ]
+}

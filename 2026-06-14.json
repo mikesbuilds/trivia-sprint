@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's flag is the oldest continuously used national flag?",
+      "options": [
+        "Netherlands",
+        "Austria",
+        "Scotland",
+        "Denmark"
+      ],
+      "answerIndex": 3,
+      "fact": "Legend has it falling from the sky during a battle in 1219, which is not evidence but is a very good story."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which sense organ contains the cochlea?",
+      "options": [
+        "Ear",
+        "Eye",
+        "Tongue",
+        "Nose"
+      ],
+      "answerIndex": 0,
+      "fact": "It is coiled like a snail shell, and different points along the coil respond to different frequencies."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic hockey gold medals?",
+      "options": [
+        "Australia",
+        "India",
+        "Netherlands",
+        "Pakistan"
+      ],
+      "answerIndex": 1,
+      "fact": "It won six consecutive titles between 1928 and 1956, going undefeated across all of them."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a prison called Fox River?",
+      "options": [
+        "Oz",
+        "Wentworth",
+        "Prison Break",
+        "Orange Is the New Black"
+      ],
+      "answerIndex": 2,
+      "fact": "The tattoo covering the escape plan took several hours per shooting day to apply."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Okavango Delta?",
+      "options": [
+        "Angola",
+        "Zambia",
+        "Namibia",
+        "Botswana"
+      ],
+      "answerIndex": 3,
+      "fact": "The river never reaches the sea, emptying instead into the Kalahari where it evaporates."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in the fictional county of Yoknapatawpha?",
+      "options": [
+        "The Sound and the Fury",
+        "East of Eden",
+        "Main Street",
+        "Winesburg, Ohio"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author drew a map of the county and labelled himself its sole owner and proprietor."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym WYSIWYG describe?",
+      "options": [
+        "A database schema",
+        "A security model",
+        "An editor showing final appearance",
+        "A compression format"
+      ],
+      "answerIndex": 2,
+      "fact": "Before it, formatting was written as visible codes and you found out how it looked only after printing."
+    }
+  ]
+}

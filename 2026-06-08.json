@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country hosted the first modern Winter Olympics in 1924?",
+      "options": [
+        "Norway",
+        "Switzerland",
+        "Austria",
+        "France"
+      ],
+      "answerIndex": 3,
+      "fact": "It was not called an Olympics at the time and was retroactively given the title two years later."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet was reclassified as a dwarf planet in 2006?",
+      "options": [
+        "Ceres",
+        "Eris",
+        "Pluto",
+        "Makemake"
+      ],
+      "answerIndex": 2,
+      "fact": "The deciding criterion was whether it had cleared its orbital neighbourhood, which it has not."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country's team is nicknamed the Springboks?",
+      "options": [
+        "Australia",
+        "Namibia",
+        "New Zealand",
+        "South Africa"
+      ],
+      "answerIndex": 3,
+      "fact": "Its 1995 World Cup win, with Mandela wearing the captain's shirt, is among the most cited moments in sports politics."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist is known for the sculpture David?",
+      "options": [
+        "Cellini",
+        "Michelangelo",
+        "Donatello",
+        "Bernini"
+      ],
+      "answerIndex": 1,
+      "fact": "The marble block had been abandoned by two previous sculptors as unworkable before he took it on."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the Canary Islands?",
+      "options": [
+        "France",
+        "Morocco",
+        "Spain",
+        "Portugal"
+      ],
+      "answerIndex": 2,
+      "fact": "They are named after dogs rather than birds, and the bird was named after the islands."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem Ozymandias?",
+      "options": [
+        "Percy Bysshe Shelley",
+        "John Keats",
+        "William Blake",
+        "Lord Byron"
+      ],
+      "answerIndex": 0,
+      "fact": "It was written as a friendly competition with another poet, who produced a version on the same subject that nobody remembers."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for code left in place that no longer runs?",
+      "options": [
+        "Dead code",
+        "Boilerplate",
+        "Spaghetti code",
+        "Legacy code"
+      ],
+      "answerIndex": 0,
+      "fact": "Compilers usually strip it out, but it still costs human time every time someone reads the file."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Berlin Conference of 1884 concerned the partition of what?",
+      "options": [
+        "the Pacific",
+        "Asia",
+        "Africa",
+        "the Balkans"
+      ],
+      "answerIndex": 2,
+      "fact": "It established that a claim required effective occupation, which set off a race to plant flags inland."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element is the lightest?",
+      "options": [
+        "Hydrogen",
+        "Lithium",
+        "Carbon",
+        "Helium"
+      ],
+      "answerIndex": 0,
+      "fact": "Its nucleus is usually a single proton with no neutron at all, which is unique among elements."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race called the Ironman?",
+      "options": [
+        "Ultra running",
+        "Cross-country skiing",
+        "Triathlon",
+        "Rowing"
+      ],
+      "answerIndex": 2,
+      "fact": "It combines a 3.9 kilometre swim, 180 kilometre ride and a full marathon, in that order and without a break."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a bar called Paddy's Pub?",
+      "options": [
+        "It's Always Sunny in Philadelphia",
+        "Cheers",
+        "Barney Miller",
+        "How I Met Your Mother"
+      ],
+      "answerIndex": 0,
+      "fact": "Its pilot was shot for a few hundred dollars on a borrowed camera."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Saudi Arabia from Iran?",
+      "options": [
+        "The Red Sea",
+        "The Arabian Sea",
+        "The Gulf of Oman",
+        "The Persian Gulf"
+      ],
+      "answerIndex": 3,
+      "fact": "Its name is itself contested, with some countries preferring the Arabian Gulf."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a brief reference to another work or event?",
+      "options": [
+        "Analogy",
+        "Illusion",
+        "Parable",
+        "Allusion"
+      ],
+      "answerIndex": 3,
+      "fact": "It relies entirely on the reader recognising it, which is why allusions date faster than any other device."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for storing computed results to avoid recalculating?",
+      "options": [
+        "Recursion",
+        "Memoisation",
+        "Polymorphism",
+        "Iteration"
+      ],
+      "answerIndex": 1,
+      "fact": "It turns some naively slow algorithms into fast ones without changing the logic at all."
+    }
+  ]
+}

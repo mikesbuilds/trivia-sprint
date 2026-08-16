@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who invented the printing press with movable type in Europe?",
+      "options": [
+        "Nicolas Jenson",
+        "William Caxton",
+        "Johannes Gutenberg",
+        "Aldus Manutius"
+      ],
+      "answerIndex": 2,
+      "fact": "Movable type existed in Korea and China first; his innovation was the metal alloy and the press mechanism."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the study of fossils?",
+      "options": [
+        "Geology",
+        "Palaeontology",
+        "Anthropology",
+        "Archaeology"
+      ],
+      "answerIndex": 1,
+      "fact": "Archaeology studies human artefacts, which is why dinosaurs are firmly not archaeology."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms deuce and let?",
+      "options": [
+        "Tennis",
+        "Cricket",
+        "Hockey",
+        "Golf"
+      ],
+      "answerIndex": 0,
+      "fact": "A let serve clipping the net used to be judged by ear, and electronic sensors replaced that in the 1990s."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series is set at Hawkins Middle School?",
+      "options": [
+        "Riverdale",
+        "Sex Education",
+        "Freaks and Geeks",
+        "Stranger Things"
+      ],
+      "answerIndex": 3,
+      "fact": "Its child cast were given a book of 1980s references so they would understand what they were reacting to."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies to the west of Ireland?",
+      "options": [
+        "The Celtic Sea",
+        "The Atlantic Ocean",
+        "The North Sea",
+        "The Irish Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "There is no land between its west coast and Newfoundland, which is why its weather arrives without warning."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Suitable Boy?",
+      "options": [
+        "Arundhati Roy",
+        "Amitav Ghosh",
+        "Vikram Seth",
+        "Rohinton Mistry"
+      ],
+      "answerIndex": 2,
+      "fact": "At around 1,350 pages it is one of the longest novels ever published in a single English volume."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company makes the Chromebook operating system?",
+      "options": [
+        "Lenovo",
+        "Microsoft",
+        "Apple",
+        "Google"
+      ],
+      "answerIndex": 3,
+      "fact": "It runs a Linux kernel underneath, and can now run Android and Linux applications alongside web ones."
+    }
+  ]
+}

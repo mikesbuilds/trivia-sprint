@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who founded the Mughal Empire?",
+      "options": [
+        "Shah Jahan",
+        "Babur",
+        "Akbar",
+        "Humayun"
+      ],
+      "answerIndex": 1,
+      "fact": "He was descended from both Genghis Khan and Timur, and wrote a candid memoir unusual for a conqueror."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the imaginary line the Earth rotates around?",
+      "options": [
+        "Orbit",
+        "Equator",
+        "Axis",
+        "Meridian"
+      ],
+      "answerIndex": 2,
+      "fact": "Its tilt of about 23.5 degrees is what produces seasons, not the distance from the Sun."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic fencing medals?",
+      "options": [
+        "Hungary",
+        "France",
+        "Russia",
+        "Italy"
+      ],
+      "answerIndex": 3,
+      "fact": "Italy and France between them have won more than half of all fencing medals ever awarded."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Chihiro?",
+      "options": [
+        "Kiki's Delivery Service",
+        "Spirited Away",
+        "Howl's Moving Castle",
+        "Princess Mononoke"
+      ],
+      "answerIndex": 1,
+      "fact": "Its director made it for the ten-year-old daughters of friends, who he felt had no films aimed at them."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the largest population in Europe?",
+      "options": [
+        "France",
+        "Germany",
+        "Russia",
+        "United Kingdom"
+      ],
+      "answerIndex": 2,
+      "fact": "Most of its population lives in the European portion, though most of its land area is in Asia."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Name of the Rose?",
+      "options": [
+        "Umberto Eco",
+        "Primo Levi",
+        "Alberto Moravia",
+        "Italo Calvino"
+      ],
+      "answerIndex": 0,
+      "fact": "He was a professor of semiotics, and included long untranslated Latin passages on purpose."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Terraform infrastructure tool?",
+      "options": [
+        "Red Hat",
+        "Chef",
+        "Puppet",
+        "HashiCorp"
+      ],
+      "answerIndex": 3,
+      "fact": "Describing infrastructure as code means a whole environment can be recreated from a file rather than from memory."
+    }
+  ]
+}

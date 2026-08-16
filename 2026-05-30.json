@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which agreement in 1994 created a free trade zone in North America?",
+      "options": [
+        "NAFTA",
+        "CUSFTA",
+        "TPP",
+        "GATT"
+      ],
+      "answerIndex": 0,
+      "fact": "It was renegotiated and renamed in 2020, with much of the original text carried over intact."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body part produces the sound of the human voice?",
+      "options": [
+        "Tongue",
+        "Palate",
+        "Diaphragm",
+        "Vocal cords"
+      ],
+      "answerIndex": 3,
+      "fact": "They are folds rather than cords, and they open and close hundreds of times a second while speaking."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has produced the most Formula One world champions?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Brazil",
+        "The United Kingdom"
+      ],
+      "answerIndex": 3,
+      "fact": "Most of the sport's teams are also based within a small area of central England, often called Motorsport Valley."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a shark named Bruce behind the scenes?",
+      "options": [
+        "Deep Blue Sea",
+        "Jaws",
+        "The Shallows",
+        "47 Meters Down"
+      ],
+      "answerIndex": 1,
+      "fact": "The crew named the mechanical shark after the director's lawyer."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's coastline forms the eastern edge of the Adriatic?",
+      "options": [
+        "Greece",
+        "Albania",
+        "Croatia",
+        "Italy"
+      ],
+      "answerIndex": 2,
+      "fact": "It has over a thousand islands, and its coast road is regularly listed among the most scenic drives in Europe."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the Chronicles of Narnia?",
+      "options": [
+        "C.S. Lewis",
+        "Philip Pullman",
+        "J.R.R. Tolkien",
+        "Roald Dahl"
+      ],
+      "answerIndex": 0,
+      "fact": "Tolkien disliked them, objecting particularly to mixing Father Christmas with fauns and Greek mythology."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company produced the first commercially successful digital camera for consumers?",
+      "options": [
+        "Sony",
+        "Canon",
+        "Kodak",
+        "Nikon"
+      ],
+      "answerIndex": 2,
+      "fact": "It invented the digital camera in 1975 and shelved it, fearing damage to its film business."
+    }
+  ]
+}

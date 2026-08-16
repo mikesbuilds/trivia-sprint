@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US state was the last to be admitted to the Union?",
+      "options": [
+        "Alaska",
+        "Arizona",
+        "New Mexico",
+        "Hawaii"
+      ],
+      "answerIndex": 3,
+      "fact": "It joined in 1959, a few months after Alaska, making 1959 the only year two states were admitted."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has a moon called Europa?",
+      "options": [
+        "Mars",
+        "Neptune",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answerIndex": 2,
+      "fact": "It probably holds more liquid water beneath its ice than all Earth's oceans combined."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race over hurdles for horses?",
+      "options": [
+        "National Hunt racing",
+        "Flat racing",
+        "Endurance riding",
+        "Harness racing"
+      ],
+      "answerIndex": 0,
+      "fact": "Horses in it typically peak later than flat racers, and many compete into their teens."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Elle Woods?",
+      "options": [
+        "Legally Blonde",
+        "Clueless",
+        "Mean Girls",
+        "13 Going on 30"
+      ],
+      "answerIndex": 0,
+      "fact": "Harvard Law School has reported that applications from women rose noticeably after its release."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the second-largest country in Africa by area?",
+      "options": [
+        "Chad",
+        "Sudan",
+        "Democratic Republic of the Congo",
+        "Libya"
+      ],
+      "answerIndex": 2,
+      "fact": "It contains most of the world's second-largest rainforest, after the Amazon."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes an extended metaphor running through a poem?",
+      "options": [
+        "Allegory",
+        "Conceit",
+        "Symbol",
+        "Simile"
+      ],
+      "answerIndex": 1,
+      "fact": "Metaphysical poets pushed them to extremes, comparing lovers to a pair of drawing compasses in one famous case."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym API gateway do?",
+      "options": [
+        "Renders documentation",
+        "Routes and manages API requests",
+        "Stores API keys only",
+        "Compresses responses"
+      ],
+      "answerIndex": 1,
+      "fact": "It usually handles authentication and rate limiting too, so individual services do not each reimplement them."
+    }
+  ]
+}

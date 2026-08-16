@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country produced the philosopher Confucius?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "China",
+        "Korea"
+      ],
+      "answerIndex": 2,
+      "fact": "He held only minor office in life, and his teachings became state doctrine centuries after his death."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a wave's height from rest to peak?",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Wavelength",
+        "Period"
+      ],
+      "answerIndex": 1,
+      "fact": "For sound it corresponds to loudness, while frequency corresponds to pitch."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a shot called the smash?",
+      "options": [
+        "Badminton",
+        "Volleyball",
+        "Tennis",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "fact": "In each it means the same thing: hitting downward from above the net with maximum power."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Truman Burbank?",
+      "options": [
+        "Pleasantville",
+        "EDtv",
+        "The Truman Show",
+        "The Game"
+      ],
+      "answerIndex": 2,
+      "fact": "A psychiatric delusion in which people believe they are being filmed is now sometimes named after it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake forms part of the border between the US and Canada?",
+      "options": [
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Erie",
+        "Both Erie and Superior"
+      ],
+      "answerIndex": 3,
+      "fact": "Lake Michigan is the only Great Lake entirely within the United States."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Beloved's Nobel-winning author's debut, The Bluest Eye?",
+      "options": [
+        "Gayl Jones",
+        "Toni Morrison",
+        "Alice Walker",
+        "Paule Marshall"
+      ],
+      "answerIndex": 1,
+      "fact": "It sold poorly at first and has since become one of the most frequently challenged books in America."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Blender 3D software?",
+      "options": [
+        "A non-profit foundation",
+        "Maxon",
+        "Autodesk",
+        "Adobe"
+      ],
+      "answerIndex": 0,
+      "fact": "It was bought out of a failing company by a community fundraiser and released as open source in 2002."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which wall was built by the Romans in Scotland, north of Hadrian's?",
+      "options": [
+        "The Devil's Dyke",
+        "The Wansdyke",
+        "The Antonine Wall",
+        "Offa's Dyke"
+      ],
+      "answerIndex": 2,
+      "fact": "It was built of turf rather than stone and abandoned within a generation."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for two species that benefit each other?",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Predation",
+        "Parasitism"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly ninety percent of land plants have such a relationship with fungi around their roots."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Winter Olympic medals overall?",
+      "options": [
+        "Germany",
+        "Norway",
+        "Russia",
+        "Canada"
+      ],
+      "answerIndex": 1,
+      "fact": "It has a population under six million, which makes its medal-per-person rate extraordinary."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician wrote the song Imagine?",
+      "options": [
+        "George Harrison",
+        "John Lennon",
+        "Bob Dylan",
+        "Paul McCartney"
+      ],
+      "answerIndex": 1,
+      "fact": "He later said the credit should have included Yoko Ono, whose book supplied several of the lines."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Dead Sea's western shore?",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Syria",
+        "Israel"
+      ],
+      "answerIndex": 3,
+      "fact": "The eastern shore is Jordanian, and both countries draw so much water upstream that the sea is splitting in two."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the fictional island of Utopia?",
+      "options": [
+        "Utopia",
+        "Erewhon",
+        "Gulliver's Travels",
+        "News from Nowhere"
+      ],
+      "answerIndex": 0,
+      "fact": "The name means no place in Greek, which suggests its author was not entirely serious about the proposal."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company produces the Unreal game engine?",
+      "options": [
+        "Activision",
+        "Valve",
+        "Epic Games",
+        "Unity"
+      ],
+      "answerIndex": 2,
+      "fact": "It is now used widely outside gaming, including for film backgrounds and architectural visualisation."
+    }
+  ]
+}
