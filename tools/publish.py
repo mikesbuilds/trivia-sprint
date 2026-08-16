@@ -172,6 +172,9 @@ def main() -> int:
         newest = max(tk.published_dates())
         tk.save_json(tk.ROOT / "latest.json",
                      tk.load_json(tk.day_path(newest), {}))
+        # The archive reads coverage from here, so it has to be rewritten in the
+        # same run that changes what is covered.
+        tk.write_manifest()
 
     verb = "would publish" if args.dry_run else "published"
     print(f"{verb} {len(written)} day(s): {written[0]} .. {written[-1]}")

@@ -161,6 +161,9 @@ def main() -> int:
     if not args.dry_run:
         tk.save_bank([q for q in bank if tk.qhash(q["prompt"]) not in drawn_hashes])
         tk.save_used(used)
+        # Backfilling is the one operation that changes which past days exist,
+        # so the archive's coverage list has to follow it.
+        tk.write_manifest()
 
     verb = "would write" if args.dry_run else "wrote"
     print(f"{verb} {len(written)} day(s): {written[0]} .. {written[-1]}")
