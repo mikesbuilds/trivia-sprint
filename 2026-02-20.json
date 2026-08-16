@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Roman emperor is said to have made his horse a senator?",
+      "options": [
+        "Caligula",
+        "Tiberius",
+        "Claudius",
+        "Nero"
+      ],
+      "answerIndex": 0,
+      "fact": "The story comes from hostile sources written decades later, and most historians now read it as a joke about the Senate."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which chemical process turns grape juice into wine?",
+      "options": [
+        "Oxidation",
+        "Fermentation",
+        "Distillation",
+        "Hydrolysis"
+      ],
+      "answerIndex": 1,
+      "fact": "Yeast does the work, and it stops when the alcohol it produces reaches a level that kills it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many holes must a golfer complete to make the cut in a standard major?",
+      "options": [
+        "54",
+        "72",
+        "18",
+        "36"
+      ],
+      "answerIndex": 3,
+      "fact": "Roughly half the field goes home at that point, and missing it usually means earning nothing at all for the week."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line about there being no place like home?",
+      "options": [
+        "Willy Wonka",
+        "Peter Pan",
+        "The Wizard of Oz",
+        "Mary Poppins"
+      ],
+      "answerIndex": 2,
+      "fact": "The ruby slippers were silver in the original book. They were changed to show off colour film."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state has the longest coastline?",
+      "options": [
+        "California",
+        "Florida",
+        "Maine",
+        "Alaska"
+      ],
+      "answerIndex": 3,
+      "fact": "Its coastline is longer than all the other states put together, thanks to an enormously indented shore."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote the Earthsea series?",
+      "options": [
+        "Ursula K. Le Guin",
+        "Anne McCaffrey",
+        "Diana Wynne Jones",
+        "Robin Hobb"
+      ],
+      "answerIndex": 0,
+      "fact": "She wrote its protagonist as dark-skinned in 1968, and spent decades objecting to cover artists who ignored it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which early computer network was funded by the US Department of Defense?",
+      "options": [
+        "CompuServe",
+        "ARPANET",
+        "Minitel",
+        "Usenet"
+      ],
+      "answerIndex": 1,
+      "fact": "The idea that it was built to survive a nuclear war is disputed; its designers say it was mostly about sharing scarce computers."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which sea did Moses part according to the biblical account of the Exodus?",
+      "options": [
+        "The Dead Sea",
+        "The Mediterranean",
+        "The Sea of Galilee",
+        "The Red Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "The Hebrew phrase is closer to sea of reeds, which some scholars think points to marshland rather than open water."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of the Sun do we actually see from Earth?",
+      "options": [
+        "Chromosphere",
+        "Corona",
+        "Photosphere",
+        "Core"
+      ],
+      "answerIndex": 2,
+      "fact": "Light made in the core takes tens of thousands of years to fight its way out to this layer, then eight minutes to reach us."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which winter sport involves sliding head-first down an ice track?",
+      "options": [
+        "Bobsleigh",
+        "Skeleton",
+        "Luge",
+        "Curling"
+      ],
+      "answerIndex": 1,
+      "fact": "Riders reach around 130 km/h with their chin a few centimetres above the ice, steering mostly by shifting their shoulders."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the Academy Award for Best Picture in 1994?",
+      "options": [
+        "Forrest Gump",
+        "Four Weddings and a Funeral",
+        "The Shawshank Redemption",
+        "Pulp Fiction"
+      ],
+      "answerIndex": 0,
+      "fact": "Its two main rivals that year are now more highly rated by audiences than the winner."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is the world's largest inland body of water?",
+      "options": [
+        "The Baltic Sea",
+        "The Caspian Sea",
+        "The Aral Sea",
+        "The Black Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "Whether it counts as a sea or a lake is a live legal question, because the answer changes how its oil is divided."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Things Fall Apart's most famous African successor, Half of a Yellow Sun?",
+      "options": [
+        "Buchi Emecheta",
+        "Tsitsi Dangarembga",
+        "Chimamanda Ngozi Adichie",
+        "Bernardine Evaristo"
+      ],
+      "answerIndex": 2,
+      "fact": "It is set during the Biafran war, which her own parents lived through and rarely spoke about."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which part of a computer permanently stores the operating system?",
+      "options": [
+        "Storage drive",
+        "Register",
+        "Cache",
+        "RAM"
+      ],
+      "answerIndex": 0,
+      "fact": "Solid state drives replaced spinning disks largely because they have no moving parts to fail or wait for."
+    }
+  ]
+}

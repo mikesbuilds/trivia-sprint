@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to be awarded a Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Lise Meitner",
+        "Irène Joliot-Curie",
+        "Dorothy Hodgkin"
+      ],
+      "answerIndex": 0,
+      "fact": "She went on to win a second, in a different science, and remains the only person ever to manage that."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a substance that cannot be broken down chemically?",
+      "options": [
+        "Mixture",
+        "Element",
+        "Compound",
+        "Alloy"
+      ],
+      "answerIndex": 1,
+      "fact": "Ninety-four occur naturally on Earth. Everything past those has only ever existed inside a laboratory."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the maximum score from a single throw in darts?",
+      "options": [
+        "50",
+        "180",
+        "100",
+        "60"
+      ],
+      "answerIndex": 3,
+      "fact": "Triple twenty is the highest single-dart score, which is why the twenty sits at the top of the board rather than the bullseye."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise features a character called Lara Croft?",
+      "options": [
+        "Uncharted",
+        "Assassin's Creed",
+        "Tomb Raider",
+        "Far Cry"
+      ],
+      "answerIndex": 2,
+      "fact": "Her distinctive angular look was partly an accident of early hardware, which could not render smooth curves cheaply."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait connects the Mediterranean to the Black Sea?",
+      "options": [
+        "The Bosphorus",
+        "The Dardanelles",
+        "The Strait of Messina",
+        "The Kerch Strait"
+      ],
+      "answerIndex": 0,
+      "fact": "Istanbul sits on both banks, making it the only major city in the world spanning two continents."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the detective Philip Marlowe?",
+      "options": [
+        "Dashiell Hammett",
+        "Raymond Chandler",
+        "Ross Macdonald",
+        "James M. Cain"
+      ],
+      "answerIndex": 1,
+      "fact": "He only started writing fiction at forty-four, after losing an oil executive job during the Depression."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym IP stand for in IP address?",
+      "options": [
+        "Internal Path",
+        "Information Packet",
+        "Indexed Position",
+        "Internet Protocol"
+      ],
+      "answerIndex": 3,
+      "fact": "The original scheme allowed about 4.3 billion addresses, a number thought absurdly generous when it was chosen."
+    }
+  ]
+}

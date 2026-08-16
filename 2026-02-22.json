@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient people are credited with developing the first known alphabet?",
+      "options": [
+        "Phoenicians",
+        "Etruscans",
+        "Scythians",
+        "Minoans"
+      ],
+      "answerIndex": 0,
+      "fact": "Nearly every alphabet in use today, including Greek, Latin, Arabic and Hebrew, descends from theirs."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a mixture of two or more metals?",
+      "options": [
+        "Solution",
+        "Alloy",
+        "Composite",
+        "Suspension"
+      ],
+      "answerIndex": 1,
+      "fact": "Bronze was the first widely used one, and adding a little tin to copper made a metal hard enough to name an age after."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do competitors ride a wave standing on a board?",
+      "options": [
+        "Wakeboarding",
+        "Windsurfing",
+        "Surfing",
+        "Kitesurfing"
+      ],
+      "answerIndex": 2,
+      "fact": "Judges score the ride rather than the wave, and competitors are limited in how many waves they may take."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is fronted by Chris Martin?",
+      "options": [
+        "Keane",
+        "Snow Patrol",
+        "Travis",
+        "Coldplay"
+      ],
+      "answerIndex": 3,
+      "fact": "They formed at university in London and used four different band names before settling on the current one."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is entirely surrounded by Italy apart from one neighbour?",
+      "options": [
+        "Liechtenstein",
+        "Andorra",
+        "Monaco",
+        "San Marino"
+      ],
+      "answerIndex": 3,
+      "fact": "It claims to be the world's oldest surviving republic, dating its founding to the year 301."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which play features the characters Rosencrantz and Guildenstern as leads?",
+      "options": [
+        "Hamlet",
+        "Rosencrantz and Guildenstern Are Dead",
+        "Arcadia",
+        "The Real Thing"
+      ],
+      "answerIndex": 1,
+      "fact": "It takes two minor characters from Hamlet and follows them offstage, where they have no idea what is happening."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company makes the Xbox games console?",
+      "options": [
+        "Nintendo",
+        "Sony",
+        "Microsoft",
+        "Sega"
+      ],
+      "answerIndex": 2,
+      "fact": "It grew out of a proposal to stop Sony's console becoming the main computer in the living room."
+    }
+  ]
+}

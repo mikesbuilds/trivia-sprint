@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's flag was the first to be planted on the Moon?",
+      "options": [
+        "The Soviet Union",
+        "The United States",
+        "The United Kingdom",
+        "China"
+      ],
+      "answerIndex": 1,
+      "fact": "It was stiffened with a horizontal rod, because there is no air on the Moon to make a flag hang open."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most confirmed moons?",
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Uranus",
+        "Jupiter"
+      ],
+      "answerIndex": 1,
+      "fact": "The count keeps changing as surveys find more small ones, and Saturn and Jupiter have swapped the lead repeatedly."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country invented the sport of rugby?",
+      "options": [
+        "Wales",
+        "Ireland",
+        "England",
+        "Scotland"
+      ],
+      "answerIndex": 2,
+      "fact": "The origin story of a schoolboy picking up the ball and running is almost certainly a later invention."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features a character named Dominic Toretto?",
+      "options": [
+        "Fast and Furious",
+        "Drive",
+        "The Transporter",
+        "Gone in 60 Seconds"
+      ],
+      "answerIndex": 0,
+      "fact": "It began as a small film about street racing, based on a magazine article about illegal races in New York."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which two seas does the Panama Canal connect?",
+      "options": [
+        "Atlantic and Indian",
+        "Pacific and Arctic",
+        "Caribbean and Mediterranean",
+        "Atlantic and Pacific"
+      ],
+      "answerIndex": 3,
+      "fact": "Because of the isthmus's shape, a ship heading for the Pacific actually travels south-east through it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which epic poem tells of the founding of Rome?",
+      "options": [
+        "The Aeneid",
+        "The Iliad",
+        "Metamorphoses",
+        "The Odyssey"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author asked for it to be burned unfinished. The emperor overruled him after his death."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the first widely used graphical user interface?",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Apple",
+        "Xerox"
+      ],
+      "answerIndex": 3,
+      "fact": "Its research centre invented the mouse-driven desktop, the laser printer and Ethernet, and commercialised almost none of it."
+    }
+  ]
+}

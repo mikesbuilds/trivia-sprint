@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which medieval trade alliance dominated northern European commerce?",
+      "options": [
+        "The Lombard League",
+        "The Holy League",
+        "The Delian League",
+        "The Hanseatic League"
+      ],
+      "answerIndex": 3,
+      "fact": "It had no army, no capital and no constitution, yet at its height it could blockade entire kingdoms into submission."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which nutrient group provides the most energy per gram?",
+      "options": [
+        "Protein",
+        "Fibre",
+        "Fat",
+        "Carbohydrate"
+      ],
+      "answerIndex": 2,
+      "fact": "It carries more than twice the energy of the other two, which is why animals store reserves as fat rather than sugar."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players from each side contest a game of beach volleyball?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Two"
+      ],
+      "answerIndex": 3,
+      "fact": "There is no rotation and no positions, so both players must be able to do everything."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which country's cinema is known as Nollywood?",
+      "options": [
+        "South Africa",
+        "Nigeria",
+        "Kenya",
+        "Ghana"
+      ],
+      "answerIndex": 1,
+      "fact": "It produces more films per year than Hollywood, most shot in a matter of weeks and released straight to video."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river forms much of the border between Brazil and Argentina?",
+      "options": [
+        "The Orinoco",
+        "The Iguazu",
+        "The Paraná",
+        "The Amazon"
+      ],
+      "answerIndex": 2,
+      "fact": "It is South America's second-longest river, and its dams supply a large share of both countries' electricity."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote the novel Beloved's Pulitzer-winning contemporary, The Color Purple?",
+      "options": [
+        "Alice Walker",
+        "Toni Cade Bambara",
+        "Terry McMillan",
+        "Gloria Naylor"
+      ],
+      "answerIndex": 0,
+      "fact": "She coined the term womanist, arguing feminism as then framed did not describe her experience."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the PageRank algorithm?",
+      "options": [
+        "Microsoft",
+        "Google",
+        "AltaVista",
+        "Yahoo"
+      ],
+      "answerIndex": 1,
+      "fact": "It ranked pages by who linked to them, treating a link as a vote, which is why link-selling became an industry."
+    }
+  ]
+}

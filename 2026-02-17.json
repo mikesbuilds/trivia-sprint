@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Great Depression began with a stock market crash in which year?",
+      "options": [
+        "1929",
+        "1939",
+        "1949",
+        "1919"
+      ],
+      "answerIndex": 0,
+      "fact": "The market did not return to its pre-crash level until 1954, a quarter of a century later."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the hardest known naturally occurring metal?",
+      "options": [
+        "Titanium",
+        "Tungsten",
+        "Iron",
+        "Chromium"
+      ],
+      "answerIndex": 3,
+      "fact": "It is what makes stainless steel stainless, forming an invisible oxide layer that reseals itself when scratched."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, what is the term for three wickets in three consecutive balls?",
+      "options": [
+        "A treble",
+        "A hat-trick",
+        "A maiden",
+        "A double"
+      ],
+      "answerIndex": 1,
+      "fact": "The bowler traditionally received an actual hat from his club, which is where the phrase entered every other sport."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop group performed Wannabe?",
+      "options": [
+        "Spice Girls",
+        "All Saints",
+        "Atomic Kitten",
+        "Bananarama"
+      ],
+      "answerIndex": 0,
+      "fact": "The video was shot in a single take on a shoestring budget, in a hotel due for demolition."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is served by Schiphol Airport?",
+      "options": [
+        "Rotterdam",
+        "Amsterdam",
+        "Brussels",
+        "Copenhagen"
+      ],
+      "answerIndex": 1,
+      "fact": "The airport sits about four metres below sea level, on the bed of a lake drained in the 1850s."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which form of poem traditionally has five lines and a humorous tone?",
+      "options": [
+        "Sonnet",
+        "Ode",
+        "Limerick",
+        "Villanelle"
+      ],
+      "answerIndex": 2,
+      "fact": "The name comes from an Irish city, though nobody has satisfactorily explained the connection."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for testing a website with two versions to compare results?",
+      "options": [
+        "Unit testing",
+        "Load testing",
+        "Regression testing",
+        "A/B testing"
+      ],
+      "answerIndex": 3,
+      "fact": "Large sites run hundreds simultaneously, which means almost no two visitors see quite the same page."
+    }
+  ]
+}

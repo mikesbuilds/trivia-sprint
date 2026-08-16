@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US president resigned over the Watergate scandal?",
+      "options": [
+        "Gerald Ford",
+        "Lyndon Johnson",
+        "Jimmy Carter",
+        "Richard Nixon"
+      ],
+      "answerIndex": 3,
+      "fact": "He remains the only US president to resign the office, and was pardoned by his successor a month later."
+    },
+    {
+      "category": "Science",
+      "prompt": "What kind of energy is stored in a stretched spring?",
+      "options": [
+        "Potential",
+        "Thermal",
+        "Kinetic",
+        "Nuclear"
+      ],
+      "answerIndex": 0,
+      "fact": "The same principle powers mechanical watches, where a coiled spring releases its store over roughly forty hours."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many rings must a gymnast use in the men's rings apparatus?",
+      "options": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+      ],
+      "answerIndex": 1,
+      "fact": "The rings must not visibly swing during a hold, so the difficulty is as much about stillness as strength."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set largely on the planet Arrakis?",
+      "options": [
+        "Star Wars",
+        "Total Recall",
+        "Dune",
+        "Interstellar"
+      ],
+      "answerIndex": 2,
+      "fact": "An earlier attempt to film it in the 1970s collapsed, but its concept art shaped science fiction design for decades."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is the largest in Canada by population?",
+      "options": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "answerIndex": 1,
+      "fact": "More than half its residents were born outside Canada, one of the highest proportions of any large city on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which literary award is presented annually for fiction written in English and published in the UK?",
+      "options": [
+        "The National Book Award",
+        "The Pulitzer",
+        "The Booker Prize",
+        "The Prix Goncourt"
+      ],
+      "answerIndex": 2,
+      "fact": "It has been shared between two winners three times, after which the rules were changed to forbid it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which measure describes how much data a connection can carry?",
+      "options": [
+        "Bandwidth",
+        "Resolution",
+        "Frequency",
+        "Latency"
+      ],
+      "answerIndex": 0,
+      "fact": "It is often confused with speed, but a high-bandwidth link with high latency still feels slow to use."
+    }
+  ]
+}

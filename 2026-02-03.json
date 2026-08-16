@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was the capital of the Aztec Empire?",
+      "options": [
+        "Palenque",
+        "Tenochtitlan",
+        "Cusco",
+        "Tikal"
+      ],
+      "answerIndex": 1,
+      "fact": "It was built on an island and fed by chinampas, artificial garden plots floating in the surrounding lake."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ in the human body regenerates most readily after damage?",
+      "options": [
+        "Heart",
+        "Brain",
+        "Kidney",
+        "Liver"
+      ],
+      "answerIndex": 3,
+      "fact": "As little as a quarter of it can regrow to full size, which is what makes living donor transplants possible."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Monaco Grand Prix?",
+      "options": [
+        "Monaco",
+        "Switzerland",
+        "France",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "fact": "The circuit runs on public roads, and the barriers and grandstands are assembled and removed every year."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor voiced Darth Vader in the original Star Wars trilogy?",
+      "options": [
+        "David Prowse",
+        "Peter Cushing",
+        "James Earl Jones",
+        "Alec Guinness"
+      ],
+      "answerIndex": 2,
+      "fact": "The actor inside the suit spoke every line on set, and only discovered at the premiere that his voice had been replaced."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country was never colonised by a European power?",
+      "options": [
+        "Kenya",
+        "Ethiopia",
+        "Senegal",
+        "Ghana"
+      ],
+      "answerIndex": 1,
+      "fact": "It defeated an invading Italian army at Adwa in 1896, one of the few decisive African victories of that era."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in the fictional town of Maycomb?",
+      "options": [
+        "The Grapes of Wrath",
+        "A Streetcar Named Desire",
+        "To Kill a Mockingbird",
+        "Of Mice and Men"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author published nothing else for fifty-five years, and the eventual second book was an early draft of the first."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for software distributed with its source code freely available?",
+      "options": [
+        "Open source",
+        "Abandonware",
+        "Freeware",
+        "Shareware"
+      ],
+      "answerIndex": 0,
+      "fact": "Free in this sense refers to liberty rather than price, a distinction its advocates have spent decades explaining."
+    }
+  ]
+}

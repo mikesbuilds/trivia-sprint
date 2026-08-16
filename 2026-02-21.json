@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Magna Carta was signed at which location?",
+      "options": [
+        "Windsor",
+        "Runnymede",
+        "Oxford",
+        "Canterbury"
+      ],
+      "answerIndex": 1,
+      "fact": "The site was chosen as neutral ground in a meadow, because neither the barons nor the king trusted the other indoors."
+    },
+    {
+      "category": "Science",
+      "prompt": "How many pairs of chromosomes does a typical human cell contain?",
+      "options": [
+        "23",
+        "46",
+        "21",
+        "25"
+      ],
+      "answerIndex": 0,
+      "fact": "Chimpanzees have 24 pairs. Two of theirs fused into one of ours, and the seam is still visible in the sequence."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features terms like pin, escape and takedown?",
+      "options": [
+        "Fencing",
+        "Boxing",
+        "Wrestling",
+        "Judo"
+      ],
+      "answerIndex": 2,
+      "fact": "It appeared in the ancient Olympics and is one of very few sports on the programme of the first modern Games too."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television talent show format originated in the United Kingdom in 2001?",
+      "options": [
+        "Pop Idol",
+        "The Voice",
+        "Got Talent",
+        "The X Factor"
+      ],
+      "answerIndex": 0,
+      "fact": "It became American Idol a year later, and the format has since been licensed to over forty countries."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city sits on the Tiber river?",
+      "options": [
+        "Venice",
+        "Florence",
+        "Rome",
+        "Naples"
+      ],
+      "answerIndex": 2,
+      "fact": "The river's flooding was so destructive that high walls were built along it in the 1870s, cutting the city off from its own water."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the turning point of a narrative?",
+      "options": [
+        "Prologue",
+        "Climax",
+        "Exposition",
+        "Denouement"
+      ],
+      "answerIndex": 1,
+      "fact": "In classical structure it sits at the centre, not the end, with everything after it working out the consequences."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym QR stand for in QR code?",
+      "options": [
+        "Quantised Raster",
+        "Query Result",
+        "Quality Rating",
+        "Quick Response"
+      ],
+      "answerIndex": 3,
+      "fact": "It was invented to track car parts, and its creator chose not to enforce the patent, which is why it spread everywhere."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which wall was built across northern Britain by order of an emperor in AD 122?",
+      "options": [
+        "Hadrian's Wall",
+        "The Antonine Wall",
+        "Offa's Dyke",
+        "The Devil's Dyke"
+      ],
+      "answerIndex": 0,
+      "fact": "A later emperor built a second wall further north, held it for about twenty years, then abandoned it and fell back to this one."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for potassium?",
+      "options": [
+        "P",
+        "K",
+        "Pt",
+        "Po"
+      ],
+      "answerIndex": 1,
+      "fact": "It comes from kalium, the Latin name, which is itself borrowed from an Arabic word for plant ash."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport is the Stanley Cup awarded?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "Ice hockey",
+        "American football"
+      ],
+      "answerIndex": 2,
+      "fact": "Every player on the winning team traditionally gets it for a day, and it has been used as a cereal bowl and a dog dish."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a hotel called the Overlook?",
+      "options": [
+        "Psycho",
+        "Rosemary's Baby",
+        "The Others",
+        "The Shining"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author disliked the adaptation enough to fund a second, more faithful version for television twenty years later."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most natural lakes?",
+      "options": [
+        "Canada",
+        "Finland",
+        "Sweden",
+        "Russia"
+      ],
+      "answerIndex": 0,
+      "fact": "It holds more lake area than the rest of the world combined, nearly all of it carved by retreating ice sheets."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a boy stranded at sea with a tiger?",
+      "options": [
+        "The Old Man and the Sea",
+        "Robinson Crusoe",
+        "Kon-Tiki",
+        "Life of Pi"
+      ],
+      "answerIndex": 3,
+      "fact": "It was rejected by several London publishers before winning the Booker Prize."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym RAM's opposite storage type ROM stand for?",
+      "options": [
+        "Runtime Object Model",
+        "Read Only Memory",
+        "Remote Operations Module",
+        "Rapid Output Memory"
+      ],
+      "answerIndex": 1,
+      "fact": "Its contents are written once at manufacture, which is why the earliest game cartridges could not be saved to."
+    }
+  ]
+}

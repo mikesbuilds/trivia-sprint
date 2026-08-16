@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the last Tsar of Russia?",
+      "options": [
+        "Nicholas II",
+        "Alexander III",
+        "Peter III",
+        "Paul I"
+      ],
+      "answerIndex": 0,
+      "fact": "He kept a detailed diary throughout the revolution, and its entries are strikingly preoccupied with the weather."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name of the galaxy that contains our solar system?",
+      "options": [
+        "Andromeda",
+        "Sombrero",
+        "The Milky Way",
+        "Triangulum"
+      ],
+      "answerIndex": 2,
+      "fact": "It is on a collision course with Andromeda, though the two are so empty that almost no stars will actually hit."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a piste, a foil and a riposte?",
+      "options": [
+        "Archery",
+        "Modern pentathlon",
+        "Fencing",
+        "Shooting"
+      ],
+      "answerIndex": 2,
+      "fact": "It is one of only five sports to have featured at every modern Olympic Games."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which soft drink brand's logo uses a distinctive red and white script?",
+      "options": [
+        "Pepsi",
+        "Fanta",
+        "Dr Pepper",
+        "Coca-Cola"
+      ],
+      "answerIndex": 3,
+      "fact": "The script was written by the company bookkeeper in 1886 and has barely changed since."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country was formerly known as Burma?",
+      "options": [
+        "Cambodia",
+        "Myanmar",
+        "Thailand",
+        "Laos"
+      ],
+      "answerIndex": 1,
+      "fact": "Both names come from the same root, and which one a government uses has long carried political weight."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a word that imitates a sound?",
+      "options": [
+        "Onomatopoeia",
+        "Alliteration",
+        "Assonance",
+        "Euphemism"
+      ],
+      "answerIndex": 0,
+      "fact": "Different languages disagree about the sounds animals make, which suggests the imitation is less direct than it feels."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of two-factor authentication?",
+      "options": [
+        "Password storage",
+        "A second proof of identity",
+        "Data compression",
+        "Faster login"
+      ],
+      "answerIndex": 1,
+      "fact": "Codes sent by text are the weakest common form, because a phone number can be transferred away from its owner."
+    }
+  ]
+}

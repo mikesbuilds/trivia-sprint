@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Boston Tea Party was a protest against what?",
+      "options": [
+        "Slavery",
+        "Military conscription",
+        "Religious laws",
+        "Taxation without representation"
+      ],
+      "answerIndex": 3,
+      "fact": "The tea destroyed was worth roughly a million dollars in today's money, and the ships themselves were left untouched."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of weather called?",
+      "options": [
+        "Climatology",
+        "Geology",
+        "Meteorology",
+        "Astronomy"
+      ],
+      "answerIndex": 2,
+      "fact": "Its name comes from the Greek for things high in the air, which originally included shooting stars."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would you use a shuttlecock made from goose feathers?",
+      "options": [
+        "Squash",
+        "Badminton",
+        "Table tennis",
+        "Racquetball"
+      ],
+      "answerIndex": 1,
+      "fact": "Sixteen feathers are used, and they must all come from the same wing or the flight wobbles."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features the town of South Park?",
+      "options": [
+        "South Park",
+        "Family Guy",
+        "Bob's Burgers",
+        "Rick and Morty"
+      ],
+      "answerIndex": 0,
+      "fact": "Episodes are famously made in about a week, which lets them respond to news that broke days earlier."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the official language of Brazil?",
+      "options": [
+        "Dutch",
+        "French",
+        "Spanish",
+        "Portuguese"
+      ],
+      "answerIndex": 3,
+      "fact": "It is the only Portuguese-speaking country in the Americas, a result of a 1494 treaty drawing a line down the Atlantic."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a comparison using like or as?",
+      "options": [
+        "Simile",
+        "Symbol",
+        "Analogy",
+        "Metaphor"
+      ],
+      "answerIndex": 0,
+      "fact": "The difference from a metaphor is only the signal word, which is why the two get confused so often."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym AI stand for?",
+      "options": [
+        "Applied Integration",
+        "Artificial Intelligence",
+        "Automated Inference",
+        "Adaptive Interface"
+      ],
+      "answerIndex": 1,
+      "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
+    }
+  ]
+}

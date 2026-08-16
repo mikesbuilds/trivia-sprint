@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was ruled by the Habsburg family for most of its existence?",
+      "options": [
+        "The Russian Empire",
+        "The Ottoman Empire",
+        "The Swedish Empire",
+        "The Austro-Hungarian Empire"
+      ],
+      "answerIndex": 3,
+      "fact": "The family expanded largely by marriage rather than conquest, which is why a line about others waging war became their motto."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of animal is a Komodo dragon?",
+      "options": [
+        "Lizard",
+        "Crocodilian",
+        "Amphibian",
+        "Snake"
+      ],
+      "answerIndex": 0,
+      "fact": "It is the largest lizard alive, and its bite delivers venom that stops a wound from clotting."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the positions setter and libero?",
+      "options": [
+        "Netball",
+        "Volleyball",
+        "Handball",
+        "Water polo"
+      ],
+      "answerIndex": 1,
+      "fact": "The libero wears a different coloured shirt and is barred from attacking, existing purely to improve defence."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom features the characters Michael Scott and Dwight Schrute?",
+      "options": [
+        "Parks and Recreation",
+        "The Office",
+        "Community",
+        "30 Rock"
+      ],
+      "answerIndex": 1,
+      "fact": "It adapted a British series whose creators expected it to fail, since the original ran only twelve episodes by design."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Canberra"
+      ],
+      "answerIndex": 3,
+      "fact": "It was built from nothing as a compromise, because Sydney and Melbourne could not agree which should take the role."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens on a farm called Green Gables?",
+      "options": [
+        "Anne of Green Gables",
+        "Heidi",
+        "The Secret Garden",
+        "Little Women"
+      ],
+      "answerIndex": 0,
+      "fact": "It became so popular in Japan that the setting is a pilgrimage site for Japanese visitors to Prince Edward Island."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language is named after a British comedy troupe?",
+      "options": [
+        "Scala",
+        "Perl",
+        "Python",
+        "Ruby"
+      ],
+      "answerIndex": 2,
+      "fact": "Its official tutorials once used spam and eggs as example values, following the same joke."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone is written in three scripts. Which is not one of them?",
+      "options": [
+        "Latin",
+        "Greek",
+        "Demotic",
+        "Hieroglyphic"
+      ],
+      "answerIndex": 0,
+      "fact": "Greek was the key: scholars could already read it, which let them work backwards into the two Egyptian scripts."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force causes objects to fall toward the Earth?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Inertia"
+      ],
+      "answerIndex": 1,
+      "fact": "It is by far the weakest of the four fundamental forces. A fridge magnet outmuscles the entire planet."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points is a standard basket worth inside the three-point line?",
+      "options": [
+        "Three",
+        "One",
+        "Four",
+        "Two"
+      ],
+      "answerIndex": 3,
+      "fact": "The three-point line only arrived in the NBA in 1979, and was widely dismissed as a gimmick at the time."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series features the Hawkins National Laboratory?",
+      "options": [
+        "Dark",
+        "The X-Files",
+        "Fringe",
+        "Stranger Things"
+      ],
+      "answerIndex": 3,
+      "fact": "Its title font is a 1980s book-jacket typeface, chosen so the show looked like a paperback before a frame was shot."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Turkey and Ukraine?",
+      "options": [
+        "The Black Sea",
+        "The Aegean Sea",
+        "The Caspian Sea",
+        "The Sea of Azov"
+      ],
+      "answerIndex": 0,
+      "fact": "Below about 150 metres it has almost no oxygen, which has preserved ancient shipwrecks in remarkable condition."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet is associated with the phrase I wandered lonely as a cloud?",
+      "options": [
+        "Percy Shelley",
+        "John Keats",
+        "William Wordsworth",
+        "Samuel Taylor Coleridge"
+      ],
+      "answerIndex": 2,
+      "fact": "His sister's journal describes the same daffodils two years earlier, in prose many readers find better than the poem."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the first commercially successful spreadsheet program?",
+      "options": [
+        "Borland",
+        "Microsoft",
+        "VisiCorp",
+        "Lotus"
+      ],
+      "answerIndex": 2,
+      "fact": "VisiCalc sold so many Apple IIs that it became the first program credited with selling the computer it ran on."
+    }
+  ]
+}

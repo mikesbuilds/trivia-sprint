@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which structure divided East and West Germany's most famous city?",
+      "options": [
+        "The Oder-Neisse Line",
+        "The Iron Curtain",
+        "The Berlin Wall",
+        "The Green Line"
+      ],
+      "answerIndex": 2,
+      "fact": "Around 140 people died attempting to cross it, and roughly 5,000 succeeded, several by tunnelling underneath."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is a light-year a measure of?",
+      "options": [
+        "Speed",
+        "Distance",
+        "Time",
+        "Brightness"
+      ],
+      "answerIndex": 1,
+      "fact": "It is roughly 9.5 trillion kilometres, and the nearest star to the Sun sits about 4.2 of them away."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is associated with Wimbledon's Centre Court?",
+      "options": [
+        "Croquet",
+        "Cricket",
+        "Badminton",
+        "Tennis"
+      ],
+      "answerIndex": 3,
+      "fact": "The grass is cut to exactly eight millimetres, and the surface is rested for most of the year."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which card game inspired a hugely popular series of televised tournaments?",
+      "options": [
+        "Poker",
+        "Blackjack",
+        "Rummy",
+        "Bridge"
+      ],
+      "answerIndex": 0,
+      "fact": "Televised play only took off once tables were fitted with small cameras that let viewers see the hidden cards."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the largest Muslim population?",
+      "options": [
+        "Saudi Arabia",
+        "Indonesia",
+        "Egypt",
+        "Pakistan"
+      ],
+      "answerIndex": 1,
+      "fact": "It is spread across more than 17,000 islands, which is part of why its national motto is about unity in diversity."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet wrote the collection Ariel?",
+      "options": [
+        "Anne Sexton",
+        "Elizabeth Bishop",
+        "Sylvia Plath",
+        "Adrienne Rich"
+      ],
+      "answerIndex": 2,
+      "fact": "The collection was assembled and published after her death, in an order she had not chosen."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the main function of a GPU?",
+      "options": [
+        "Processing graphics and parallel work",
+        "Managing storage",
+        "Running the operating system",
+        "Handling network traffic"
+      ],
+      "answerIndex": 0,
+      "fact": "Its knack for doing thousands of simple sums at once is why it ended up powering machine learning."
+    }
+  ]
+}

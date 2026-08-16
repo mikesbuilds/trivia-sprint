@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city hosted the conference that divided post-war Europe in February 1945?",
+      "options": [
+        "Potsdam",
+        "Yalta",
+        "Casablanca",
+        "Tehran"
+      ],
+      "answerIndex": 1,
+      "fact": "It was held in a Crimean palace, chosen because the ailing US president could not manage a longer journey."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for rock formed from cooled lava at the surface?",
+      "options": [
+        "Extrusive igneous",
+        "Clastic",
+        "Intrusive igneous",
+        "Foliated"
+      ],
+      "answerIndex": 0,
+      "fact": "Cooling fast leaves no time for crystals to grow, which is why some of it comes out as natural glass."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport is the Tour de France's polka-dot jersey awarded?",
+      "options": [
+        "Time trialling",
+        "Sprinting",
+        "Youth classification",
+        "Climbing"
+      ],
+      "answerIndex": 3,
+      "fact": "The design was chosen by a sponsor whose sweet wrappers used the same pattern."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actress played Hermione Granger in the Harry Potter films?",
+      "options": [
+        "Emma Stone",
+        "Evanna Lynch",
+        "Emma Watson",
+        "Emilia Clarke"
+      ],
+      "answerIndex": 2,
+      "fact": "She was nine at her first audition and had never acted professionally before being cast."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the highest population density among large nations?",
+      "options": [
+        "Bangladesh",
+        "Netherlands",
+        "India",
+        "Japan"
+      ],
+      "answerIndex": 0,
+      "fact": "It packs roughly the population of Russia into an area smaller than the US state of Iowa."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem features the line water, water, every where?",
+      "options": [
+        "Kubla Khan",
+        "Ozymandias",
+        "The Waste Land",
+        "The Rime of the Ancient Mariner"
+      ],
+      "answerIndex": 3,
+      "fact": "The albatross hung around the sailor's neck gave English a phrase for a burden you cannot put down."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym USB-C describe?",
+      "options": [
+        "A wireless standard",
+        "A reversible connector type",
+        "A battery chemistry",
+        "A file system"
+      ],
+      "answerIndex": 1,
+      "fact": "European law now requires it on most new phones, which finally settled a decades-long argument about chargers."
+    }
+  ]
+}

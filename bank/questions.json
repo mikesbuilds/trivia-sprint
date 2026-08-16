@@ -3731,6 +3731,1314 @@
       ],
       "answerIndex": 0,
       "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's flag features a red maple leaf?",
+      "options": [
+        "Canada",
+        "Lebanon",
+        "Norway",
+        "Denmark"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Portugal?",
+      "options": [
+        "Lisbon",
+        "Porto",
+        "Madrid",
+        "Seville"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state is known as the Sunshine State?",
+      "options": [
+        "Florida",
+        "California",
+        "Arizona",
+        "Hawaii"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range contains Mount Everest?",
+      "options": [
+        "The Himalayas",
+        "The Karakoram",
+        "The Andes",
+        "The Alps"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Mexico?",
+      "options": [
+        "Mexico City",
+        "Guadalajara",
+        "Monterrey",
+        "Cancun"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Vietnam?",
+      "options": [
+        "Hanoi",
+        "Ho Chi Minh City",
+        "Hue",
+        "Da Nang"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Chile?",
+      "options": [
+        "Santiago",
+        "Valparaiso",
+        "Concepcion",
+        "Antofagasta"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through London?",
+      "options": [
+        "The Thames",
+        "The Mersey",
+        "The Severn",
+        "The Tyne"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Greece?",
+      "options": [
+        "Athens",
+        "Thessaloniki",
+        "Patras",
+        "Heraklion"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of the Netherlands?",
+      "options": [
+        "Amsterdam",
+        "The Hague",
+        "Rotterdam",
+        "Utrecht"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Sweden?",
+      "options": [
+        "Stockholm",
+        "Gothenburg",
+        "Malmo",
+        "Uppsala"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Turkey?",
+      "options": [
+        "Ankara",
+        "Istanbul",
+        "Izmir",
+        "Bursa"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Indonesia?",
+      "options": [
+        "Jakarta",
+        "Surabaya",
+        "Bandung",
+        "Medan"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the longest river in South America?",
+      "options": [
+        "The Amazon",
+        "The Parana",
+        "The Orinoco",
+        "The Magdalena"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "The Sahara",
+        "The Gobi",
+        "The Kalahari",
+        "The Arabian"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to Machu Picchu?",
+      "options": [
+        "Peru",
+        "Bolivia",
+        "Ecuador",
+        "Chile"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Canada?",
+      "options": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Japan?",
+      "options": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Nagoya"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Atacama Desert?",
+      "options": [
+        "South America",
+        "Africa",
+        "Asia",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Paris?",
+      "options": [
+        "The Seine",
+        "The Rhone",
+        "The Loire",
+        "The Rhine"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Brasilia",
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Salvador"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country is shaped like a boot?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Portugal",
+        "Croatia"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of South Korea?",
+      "options": [
+        "Seoul",
+        "Busan",
+        "Incheon",
+        "Daegu"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Norway?",
+      "options": [
+        "Oslo",
+        "Bergen",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river is the longest in Africa?",
+      "options": [
+        "The Nile",
+        "The Congo",
+        "The Niger",
+        "The Zambezi"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Kenya?",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which body of water separates Alaska from Russia?",
+      "options": [
+        "The Bering Strait",
+        "The Hudson Strait",
+        "The Davis Strait",
+        "The Denmark Strait"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Argentina?",
+      "options": [
+        "Buenos Aires",
+        "Cordoba",
+        "Rosario",
+        "Mendoza"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Lise Meitner"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ship carried the Pilgrims to North America in 1620?",
+      "options": [
+        "The Mayflower",
+        "The Santa Maria",
+        "The Endeavour",
+        "The Beagle"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first female prime minister of the United Kingdom?",
+      "options": [
+        "Margaret Thatcher",
+        "Theresa May",
+        "Barbara Castle",
+        "Shirley Williams"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
+      "options": [
+        "Tutankhamun",
+        "Ramesses II",
+        "Akhenaten",
+        "Khufu"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Great Fire of London occurred in which year?",
+      "options": [
+        "1666",
+        "1610",
+        "1720",
+        "1580"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
+      "options": [
+        "Nikita Khrushchev",
+        "Joseph Stalin",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "The Renaissance began in which country?",
+      "options": [
+        "Italy",
+        "France",
+        "England",
+        "Germany"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Sun Also Rises'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "Gertrude Stein",
+        "Ford Madox Ford"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Count of Monte Cristo'?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Emile Zola"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby?",
+      "options": [
+        "The Great Gatsby",
+        "Tender Is the Night",
+        "This Side of Paradise",
+        "The Beautiful and Damned"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Animal Farm'?",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Arthur Koestler",
+        "Evelyn Waugh"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Dracula'?",
+      "options": [
+        "Bram Stoker",
+        "Mary Shelley",
+        "Sheridan Le Fanu",
+        "H. P. Lovecraft"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Little Women'?",
+      "options": [
+        "Louisa May Alcott",
+        "Harriet Beecher Stowe",
+        "Kate Chopin",
+        "Edith Wharton"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Diary of a Young Girl'?",
+      "options": [
+        "Anne Frank",
+        "Elie Wiesel",
+        "Primo Levi",
+        "Viktor Frankl"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Life of Pi'?",
+      "options": [
+        "Yann Martel",
+        "Michael Ondaatje",
+        "Margaret Atwood",
+        "Alice Munro"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+        "Jane Austen",
+        "Charlotte Bronte",
+        "Emily Bronte",
+        "George Eliot"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
+      "options": [
+        "Moby-Dick",
+        "The Old Man and the Sea",
+        "Treasure Island",
+        "Billy Budd"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "options": [
+        "Hamlet",
+        "Macbeth",
+        "Othello",
+        "King Lear"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "Gabriel Garcia Marquez",
+        "Jorge Luis Borges",
+        "Isabel Allende",
+        "Mario Vargas Llosa"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Things Fall Apart'?",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Ngugi wa Thiong'o",
+        "Ben Okri"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet wrote 'The Road Not Taken'?",
+      "options": [
+        "Robert Frost",
+        "Walt Whitman",
+        "Emily Dickinson",
+        "Carl Sandburg"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Grapes of Wrath'?",
+      "options": [
+        "John Steinbeck",
+        "Ernest Hemingway",
+        "Sinclair Lewis",
+        "Upton Sinclair"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "options": [
+        "Oscar Wilde",
+        "Bram Stoker",
+        "Robert Louis Stevenson",
+        "Henry James"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem 'The Raven'?",
+      "options": [
+        "Edgar Allan Poe",
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Washington Irving"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Mary Shelley",
+        "Percy Shelley",
+        "Lord Byron",
+        "John Polidori"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Dos Passos",
+        "Sherwood Anderson"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Elizabeth Bennet?",
+      "options": [
+        "Pride and Prejudice",
+        "Emma",
+        "Sense and Sensibility",
+        "Persuasion"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album 'Abbey Road'?",
+      "options": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Who",
+        "Pink Floyd"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which superhero is also known as the Dark Knight?",
+      "options": [
+        "Batman",
+        "Superman",
+        "Iron Man",
+        "Daredevil"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who directed 'Pulp Fiction'?",
+      "options": [
+        "Quentin Tarantino",
+        "Robert Rodriguez",
+        "David Fincher",
+        "Guy Ritchie"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is closest to the Sun?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for iron?",
+      "options": [
+        "Fe",
+        "Ir",
+        "In",
+        "Io"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is known as the universal donor?",
+      "options": [
+        "O negative",
+        "AB positive",
+        "A positive",
+        "B negative"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for sodium?",
+      "options": [
+        "Na",
+        "So",
+        "Sd",
+        "Nm"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is known for being the hottest in the solar system?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the process of cell division producing two identical cells?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Osmosis",
+        "Diffusion"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": [
+        "Gravity",
+        "Magnetism",
+        "Friction",
+        "The strong nuclear force"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Gd",
+        "Go"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most extensive ring system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element has the atomic number 1?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Lithium",
+        "Carbon"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest organ of the human body?",
+      "options": [
+        "The skin",
+        "The liver",
+        "The lungs",
+        "The brain"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What does DNA stand for?",
+      "options": [
+        "Deoxyribonucleic acid",
+        "Dinucleic acid",
+        "Deoxyribose nitrate",
+        "Diribonucleic acid"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "How many bones are in the adult human body?",
+      "options": [
+        "206",
+        "300",
+        "150",
+        "412"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "How long does light from the Sun take to reach Earth?",
+      "options": [
+        "About 8 minutes",
+        "About 8 seconds",
+        "About 8 hours",
+        "About 80 minutes"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Lead",
+        "Aluminum",
+        "Zinc"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the boiling point of water at sea level in Celsius?",
+      "options": [
+        "100 degrees",
+        "90 degrees",
+        "110 degrees",
+        "80 degrees"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first FIFA World Cup in 1930?",
+      "options": [
+        "Uruguay",
+        "Brazil",
+        "Argentina",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which US president issued the Emancipation Proclamation?",
+      "options": [
+        "Abraham Lincoln",
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "James Buchanan"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country gifted the Statue of Liberty to the United States?",
+      "options": [
+        "France",
+        "Britain",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which decade saw the fall of the Soviet Union?",
+      "options": [
+        "The 1990s",
+        "The 1980s",
+        "The 1970s",
+        "The 2000s"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "History",
+      "prompt": "Which conflict involved the Battle of Gettysburg?",
+      "options": [
+        "The American Civil War",
+        "The Revolutionary War",
+        "The War of 1812",
+        "The Mexican-American War"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game franchise features Master Chief?",
+      "options": [
+        "Halo",
+        "Doom",
+        "Gears of War",
+        "Call of Duty"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming show features a chess prodigy named Beth Harmon?",
+      "options": [
+        "The Queen's Gambit",
+        "Mindhunter",
+        "Ozark",
+        "The Crown"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the quote 'I'm gonna make him an offer he can't refuse'?",
+      "options": [
+        "The Godfather",
+        "Goodfellas",
+        "Scarface",
+        "Casino"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would you perform a slam dunk?",
+      "options": [
+        "Basketball",
+        "Volleyball",
+        "Handball",
+        "Water polo"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Wimbledon?",
+      "options": [
+        "Tennis",
+        "Cricket",
+        "Golf",
+        "Rugby"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, how many strikes make an out?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many holes are played in a standard round of golf?",
+      "options": [
+        "Eighteen",
+        "Nine",
+        "Twenty-one",
+        "Twelve"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a shuttlecock?",
+      "options": [
+        "Badminton",
+        "Squash",
+        "Table tennis",
+        "Racquetball"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do teams compete for the Stanley Cup?",
+      "options": [
+        "Ice hockey",
+        "Basketball",
+        "Baseball",
+        "Lacrosse"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many periods are in a standard ice hockey game?",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "Five"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the diameter of a basketball hoop, in inches?",
+      "options": [
+        "Eighteen",
+        "Twelve",
+        "Twenty-four",
+        "Fifteen"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which tennis tournament is played on clay courts?",
+      "options": [
+        "The French Open",
+        "Wimbledon",
+        "The US Open",
+        "The Australian Open"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTML' stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "High Transfer Machine Language",
+        "Hyperlink Text Management Layer",
+        "Home Tool Markup Language"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'API' stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Automated Process Integration",
+        "Applied Protocol Index",
+        "Active Program Instance"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SSD' stand for?",
+      "options": [
+        "Solid State Drive",
+        "Secure Storage Device",
+        "System Software Disk",
+        "Serial Signal Driver"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SaaS' stand for?",
+      "options": [
+        "Software as a Service",
+        "Storage and Security",
+        "System Access and Support",
+        "Server Allocation and Scaling"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Photoshop image editor?",
+      "options": [
+        "Adobe",
+        "Corel",
+        "Autodesk",
+        "Serif"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTTP' stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Transfer Text Protocol",
+        "Hyperlink Transport Process",
+        "Host Transfer Text Protocol"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Android operating system?",
+      "options": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Samsung"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Power Unit",
+        "Central Program Utility",
+        "Core Processing Unit"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the iPhone?",
+      "options": [
+        "Apple",
+        "Samsung",
+        "Nokia",
+        "Motorola"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'USB' stand for?",
+      "options": [
+        "Universal Serial Bus",
+        "United System Bridge",
+        "Universal Storage Block",
+        "Unified Signal Bus"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'AI' stand for?",
+      "options": [
+        "Artificial Intelligence",
+        "Automated Interface",
+        "Adaptive Iteration",
+        "Applied Informatics"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPS' stand for?",
+      "options": [
+        "Global Positioning System",
+        "General Purpose Satellite",
+        "Geographic Plotting Service",
+        "Global Path Sensor"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Windows operating system?",
+      "options": [
+        "Microsoft",
+        "IBM",
+        "Apple",
+        "Dell"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'URL' stand for?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Reference Link",
+        "Unified Retrieval Language",
+        "User Resource Label"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a firewall used for?",
+      "options": [
+        "Filtering network traffic",
+        "Cooling a processor",
+        "Compressing files",
+        "Backing up data"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is phishing?",
+      "options": [
+        "A scam that tricks users into revealing information",
+        "A network speed test",
+        "A file compression method",
+        "A type of encryption"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPU' stand for?",
+      "options": [
+        "Graphics Processing Unit",
+        "General Purpose Unit",
+        "Global Processing Utility",
+        "Grid Power Unit"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of encryption?",
+      "options": [
+        "To make data unreadable without a key",
+        "To speed up downloads",
+        "To reduce file size",
+        "To back up files"
+      ],
+      "answerIndex": 0,
+      "source": "curated"
     }
   ]
 }
