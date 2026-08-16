@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US amendment gave women the right to vote?",
+      "options": [
+        "The Nineteenth",
+        "The Fifteenth",
+        "The Twenty-first",
+        "The Twenty-sixth"
+      ],
+      "answerIndex": 0,
+      "fact": "It passed by a single vote in the Tennessee legislature, cast by a man persuaded by a letter from his mother."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for organisms that make their own food?",
+      "options": [
+        "Autotrophs",
+        "Saprophytes",
+        "Heterotrophs",
+        "Detritivores"
+      ],
+      "answerIndex": 0,
+      "fact": "Some do it with chemicals rather than light, living around deep-sea vents where sunlight never reaches."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In football, what is the maximum number of substitutes usually allowed in a competitive match?",
+      "options": [
+        "Three",
+        "Seven",
+        "Nine",
+        "Five"
+      ],
+      "answerIndex": 3,
+      "fact": "It rose from three to five in 2020 as a temporary measure for congested schedules, and was then made permanent."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Ferris Bueller?",
+      "options": [
+        "Weird Science",
+        "The Breakfast Club",
+        "Ferris Bueller's Day Off",
+        "Sixteen Candles"
+      ],
+      "answerIndex": 2,
+      "fact": "The parade scene was filmed during a real Chicago festival, and most of the crowd had no idea a film was being made."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies immediately north of Denmark?",
+      "options": [
+        "Norway",
+        "None by land",
+        "Sweden",
+        "Germany"
+      ],
+      "answerIndex": 1,
+      "fact": "Denmark's only land border is with Germany to the south; Norway and Sweden are across water."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Tom Joad?",
+      "options": [
+        "Of Mice and Men",
+        "The Pearl",
+        "In Dubious Battle",
+        "The Grapes of Wrath"
+      ],
+      "answerIndex": 3,
+      "fact": "His closing speech has been set to music by several songwriters, most famously Bruce Springsteen."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym P2P describe?",
+      "options": [
+        "Point to point encryption",
+        "Direct connections between users",
+        "Print to PDF",
+        "Server-to-server transfer"
+      ],
+      "answerIndex": 1,
+      "fact": "BitTorrent works by having downloaders simultaneously upload, so popular files transfer faster rather than slower."
+    }
+  ]
+}

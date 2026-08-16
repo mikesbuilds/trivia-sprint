@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the Cuban Revolution alongside Che Guevara?",
+      "options": [
+        "Raúl Roa",
+        "Fulgencio Batista",
+        "Camilo Cienfuegos",
+        "Fidel Castro"
+      ],
+      "answerIndex": 3,
+      "fact": "The initial landing force of 82 men was reduced to about twenty within days of coming ashore."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which physical constant is approximately 9.8 metres per second squared?",
+      "options": [
+        "Avogadro's number",
+        "Gravitational acceleration on Earth",
+        "Speed of light",
+        "Planck's constant"
+      ],
+      "answerIndex": 1,
+      "fact": "It varies slightly across the planet, being marginally weaker at the equator because of the bulge and the spin."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which nation won the first Women's Football World Cup in 1991?",
+      "options": [
+        "China",
+        "Germany",
+        "Norway",
+        "The United States"
+      ],
+      "answerIndex": 3,
+      "fact": "The tournament was officially called a world championship, as FIFA was hesitant to use the World Cup name."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer is associated with the song Purple Haze?",
+      "options": [
+        "Jimi Hendrix",
+        "Janis Joplin",
+        "Eric Burdon",
+        "Jim Morrison"
+      ],
+      "answerIndex": 0,
+      "fact": "He played the Woodstock festival at around nine in the morning, to a badly depleted crowd."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the highest in South America?",
+      "options": [
+        "Chimborazo",
+        "Aconcagua",
+        "Huascarán",
+        "Ojos del Salado"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the highest peak outside Asia, and can be climbed without technical equipment by its normal route."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Atticus Finch's daughter?",
+      "options": [
+        "Fried Green Tomatoes",
+        "Cold Mountain",
+        "To Kill a Mockingbird",
+        "The Help"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author based the neighbour boy on her childhood friend Truman Capote."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company owns LinkedIn?",
+      "options": [
+        "Microsoft",
+        "Salesforce",
+        "Meta",
+        "Oracle"
+      ],
+      "answerIndex": 0,
+      "fact": "It was acquired in 2016 for around twenty-six billion dollars, one of the largest software deals at the time."
+    }
+  ]
+}

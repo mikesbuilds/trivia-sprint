@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient civilisation built the city of Mohenjo-daro?",
+      "options": [
+        "Indus Valley",
+        "Elamite",
+        "Vedic",
+        "Sumerian"
+      ],
+      "answerIndex": 0,
+      "fact": "It had covered drains and standardised brick sizes, and its writing system remains undeciphered."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which star is closest to the Sun?",
+      "options": [
+        "Barnard's Star",
+        "Alpha Centauri A",
+        "Sirius",
+        "Proxima Centauri"
+      ],
+      "answerIndex": 3,
+      "fact": "It is too faint to see with the naked eye despite being our nearest neighbour."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes long is a professional basketball game in the NBA?",
+      "options": [
+        "Ninety",
+        "Forty",
+        "Forty-eight",
+        "Sixty"
+      ],
+      "answerIndex": 2,
+      "fact": "Because the clock stops so often, a game typically takes well over two hours in real time."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician performed the halftime show described as one of the most watched?",
+      "options": [
+        "Prince",
+        "All have performed",
+        "Michael Jackson",
+        "Beyoncé"
+      ],
+      "answerIndex": 1,
+      "fact": "Michael Jackson's 1993 performance is usually credited with turning the halftime slot into a major event."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's flag features a dragon?",
+      "options": [
+        "Both Wales and Bhutan",
+        "Wales",
+        "Malta",
+        "Bhutan"
+      ],
+      "answerIndex": 0,
+      "fact": "Bhutan is a sovereign state; Wales is a country within the United Kingdom, and its flag is not on the Union Jack."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the resolution of a plot after the climax?",
+      "options": [
+        "Rising action",
+        "Denouement",
+        "Exposition",
+        "Inciting incident"
+      ],
+      "answerIndex": 1,
+      "fact": "The word is French for untying, describing the knot of the plot coming loose."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a linter?",
+      "options": [
+        "Deploying builds",
+        "Running tests",
+        "Flagging style and likely errors",
+        "Compiling code"
+      ],
+      "answerIndex": 2,
+      "fact": "The name comes from a Unix tool that picked out bits of fluff from C programs, like lint from clothing."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Rwandan genocide took place in which year?",
+      "options": [
+        "1994",
+        "2002",
+        "1990",
+        "1998"
+      ],
+      "answerIndex": 0,
+      "fact": "It lasted about a hundred days, and UN forces already present were ordered not to intervene."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the variety of chemical elements formed inside stars?",
+      "options": [
+        "Ionisation",
+        "Nucleosynthesis",
+        "Sublimation",
+        "Fission"
+      ],
+      "answerIndex": 1,
+      "fact": "Everything heavier than iron requires a supernova, so the calcium in your bones was made in an exploding star."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, which throwing event uses a wire and handle?",
+      "options": [
+        "Discus",
+        "Javelin",
+        "Shot put",
+        "Hammer"
+      ],
+      "answerIndex": 3,
+      "fact": "The original really was a blacksmith's hammer, thrown at Scottish and Irish games centuries before standardisation."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Maximus?",
+      "options": [
+        "300",
+        "Ben-Hur",
+        "Gladiator",
+        "Troy"
+      ],
+      "answerIndex": 2,
+      "fact": "One of its lead actors died during production, and remaining scenes were completed with a body double and early digital work."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state borders the most other states?",
+      "options": [
+        "Tennessee",
+        "Kentucky",
+        "Both Missouri and Tennessee",
+        "Missouri"
+      ],
+      "answerIndex": 2,
+      "fact": "Each borders eight, and no other state manages more."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Nurse Ratched?",
+      "options": [
+        "One Flew Over the Cuckoo's Nest",
+        "The Bell Jar",
+        "Girl, Interrupted",
+        "Shutter Island"
+      ],
+      "answerIndex": 0,
+      "fact": "The author objected to the film for dropping the narrator, and reportedly never watched it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Figma design tool?",
+      "options": [
+        "InVision",
+        "Sketch",
+        "Adobe",
+        "Figma"
+      ],
+      "answerIndex": 3,
+      "fact": "Running entirely in the browser let several designers edit the same file simultaneously, which was its main advantage."
+    }
+  ]
+}

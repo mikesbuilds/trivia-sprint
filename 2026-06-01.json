@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war was fought between Britain and the Boer republics?",
+      "options": [
+        "The Crimean War",
+        "The Second Boer War",
+        "The Zulu War",
+        "The Ashanti War"
+      ],
+      "answerIndex": 1,
+      "fact": "Britain interned civilians in camps during it, and the resulting mortality caused a political scandal at home."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of radiation is stopped by a sheet of paper?",
+      "options": [
+        "Beta",
+        "X-ray",
+        "Gamma",
+        "Alpha"
+      ],
+      "answerIndex": 3,
+      "fact": "It is harmless outside the body and extremely dangerous inside it, which is what made polonium an assassination tool."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the Fed Cup, now the Billie Jean King Cup?",
+      "options": [
+        "Tennis",
+        "Swimming",
+        "Golf",
+        "Athletics"
+      ],
+      "answerIndex": 0,
+      "fact": "It is the women's equivalent of the Davis Cup, and was renamed in 2020."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop group released the song Dancing Queen?",
+      "options": [
+        "Boney M",
+        "Chic",
+        "Bee Gees",
+        "ABBA"
+      ],
+      "answerIndex": 3,
+      "fact": "It was premiered at a royal gala the night before a Swedish royal wedding."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state is known as the Golden State?",
+      "options": [
+        "Nevada",
+        "Alaska",
+        "California",
+        "Colorado"
+      ],
+      "answerIndex": 2,
+      "fact": "Its economy alone would rank among the largest handful of countries in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Wind-Up Bird Chronicle?",
+      "options": [
+        "Ryu Murakami",
+        "Kobo Abe",
+        "Haruki Murakami",
+        "Kenzaburo Oe"
+      ],
+      "answerIndex": 2,
+      "fact": "He ran a jazz bar before writing, and says he decided to become a novelist during a baseball game."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Ruby on Rails framework?",
+      "options": [
+        "Shopify",
+        "Basecamp",
+        "GitHub",
+        "Heroku"
+      ],
+      "answerIndex": 1,
+      "fact": "It was extracted from an existing product rather than designed in advance, which shaped its opinionated defaults."
+    }
+  ]
+}

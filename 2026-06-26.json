@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict involved the siege of Stalingrad?",
+      "options": [
+        "The Crimean War",
+        "The Russian Civil War",
+        "The First World War",
+        "The Second World War"
+      ],
+      "answerIndex": 3,
+      "fact": "Fighting was so close-quarters that both sides measured daily progress in individual buildings and rooms."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which system in the body includes the thyroid and pituitary?",
+      "options": [
+        "Endocrine",
+        "Nervous",
+        "Immune",
+        "Excretory"
+      ],
+      "answerIndex": 0,
+      "fact": "It signals by releasing chemicals into the blood, which is slower than nerves but reaches everywhere at once."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a beach handball team?",
+      "options": [
+        "Six",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 1,
+      "fact": "Certain spectacular goals score double, which makes the sport far more attacking than its indoor version."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album Master of Puppets?",
+      "options": [
+        "Slayer",
+        "Metallica",
+        "Megadeth",
+        "Anthrax"
+      ],
+      "answerIndex": 1,
+      "fact": "Its bassist died in a tour bus crash months after release, and the band chose his replacement by audition."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Danakil Depression?",
+      "options": [
+        "Djibouti",
+        "Somalia",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "answerIndex": 2,
+      "fact": "It is among the hottest inhabited places on Earth, with average temperatures above 34 degrees year-round."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set at a school called Welton Academy?",
+      "options": [
+        "The Chocolate War",
+        "Prep",
+        "A Separate Peace",
+        "Dead Poets Society"
+      ],
+      "answerIndex": 3,
+      "fact": "It began as a screenplay rather than a novel, which is unusual for a story so associated with books."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym MVP stand for in product development?",
+      "options": [
+        "Minimum Viable Product",
+        "Multi-Vendor Package",
+        "Managed Version Process",
+        "Most Valued Platform"
+      ],
+      "answerIndex": 0,
+      "fact": "The point is learning what people actually want, which is why shipping a polished wrong thing is the failure mode."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Athenian statesman oversaw the building of the Parthenon?",
+      "options": [
+        "Pericles",
+        "Themistocles",
+        "Cleisthenes",
+        "Solon"
+      ],
+      "answerIndex": 0,
+      "fact": "He funded it partly from a defence league's treasury, which allies had contributed for warships rather than temples."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ system removes carbon dioxide from the blood?",
+      "options": [
+        "Endocrine",
+        "Respiratory",
+        "Lymphatic",
+        "Digestive"
+      ],
+      "answerIndex": 1,
+      "fact": "The urge to breathe is triggered by rising carbon dioxide, not falling oxygen, which is why hyperventilating before a dive is dangerous."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the 2012 Summer Olympics?",
+      "options": [
+        "China",
+        "Brazil",
+        "The United Kingdom",
+        "Greece"
+      ],
+      "answerIndex": 2,
+      "fact": "It became the first city to host the modern Games three times."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Andy Dufresne?",
+      "options": [
+        "Cool Hand Luke",
+        "The Shawshank Redemption",
+        "Escape from Alcatraz",
+        "Papillon"
+      ],
+      "answerIndex": 1,
+      "fact": "It performed poorly in cinemas and became a favourite through television repeats and video rental."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the world's longest single-country coastline on the Mediterranean?",
+      "options": [
+        "Greece",
+        "Turkey",
+        "Italy",
+        "Spain"
+      ],
+      "answerIndex": 0,
+      "fact": "Its thousands of islands mean the measured length far exceeds that of much larger mainland countries."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Emma and Persuasion?",
+      "options": [
+        "Ann Radcliffe",
+        "Maria Edgeworth",
+        "Fanny Burney",
+        "Jane Austen"
+      ],
+      "answerIndex": 3,
+      "fact": "Persuasion was published after her death, alongside a novel she had written more than fifteen years earlier."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym HTML5's canvas element enable?",
+      "options": [
+        "Compressing video",
+        "Storing cookies",
+        "Encrypting forms",
+        "Drawing graphics in the browser"
+      ],
+      "answerIndex": 3,
+      "fact": "It made browser games possible without plugins, which is much of why Flash disappeared."
+    }
+  ]
+}

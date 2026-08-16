@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ruler commissioned the Taj Mahal?",
+      "options": [
+        "Babur",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Akbar"
+      ],
+      "answerIndex": 1,
+      "fact": "He was later deposed by his own son and spent his final years imprisoned in a fort overlooking it."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the tendency of an object to resist changes in motion?",
+      "options": [
+        "Momentum",
+        "Torque",
+        "Inertia",
+        "Friction"
+      ],
+      "answerIndex": 2,
+      "fact": "It is why passengers lurch forward when a bus brakes: they keep moving while the bus does not."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many holes does a golfer play in a standard professional tournament?",
+      "options": [
+        "54",
+        "72",
+        "36",
+        "90"
+      ],
+      "answerIndex": 1,
+      "fact": "Four rounds of eighteen, with a cut after two, which is why Friday afternoon is often the most tense day."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 1976 film features the fictional network UBS?",
+      "options": [
+        "Marathon Man",
+        "All the President's Men",
+        "Network",
+        "The Front"
+      ],
+      "answerIndex": 2,
+      "fact": "Its satire of ratings-driven news is so regularly called prophetic that the phrase has become a cliché about it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the world's most populous city proper?",
+      "options": [
+        "It depends on the definition",
+        "Delhi",
+        "Tokyo",
+        "Shanghai"
+      ],
+      "answerIndex": 0,
+      "fact": "Tokyo leads by metropolitan area while others lead by city limits, which is why rankings disagree so wildly."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes writing that reveals a character's unfiltered thoughts?",
+      "options": [
+        "Omniscient narration",
+        "Free indirect speech",
+        "Epistolary",
+        "Stream of consciousness"
+      ],
+      "answerIndex": 3,
+      "fact": "The final chapter of Ulysses runs for dozens of pages with almost no punctuation at all."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for splitting a database across multiple machines?",
+      "options": [
+        "Sharding",
+        "Indexing",
+        "Normalising",
+        "Caching"
+      ],
+      "answerIndex": 0,
+      "fact": "It makes queries that span shards far more expensive, which is why the split point matters enormously."
+    }
+  ]
+}

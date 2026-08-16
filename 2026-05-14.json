@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Boxer Rebellion took place in which country?",
+      "options": [
+        "China",
+        "Vietnam",
+        "Japan",
+        "Korea"
+      ],
+      "answerIndex": 0,
+      "fact": "An eight-nation alliance intervened, and the indemnity imposed afterwards took China nearly forty years to pay."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the breakdown of rock by weather?",
+      "options": [
+        "Weathering",
+        "Sedimentation",
+        "Erosion",
+        "Deposition"
+      ],
+      "answerIndex": 0,
+      "fact": "It differs from erosion in that nothing moves: weathering breaks rock in place, erosion carries the pieces away."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is associated with the Kentucky Oaks?",
+      "options": [
+        "Motor racing",
+        "Sailing",
+        "Horse racing",
+        "Rowing"
+      ],
+      "answerIndex": 2,
+      "fact": "It is run the day before the Derby and is restricted to three-year-old fillies."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a robot called WALL-E?",
+      "options": [
+        "Chappie",
+        "WALL-E",
+        "Short Circuit",
+        "Big Hero 6"
+      ],
+      "answerIndex": 1,
+      "fact": "Its first forty minutes contain almost no dialogue, which the studio considered a serious commercial risk."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Australia and New Zealand?",
+      "options": [
+        "The Arafura Sea",
+        "The Coral Sea",
+        "The Timor Sea",
+        "The Tasman Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "Crossing it is known as crossing the ditch, an understatement for about two thousand kilometres."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set largely at a Swiss sanatorium?",
+      "options": [
+        "Death in Venice",
+        "Doctor Faustus",
+        "The Magic Mountain",
+        "Buddenbrooks"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author intended a short story and produced a thousand pages over twelve years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology uses radio waves to identify tagged objects?",
+      "options": [
+        "LIDAR",
+        "RFID",
+        "GPS",
+        "SONAR"
+      ],
+      "answerIndex": 1,
+      "fact": "Passive tags need no battery, drawing all the power they use from the reader's own signal."
+    }
+  ]
+}

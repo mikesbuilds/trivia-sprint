@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by Emperor Haile Selassie?",
+      "options": [
+        "Ethiopia",
+        "Eritrea",
+        "Sudan",
+        "Somalia"
+      ],
+      "answerIndex": 0,
+      "fact": "He was crowned in 1930, and Rastafari movements in Jamaica took him as a central figure without his involvement."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a scientific explanation supported by extensive evidence?",
+      "options": [
+        "Hypothesis",
+        "Assumption",
+        "Theory",
+        "Guess"
+      ],
+      "answerIndex": 2,
+      "fact": "The everyday sense of theory meaning a hunch is the source of endless confusion about evolution and gravity alike."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on a netball court in total?",
+      "options": [
+        "Twelve",
+        "Fourteen",
+        "Ten",
+        "Sixteen"
+      ],
+      "answerIndex": 1,
+      "fact": "Only two players per side may shoot, and neither may take more than one step with the ball."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a fish named Nemo?",
+      "options": [
+        "Finding Nemo",
+        "Ponyo",
+        "Shark Tale",
+        "The Little Mermaid"
+      ],
+      "answerIndex": 0,
+      "fact": "It reportedly caused a surge in people buying clownfish, which is the opposite of what the film argues for."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country is closest to Africa?",
+      "options": [
+        "Greece",
+        "Spain",
+        "Malta",
+        "Italy"
+      ],
+      "answerIndex": 1,
+      "fact": "Spain also governs two cities on the African mainland, Ceuta and Melilla, both bordered by Morocco."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Colour of Magic?",
+      "options": [
+        "Tom Holt",
+        "Douglas Adams",
+        "Neil Gaiman",
+        "Terry Pratchett"
+      ],
+      "answerIndex": 3,
+      "fact": "It was the first Discworld novel, and he later described it as an affectionate parody he never planned to continue."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Postgres database?",
+      "options": [
+        "Oracle",
+        "IBM",
+        "Microsoft",
+        "A university research project"
+      ],
+      "answerIndex": 3,
+      "fact": "It began at Berkeley in the 1980s and has been developed by an open community ever since."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was divided along the 17th parallel in 1954?",
+      "options": [
+        "Germany",
+        "Korea",
+        "Yemen",
+        "Vietnam"
+      ],
+      "answerIndex": 3,
+      "fact": "The division was meant to last two years pending elections that were never held."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the transfer of heat through direct contact?",
+      "options": [
+        "Conduction",
+        "Insulation",
+        "Convection",
+        "Radiation"
+      ],
+      "answerIndex": 0,
+      "fact": "Metals feel colder than wood at the same temperature because they carry heat away from your hand faster."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many lanes does a standard Olympic swimming pool have?",
+      "options": [
+        "Six",
+        "Ten",
+        "Twelve",
+        "Eight"
+      ],
+      "answerIndex": 3,
+      "fact": "Ten are often built, with the outer two left empty to absorb waves bouncing off the walls."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a character called Omar Little?",
+      "options": [
+        "The Wire",
+        "Oz",
+        "Homicide",
+        "The Shield"
+      ],
+      "answerIndex": 0,
+      "fact": "Its creator was a police reporter, and much of the dialogue came from years of notes."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait connects the Arabian Sea to the Persian Gulf?",
+      "options": [
+        "The Strait of Malacca",
+        "The Strait of Hormuz",
+        "The Bab-el-Mandeb",
+        "The Gulf of Aden"
+      ],
+      "answerIndex": 1,
+      "fact": "Roughly a fifth of the world's oil passes through a channel about fifty kilometres wide at its narrowest."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a novel following a character's growth from youth?",
+      "options": [
+        "Roman à clef",
+        "Epistolary",
+        "Bildungsroman",
+        "Picaresque"
+      ],
+      "answerIndex": 2,
+      "fact": "The word is German and translates roughly as novel of formation, which is why English never bothered replacing it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Elasticsearch search engine?",
+      "options": [
+        "Apache",
+        "Elastic",
+        "MongoDB",
+        "Splunk"
+      ],
+      "answerIndex": 1,
+      "fact": "Its licence change in 2021 prompted Amazon to fork it, creating a competing open version."
+    }
+  ]
+}

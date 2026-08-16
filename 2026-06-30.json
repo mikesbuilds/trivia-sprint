@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which sea did the Bronze Age Minoan civilisation dominate?",
+      "options": [
+        "The Adriatic",
+        "The Black Sea",
+        "The Red Sea",
+        "The Aegean"
+      ],
+      "answerIndex": 3,
+      "fact": "Their palaces have no fortifications, which suggests they relied on sea power rather than walls."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which instrument measures electrical potential difference?",
+      "options": [
+        "Ohmmeter",
+        "Ammeter",
+        "Voltmeter",
+        "Galvanometer"
+      ],
+      "answerIndex": 2,
+      "fact": "It is connected across a component rather than in line with it, which is the opposite of how an ammeter is wired."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In snooker, which ball is worth the most points?",
+      "options": [
+        "Pink",
+        "Brown",
+        "Black",
+        "Blue"
+      ],
+      "answerIndex": 2,
+      "fact": "It is worth seven, and a maximum break requires potting it after every one of fifteen reds."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Furiosa?",
+      "options": [
+        "Mad Max: Fury Road",
+        "Waterworld",
+        "Snowpiercer",
+        "The Book of Eli"
+      ],
+      "answerIndex": 0,
+      "fact": "It was storyboarded before a script existed, and the boards ran to several thousand panels."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the highest in Antarctica?",
+      "options": [
+        "Vinson Massif",
+        "Mount Kirkpatrick",
+        "Mount Erebus",
+        "Mount Sidley"
+      ],
+      "answerIndex": 0,
+      "fact": "It was not seen by humans until 1958, discovered by aircraft rather than by anyone on the ground."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Lennie Small?",
+      "options": [
+        "The Grapes of Wrath",
+        "Of Mice and Men",
+        "Cannery Row",
+        "Tortilla Flat"
+      ],
+      "answerIndex": 1,
+      "fact": "Its title comes from a Robert Burns poem about plans going awry."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym LiDAR measure using?",
+      "options": [
+        "Sound waves",
+        "Magnetic fields",
+        "Radio waves",
+        "Laser pulses"
+      ],
+      "answerIndex": 3,
+      "fact": "Archaeologists use it to find structures under forest canopy, which has rewritten the map of the Maya world."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which trading city was the centre of the medieval Hanseatic League?",
+      "options": [
+        "Lübeck",
+        "Bremen",
+        "Hamburg",
+        "Danzig"
+      ],
+      "answerIndex": 0,
+      "fact": "The League had no formal constitution, and its power rested on the collective threat of withdrawing trade."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force acts upward on an object in a fluid?",
+      "options": [
+        "Drag",
+        "Lift",
+        "Thrust",
+        "Buoyancy"
+      ],
+      "answerIndex": 3,
+      "fact": "It equals the weight of fluid displaced, which is why a steel ship floats and a steel bar does not."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called the crease?",
+      "options": [
+        "Ice hockey",
+        "Cricket",
+        "All of these",
+        "Lacrosse"
+      ],
+      "answerIndex": 2,
+      "fact": "In each case it marks a line a player must respect, though what it protects differs completely between them."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Rose DeWitt Bukater?",
+      "options": [
+        "The English Patient",
+        "Titanic",
+        "Atonement",
+        "The Age of Innocence"
+      ],
+      "answerIndex": 1,
+      "fact": "Its director funded part of the overrun himself by giving up his fee, expecting to lose money."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies north of Russia's Arctic coast?",
+      "options": [
+        "The Barents Sea",
+        "The Kara Sea",
+        "All of these",
+        "The Laptev Sea"
+      ],
+      "answerIndex": 2,
+      "fact": "Together they form the Northern Sea Route, which shipping increasingly uses as ice retreats."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which epic poem opens by asking a muse to sing of rage?",
+      "options": [
+        "Beowulf",
+        "The Aeneid",
+        "The Odyssey",
+        "The Iliad"
+      ],
+      "answerIndex": 3,
+      "fact": "The first word in Greek is menin, meaning wrath, which sets the entire subject of the poem."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for testing how a system behaves under heavy demand?",
+      "options": [
+        "Smoke testing",
+        "Load testing",
+        "Unit testing",
+        "Static analysis"
+      ],
+      "answerIndex": 1,
+      "fact": "Systems often fail in unexpected places under load, such as logging, rather than in the code being tested."
+    }
+  ]
+}

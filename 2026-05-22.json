@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Hundred Days refers to the return of which leader?",
+      "options": [
+        "Louis XVIII",
+        "Bismarck",
+        "Napoleon",
+        "Charles II"
+      ],
+      "answerIndex": 2,
+      "fact": "He escaped from Elba, marched on Paris without firing a shot, and was defeated at Waterloo within four months."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the cell controls what enters and leaves?",
+      "options": [
+        "Nucleus",
+        "Cytoplasm",
+        "Ribosome",
+        "Cell membrane"
+      ],
+      "answerIndex": 3,
+      "fact": "It is only two molecules thick, and its structure was worked out largely by measuring how oils spread on water."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is the shot clock in professional basketball?",
+      "options": [
+        "Twenty-four seconds",
+        "Thirty-five seconds",
+        "Twenty seconds",
+        "Thirty seconds"
+      ],
+      "answerIndex": 0,
+      "fact": "It was introduced in 1954 because teams would take a lead and simply hold the ball for the rest of the game."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album Appetite for Destruction?",
+      "options": [
+        "Aerosmith",
+        "Def Leppard",
+        "Guns N' Roses",
+        "Mötley Crüe"
+      ],
+      "answerIndex": 2,
+      "fact": "It took nearly a year to reach number one, climbing slowly on word of mouth and one video."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country was formed by the union of Tanganyika and Zanzibar?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Malawi",
+        "Mozambique"
+      ],
+      "answerIndex": 1,
+      "fact": "Its name is a blend of the two, formed in 1964 within months of both becoming independent."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem contains the line The centre cannot hold?",
+      "options": [
+        "The Waste Land",
+        "The Second Coming",
+        "The Hollow Men",
+        "Dover Beach"
+      ],
+      "answerIndex": 1,
+      "fact": "It was written just after the First World War and a pandemic, during which the poet's wife nearly died."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CI stand for in software delivery?",
+      "options": [
+        "Continuous Integration",
+        "Compiled Instance",
+        "Central Interface",
+        "Code Inspection"
+      ],
+      "answerIndex": 0,
+      "fact": "The point is merging small changes often, so conflicts stay small enough to resolve in minutes."
+    }
+  ]
+}

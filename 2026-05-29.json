@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Great Fire of Rome occurred during whose reign?",
+      "options": [
+        "Caligula",
+        "Claudius",
+        "Vespasian",
+        "Nero"
+      ],
+      "answerIndex": 3,
+      "fact": "The story of him playing a fiddle is impossible, since the instrument would not exist for another 1,500 years."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a population's total genetic variation?",
+      "options": [
+        "Gene pool",
+        "Genotype",
+        "Genome",
+        "Allele"
+      ],
+      "answerIndex": 0,
+      "fact": "Cheetahs have an unusually small one, so genetically distinct individuals can accept skin grafts from each other."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the terms bull and treble?",
+      "options": [
+        "Shooting",
+        "Darts",
+        "Snooker",
+        "Archery"
+      ],
+      "answerIndex": 1,
+      "fact": "The standard finishing double is the outer bull's smaller neighbour, and the highest checkout from 170 uses two trebles and the bull."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Songs in the Key of Life?",
+      "options": [
+        "Stevie Wonder",
+        "Al Green",
+        "Marvin Gaye",
+        "Curtis Mayfield"
+      ],
+      "answerIndex": 0,
+      "fact": "He played most of the instruments himself, including drums, on a large share of the album."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range runs through Romania?",
+      "options": [
+        "The Dinaric Alps",
+        "The Rhodopes",
+        "The Carpathians",
+        "The Balkans"
+      ],
+      "answerIndex": 2,
+      "fact": "They hold Europe's largest populations of brown bears, wolves and lynx outside Russia."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Meursault?",
+      "options": [
+        "The Fall",
+        "The Stranger",
+        "The Plague",
+        "Nausea"
+      ],
+      "answerIndex": 1,
+      "fact": "Its famously flat opening lines have been translated a dozen different ways, each changing the tone completely."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SLA define?",
+      "options": [
+        "Storage limits",
+        "Security protocols",
+        "Agreed service levels",
+        "Software licence terms"
+      ],
+      "answerIndex": 2,
+      "fact": "Uptime figures are often quoted in nines, where five nines allows about five minutes of downtime a year."
+    }
+  ]
+}

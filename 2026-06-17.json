@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Chernobyl disaster occurred in which year?",
+      "options": [
+        "1991",
+        "1979",
+        "1986",
+        "1995"
+      ],
+      "answerIndex": 2,
+      "fact": "The accident happened during a safety test intended to check what would occur in a power failure."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the middle number in an ordered data set?",
+      "options": [
+        "Median",
+        "Range",
+        "Mode",
+        "Mean"
+      ],
+      "answerIndex": 0,
+      "fact": "It resists outliers, which is why income is usually reported this way rather than as an average."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a stroke called the drive?",
+      "options": [
+        "All of these",
+        "Cricket",
+        "Tennis",
+        "Golf"
+      ],
+      "answerIndex": 0,
+      "fact": "The word means much the same in each: a firm forward stroke intended to send the ball a long way."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line about a boat needing to be bigger?",
+      "options": [
+        "Titanic",
+        "Jaws",
+        "Master and Commander",
+        "The Perfect Storm"
+      ],
+      "answerIndex": 1,
+      "fact": "The line was reportedly improvised, and became an in-joke referring to the production's constant problems."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Europe from Asia in the south?",
+      "options": [
+        "The Urals",
+        "The Balkans",
+        "The Alps",
+        "The Caucasus"
+      ],
+      "answerIndex": 3,
+      "fact": "Its highest peak, Elbrus, is generally counted as the highest mountain in Europe."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Small Island?",
+      "options": [
+        "Bernardine Evaristo",
+        "Diana Evans",
+        "Zadie Smith",
+        "Andrea Levy"
+      ],
+      "answerIndex": 3,
+      "fact": "It follows Jamaican migrants arriving in post-war Britain, drawing on her own father's crossing."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Node.js runtime?",
+      "options": [
+        "Microsoft",
+        "Google",
+        "An individual developer, later Joyent",
+        "Mozilla"
+      ],
+      "answerIndex": 2,
+      "fact": "It put JavaScript on the server by embedding the engine Google had built for Chrome."
+    }
+  ]
+}

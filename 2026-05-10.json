@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Salem witch trials took place in which century?",
+      "options": [
+        "16th",
+        "19th",
+        "17th",
+        "18th"
+      ],
+      "answerIndex": 2,
+      "fact": "The colony later issued formal apologies and compensation to survivors and families, within twenty years."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is most responsible for the smell of rotten eggs?",
+      "options": [
+        "Ammonia",
+        "Sulfur dioxide",
+        "Hydrogen sulfide",
+        "Methane"
+      ],
+      "answerIndex": 2,
+      "fact": "It deadens the sense of smell at high concentrations, which makes it far more dangerous than the warning suggests."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called a nutmeg?",
+      "options": [
+        "Football",
+        "Rugby",
+        "Basketball",
+        "Hockey"
+      ],
+      "answerIndex": 0,
+      "fact": "It means playing the ball through an opponent's legs, and the origin of the name is genuinely disputed."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Titian",
+        "Raphael",
+        "Botticelli"
+      ],
+      "answerIndex": 0,
+      "fact": "It became globally famous partly because it was stolen in 1911 and missing for two years."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates Sicily from mainland Italy?",
+      "options": [
+        "The Strait of Otranto",
+        "The Strait of Messina",
+        "The Strait of Gibraltar",
+        "The Strait of Bonifacio"
+      ],
+      "answerIndex": 1,
+      "fact": "A bridge across it has been proposed repeatedly since Roman times and never built."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a character called Pi Patel?",
+      "options": [
+        "Cast Away",
+        "Life of Pi",
+        "Robinson Crusoe",
+        "The Beach"
+      ],
+      "answerIndex": 1,
+      "fact": "The book offers two versions of events and explicitly asks the reader to choose which to believe."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol transfers files between a client and server?",
+      "options": [
+        "ARP",
+        "ICMP",
+        "SMTP",
+        "FTP"
+      ],
+      "answerIndex": 3,
+      "fact": "It sends credentials in plain text, which is why secure variants replaced it for anything sensitive."
+    }
+  ]
+}

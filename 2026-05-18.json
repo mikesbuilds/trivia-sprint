@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Treaty of Nanking followed which conflict?",
+      "options": [
+        "The Sino-Japanese War",
+        "The Taiping Rebellion",
+        "The First Opium War",
+        "The Boxer Rebellion"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the origin of the phrase unequal treaty, and it ceded Hong Kong island to Britain."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which hormone regulates blood sugar by lowering it?",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Cortisol",
+        "Adrenaline"
+      ],
+      "answerIndex": 1,
+      "fact": "Glucagon does the opposite, and the two work as a pair to hold blood sugar within a narrow band."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an event called the vault?",
+      "options": [
+        "Athletics",
+        "Weightlifting",
+        "Diving",
+        "Gymnastics"
+      ],
+      "answerIndex": 3,
+      "fact": "The apparatus was redesigned after 1988 from a horse to a wider table, following a series of serious neck injuries."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band is fronted by Bono?",
+      "options": [
+        "U2",
+        "The Cranberries",
+        "Simple Minds",
+        "Snow Patrol"
+      ],
+      "answerIndex": 0,
+      "fact": "They formed at school in Dublin when the drummer pinned a notice to a noticeboard looking for musicians."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert covers much of Turkmenistan?",
+      "options": [
+        "The Taklamakan",
+        "The Karakum",
+        "The Kyzylkum",
+        "The Registan"
+      ],
+      "answerIndex": 1,
+      "fact": "A gas crater within it has been burning continuously since the 1970s and is nicknamed the Door to Hell."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a character who opposes the protagonist?",
+      "options": [
+        "Antagonist",
+        "Foil",
+        "Narrator",
+        "Archetype"
+      ],
+      "answerIndex": 0,
+      "fact": "A foil is different: it highlights the protagonist by contrast, without necessarily opposing them."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes computing performed near the data source rather than centrally?",
+      "options": [
+        "Batch processing",
+        "Time sharing",
+        "Edge computing",
+        "Cloud computing"
+      ],
+      "answerIndex": 2,
+      "fact": "Self-driving cars rely on it, because sending sensor data to a distant server and back is far too slow."
+    }
+  ]
+}

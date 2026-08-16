@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Stonewall uprising is commemorated by which annual event?",
+      "options": [
+        "Pride",
+        "Juneteenth",
+        "Mardi Gras",
+        "Labour Day"
+      ],
+      "answerIndex": 0,
+      "fact": "The first marches in 1970 were called Christopher Street Liberation Day, after the street where the bar stood."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body fluid is produced by the salivary glands?",
+      "options": [
+        "Mucus",
+        "Saliva",
+        "Bile",
+        "Plasma"
+      ],
+      "answerIndex": 1,
+      "fact": "It begins digesting starch before food is swallowed, which is why bread tastes sweeter the longer you chew it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In Formula One, what colour flag signals the end of a race?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Chequered"
+      ],
+      "answerIndex": 3,
+      "fact": "Its origin is disputed, but one persistent story traces it to chequered tablecloths at early American road races."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the song Bohemian Rhapsody's parent album?",
+      "options": [
+        "The Game",
+        "News of the World",
+        "A Night at the Opera",
+        "Sheer Heart Attack"
+      ],
+      "answerIndex": 2,
+      "fact": "The album was named after a Marx Brothers film, and the band later met Groucho Marx to thank him."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies furthest south?",
+      "options": [
+        "New Zealand",
+        "South Africa",
+        "Argentina",
+        "Australia"
+      ],
+      "answerIndex": 2,
+      "fact": "Its southern tip reaches further toward Antarctica than any other country's inhabited territory."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Ignatius J. Reilly?",
+      "options": [
+        "Portnoy's Complaint",
+        "A Confederacy of Dunces",
+        "Catch-22",
+        "The Ginger Man"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author died before publication, and his mother spent years pressing publishers to read the manuscript."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a system that continues working despite component failure?",
+      "options": [
+        "Fault tolerant",
+        "High throughput",
+        "Low latency",
+        "Stateless"
+      ],
+      "answerIndex": 0,
+      "fact": "Aircraft control systems often run three computers and take the majority answer when they disagree."
+    }
+  ]
+}

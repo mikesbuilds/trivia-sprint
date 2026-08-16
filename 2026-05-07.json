@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Italy invade in 1935, prompting League of Nations sanctions?",
+      "options": [
+        "Libya",
+        "Greece",
+        "Albania",
+        "Abyssinia"
+      ],
+      "answerIndex": 3,
+      "fact": "The League's failure to stop it is widely seen as the moment its authority collapsed entirely."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the average human body temperature in Celsius?",
+      "options": [
+        "37",
+        "40",
+        "38.5",
+        "35.5"
+      ],
+      "answerIndex": 0,
+      "fact": "Studies suggest the average has actually fallen slightly since the figure was set in the 1850s."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a competition called the Six Nations?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Rugby union",
+        "Hockey"
+      ],
+      "answerIndex": 2,
+      "fact": "It began as the Home Nations, adding France in 1910 and Italy in 2000."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom features the character Basil Fawlty?",
+      "options": [
+        "Blackadder",
+        "Yes Minister",
+        "Fawlty Towers",
+        "Porridge"
+      ],
+      "answerIndex": 2,
+      "fact": "Only twelve episodes were ever made, across two series four years apart."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's highest peak is Ben Nevis?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "Wales"
+      ],
+      "answerIndex": 1,
+      "fact": "Scotland is a country within the United Kingdom, and the peak is the highest point in the UK overall."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a poem of fourteen lines ending in a rhyming couplet?",
+      "options": [
+        "Shakespearean sonnet",
+        "Petrarchan sonnet",
+        "Sestina",
+        "Villanelle"
+      ],
+      "answerIndex": 0,
+      "fact": "The final couplet usually turns or undercuts everything above it, which is why it lands so hard."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a race condition in software?",
+      "options": [
+        "A syntax error",
+        "A memory leak",
+        "A network delay",
+        "A timing-dependent bug"
+      ],
+      "answerIndex": 3,
+      "fact": "They are notoriously hard to reproduce, since the bug may only appear when the timing happens to align."
+    }
+  ]
+}

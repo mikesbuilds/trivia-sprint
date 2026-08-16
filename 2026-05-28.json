@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's parliament is the oldest continuously functioning in the world?",
+      "options": [
+        "Switzerland",
+        "England",
+        "Iceland",
+        "Isle of Man"
+      ],
+      "answerIndex": 2,
+      "fact": "The Althing was founded around 930, though it was suspended for about forty-five years in the 1800s."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist is credited with formulating the periodic law?",
+      "options": [
+        "John Newlands",
+        "Henry Moseley",
+        "Antoine Lavoisier",
+        "Dmitri Mendeleev"
+      ],
+      "answerIndex": 3,
+      "fact": "He ordered elements by atomic weight; Moseley later showed atomic number was the correct organising principle."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, what is the standard distance of a steeplechase?",
+      "options": [
+        "3,000 m",
+        "5,000 m",
+        "10,000 m",
+        "1,500 m"
+      ],
+      "answerIndex": 0,
+      "fact": "The water jump barrier does not move, which is why the water is deeper at the near edge to cushion landings."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Norman Bates?",
+      "options": [
+        "Repulsion",
+        "Psycho",
+        "The Silence of the Lambs",
+        "Peeping Tom"
+      ],
+      "answerIndex": 1,
+      "fact": "The shower scene runs about forty-five seconds and took a week to shoot across some seventy setups."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's currency is the rand?",
+      "options": [
+        "Botswana",
+        "Namibia",
+        "Zimbabwe",
+        "South Africa"
+      ],
+      "answerIndex": 3,
+      "fact": "It is named after the Witwatersrand, the ridge where the gold that built Johannesburg was found."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a story's time and place?",
+      "options": [
+        "Setting",
+        "Plot",
+        "Voice",
+        "Theme"
+      ],
+      "answerIndex": 0,
+      "fact": "In some novels it functions almost as a character, which is a standard essay observation about Wuthering Heights."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a reverse proxy?",
+      "options": [
+        "Compressing databases",
+        "Sitting in front of servers to handle requests",
+        "Managing DNS records",
+        "Hiding a user's location"
+      ],
+      "answerIndex": 1,
+      "fact": "It commonly handles encryption too, so the servers behind it can exchange plain traffic internally."
+    }
+  ]
+}

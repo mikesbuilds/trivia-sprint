@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Britain fight in the Falklands War?",
+      "options": [
+        "Uruguay",
+        "Chile",
+        "Brazil",
+        "Argentina"
+      ],
+      "answerIndex": 3,
+      "fact": "The conflict lasted ten weeks, and the defeat contributed directly to the fall of Argentina's military government."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which mineral is the main component of bone?",
+      "options": [
+        "Silica",
+        "Calcium carbonate",
+        "Iron oxide",
+        "Calcium phosphate"
+      ],
+      "answerIndex": 3,
+      "fact": "Bone is remodelled constantly, and an adult skeleton is largely replaced roughly every ten years."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Tour of Flanders?",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "France",
+        "Luxembourg"
+      ],
+      "answerIndex": 0,
+      "fact": "Its short, brutally steep cobbled climbs are known as bergs, and several have their own fan followings."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a character called Michael Scofield?",
+      "options": [
+        "Burn Notice",
+        "Prison Break",
+        "Person of Interest",
+        "Breaking Bad"
+      ],
+      "answerIndex": 1,
+      "fact": "Its premise was pitched years earlier and rejected as impossible to sustain past one season."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the source of the Blue Nile?",
+      "options": [
+        "Sudan",
+        "Uganda",
+        "Ethiopia",
+        "Egypt"
+      ],
+      "answerIndex": 2,
+      "fact": "It contributes most of the Nile's water during flood season, which is why a dam there is so politically fraught."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Josef K.?",
+      "options": [
+        "The Trial",
+        "The Metamorphosis",
+        "Amerika",
+        "The Castle"
+      ],
+      "answerIndex": 0,
+      "fact": "The word Kafkaesque now describes the exact bureaucratic nightmare the book depicts."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym EV charging term kWh measure?",
+      "options": [
+        "Voltage",
+        "Power",
+        "Energy",
+        "Current"
+      ],
+      "answerIndex": 2,
+      "fact": "Power is measured in kilowatts; multiplying by time gives energy, which is what a battery actually stores."
+    }
+  ]
+}

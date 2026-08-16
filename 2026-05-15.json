@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US president oversaw the Louisiana Purchase?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Monroe",
+        "John Adams"
+      ],
+      "answerIndex": 1,
+      "fact": "He doubted he had the constitutional authority to do it, and went ahead on the grounds that the opportunity would vanish."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element has the highest melting point?",
+      "options": [
+        "Iron",
+        "Tungsten",
+        "Carbon",
+        "Platinum"
+      ],
+      "answerIndex": 1,
+      "fact": "It melts above 3,400 degrees Celsius, which is why it was used for light bulb filaments for a century."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many events are in an Olympic triathlon?",
+      "options": [
+        "Five",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "answerIndex": 3,
+      "fact": "Transitions between them are timed as part of the race, and races have been decided inside them."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series is set in Albuquerque, New Mexico?",
+      "options": [
+        "Breaking Bad",
+        "True Detective",
+        "Justified",
+        "Fargo"
+      ],
+      "answerIndex": 0,
+      "fact": "It was written for Riverside, California, and moved for tax reasons, after which the setting became central."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Atlas Mountains' highest peak?",
+      "options": [
+        "Libya",
+        "Tunisia",
+        "Morocco",
+        "Algeria"
+      ],
+      "answerIndex": 2,
+      "fact": "The range shields the country's north from the Sahara, which is why its coastal strip is so fertile."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created the character Hercule Poirot's friend Captain Hastings?",
+      "options": [
+        "Dorothy L. Sayers",
+        "Margery Allingham",
+        "Agatha Christie",
+        "Josephine Tey"
+      ],
+      "answerIndex": 2,
+      "fact": "She grew so tired of Poirot she called him insufferable, and kept writing him for fifty years anyway."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a company's move to newer systems from legacy ones?",
+      "options": [
+        "Migration",
+        "Deployment",
+        "Provisioning",
+        "Refactoring"
+      ],
+      "answerIndex": 0,
+      "fact": "Some banking systems still run code written in the 1960s, because migrating it is riskier than maintaining it."
+    }
+  ]
+}

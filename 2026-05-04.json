@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first US Secretary of the Treasury?",
+      "options": [
+        "John Jay",
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answerIndex": 1,
+      "fact": "He created a national bank over fierce objection, arguing the constitution implied powers it did not list."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin is produced by bacteria in the human gut?",
+      "options": [
+        "Vitamin K",
+        "Vitamin E",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "answerIndex": 0,
+      "fact": "It is essential for blood clotting, which is why long courses of antibiotics can occasionally cause bruising."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are in a rugby league team on the field?",
+      "options": [
+        "Fifteen",
+        "Seventeen",
+        "Eleven",
+        "Thirteen"
+      ],
+      "answerIndex": 3,
+      "fact": "The split from rugby union in 1895 was originally about paying players for time lost at work."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist recorded the album Thriller's follow-up, Bad?",
+      "options": [
+        "Prince",
+        "Lionel Richie",
+        "Michael Jackson",
+        "Stevie Wonder"
+      ],
+      "answerIndex": 2,
+      "fact": "It produced five US number one singles, a record for a single album at the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city is furthest north?",
+      "options": [
+        "Oslo",
+        "Reykjavik",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "answerIndex": 1,
+      "fact": "It sits just below the Arctic Circle, close enough that midsummer nights never fully darken."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens on the Yorkshire moors with a visitor at Thrushcross Grange?",
+      "options": [
+        "Shirley",
+        "Jane Eyre",
+        "Wuthering Heights",
+        "The Tenant of Wildfell Hall"
+      ],
+      "answerIndex": 2,
+      "fact": "It is narrated at two removes, by a visitor recounting a housekeeper's account of events."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Rust programming language?",
+      "options": [
+        "Google",
+        "IBM",
+        "Amazon",
+        "Mozilla"
+      ],
+      "answerIndex": 3,
+      "fact": "It began as an employee's personal project and was adopted by the company after several years."
+    }
+  ]
+}

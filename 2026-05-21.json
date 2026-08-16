@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which dynasty ruled Egypt during the construction of the pyramids at Giza?",
+      "options": [
+        "Twenty-fifth Dynasty",
+        "New Kingdom",
+        "Fourth Dynasty",
+        "Ptolemaic"
+      ],
+      "answerIndex": 2,
+      "fact": "Workers' villages found nearby show bread ovens and medical care, contradicting the idea that slaves built them."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for light bending as it passes between materials?",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answerIndex": 0,
+      "fact": "It is why a straw looks broken in a glass of water, and why fish are never quite where they appear."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a manoeuvre called a chicane?",
+      "options": [
+        "Sailing",
+        "Motor racing",
+        "Cycling",
+        "Skiing"
+      ],
+      "answerIndex": 1,
+      "fact": "They are usually added to slow cars at points where a straight would otherwise produce dangerous speeds."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television drama features the character Don Draper?",
+      "options": [
+        "Mad Men",
+        "Boardwalk Empire",
+        "The Sopranos",
+        "Damages"
+      ],
+      "answerIndex": 0,
+      "fact": "The period detail extended to banning any product that did not exist in the year being depicted."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African capital sits highest above sea level?",
+      "options": [
+        "Nairobi",
+        "Kampala",
+        "Harare",
+        "Addis Ababa"
+      ],
+      "answerIndex": 3,
+      "fact": "At roughly 2,350 metres it is among the highest capitals in the world, and visiting athletes train there for altitude."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Gone with the Wind?",
+      "options": [
+        "Edna Ferber",
+        "Pearl S. Buck",
+        "Margaret Mitchell",
+        "Harper Lee"
+      ],
+      "answerIndex": 2,
+      "fact": "It was her only published novel, and she wrote the final chapter first."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Kotlin programming language?",
+      "options": [
+        "Google",
+        "Oracle",
+        "Samsung",
+        "JetBrains"
+      ],
+      "answerIndex": 3,
+      "fact": "Google later made it the preferred language for Android, though it was not the company that created it."
+    }
+  ]
+}

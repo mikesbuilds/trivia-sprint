@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Dreyfus affair divided which country?",
+      "options": [
+        "Germany",
+        "France",
+        "Austria",
+        "Belgium"
+      ],
+      "answerIndex": 1,
+      "fact": "It ran for twelve years, and a novelist's open letter accusing the army of a cover-up is still quoted by its first two words."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the time taken for half a radioactive sample to decay?",
+      "options": [
+        "Half-life",
+        "Decay rate",
+        "Activity",
+        "Mean life"
+      ],
+      "answerIndex": 0,
+      "fact": "It is completely unaffected by temperature, pressure or chemistry, which is what makes radiometric dating reliable."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many teams compete in a standard Premier League season?",
+      "options": [
+        "Twenty-two",
+        "Eighteen",
+        "Twenty",
+        "Twenty-four"
+      ],
+      "answerIndex": 2,
+      "fact": "It began with twenty-two in 1992 and reduced to twenty in 1995 to shorten the fixture list."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist recorded the album Graceland?",
+      "options": [
+        "Sting",
+        "David Byrne",
+        "Paul Simon",
+        "Peter Gabriel"
+      ],
+      "answerIndex": 2,
+      "fact": "It was recorded partly in South Africa during a cultural boycott, which caused lasting controversy."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the ancient city of Ephesus?",
+      "options": [
+        "Turkey",
+        "Lebanon",
+        "Greece",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "fact": "It was once a major port, and silt has since left the ruins several kilometres inland."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Middlesex?",
+      "options": [
+        "Jonathan Franzen",
+        "Jeffrey Eugenides",
+        "Michael Chabon",
+        "Richard Russo"
+      ],
+      "answerIndex": 1,
+      "fact": "It spans three generations and was written over nine years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the TypeScript language?",
+      "options": [
+        "Mozilla",
+        "Google",
+        "Meta",
+        "Microsoft"
+      ],
+      "answerIndex": 3,
+      "fact": "It compiles to plain JavaScript, so it adds checking at development time and disappears entirely at runtime."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Watts riots of 1965 took place in which US city?",
+      "options": [
+        "Detroit",
+        "Newark",
+        "Chicago",
+        "Los Angeles"
+      ],
+      "answerIndex": 3,
+      "fact": "They lasted six days and prompted a state commission that identified poor schools and policing as root causes."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas is used to preserve packaged food?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Chlorine"
+      ],
+      "answerIndex": 1,
+      "fact": "Displacing oxygen stops both bacterial growth and the chemical staling that turns crisps soft."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are in a curling team?",
+      "options": [
+        "Four",
+        "Five",
+        "Three",
+        "Six"
+      ],
+      "answerIndex": 0,
+      "fact": "The last to throw is called the skip, and usually directs the whole team's strategy from the far end."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band recorded the album The Wall?",
+      "options": [
+        "Pink Floyd",
+        "Genesis",
+        "King Crimson",
+        "Rush"
+      ],
+      "answerIndex": 0,
+      "fact": "The stage show involved building an actual wall across the front of the stage during the performance."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Astana?",
+      "options": [
+        "Turkmenistan",
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "Kazakhstan"
+      ],
+      "answerIndex": 3,
+      "fact": "The capital moved there from Almaty in 1997, and the city has been renamed more than once since."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a work that imitates another to mock it?",
+      "options": [
+        "Adaptation",
+        "Allusion",
+        "Parody",
+        "Homage"
+      ],
+      "answerIndex": 2,
+      "fact": "Don Quixote is one, targeting chivalric romances so effectively that it helped kill the genre."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym TCP guarantee that UDP does not?",
+      "options": [
+        "Speed",
+        "Delivery and ordering",
+        "Encryption",
+        "Compression"
+      ],
+      "answerIndex": 1,
+      "fact": "Video calls often prefer UDP, because a lost frame arriving late is worse than never arriving at all."
+    }
+  ]
+}

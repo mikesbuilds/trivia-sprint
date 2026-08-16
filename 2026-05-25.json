@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country experienced the Velvet Revolution in 1989?",
+      "options": [
+        "Czechoslovakia",
+        "Romania",
+        "Poland",
+        "Hungary"
+      ],
+      "answerIndex": 0,
+      "fact": "It transferred power without violence in six weeks, and the country split peacefully three years later."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a cell with a nucleus?",
+      "options": [
+        "Archaeon",
+        "Virion",
+        "Prokaryote",
+        "Eukaryote"
+      ],
+      "answerIndex": 3,
+      "fact": "Every plant, animal and fungus is built from them, and they appear to have arisen only once in the fossil record."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race called the Head of the River?",
+      "options": [
+        "Canoeing",
+        "Sailing",
+        "Rowing",
+        "Swimming"
+      ],
+      "answerIndex": 2,
+      "fact": "Crews start at intervals and race against the clock rather than side by side, because the course is too narrow."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a character named Jason Bourne?",
+      "options": [
+        "Mission: Impossible",
+        "Bond",
+        "Bourne",
+        "Taken"
+      ],
+      "answerIndex": 2,
+      "fact": "Its handheld camerawork was so widely imitated that later action films were criticised for copying it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes Tierra del Fuego's eastern half?",
+      "options": [
+        "Falkland Islands",
+        "Chile",
+        "Uruguay",
+        "Argentina"
+      ],
+      "answerIndex": 3,
+      "fact": "The island is split between the two countries, and the boundary was settled only after papal mediation in 1984."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Persepolis as a graphic memoir?",
+      "options": [
+        "Alison Bechdel",
+        "Marjane Satrapi",
+        "Art Spiegelman",
+        "Craig Thompson"
+      ],
+      "answerIndex": 1,
+      "fact": "She drew it in stark black and white, saying colour would have made the events look prettier than they were."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Signal messaging app?",
+      "options": [
+        "Google",
+        "A non-profit foundation",
+        "Telegram",
+        "Meta"
+      ],
+      "answerIndex": 1,
+      "fact": "Its encryption protocol is used by several competitors, including WhatsApp, under an open licence."
+    }
+  ]
+}

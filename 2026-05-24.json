@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was assassinated in Memphis, Tennessee in 1968?",
+      "options": [
+        "Robert Kennedy",
+        "Malcolm X",
+        "Martin Luther King Jr",
+        "Medgar Evers"
+      ],
+      "answerIndex": 2,
+      "fact": "He was in the city supporting a strike by sanitation workers, not leading a national campaign."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which greenhouse gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Ozone",
+        "Methane",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "answerIndex": 3,
+      "fact": "Its concentration is set by temperature rather than emissions, so it amplifies warming rather than starting it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, what does LBW stand for?",
+      "options": [
+        "Leg Before Wicket",
+        "Leg Bye Wide",
+        "Long Boundary Wide",
+        "Left Behind Wicket"
+      ],
+      "answerIndex": 0,
+      "fact": "It is among the most argued-over decisions in sport, which is why ball-tracking technology was introduced for it first."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known as the Piano Man?",
+      "options": [
+        "Elton John",
+        "Ben Folds",
+        "Billy Joel",
+        "Randy Newman"
+      ],
+      "answerIndex": 2,
+      "fact": "The song describes a real bar where he played under a stage name while hiding from a bad contract."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea does the Volga river flow into?",
+      "options": [
+        "The Sea of Azov",
+        "The Caspian Sea",
+        "The Baltic Sea",
+        "The Black Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "It is Europe's longest river, and the sea it feeds has no outlet to any ocean."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Pygmalion, later adapted as My Fair Lady?",
+      "options": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "John Galsworthy",
+        "J.M. Barrie"
+      ],
+      "answerIndex": 0,
+      "fact": "He objected furiously to endings that paired the two leads, which is exactly what the musical does."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for software running below the operating system on hardware?",
+      "options": [
+        "Shareware",
+        "Groupware",
+        "Middleware",
+        "Firmware"
+      ],
+      "answerIndex": 3,
+      "fact": "It is stored on the device itself, which is why a bad update can leave hardware permanently unusable."
+    }
+  ]
+}

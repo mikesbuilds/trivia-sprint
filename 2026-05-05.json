@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire controlled Egypt immediately before the British?",
+      "options": [
+        "Persian",
+        "Roman",
+        "French",
+        "Ottoman"
+      ],
+      "answerIndex": 3,
+      "fact": "Egypt remained nominally Ottoman for decades after Britain occupied it, a fiction both sides found convenient."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a substance dissolved in a solution?",
+      "options": [
+        "Solvent",
+        "Suspension",
+        "Solute",
+        "Colloid"
+      ],
+      "answerIndex": 2,
+      "fact": "Water dissolves more substances than any other liquid, which is why it is called the universal solvent."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic medals in judo?",
+      "options": [
+        "France",
+        "Japan",
+        "South Korea",
+        "Brazil"
+      ],
+      "answerIndex": 1,
+      "fact": "It was added to the Games in 1964, the year Tokyo first hosted, and a Dutch fighter promptly won the open category."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the fictional Bates Motel?",
+      "options": [
+        "Vertigo",
+        "Psycho",
+        "Rear Window",
+        "The Birds"
+      ],
+      "answerIndex": 1,
+      "fact": "Cinemas were instructed not to admit anyone after the film began, which was unheard of at the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains most of the Kalahari Desert?",
+      "options": [
+        "Botswana",
+        "South Africa",
+        "Namibia",
+        "Angola"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly seventy percent of the country is covered by it, yet it supports substantial wildlife."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Brave New World's non-fiction follow-up, Brave New World Revisited?",
+      "options": [
+        "H.G. Wells",
+        "Arthur Koestler",
+        "Aldous Huxley",
+        "George Orwell"
+      ],
+      "answerIndex": 2,
+      "fact": "Written twenty-six years later, it argues his predictions were arriving faster than he had expected."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym JSON stand for?",
+      "options": [
+        "JavaScript Object Notation",
+        "Joint Syntax Object Network",
+        "Java Serialised Object Node",
+        "Java Standard Output Name"
+      ],
+      "answerIndex": 0,
+      "fact": "Despite the name it is language-independent, and most languages that use it are not JavaScript."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who commanded the Confederate Army of Northern Virginia?",
+      "options": [
+        "Stonewall Jackson",
+        "James Longstreet",
+        "Robert E. Lee",
+        "J.E.B. Stuart"
+      ],
+      "answerIndex": 2,
+      "fact": "He was offered command of the Union army first and declined because his home state seceded."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a group of similar cells forming a functional unit in plants?",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Colony",
+        "Organelle"
+      ],
+      "answerIndex": 0,
+      "fact": "Plant cells are cemented together by a rigid wall, which is why plants hold shape without a skeleton."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a technique called the Fosbury Flop's predecessor, the straddle?",
+      "options": [
+        "Hurdles",
+        "High jump",
+        "Pole vault",
+        "Long jump"
+      ],
+      "answerIndex": 1,
+      "fact": "The straddle cleared the bar face down, and world records were still being set with it into the 1970s."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Amy Dunne?",
+      "options": [
+        "The Girl on the Train",
+        "Big Little Lies",
+        "Gone Girl",
+        "Sharp Objects"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author wrote the screenplay herself and changed elements of the ending from her own novel."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city spans two continents?",
+      "options": [
+        "Cairo",
+        "Beirut",
+        "Athens",
+        "Istanbul"
+      ],
+      "answerIndex": 3,
+      "fact": "It sits on both sides of the Bosphorus, and stopped being Turkey's capital in 1923."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Frankenstein's subtitle, The Modern Prometheus?",
+      "options": [
+        "Lord Byron",
+        "Mary Shelley",
+        "John Polidori",
+        "Percy Shelley"
+      ],
+      "answerIndex": 1,
+      "fact": "The same holiday produced the first modern vampire story, written by Byron's physician."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company produced the first web browser with tabbed browsing in wide use?",
+      "options": [
+        "Opera",
+        "Microsoft",
+        "Apple",
+        "Netscape"
+      ],
+      "answerIndex": 0,
+      "fact": "It also pioneered mouse gestures and built-in ad blocking years before rivals adopted either."
+    }
+  ]
+}

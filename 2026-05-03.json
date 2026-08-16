@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's monarchy was abolished in 1792 during a revolution?",
+      "options": [
+        "France",
+        "Spain",
+        "Portugal",
+        "England"
+      ],
+      "answerIndex": 0,
+      "fact": "It was restored twice afterwards, and the country did not settle permanently into a republic until 1870."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of the origin and structure of the universe called?",
+      "options": [
+        "Cosmology",
+        "Geodesy",
+        "Astrology",
+        "Astrometry"
+      ],
+      "answerIndex": 0,
+      "fact": "Its central evidence is a faint microwave glow found by accident in 1964 by engineers hunting for radio interference."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at the Maracanã stadium?",
+      "options": [
+        "Rugby",
+        "Athletics",
+        "Football",
+        "Baseball"
+      ],
+      "answerIndex": 2,
+      "fact": "Its 1950 World Cup final drew a crowd estimated near 200,000, a record that will almost certainly never be broken."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series features a character called Eleven's adoptive father?",
+      "options": [
+        "Locke and Key",
+        "Stranger Things",
+        "The Umbrella Academy",
+        "Dark"
+      ],
+      "answerIndex": 1,
+      "fact": "The character was originally scripted to die in the first season and was kept after test screenings."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is the saltiest major body of open water?",
+      "options": [
+        "The Mediterranean",
+        "The Baltic",
+        "The Black Sea",
+        "The Red Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "It has almost no rivers feeding it and very high evaporation, which concentrates the salt."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Antigone's source trilogy, the Theban plays?",
+      "options": [
+        "Aristophanes",
+        "Euripides",
+        "Sophocles",
+        "Aeschylus"
+      ],
+      "answerIndex": 2,
+      "fact": "They were written across roughly forty years and not intended as a trilogy at all."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a load balancer?",
+      "options": [
+        "Indexing databases",
+        "Distributing traffic across servers",
+        "Compressing images",
+        "Encrypting passwords"
+      ],
+      "answerIndex": 1,
+      "fact": "It also removes failed servers from rotation automatically, which is often more valuable than the balancing itself."
+    }
+  ]
+}

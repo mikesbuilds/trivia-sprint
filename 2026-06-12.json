@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which pope commissioned Michelangelo to paint the Sistine Chapel ceiling?",
+      "options": [
+        "Julius II",
+        "Alexander VI",
+        "Leo X",
+        "Clement VII"
+      ],
+      "answerIndex": 0,
+      "fact": "Michelangelo considered himself a sculptor and resisted the commission, calling painting beneath him."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ stores and concentrates urine?",
+      "options": [
+        "Kidney",
+        "Urethra",
+        "Bladder",
+        "Ureter"
+      ],
+      "answerIndex": 2,
+      "fact": "It can hold around half a litre comfortably, and stretch receptors in its wall signal fullness well before that."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a competition called the America's Cup?",
+      "options": [
+        "Rowing",
+        "Powerboating",
+        "Surfing",
+        "Sailing"
+      ],
+      "answerIndex": 3,
+      "fact": "One team held it for 132 years, the longest winning streak in the history of any sport."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album Future Nostalgia?",
+      "options": [
+        "Charli XCX",
+        "Dua Lipa",
+        "Ariana Grande",
+        "Rina Sawayama"
+      ],
+      "answerIndex": 1,
+      "fact": "It leaked weeks early, and the release was brought forward in response."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most people living abroad relative to its population?",
+      "options": [
+        "Portugal",
+        "Philippines",
+        "Ireland",
+        "Mexico"
+      ],
+      "answerIndex": 1,
+      "fact": "Remittances sent home account for a substantial share of its national income."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Adventures of Tom Sawyer?",
+      "options": [
+        "Mark Twain",
+        "Bret Harte",
+        "Washington Irving",
+        "James Fenimore Cooper"
+      ],
+      "answerIndex": 0,
+      "fact": "He was the first author known to submit a typewritten manuscript to a publisher."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a temporary failure that resolves itself on retry?",
+      "options": [
+        "Logic error",
+        "Fatal error",
+        "Transient error",
+        "Syntax error"
+      ],
+      "answerIndex": 2,
+      "fact": "Retrying too eagerly can turn a small outage into a large one, which is why backoff delays exist."
+    }
+  ]
+}

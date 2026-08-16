@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was the first to abolish the transatlantic slave trade by law in 1807?",
+      "options": [
+        "The United States",
+        "France",
+        "Denmark",
+        "Britain"
+      ],
+      "answerIndex": 3,
+      "fact": "Denmark passed a ban earlier that took effect in 1803, though Britain's had far wider reach through its navy."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that carry their young in a pouch?",
+      "options": [
+        "Cetaceans",
+        "Monotremes",
+        "Marsupials",
+        "Placentals"
+      ],
+      "answerIndex": 2,
+      "fact": "Newborns are extraordinarily undeveloped, and a kangaroo's is about the size of a jellybean at birth."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which team sport is played on the largest court indoors?",
+      "options": [
+        "Handball",
+        "Basketball",
+        "Futsal",
+        "Volleyball"
+      ],
+      "answerIndex": 0,
+      "fact": "Its court is forty metres by twenty, noticeably larger than a basketball court."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features the fictional Dunder Mifflin?",
+      "options": [
+        "Superstore",
+        "Better Off Ted",
+        "The Office",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 2,
+      "fact": "Its documentary style meant the camera crew were treated as real characters the cast could react to."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's flag features a red circle on white?",
+      "options": [
+        "Bangladesh",
+        "Japan",
+        "Palau",
+        "Laos"
+      ],
+      "answerIndex": 1,
+      "fact": "Bangladesh's circle is offset toward the hoist so it appears centred when the flag flies."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem The Second Coming?",
+      "options": [
+        "W.B. Yeats",
+        "Ezra Pound",
+        "Wilfred Owen",
+        "T.S. Eliot"
+      ],
+      "answerIndex": 0,
+      "fact": "Phrases from it have supplied titles for dozens of later novels, including Things Fall Apart."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a semiconductor fabrication plant?",
+      "options": [
+        "Mining minerals",
+        "Manufacturing chips",
+        "Recycling batteries",
+        "Assembling phones"
+      ],
+      "answerIndex": 1,
+      "fact": "A modern one costs upward of twenty billion dollars and must be cleaner than an operating theatre."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the last Emperor of China?",
+      "options": [
+        "Guangxu",
+        "Puyi",
+        "Xianfeng",
+        "Tongzhi"
+      ],
+      "answerIndex": 1,
+      "fact": "He abdicated aged six, later worked as a gardener, and ended his life as an ordinary citizen in Beijing."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the amount of dissolved oxygen a water body holds?",
+      "options": [
+        "Dissolved oxygen",
+        "Turbidity",
+        "Alkalinity",
+        "Salinity"
+      ],
+      "answerIndex": 0,
+      "fact": "Warm water holds less of it, which is why heat waves can suffocate fish in shallow lakes."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cycling, what is a rider who protects the team leader called?",
+      "options": [
+        "Puncheur",
+        "Rouleur",
+        "Domestique",
+        "Sprinter"
+      ],
+      "answerIndex": 2,
+      "fact": "The name is French for servant, and the role includes fetching water bottles from the team car mid-race."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a hotel called the Continental?",
+      "options": [
+        "Nobody",
+        "Hotel Artemis",
+        "John Wick",
+        "The Equalizer"
+      ],
+      "answerIndex": 2,
+      "fact": "Its elaborate rules for assassins were invented to give the action a code the audience could follow."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river is the longest in Asia?",
+      "options": [
+        "The Yangtze",
+        "The Ganges",
+        "The Ob",
+        "The Mekong"
+      ],
+      "answerIndex": 0,
+      "fact": "The dam across it is the largest power station on Earth by installed capacity."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in a Dublin brothel among other locations across one day?",
+      "options": [
+        "Finnegans Wake",
+        "Dubliners",
+        "A Portrait of the Artist",
+        "Ulysses"
+      ],
+      "answerIndex": 3,
+      "fact": "It was banned in the United States until a 1933 court ruling that it was not obscene but merely difficult."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Docker container platform?",
+      "options": [
+        "Google",
+        "Red Hat",
+        "Canonical",
+        "Docker Inc"
+      ],
+      "answerIndex": 3,
+      "fact": "The underlying kernel features already existed for years; its contribution was making them usable."
+    }
+  ]
+}
