@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's people are the Maori?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Samoa",
+        "Fiji"
+      ],
+      "answerIndex": 1,
+      "fact": "The Treaty of Waitangi exists in Maori and English versions whose meanings differ significantly, which remains legally live."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ produces most of the body's cholesterol?",
+      "options": [
+        "Kidney",
+        "Heart",
+        "Pancreas",
+        "Liver"
+      ],
+      "answerIndex": 3,
+      "fact": "Most circulating cholesterol is made internally rather than eaten, which is why diet alone often fails to shift it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country's football league is called Serie A?",
+      "options": [
+        "Portugal",
+        "Brazil",
+        "Italy",
+        "Spain"
+      ],
+      "answerIndex": 2,
+      "fact": "Brazil also has a Série A, spelled with an accent, which regularly confuses search results."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist is known for the painting The Scream?",
+      "options": [
+        "James Ensor",
+        "Gustav Klimt",
+        "Edvard Munch",
+        "Egon Schiele"
+      ],
+      "answerIndex": 2,
+      "fact": "He made several versions, and two have been stolen in separate high-profile thefts and later recovered."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Blue Lagoon geothermal spa?",
+      "options": [
+        "Greenland",
+        "Iceland",
+        "Norway",
+        "Finland"
+      ],
+      "answerIndex": 1,
+      "fact": "It is not a natural feature: the water is runoff from a neighbouring geothermal power station."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Doctor Faustus as a play?",
+      "options": [
+        "Ben Jonson",
+        "William Shakespeare",
+        "Thomas Kyd",
+        "Christopher Marlowe"
+      ],
+      "answerIndex": 3,
+      "fact": "He was killed in a tavern brawl at twenty-nine, and the circumstances are still argued about."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for reducing an image's dimensions in pixels?",
+      "options": [
+        "Downsampling",
+        "Compression",
+        "Dithering",
+        "Rasterising"
+      ],
+      "answerIndex": 0,
+      "fact": "It is separate from compression: an image can be smaller in pixels yet still stored in a large file."
+    }
+  ]
+}

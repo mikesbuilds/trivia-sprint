@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ruler is associated with the phrase let them eat cake?",
+      "options": [
+        "Elizabeth I",
+        "Catherine the Great",
+        "Marie Antoinette",
+        "Empress Josephine"
+      ],
+      "answerIndex": 2,
+      "fact": "The line appears in a book written when she was a child in Austria, so she almost certainly never said it."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which cell type carries electrical signals in the brain?",
+      "options": [
+        "Erythrocyte",
+        "Neuron",
+        "Osteocyte",
+        "Glial cell"
+      ],
+      "answerIndex": 1,
+      "fact": "Glial cells outnumber them and were long assumed to be mere support, a view now substantially revised."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosts the Australian Open tennis tournament?",
+      "options": [
+        "Singapore",
+        "Japan",
+        "New Zealand",
+        "Australia"
+      ],
+      "answerIndex": 3,
+      "fact": "It has retractable roofs on its main courts, added after players collapsed in extreme heat."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features the character Walter White's partner Jesse?",
+      "options": [
+        "Snowfall",
+        "Breaking Bad",
+        "Weeds",
+        "Ozark"
+      ],
+      "answerIndex": 1,
+      "fact": "The character was scheduled to be killed off in season one, and the performance changed the writers' minds."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river is the longest in France?",
+      "options": [
+        "The Rhône",
+        "The Seine",
+        "The Loire",
+        "The Garonne"
+      ],
+      "answerIndex": 2,
+      "fact": "Its valley holds hundreds of châteaux and is protected as a World Heritage cultural landscape."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Bilbo's burglar contract?",
+      "options": [
+        "Farmer Giles of Ham",
+        "The Lord of the Rings",
+        "The Silmarillion",
+        "The Hobbit"
+      ],
+      "answerIndex": 3,
+      "fact": "The contract runs to several paragraphs, and one film adaptation made it a physical prop metres long."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Rust-based Deno runtime?",
+      "options": [
+        "The original creator of Node.js",
+        "Google",
+        "Cloudflare",
+        "Mozilla"
+      ],
+      "answerIndex": 0,
+      "fact": "He built it after giving a talk listing the design decisions in Node.js he regretted."
+    }
+  ]
+}

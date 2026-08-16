@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient structure at Giza is aligned almost exactly to true north?",
+      "options": [
+        "The Great Pyramid",
+        "The Valley Temple",
+        "The Sphinx",
+        "The Mastaba of Shepseskaf"
+      ],
+      "answerIndex": 0,
+      "fact": "Its alignment is off by around a twentieth of a degree, achieved without a magnetic compass."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that are active mainly during the day?",
+      "options": [
+        "Cathemeral",
+        "Crepuscular",
+        "Nocturnal",
+        "Diurnal"
+      ],
+      "answerIndex": 3,
+      "fact": "Humans are firmly in this category, and artificial light has been disrupting the underlying rhythm for barely a century."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a scoring shot called a maximum?",
+      "options": [
+        "Bowling",
+        "Archery",
+        "Darts",
+        "Snooker"
+      ],
+      "answerIndex": 3,
+      "fact": "A 147 requires potting fifteen reds each followed by the black, then all six colours in sequence."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Neo's mentor Morpheus?",
+      "options": [
+        "eXistenZ",
+        "The Matrix",
+        "Dark City",
+        "Inception"
+      ],
+      "answerIndex": 1,
+      "fact": "The cast trained in martial arts for four months before filming began, which was unheard of for a Hollywood production."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's largest city is Karachi?",
+      "options": [
+        "Afghanistan",
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the country's original capital, before the seat of government moved to Islamabad in the 1960s."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Hound of the Baskervilles' detective's origin story?",
+      "options": [
+        "Edgar Allan Poe",
+        "Wilkie Collins",
+        "Arthur Conan Doyle",
+        "G.K. Chesterton"
+      ],
+      "answerIndex": 2,
+      "fact": "The detective's method was based on a real Edinburgh surgeon who diagnosed patients by observation alone."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym ACID describe in databases?",
+      "options": [
+        "Transaction reliability guarantees",
+        "A storage format",
+        "A query language",
+        "An encryption method"
+      ],
+      "answerIndex": 0,
+      "fact": "The letters stand for atomicity, consistency, isolation and durability, which together mean a transaction cannot half-happen."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which West African empire preceded Mali in the region?",
+      "options": [
+        "Songhai",
+        "Kanem",
+        "Benin",
+        "Ghana"
+      ],
+      "answerIndex": 3,
+      "fact": "The modern country named Ghana lies well outside its borders, taking the name on independence for its resonance."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the amount of energy needed to start a reaction?",
+      "options": [
+        "Activation energy",
+        "Enthalpy",
+        "Bond energy",
+        "Entropy"
+      ],
+      "answerIndex": 0,
+      "fact": "Petrol and air will sit together indefinitely until a spark supplies it, which is the whole basis of engine design."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country originated the martial art of aikido?",
+      "options": [
+        "Korea",
+        "Okinawa",
+        "Japan",
+        "China"
+      ],
+      "answerIndex": 2,
+      "fact": "It has no competitive tournaments in its main form, since its founder considered contests contrary to its purpose."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band recorded the song Under Pressure with David Bowie?",
+      "options": [
+        "The Police",
+        "The Rolling Stones",
+        "Duran Duran",
+        "Queen"
+      ],
+      "answerIndex": 3,
+      "fact": "Its bassline was later sampled without clearance, resulting in one of pop's better-known copyright settlements."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river forms part of the border between the United States and Canada at Niagara?",
+      "options": [
+        "The Niagara",
+        "The Detroit",
+        "The Ottawa",
+        "The St Lawrence"
+      ],
+      "answerIndex": 0,
+      "fact": "The falls are eroding upstream, and engineers have slowed the rate deliberately by diverting flow."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Anna Karenina's rival Russian epic, Fathers and Sons?",
+      "options": [
+        "Anton Chekhov",
+        "Ivan Turgenev",
+        "Nikolai Gogol",
+        "Maxim Gorky"
+      ],
+      "answerIndex": 1,
+      "fact": "It popularised the term nihilist, and its author was attacked by both radicals and conservatives for the portrayal."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym ORM do?",
+      "options": [
+        "Optimises rendering",
+        "Encrypts records",
+        "Maps database rows to program objects",
+        "Manages online resources"
+      ],
+      "answerIndex": 2,
+      "fact": "The mismatch between how databases and object code model data is sometimes called the impedance mismatch."
+    }
+  ]
+}

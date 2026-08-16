@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire ruled Peru before the Spanish conquest?",
+      "options": [
+        "Wari",
+        "Nazca",
+        "Inca",
+        "Chimu"
+      ],
+      "answerIndex": 2,
+      "fact": "It fell partly because a war of succession and a smallpox epidemic had already gutted it before Pizarro arrived."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a solution with a pH above 7?",
+      "options": [
+        "Acidic",
+        "Saturated",
+        "Neutral",
+        "Alkaline"
+      ],
+      "answerIndex": 3,
+      "fact": "Household bleach sits around 12 or 13, which is why it damages skin so readily."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many events make up the men's decathlon on day one?",
+      "options": [
+        "Six",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "answerIndex": 2,
+      "fact": "Day one ends with the 400 metres, which is widely regarded as the hardest event to face after four others."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a hotel concierge in a fictional European country?",
+      "options": [
+        "The Talented Mr Ripley",
+        "The Grand Budapest Hotel",
+        "Before Sunrise",
+        "In Bruges"
+      ],
+      "answerIndex": 1,
+      "fact": "Its miniature exteriors were built as physical models rather than rendered digitally."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the ancient city of Samarkand?",
+      "options": [
+        "Uzbekistan",
+        "Turkmenistan",
+        "Kazakhstan",
+        "Tajikistan"
+      ],
+      "answerIndex": 0,
+      "fact": "It was a major Silk Road hub and later the capital of Timur's empire."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Talented Mr Ripley?",
+      "options": [
+        "Patricia Highsmith",
+        "Josephine Tey",
+        "P.D. James",
+        "Ruth Rendell"
+      ],
+      "answerIndex": 0,
+      "fact": "She wrote five novels about the character, and none of them ends with him being caught."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym ARM's competitor RISC-V offer?",
+      "options": [
+        "Lower memory use",
+        "Better graphics",
+        "Faster clock speeds",
+        "An open instruction set"
+      ],
+      "answerIndex": 3,
+      "fact": "Because the specification is free to use, anyone can design a compatible chip without paying licence fees."
+    }
+  ]
+}

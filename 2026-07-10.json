@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by the Bourbon dynasty before 1789?",
+      "options": [
+        "France",
+        "Prussia",
+        "Sweden",
+        "Austria"
+      ],
+      "answerIndex": 0,
+      "fact": "The family still reigns in Spain, making it one of Europe's longest-surviving royal houses."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the strongest magnetic field?",
+      "options": [
+        "Mercury",
+        "Earth",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answerIndex": 2,
+      "fact": "Its magnetosphere is so large that if it glowed visibly it would appear bigger than the Moon from Earth."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, what is the standard length of an outdoor track lane one?",
+      "options": [
+        "500 m",
+        "440 m",
+        "300 m",
+        "400 m"
+      ],
+      "answerIndex": 3,
+      "fact": "Outer lanes are staggered so every runner covers the same distance despite the wider curve."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film features a house lifted by balloons?",
+      "options": [
+        "Coco",
+        "Soul",
+        "Up",
+        "Inside Out"
+      ],
+      "answerIndex": 2,
+      "fact": "Its opening montage runs about four minutes with no dialogue and is regularly cited as the studio's best sequence."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies immediately south of Egypt on the Nile?",
+      "options": [
+        "Chad",
+        "Sudan",
+        "Libya",
+        "Eritrea"
+      ],
+      "answerIndex": 1,
+      "fact": "The two dispute a border area called the Hala'ib Triangle, and both include it on their own maps."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set on a Caribbean plantation and reimagines an English classic?",
+      "options": [
+        "Small Island",
+        "The Long Song",
+        "Brown Girl in the Ring",
+        "Wide Sargasso Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author was born in Dominica and had published nothing for nearly thirty years before writing it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Vue JavaScript framework?",
+      "options": [
+        "Microsoft",
+        "An independent developer",
+        "Meta",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "fact": "It has been funded largely by community sponsorship rather than by a corporate owner."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was led by Kwame Nkrumah at independence?",
+      "options": [
+        "Ghana",
+        "Nigeria",
+        "Tanzania",
+        "Kenya"
+      ],
+      "answerIndex": 0,
+      "fact": "It was the first sub-Saharan African colony to gain independence, in 1957."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which system in the body produces and stores bile, blood cells and hormones?",
+      "options": [
+        "Endocrine",
+        "No single system does all three",
+        "Digestive",
+        "Circulatory"
+      ],
+      "answerIndex": 1,
+      "fact": "Bile comes from the liver, blood cells from marrow, and hormones from several glands across different systems."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a position called the sweeper?",
+      "options": [
+        "Curling",
+        "Both football and curling",
+        "Hockey",
+        "Football"
+      ],
+      "answerIndex": 1,
+      "fact": "In football it describes a defender behind the line; in curling it describes the player brushing the ice."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Katniss's sister Prim?",
+      "options": [
+        "The Giver",
+        "Divergent",
+        "The Hunger Games",
+        "Maze Runner"
+      ],
+      "answerIndex": 2,
+      "fact": "The volunteering scene that opens the story was filmed in a real North Carolina town square."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Serengeti's northern extension, the Masai Mara?",
+      "options": [
+        "Rwanda",
+        "Tanzania",
+        "Uganda",
+        "Kenya"
+      ],
+      "answerIndex": 3,
+      "fact": "The wildebeest migration crosses the border between the two reserves twice a year."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a humorous play with an improbable plot?",
+      "options": [
+        "Masque",
+        "Melodrama",
+        "Farce",
+        "Tragedy"
+      ],
+      "answerIndex": 2,
+      "fact": "Its structures rely on doors, mistaken identity and precise timing, which is why they are so hard to stage."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Postman API testing tool?",
+      "options": [
+        "SmartBear",
+        "Google",
+        "Atlassian",
+        "Postman Inc"
+      ],
+      "answerIndex": 3,
+      "fact": "It began as a free browser extension built by a developer frustrated with testing APIs by hand."
+    }
+  ]
+}

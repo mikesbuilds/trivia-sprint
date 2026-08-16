@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-05",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was the capital of the Kingdom of Kush?",
+      "options": [
+        "Axum",
+        "Thebes",
+        "Meroë",
+        "Carthage"
+      ],
+      "answerIndex": 2,
+      "fact": "Its rulers conquered Egypt and ruled it as pharaohs for roughly a century."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas makes up about 0.04 percent of the atmosphere but drives climate change?",
+      "options": [
+        "Nitrous oxide",
+        "Ozone",
+        "Methane",
+        "Carbon dioxide"
+      ],
+      "answerIndex": 3,
+      "fact": "That fraction has risen by roughly half since the industrial revolution, from about 280 parts per million."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on an indoor volleyball team's full squad including substitutes?",
+      "options": [
+        "Twelve",
+        "Ten",
+        "Fourteen",
+        "Sixteen"
+      ],
+      "answerIndex": 0,
+      "fact": "Only six are on court at a time, and substitution rules limit how often players can rotate in and out."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game console was released by Sony in 1994?",
+      "options": [
+        "Dreamcast",
+        "Saturn",
+        "Nintendo 64",
+        "PlayStation"
+      ],
+      "answerIndex": 3,
+      "fact": "Its use of CDs rather than cartridges cut costs so far that developers switched to it almost immediately."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Prague?",
+      "options": [
+        "The Elbe",
+        "The Oder",
+        "The Vltava",
+        "The Danube"
+      ],
+      "answerIndex": 2,
+      "fact": "It inspired a famous symphonic poem that traces the river from its source to the city."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Handmaid's Tale's Canadian contemporary, Life of Pi's Booker rival?",
+      "options": [
+        "Alistair MacLeod",
+        "Rohinton Mistry",
+        "Timothy Findley",
+        "Michael Ondaatje"
+      ],
+      "answerIndex": 1,
+      "fact": "Canadian fiction had an unusually strong run of Booker shortlistings through the 1990s and 2000s."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym IDE stand for in software development?",
+      "options": [
+        "Integrated Development Environment",
+        "Indexed Directory Engine",
+        "Internal Data Exchange",
+        "Interface Design Editor"
+      ],
+      "answerIndex": 0,
+      "fact": "The same acronym also once described a hard drive interface, which caused years of confusion."
+    }
+  ]
+}

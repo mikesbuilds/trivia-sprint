@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which two cities were connected by the first transcontinental railroad in the US?",
+      "options": [
+        "Boston and Seattle",
+        "Omaha and Sacramento",
+        "New York and San Francisco",
+        "Chicago and Los Angeles"
+      ],
+      "answerIndex": 1,
+      "fact": "The two companies building toward each other briefly graded parallel lines past one another before Congress fixed a meeting point."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is closest in size to Earth?",
+      "options": [
+        "Neptune",
+        "Mercury",
+        "Mars",
+        "Venus"
+      ],
+      "answerIndex": 3,
+      "fact": "It is sometimes called Earth's twin, which is misleading given a surface hot enough to melt lead."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first Twenty20 Cricket World Cup in 2007?",
+      "options": [
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "fact": "India had been reluctant about the format, and the win transformed the domestic appetite for it overnight."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Wednesday Addams?",
+      "options": [
+        "Hocus Pocus",
+        "The Addams Family",
+        "Casper",
+        "Beetlejuice"
+      ],
+      "answerIndex": 1,
+      "fact": "The characters began as single-panel cartoons with no names at all, which were added for television."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent has the largest population?",
+      "options": [
+        "Europe",
+        "North America",
+        "Asia",
+        "Africa"
+      ],
+      "answerIndex": 2,
+      "fact": "It holds around sixty percent of all people, and two of its countries account for a third of the world alone."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in a future London where a drug called soma is used?",
+      "options": [
+        "The Machine Stops",
+        "Erewhon",
+        "Nineteen Eighty-Four",
+        "Brave New World"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author later argued this vision, of people enjoying their oppression, was likelier than Orwell's."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Chromium open source browser project?",
+      "options": [
+        "Google",
+        "Opera",
+        "Apple",
+        "Mozilla"
+      ],
+      "answerIndex": 0,
+      "fact": "Microsoft Edge and Opera are both built on it, which means most browsers now share one engine."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did the Ottoman Empire lose control of in 1830 after a long war?",
+      "options": [
+        "Romania",
+        "Serbia",
+        "Bulgaria",
+        "Greece"
+      ],
+      "answerIndex": 3,
+      "fact": "European sympathy for the cause was fuelled by classical education, and Byron died while supporting it."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a change of state from gas to liquid?",
+      "options": [
+        "Sublimation",
+        "Condensation",
+        "Evaporation",
+        "Deposition"
+      ],
+      "answerIndex": 1,
+      "fact": "It releases heat, which is why steam burns are far worse than boiling water at the same temperature."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the Giro d'Italia?",
+      "options": [
+        "Motor racing",
+        "Sailing",
+        "Cycling",
+        "Running"
+      ],
+      "answerIndex": 2,
+      "fact": "Its leader wears a pink jersey, matching the paper of the newspaper that founded the race."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album Hybrid Theory?",
+      "options": [
+        "Linkin Park",
+        "Staind",
+        "Limp Bizkit",
+        "Papa Roach"
+      ],
+      "answerIndex": 0,
+      "fact": "It became the best-selling debut album of the 2000s in the United States."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Riga?",
+      "options": [
+        "Latvia",
+        "Belarus",
+        "Estonia",
+        "Lithuania"
+      ],
+      "answerIndex": 0,
+      "fact": "Its old town contains one of Europe's largest collections of art nouveau architecture."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem The Waste Land?",
+      "options": [
+        "W.H. Auden",
+        "T.S. Eliot",
+        "Wallace Stevens",
+        "Ezra Pound"
+      ],
+      "answerIndex": 1,
+      "fact": "Ezra Pound cut it roughly in half before publication, and the poet dedicated it to him in gratitude."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SSO allow?",
+      "options": [
+        "Solid state operation",
+        "Single server optimisation",
+        "Secure socket output",
+        "One login across multiple services"
+      ],
+      "answerIndex": 3,
+      "fact": "It concentrates risk: compromising the identity provider compromises everything behind it at once."
+    }
+  ]
+}

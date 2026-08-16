@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer's crew mutinied, setting him adrift in Hudson Bay?",
+      "options": [
+        "John Cabot",
+        "William Baffin",
+        "Henry Hudson",
+        "Martin Frobisher"
+      ],
+      "answerIndex": 2,
+      "fact": "He was never seen again, and the mutineers who survived the return voyage were never convicted."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element is used in pencil leads?",
+      "options": [
+        "Graphite",
+        "Lead",
+        "Charcoal",
+        "Carbon black"
+      ],
+      "answerIndex": 0,
+      "fact": "No pencil has ever contained lead; the name comes from a mistaken identification in the sixteenth century."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on an ice hockey team including the goalkeeper?",
+      "options": [
+        "Seven",
+        "Six",
+        "Five",
+        "Eight"
+      ],
+      "answerIndex": 1,
+      "fact": "Teams often pull the goalkeeper late in a losing game, playing six outfield skaters and an empty net."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Jack Dawson?",
+      "options": [
+        "Titanic",
+        "Romeo + Juliet",
+        "The Beach",
+        "Catch Me If You Can"
+      ],
+      "answerIndex": 0,
+      "fact": "The sketching hand shown in close-up belongs to the director, not the actor."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes Easter Island?",
+      "options": [
+        "French Polynesia",
+        "Chile",
+        "Ecuador",
+        "Peru"
+      ],
+      "answerIndex": 1,
+      "fact": "It lies over 3,500 kilometres from the mainland, making it among the most remote inhabited places on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem describes a knight meeting a mysterious lady in a meadow?",
+      "options": [
+        "The Lady of Shalott",
+        "Christabel",
+        "The Eve of St Agnes",
+        "La Belle Dame sans Merci"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author died of tuberculosis at twenty-five, having asked for a gravestone with no name on it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Redis data store?",
+      "options": [
+        "IBM",
+        "Oracle",
+        "An independent developer, later Redis Ltd",
+        "Amazon"
+      ],
+      "answerIndex": 2,
+      "fact": "It keeps data in memory rather than on disk, which is why it is used for caching and queues."
+    }
+  ]
+}

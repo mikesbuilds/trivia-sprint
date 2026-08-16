@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which war was fought over the Sudetenland's annexation and subsequent invasions?",
+      "options": [
+        "The First World War",
+        "The Second World War",
+        "The Balkan Wars",
+        "The Cold War"
+      ],
+      "answerIndex": 1,
+      "fact": "The Munich Agreement ceding the territory was signed without Czechoslovakia being present at the talks."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human organ has the largest surface area?",
+      "options": [
+        "Lungs",
+        "Small intestine",
+        "Liver",
+        "Skin"
+      ],
+      "answerIndex": 1,
+      "fact": "Its folds and villi give it a surface far larger than skin or lungs, all packed into a few metres of tube."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, what does the term southpaw describe?",
+      "options": [
+        "A points decision",
+        "A defensive guard",
+        "A left-handed stance",
+        "A body punch"
+      ],
+      "answerIndex": 2,
+      "fact": "The term came from baseball, describing left-handed pitchers whose throwing arm faced south in old ballparks."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Hermione's cat?",
+      "options": [
+        "The Chronicles of Narnia",
+        "The Golden Compass",
+        "Percy Jackson",
+        "Harry Potter"
+      ],
+      "answerIndex": 3,
+      "fact": "The films used several different animals for a single named pet, which is standard practice in animal casting."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island group lies off the west coast of Scotland?",
+      "options": [
+        "The Shetlands",
+        "The Orkneys",
+        "The Hebrides",
+        "The Faroes"
+      ],
+      "answerIndex": 2,
+      "fact": "Gaelic remains in daily use across parts of them, more so than anywhere else in Scotland."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Adventures of Huckleberry Finn's companion volume?",
+      "options": [
+        "Mark Twain",
+        "Bret Harte",
+        "Jack London",
+        "Stephen Crane"
+      ],
+      "answerIndex": 0,
+      "fact": "He lost most of his fortune investing in a typesetting machine that was obsolete before it worked."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym JWT describe?",
+      "options": [
+        "A signed token carrying claims",
+        "A joint wireless transfer",
+        "A JSON write transaction",
+        "A Java web template"
+      ],
+      "answerIndex": 0,
+      "fact": "Because the payload is only encoded rather than encrypted, anyone holding one can read its contents."
+    }
+  ]
+}

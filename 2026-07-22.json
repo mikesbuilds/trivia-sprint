@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US president authorised the Manhattan Project's use?",
+      "options": [
+        "Dwight Eisenhower",
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Herbert Hoover"
+      ],
+      "answerIndex": 2,
+      "fact": "He learned the project existed only after becoming president, having been kept out of it as vice president."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the study of soil?",
+      "options": [
+        "Ecology",
+        "Geology",
+        "Pedology",
+        "Hydrology"
+      ],
+      "answerIndex": 2,
+      "fact": "A single teaspoon of healthy soil can contain more microorganisms than there are people on Earth."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an event called the coxless four?",
+      "options": [
+        "Sailing",
+        "Kayaking",
+        "Canoeing",
+        "Rowing"
+      ],
+      "answerIndex": 3,
+      "fact": "Without a cox, steering is done by one rower using a foot-operated rudder cable."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the fictional company Cyberdyne Systems?",
+      "options": [
+        "The Terminator",
+        "Total Recall",
+        "Blade Runner",
+        "RoboCop"
+      ],
+      "answerIndex": 0,
+      "fact": "The company's name has since been adopted by several real technology firms, which their founders admit was deliberate."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African country's capital is Accra?",
+      "options": [
+        "Togo",
+        "Ghana",
+        "Ivory Coast",
+        "Nigeria"
+      ],
+      "answerIndex": 1,
+      "fact": "The prime meridian passes just east of the city, so it sits almost exactly at zero longitude."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Nineteen Eighty-Four's essay collection, Politics and the English Language?",
+      "options": [
+        "Arthur Koestler",
+        "George Orwell",
+        "Christopher Hitchens",
+        "Aldous Huxley"
+      ],
+      "answerIndex": 1,
+      "fact": "Its six rules for clear writing end with an instruction to break any of them rather than write something barbarous."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the SQLite database engine?",
+      "options": [
+        "Oracle",
+        "Google",
+        "Microsoft",
+        "An independent developer"
+      ],
+      "answerIndex": 3,
+      "fact": "It is in the public domain and is probably the most widely deployed database in the world, shipping inside phones and browsers."
+    }
+  ]
+}

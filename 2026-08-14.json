@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Greek mathematician is credited with an early calculation of the Earth's circumference?",
+      "options": [
+        "Eratosthenes",
+        "Archimedes",
+        "Euclid",
+        "Ptolemy"
+      ],
+      "answerIndex": 0,
+      "fact": "He used the angle of shadows in two cities and came within a few percent of the modern figure."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a wave that requires a medium to travel?",
+      "options": [
+        "Electromagnetic wave",
+        "Shock wave",
+        "Mechanical wave",
+        "Standing wave"
+      ],
+      "answerIndex": 2,
+      "fact": "Light is not one, which is why it crosses the vacuum of space and sound does not."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race called the Vendée Globe?",
+      "options": [
+        "Running",
+        "Rowing",
+        "Cycling",
+        "Sailing"
+      ],
+      "answerIndex": 3,
+      "fact": "It is a solo non-stop circumnavigation, and fewer than half the entrants typically finish."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Lemonade's predecessor, Beyoncé?",
+      "options": [
+        "Ciara",
+        "Beyoncé",
+        "Rihanna",
+        "Kelly Rowland"
+      ],
+      "answerIndex": 1,
+      "fact": "It was released without warning at midnight, a tactic that has since been copied constantly."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Muscat?",
+      "options": [
+        "Yemen",
+        "Oman",
+        "Bahrain",
+        "Qatar"
+      ],
+      "answerIndex": 1,
+      "fact": "The country once controlled territory in East Africa, including Zanzibar, into the nineteenth century."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Meg Murry?",
+      "options": [
+        "A Wrinkle in Time",
+        "The Phantom Tollbooth",
+        "Bridge to Terabithia",
+        "The Dark Is Rising"
+      ],
+      "answerIndex": 0,
+      "fact": "It was rejected around thirty times, mostly for being too difficult for children and too strange for adults."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Unity game engine?",
+      "options": [
+        "Epic Games",
+        "Crytek",
+        "Valve",
+        "Unity Technologies"
+      ],
+      "answerIndex": 3,
+      "fact": "It was originally built for Mac only, and its founders had failed to sell their own game first."
+    }
+  ]
+}

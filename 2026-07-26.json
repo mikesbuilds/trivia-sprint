@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which movement in 16th-century Europe split Western Christianity?",
+      "options": [
+        "The Renaissance",
+        "The Reformation",
+        "The Counter-Reformation",
+        "The Enlightenment"
+      ],
+      "answerIndex": 1,
+      "fact": "Printing was decisive: pamphlets spread faster than authorities could suppress them."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of bond involves sharing electrons between atoms?",
+      "options": [
+        "Metallic",
+        "Hydrogen",
+        "Ionic",
+        "Covalent"
+      ],
+      "answerIndex": 3,
+      "fact": "Carbon forms four of them at once, which is why it can build the enormous molecules life depends on."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many teams qualify for the men's football World Cup from 2026?",
+      "options": [
+        "40",
+        "48",
+        "64",
+        "32"
+      ],
+      "answerIndex": 1,
+      "fact": "The expansion also brought three host nations for the first time: the United States, Canada and Mexico."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album 25?",
+      "options": [
+        "Adele",
+        "Ed Sheeran",
+        "Sam Smith",
+        "Lewis Capaldi"
+      ],
+      "answerIndex": 0,
+      "fact": "It was withheld from streaming services on release, which is now almost unimaginable for a major album."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range runs along the eastern United States?",
+      "options": [
+        "The Rockies",
+        "The Sierra Nevada",
+        "The Cascades",
+        "The Appalachians"
+      ],
+      "answerIndex": 3,
+      "fact": "They were once part of a single range with mountains now in Scotland and Morocco, before the Atlantic opened."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Tess Durbeyfield?",
+      "options": [
+        "The Return of the Native",
+        "Jude the Obscure",
+        "Tess of the d'Urbervilles",
+        "Far from the Madding Crowd"
+      ],
+      "answerIndex": 2,
+      "fact": "The hostile reception to his final novel led its author to abandon fiction entirely for poetry."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Electron framework for desktop apps?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "GitHub",
+        "Mozilla"
+      ],
+      "answerIndex": 2,
+      "fact": "It bundles an entire browser with each app, which is why such programs use so much memory."
+    }
+  ]
+}

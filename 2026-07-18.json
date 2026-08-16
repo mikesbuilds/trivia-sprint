@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document limited the power of the English monarchy in 1689?",
+      "options": [
+        "The Act of Union",
+        "The Bill of Rights",
+        "The Petition of Right",
+        "The Magna Carta"
+      ],
+      "answerIndex": 1,
+      "fact": "It followed the deposition of one king and heavily influenced the American document of the same name a century later."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet's day is about 24 hours 37 minutes?",
+      "options": [
+        "Venus",
+        "Neptune",
+        "Mercury",
+        "Mars"
+      ],
+      "answerIndex": 3,
+      "fact": "Mission teams working on its surface operate on that clock, drifting steadily out of step with Earth time."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the most medals at the 2020 Tokyo Olympics?",
+      "options": [
+        "Great Britain",
+        "Japan",
+        "China",
+        "The United States"
+      ],
+      "answerIndex": 3,
+      "fact": "China led the gold medal count for much of the Games before being overtaken on the final day."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Rocky Balboa?",
+      "options": [
+        "Cinderella Man",
+        "The Fighter",
+        "Rocky",
+        "Raging Bull"
+      ],
+      "answerIndex": 2,
+      "fact": "Its star wrote the script in a few days and refused to sell it unless he could play the lead."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert lies along the coast of Namibia?",
+      "options": [
+        "The Namib",
+        "The Kalahari",
+        "The Sahel",
+        "The Karoo"
+      ],
+      "answerIndex": 0,
+      "fact": "It is probably the oldest desert on Earth, arid for at least fifty-five million years."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Sirius Black?",
+      "options": [
+        "Harry Potter and the Prisoner of Azkaban",
+        "Percy Jackson",
+        "The Golden Compass",
+        "Artemis Fowl"
+      ],
+      "answerIndex": 0,
+      "fact": "The dog star of the same name is the brightest in the night sky, which is a deliberate pun on his form."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Jenkins automation server?",
+      "options": [
+        "GitLab",
+        "An open source community after a fork",
+        "Atlassian",
+        "Oracle"
+      ],
+      "answerIndex": 1,
+      "fact": "It was forked from a project called Hudson after a dispute with Oracle over trademark control."
+    }
+  ]
+}

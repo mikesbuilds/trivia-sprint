@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was governed by the Raj until 1947?",
+      "options": [
+        "Malaya",
+        "Ceylon",
+        "Burma",
+        "India"
+      ],
+      "answerIndex": 3,
+      "fact": "The term covers direct British rule from 1858, after the East India Company was stripped of authority."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the outer part of a tooth above the gum?",
+      "options": [
+        "Crown",
+        "Dentine",
+        "Pulp",
+        "Root"
+      ],
+      "answerIndex": 0,
+      "fact": "Its enamel coating is harder than steel but has no living cells, so it cannot heal a crack."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms hole in one and mulligan?",
+      "options": [
+        "Croquet",
+        "Petanque",
+        "Bowls",
+        "Golf"
+      ],
+      "answerIndex": 3,
+      "fact": "A mulligan has no standing in the rules at all; it is purely a social convention among amateurs."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Andy from Toy Story?",
+      "options": [
+        "Small Soldiers",
+        "The Lego Movie",
+        "Toy Story",
+        "Coraline"
+      ],
+      "answerIndex": 2,
+      "fact": "His face was deliberately kept off-screen for much of the first film to keep the toys' perspective dominant."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains Lake Bled?",
+      "options": [
+        "Croatia",
+        "Slovenia",
+        "Hungary",
+        "Austria"
+      ],
+      "answerIndex": 1,
+      "fact": "Its island church is reached by traditional flat-bottomed boats rowed standing up."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes writing in ordinary sentences rather than verse?",
+      "options": [
+        "Stanza",
+        "Prose",
+        "Rhyme",
+        "Metre"
+      ],
+      "answerIndex": 1,
+      "fact": "A character in Molière is delighted to discover he has been speaking it his entire life without knowing."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a network device that connects two different networks?",
+      "options": [
+        "Gateway",
+        "Repeater",
+        "Switch",
+        "Hub"
+      ],
+      "answerIndex": 0,
+      "fact": "A home router is one, and also a switch and a wireless access point, which is why the terms get muddled."
+    }
+  ]
+}

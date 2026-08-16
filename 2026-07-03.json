@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first woman to be elected to the British Parliament and take her seat?",
+      "options": [
+        "Margaret Bondfield",
+        "Nancy Astor",
+        "Constance Markievicz",
+        "Ellen Wilkinson"
+      ],
+      "answerIndex": 1,
+      "fact": "Markievicz was elected first but refused to take her seat as a matter of Irish republican principle."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has a moon called Triton that orbits backwards?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answerIndex": 2,
+      "fact": "The reversed orbit suggests it was captured rather than formed there, and it is slowly spiralling inward."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the first Commonwealth Games in 1930?",
+      "options": [
+        "Australia",
+        "England",
+        "New Zealand",
+        "Canada"
+      ],
+      "answerIndex": 3,
+      "fact": "They were called the British Empire Games then, and the name has changed three times since."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Born to Run?",
+      "options": [
+        "Bob Seger",
+        "John Mellencamp",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "answerIndex": 2,
+      "fact": "He appeared on the covers of Time and Newsweek in the same week, which almost nobody had done."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Cuba and Mexico?",
+      "options": [
+        "The Caribbean Sea",
+        "The Sargasso Sea",
+        "The Bahama Sea",
+        "The Gulf of Mexico"
+      ],
+      "answerIndex": 3,
+      "fact": "Its loop current drives the Gulf Stream, which keeps north-western Europe far warmer than its latitude suggests."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Sense and Sensibility?",
+      "options": [
+        "Jane Austen",
+        "Maria Edgeworth",
+        "Susan Ferrier",
+        "Fanny Burney"
+      ],
+      "answerIndex": 0,
+      "fact": "It was published anonymously, credited only to a lady, and she paid the printing costs herself."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program's set of instructions in human-readable form?",
+      "options": [
+        "Binary",
+        "Source code",
+        "Bytecode",
+        "Assembly"
+      ],
+      "answerIndex": 1,
+      "fact": "Some of it is legally protected as literary work, which is why software licences read like publishing contracts."
+    }
+  ]
+}
