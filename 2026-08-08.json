@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US general led forces in the Pacific during the Second World War?",
+      "options": [
+        "George Marshall",
+        "Douglas MacArthur",
+        "Mark Clark",
+        "Omar Bradley"
+      ],
+      "answerIndex": 1,
+      "fact": "He later oversaw the occupation of Japan and was dismissed during the Korean War for defying the president."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the study of birds?",
+      "options": [
+        "Ornithology",
+        "Ichthyology",
+        "Herpetology",
+        "Mammalogy"
+      ],
+      "answerIndex": 0,
+      "fact": "Amateur observers supply so much of its data that the field is a leading example of citizen science."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic diving gold medals?",
+      "options": [
+        "The United States",
+        "Australia",
+        "China",
+        "Russia"
+      ],
+      "answerIndex": 2,
+      "fact": "Its dominance is such that a single missed medal is treated domestically as a significant disappointment."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Jules Winnfield?",
+      "options": [
+        "Inglourious Basterds",
+        "Pulp Fiction",
+        "Django Unchained",
+        "The Hateful Eight"
+      ],
+      "answerIndex": 1,
+      "fact": "The biblical passage he quotes is largely invented, assembled from a martial arts film the director admired."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Camargue wetlands?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "answerIndex": 3,
+      "fact": "It is known for white horses and pink flamingos, both of which are genuinely native to it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Heart of Darkness?",
+      "options": [
+        "Robert Louis Stevenson",
+        "Rudyard Kipling",
+        "H. Rider Haggard",
+        "Joseph Conrad"
+      ],
+      "answerIndex": 3,
+      "fact": "English was his third language, learned in his twenties, and he wrote every novel in it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a small self-contained piece of a larger application?",
+      "options": [
+        "Microservice",
+        "Module loader",
+        "Middleware",
+        "Monolith"
+      ],
+      "answerIndex": 0,
+      "fact": "The approach trades one hard problem for another: deployment gets easier and debugging across services gets much harder."
+    }
+  ]
+}

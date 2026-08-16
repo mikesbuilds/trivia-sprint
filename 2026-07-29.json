@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire's soldiers were known as janissaries?",
+      "options": [
+        "Persian",
+        "Byzantine",
+        "Mughal",
+        "Ottoman"
+      ],
+      "answerIndex": 3,
+      "fact": "They were originally recruited as children from Christian families, and became powerful enough to depose sultans."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a star's collapse producing an extremely dense remnant?",
+      "options": [
+        "Nebula",
+        "Protostar",
+        "Supernova",
+        "Neutron star"
+      ],
+      "answerIndex": 3,
+      "fact": "A teaspoon of its material would weigh roughly as much as a mountain range."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, what is the term for advancing without dribbling?",
+      "options": [
+        "Blocking",
+        "Travelling",
+        "Charging",
+        "Screening"
+      ],
+      "answerIndex": 1,
+      "fact": "The exact number of steps permitted was clarified in 2018 after decades of inconsistent interpretation."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band performed the song Losing My Religion?",
+      "options": [
+        "The Cure",
+        "R.E.M.",
+        "The Smiths",
+        "Talking Heads"
+      ],
+      "answerIndex": 1,
+      "fact": "The title is a southern American expression meaning to lose one's temper, not a statement about faith."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Tbilisi?",
+      "options": [
+        "Turkey",
+        "Azerbaijan",
+        "Georgia",
+        "Armenia"
+      ],
+      "answerIndex": 2,
+      "fact": "Its alphabet is one of only a handful in the world not derived from any other writing system."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Brave New World's dystopian predecessor, We?",
+      "options": [
+        "Ivan Bunin",
+        "Mikhail Bulgakov",
+        "Yevgeny Zamyatin",
+        "Andrei Platonov"
+      ],
+      "answerIndex": 2,
+      "fact": "It was banned at home and published abroad first, a pattern several later Soviet novels repeated."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym WebAssembly enable?",
+      "options": [
+        "Near-native code speed in browsers",
+        "Automatic translation",
+        "Server-side rendering",
+        "Faster CSS"
+      ],
+      "answerIndex": 0,
+      "fact": "It allows languages like C and Rust to run in a browser, which was impractical before it existed."
+    }
+  ]
+}

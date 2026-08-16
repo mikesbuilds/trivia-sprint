@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient Greek is credited with the phrase know thyself's popularisation?",
+      "options": [
+        "Aristotle",
+        "Pythagoras",
+        "Plato",
+        "Socrates"
+      ],
+      "answerIndex": 3,
+      "fact": "He wrote nothing himself, and everything attributed to him comes through his students."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a plant that lives for only one growing season?",
+      "options": [
+        "Deciduous",
+        "Annual",
+        "Perennial",
+        "Biennial"
+      ],
+      "answerIndex": 1,
+      "fact": "Most food crops are of this type, which is why agriculture requires replanting every year."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is the term for hitting the ball into the hole from the tee?",
+      "options": [
+        "Hole in one",
+        "Condor",
+        "Albatross",
+        "Eagle"
+      ],
+      "answerIndex": 0,
+      "fact": "The odds for an amateur are usually put around one in twelve thousand for any given par-three attempt."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the character Sarah Connor's son?",
+      "options": [
+        "Terminator Salvation",
+        "The Terminator",
+        "Terminator 2",
+        "Terminator 3"
+      ],
+      "answerIndex": 2,
+      "fact": "Its liquid metal effects cost so much that the film became the most expensive ever made at the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US city sits on Puget Sound?",
+      "options": [
+        "San Francisco",
+        "Vancouver",
+        "Portland",
+        "Seattle"
+      ],
+      "answerIndex": 3,
+      "fact": "It has more than twice the rainy days of New York but less total rainfall, since the rain is lighter."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Winnie-the-Pooh's friend Eeyore?",
+      "options": [
+        "Winnie-the-Pooh",
+        "The Wind in the Willows",
+        "Paddington",
+        "The Tale of Peter Rabbit"
+      ],
+      "answerIndex": 0,
+      "fact": "The real bear behind the character was a Canadian black bear at London Zoo, named after Winnipeg."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a version of software released to a limited group for testing?",
+      "options": [
+        "Alpha",
+        "Nightly",
+        "Beta",
+        "Gold master"
+      ],
+      "answerIndex": 2,
+      "fact": "Some products stayed in it for years as a deliberate expectation-setting device, including a well-known email service."
+    }
+  ]
+}

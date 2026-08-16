@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which battle ended the Wars of the Roses in 1485?",
+      "options": [
+        "Towton",
+        "Barnet",
+        "Tewkesbury",
+        "Bosworth Field"
+      ],
+      "answerIndex": 3,
+      "fact": "The defeated king's remains were found under a Leicester car park in 2012 and identified by DNA."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the process of a plant turning toward light?",
+      "options": [
+        "Thigmotropism",
+        "Photosynthesis",
+        "Phototropism",
+        "Geotropism"
+      ],
+      "answerIndex": 2,
+      "fact": "It works by cells on the shaded side elongating, which bends the stem without anything actively pulling."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a pitch called a diamond?",
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Softball",
+        "Rounders"
+      ],
+      "answerIndex": 1,
+      "fact": "It is actually a square viewed from a corner, which is why the name persists despite being geometrically loose."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Hannibal Lecter's pursuer in Manhunter?",
+      "options": [
+        "Will Graham",
+        "Clarice Starling",
+        "Jack Crawford",
+        "Ardelia Mapp"
+      ],
+      "answerIndex": 0,
+      "fact": "Manhunter came first and flopped, and the character was later recast in a television series."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Chile from Argentina?",
+      "options": [
+        "The Patagonian Ranges",
+        "The Andes",
+        "The Sierra Madre",
+        "The Guiana Highlands"
+      ],
+      "answerIndex": 1,
+      "fact": "The border was fixed by the highest peaks in some sections and the watershed in others, which caused decades of dispute."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Passage to India?",
+      "options": [
+        "Somerset Maugham",
+        "Joseph Conrad",
+        "E.M. Forster",
+        "Rudyard Kipling"
+      ],
+      "answerIndex": 2,
+      "fact": "It was his last novel, published when he was forty-five, and he lived another forty-six years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Grafana monitoring tool?",
+      "options": [
+        "Grafana Labs",
+        "New Relic",
+        "Datadog",
+        "Elastic"
+      ],
+      "answerIndex": 0,
+      "fact": "It began as a fork of a dashboard belonging to a different project, then outgrew its origin entirely."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's capital was moved to Brasília in 1960?",
+      "options": [
+        "Brazil",
+        "Chile",
+        "Colombia",
+        "Argentina"
+      ],
+      "answerIndex": 0,
+      "fact": "It was built from nothing in about four years, on a plan laid out in the shape of an aeroplane."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the distance light travels in one year?",
+      "options": [
+        "Redshift",
+        "Light-year",
+        "Parsec",
+        "Astronomical unit"
+      ],
+      "answerIndex": 1,
+      "fact": "A parsec is longer still, roughly 3.26 of them, and is what astronomers actually tend to use."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which stadium hosts the Super Bowl each year?",
+      "options": [
+        "Soldier Field",
+        "A different one each year",
+        "MetLife Stadium",
+        "The Rose Bowl"
+      ],
+      "answerIndex": 1,
+      "fact": "Cities bid years in advance, and the game is usually played at a warm-weather or covered venue."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band recorded the song Karma Police?",
+      "options": [
+        "Elbow",
+        "Muse",
+        "Doves",
+        "Radiohead"
+      ],
+      "answerIndex": 3,
+      "fact": "The phrase began as a joke among the band about a fictional force that punished bad behaviour on tour."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most land borders in Europe?",
+      "options": [
+        "Germany",
+        "Austria",
+        "France",
+        "Russia"
+      ],
+      "answerIndex": 3,
+      "fact": "Germany borders nine countries, more than any other in the European Union."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the atmosphere a piece of writing creates?",
+      "options": [
+        "Tone",
+        "Voice",
+        "Mood",
+        "Register"
+      ],
+      "answerIndex": 2,
+      "fact": "Tone is the writer's attitude; mood is what the reader feels, and the two frequently differ on purpose."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Stripe payments platform?",
+      "options": [
+        "Two brothers from Ireland",
+        "Square",
+        "Adyen",
+        "PayPal"
+      ],
+      "answerIndex": 0,
+      "fact": "Its original pitch was that accepting payments online took seven lines of code rather than weeks of paperwork."
+    }
+  ]
+}

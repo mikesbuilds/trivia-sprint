@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's army was defeated at Dien Bien Phu in 1954?",
+      "options": [
+        "The United States",
+        "Japan",
+        "France",
+        "Britain"
+      ],
+      "answerIndex": 2,
+      "fact": "The defeat ended French rule in Indochina and led directly to the partition of Vietnam."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body part is affected by glaucoma?",
+      "options": [
+        "Kidney",
+        "Ear",
+        "Eye",
+        "Liver"
+      ],
+      "answerIndex": 2,
+      "fact": "It usually damages peripheral vision first, which is why it can progress a long way before being noticed."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, what is the term for a runner's illegal early start?",
+      "options": [
+        "Infringement",
+        "Foul",
+        "Balk",
+        "False start"
+      ],
+      "answerIndex": 3,
+      "fact": "One false start now means immediate disqualification, a rule tightened in 2010 to stop deliberate gamesmanship."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician performed the song Purple Rain's title track?",
+      "options": [
+        "Prince",
+        "Sly Stone",
+        "Jimi Hendrix",
+        "Lenny Kravitz"
+      ],
+      "answerIndex": 0,
+      "fact": "The recording used on the album is a live take from a benefit concert, lightly overdubbed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Helsinki?",
+      "options": [
+        "Sweden",
+        "Finland",
+        "Norway",
+        "Estonia"
+      ],
+      "answerIndex": 1,
+      "fact": "The language is unrelated to Swedish or Russian, belonging instead to a family that includes Hungarian."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in a sanatorium and narrated by a character called Hans Castorp?",
+      "options": [
+        "The Immoralist",
+        "The Rack",
+        "The Plague",
+        "The Magic Mountain"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author visited his wife in such a sanatorium and was told by a doctor that he should stay too."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the MySQL database?",
+      "options": [
+        "MySQL AB",
+        "Oracle",
+        "Microsoft",
+        "IBM"
+      ],
+      "answerIndex": 0,
+      "fact": "Oracle later acquired it, which prompted the original developers to fork it into MariaDB."
+    }
+  ]
+}

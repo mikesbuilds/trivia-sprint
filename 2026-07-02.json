@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's civil war featured the Battle of Naseby?",
+      "options": [
+        "Wales",
+        "Ireland",
+        "England",
+        "Scotland"
+      ],
+      "answerIndex": 2,
+      "fact": "The king's private correspondence was captured there and published, which destroyed his negotiating position."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the study of the immune system?",
+      "options": [
+        "Pathology",
+        "Oncology",
+        "Haematology",
+        "Immunology"
+      ],
+      "answerIndex": 3,
+      "fact": "The field effectively began with the observation that milkmaids who caught cowpox did not get smallpox."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would a competitor perform a snatch and a clean and jerk?",
+      "options": [
+        "Powerlifting",
+        "Wrestling",
+        "Judo",
+        "Weightlifting"
+      ],
+      "answerIndex": 3,
+      "fact": "Powerlifting uses entirely different lifts, which is why the two sports are not interchangeable despite the confusion."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features the character Jon Snow?",
+      "options": [
+        "The Last Kingdom",
+        "Game of Thrones",
+        "Vikings",
+        "Outlander"
+      ],
+      "answerIndex": 1,
+      "fact": "Its final season prompted a petition signed by over a million viewers asking for it to be remade."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the city of Petra's neighbour, Wadi Rum?",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Saudi Arabia",
+        "Israel"
+      ],
+      "answerIndex": 0,
+      "fact": "Its landscape has stood in for Mars in a long list of films."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Josephine March?",
+      "options": [
+        "Anne of Green Gables",
+        "Little Women",
+        "What Katy Did",
+        "Pollyanna"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author based the four sisters closely on herself and her own siblings."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Objective-C language's original implementation?",
+      "options": [
+        "Stepstone",
+        "NeXT",
+        "Sun",
+        "Apple"
+      ],
+      "answerIndex": 0,
+      "fact": "NeXT licensed it, and Apple inherited it when it bought NeXT in 1996."
+    }
+  ]
+}

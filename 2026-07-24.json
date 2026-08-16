@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict was ended by the Treaty of Portsmouth in 1905?",
+      "options": [
+        "The Boer War",
+        "The Spanish-American War",
+        "The Russo-Japanese War",
+        "The Boxer Rebellion"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the first modern war in which an Asian power defeated a European one, and it shocked capitals worldwide."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the tendency of a liquid to resist flow?",
+      "options": [
+        "Buoyancy",
+        "Density",
+        "Surface tension",
+        "Viscosity"
+      ],
+      "answerIndex": 3,
+      "fact": "A pitch drop experiment running since 1927 has produced fewer than ten drops, demonstrating extreme viscosity."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In swimming, which stroke is the fastest?",
+      "options": [
+        "Butterfly",
+        "Breaststroke",
+        "Backstroke",
+        "Freestyle"
+      ],
+      "answerIndex": 3,
+      "fact": "Freestyle technically allows any stroke, and everyone swims front crawl because it is fastest."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features the character Ted Lasso?",
+      "options": [
+        "Ted Lasso",
+        "Eastbound and Down",
+        "The League",
+        "Brockmire"
+      ],
+      "answerIndex": 0,
+      "fact": "The character began as a promotional advert for football coverage, years before the series existed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state contains Death Valley?",
+      "options": [
+        "Utah",
+        "Nevada",
+        "California",
+        "Arizona"
+      ],
+      "answerIndex": 2,
+      "fact": "It recorded the highest reliably measured air temperature on Earth, above 56 degrees Celsius."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set during the Spanish Civil War and features Robert Jordan?",
+      "options": [
+        "Homage to Catalonia",
+        "For Whom the Bell Tolls",
+        "The Sun Also Rises",
+        "A Farewell to Arms"
+      ],
+      "answerIndex": 1,
+      "fact": "Its title comes from a John Donne meditation, which also supplies the line about no man being an island."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Prometheus monitoring system?",
+      "options": [
+        "Uber",
+        "SoundCloud",
+        "Google",
+        "Netflix"
+      ],
+      "answerIndex": 1,
+      "fact": "It was later donated to a foundation and became a standard component of container infrastructure."
+    }
+  ]
+}

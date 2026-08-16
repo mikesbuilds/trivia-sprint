@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Roman leader was assassinated on the Ides of March?",
+      "options": [
+        "Augustus",
+        "Pompey",
+        "Julius Caesar",
+        "Cicero"
+      ],
+      "answerIndex": 2,
+      "fact": "The Ides simply meant the middle of the month, and had no ominous meaning before that day."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the temperature at which a solid becomes liquid?",
+      "options": [
+        "Flash point",
+        "Boiling point",
+        "Dew point",
+        "Melting point"
+      ],
+      "answerIndex": 3,
+      "fact": "For a pure substance it is identical to the freezing point, approached from the other direction."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first Women's Cricket World Cup in 1973?",
+      "options": [
+        "Australia",
+        "England",
+        "India",
+        "New Zealand"
+      ],
+      "answerIndex": 1,
+      "fact": "It predates the men's tournament by two years, which surprises most people who assume the reverse."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Michael Corleone's brother Fredo?",
+      "options": [
+        "Scarface",
+        "The Godfather",
+        "Casino",
+        "Goodfellas"
+      ],
+      "answerIndex": 1,
+      "fact": "The line about knowing it was Fredo has entered ordinary speech to mean a betrayal by family."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Andes and the Amazon?",
+      "options": [
+        "South America",
+        "Asia",
+        "North America",
+        "Africa"
+      ],
+      "answerIndex": 0,
+      "fact": "The Andes create the Amazon: they block Atlantic moisture, forcing it back across the basin as rain."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem If, addressed to a son?",
+      "options": [
+        "Rudyard Kipling",
+        "A.E. Housman",
+        "Henry Newbolt",
+        "Robert Service"
+      ],
+      "answerIndex": 0,
+      "fact": "Its opening lines are inscribed above the players' entrance to Centre Court at Wimbledon."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of garbage collection in programming?",
+      "options": [
+        "Cleaning log output",
+        "Deleting old files",
+        "Compressing data",
+        "Freeing unused memory automatically"
+      ],
+      "answerIndex": 3,
+      "fact": "It removes an entire class of bugs, at the cost of unpredictable pauses that make it unsuitable for some systems."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was defeated at the Battle of Plassey in 1757?",
+      "options": [
+        "Maratha",
+        "Bengal",
+        "Mughal",
+        "Sikh"
+      ],
+      "answerIndex": 1,
+      "fact": "It was won largely by bribing the opposing commander, and it began British territorial rule in India."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a group of atoms with a net electric charge?",
+      "options": [
+        "Radical",
+        "Isotope",
+        "Molecule",
+        "Ion"
+      ],
+      "answerIndex": 3,
+      "fact": "Nerve signals work by pumping them across cell membranes, which is why electrolyte balance matters so much."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an official called the third umpire?",
+      "options": [
+        "Tennis",
+        "Hockey",
+        "Cricket",
+        "Baseball"
+      ],
+      "answerIndex": 2,
+      "fact": "The role exists purely to review decisions on video, and was introduced in 1992."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the character Vincent Vega?",
+      "options": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Jackie Brown",
+        "True Romance"
+      ],
+      "answerIndex": 0,
+      "fact": "The film's chapters are shown out of order, so a character who dies is alive again in a later scene."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to the Ha Long Bay?",
+      "options": [
+        "Malaysia",
+        "Thailand",
+        "Vietnam",
+        "Philippines"
+      ],
+      "answerIndex": 2,
+      "fact": "Its limestone pillars number close to two thousand, formed over roughly five hundred million years."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the repeated pattern of stressed syllables in a poem?",
+      "options": [
+        "Caesura",
+        "Metre",
+        "Stanza",
+        "Rhyme"
+      ],
+      "answerIndex": 1,
+      "fact": "Iambic pentameter dominates English verse largely because its rhythm sits close to ordinary speech."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit measures data transfer speed?",
+      "options": [
+        "Hertz",
+        "Bytes",
+        "Ohms",
+        "Bits per second"
+      ],
+      "answerIndex": 3,
+      "fact": "Marketing uses bits while file sizes use bytes, which is why a connection appears eight times slower than expected."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient people invented the concept of zero as a written numeral?",
+      "options": [
+        "Indians",
+        "Egyptians",
+        "Romans",
+        "Greeks"
+      ],
+      "answerIndex": 0,
+      "fact": "The Maya developed one independently, but the version that reached Europe travelled through the Islamic world from India."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle was confirmed at CERN in 2012?",
+      "options": [
+        "Muon",
+        "Neutrino",
+        "Top quark",
+        "Higgs boson"
+      ],
+      "answerIndex": 3,
+      "fact": "The theory predicting it dated from 1964, so confirmation took nearly half a century."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a competition called the Solheim Cup's men's junior equivalent, the Walker Cup?",
+      "options": [
+        "Tennis",
+        "Rowing",
+        "Golf",
+        "Sailing"
+      ],
+      "answerIndex": 2,
+      "fact": "It is contested by amateurs, and players who turn professional become ineligible immediately."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called E.T.?",
+      "options": [
+        "E.T. the Extra-Terrestrial",
+        "Explorers",
+        "Flight of the Navigator",
+        "Close Encounters"
+      ],
+      "answerIndex": 0,
+      "fact": "A rival confectionery brand turned down a placement offer, and the sweets that accepted saw sales jump sharply."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range contains Mont Blanc?",
+      "options": [
+        "The Jura",
+        "The Alps",
+        "The Apennines",
+        "The Pyrenees"
+      ],
+      "answerIndex": 1,
+      "fact": "Its summit is claimed by both France and Italy, and the two countries publish different border maps."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Age of Innocence?",
+      "options": [
+        "Willa Cather",
+        "Henry James",
+        "Ellen Glasgow",
+        "Edith Wharton"
+      ],
+      "answerIndex": 3,
+      "fact": "She was the first woman to win the Pulitzer Prize for fiction, in 1921."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SSH provide?",
+      "options": [
+        "Simple syntax highlighting",
+        "Static site hosting",
+        "Encrypted remote access",
+        "Shared storage handling"
+      ],
+      "answerIndex": 2,
+      "fact": "It replaced telnet, which sent passwords across the network in plain readable text."
+    }
+  ]
+}

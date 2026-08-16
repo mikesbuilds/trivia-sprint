@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire built Angkor Wat?",
+      "options": [
+        "Majapahit",
+        "Srivijaya",
+        "Khmer",
+        "Champa"
+      ],
+      "answerIndex": 2,
+      "fact": "It was built as a Hindu temple and converted to Buddhist use within a century."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element is the most electronegative?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen"
+      ],
+      "answerIndex": 0,
+      "fact": "It reacts with almost everything, including some noble gases once thought entirely inert."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a professional darts match's standard throwing distance?",
+      "options": [
+        "2.37 m",
+        "3.66 m",
+        "2.74 m",
+        "3.05 m"
+      ],
+      "answerIndex": 0,
+      "fact": "The board is hung so its bullseye sits exactly 1.73 metres above the floor."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album Californication?",
+      "options": [
+        "Weezer",
+        "Red Hot Chili Peppers",
+        "Foo Fighters",
+        "Blink-182"
+      ],
+      "answerIndex": 1,
+      "fact": "It marked the return of a guitarist who had left the band six years earlier."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Great Wall's easternmost fortress?",
+      "options": [
+        "Russia",
+        "North Korea",
+        "Mongolia",
+        "China"
+      ],
+      "answerIndex": 3,
+      "fact": "The eastern end reaches the sea at a fortress nicknamed the Old Dragon's Head."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the main character of a story?",
+      "options": [
+        "Narrator",
+        "Antagonist",
+        "Protagonist",
+        "Foil"
+      ],
+      "answerIndex": 2,
+      "fact": "The word comes from Greek theatre and originally meant the first actor to step out from the chorus."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym WAN stand for?",
+      "options": [
+        "Weighted Address Number",
+        "Wireless Access Node",
+        "Web Application Namespace",
+        "Wide Area Network"
+      ],
+      "answerIndex": 3,
+      "fact": "The internet is essentially the largest one in existence, connecting countless smaller local networks."
+    }
+  ]
+}

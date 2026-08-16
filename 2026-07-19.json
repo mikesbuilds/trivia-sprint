@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's independence leader was known as Mahatma?",
+      "options": [
+        "Sri Lanka",
+        "Pakistan",
+        "Bangladesh",
+        "India"
+      ],
+      "answerIndex": 3,
+      "fact": "Mahatma is an honorific meaning great soul, and he reportedly disliked being called it."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scale measures hurricane strength?",
+      "options": [
+        "Saffir-Simpson",
+        "Beaufort",
+        "Fujita",
+        "Richter"
+      ],
+      "answerIndex": 0,
+      "fact": "It rates wind speed only, which is why storms causing catastrophic flooding can still be rated low."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In rugby union, what is the term for restarting play after the ball goes out?",
+      "options": [
+        "Maul",
+        "Lineout",
+        "Ruck",
+        "Scrum"
+      ],
+      "answerIndex": 1,
+      "fact": "Lifting jumpers was illegal until 1999, and is now so standard that unlifted lineouts look wrong."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known for the album The Rise and Fall of Ziggy Stardust?",
+      "options": [
+        "Iggy Pop",
+        "Marc Bolan",
+        "Lou Reed",
+        "David Bowie"
+      ],
+      "answerIndex": 3,
+      "fact": "He retired the character on stage in 1973 without warning the band, several of whom found out mid-show."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most islands in the world?",
+      "options": [
+        "Canada",
+        "Sweden",
+        "Indonesia",
+        "Finland"
+      ],
+      "answerIndex": 1,
+      "fact": "Its count exceeds 260,000, though the vast majority are uninhabited rocks."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with a description of a hobbit hole?",
+      "options": [
+        "The Hobbit",
+        "The Silmarillion",
+        "The Two Towers",
+        "The Fellowship of the Ring"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author illustrated the first edition himself, including the cover and several interior plates."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for code that is difficult to read and maintain?",
+      "options": [
+        "Pseudocode",
+        "Refactored code",
+        "Spaghetti code",
+        "Boilerplate"
+      ],
+      "answerIndex": 2,
+      "fact": "The metaphor dates to the 1970s, when unrestricted jumps between lines made control flow genuinely tangled."
+    }
+  ]
+}

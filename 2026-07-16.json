@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Japan attack at Pearl Harbor in 1941?",
+      "options": [
+        "The United States",
+        "The Netherlands",
+        "The Philippines",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "fact": "The aircraft carriers the attack was meant to destroy happened to be at sea that morning."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure separates the chest from the abdomen?",
+      "options": [
+        "Peritoneum",
+        "Mediastinum",
+        "Pleura",
+        "Diaphragm"
+      ],
+      "answerIndex": 3,
+      "fact": "Hiccups are involuntary spasms of it, and no one has a complete explanation for what purpose they serve."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the Tour Championship and FedEx Cup?",
+      "options": [
+        "Cycling",
+        "Golf",
+        "Tennis",
+        "Sailing"
+      ],
+      "answerIndex": 1,
+      "fact": "The format resets scores before the final event, so a player can win the title without winning the tournament."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television programme features the phrase you are the weakest link?",
+      "options": [
+        "Mastermind",
+        "The Weakest Link",
+        "The Chase",
+        "Pointless"
+      ],
+      "answerIndex": 1,
+      "fact": "Its deliberately hostile presenting style was licensed along with the format to dozens of countries."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Cliffs of Moher?",
+      "options": [
+        "Ireland",
+        "Wales",
+        "Scotland",
+        "Iceland"
+      ],
+      "answerIndex": 0,
+      "fact": "They rise to over 200 metres and appear in a long list of films standing in for other coastlines."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a poem written in praise of something?",
+      "options": [
+        "Eulogy",
+        "Elegy",
+        "Ode",
+        "Epitaph"
+      ],
+      "answerIndex": 2,
+      "fact": "Keats wrote five of them in a single spring, which is generally counted among the great bursts in English poetry."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Ansible automation tool?",
+      "options": [
+        "Chef Software",
+        "HashiCorp",
+        "Red Hat",
+        "Puppet Labs"
+      ],
+      "answerIndex": 2,
+      "fact": "Its name comes from a fictional faster-than-light communication device in science fiction."
+    }
+  ]
+}

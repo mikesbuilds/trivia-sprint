@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's revolution of 1789 produced the Declaration of the Rights of Man?",
+      "options": [
+        "The United States",
+        "Poland",
+        "France",
+        "Haiti"
+      ],
+      "answerIndex": 2,
+      "fact": "A companion declaration of women's rights was written two years later; its author was executed in 1793."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which mineral gives blood its red colour?",
+      "options": [
+        "Manganese",
+        "Zinc",
+        "Copper",
+        "Iron"
+      ],
+      "answerIndex": 3,
+      "fact": "It is the iron binding oxygen that shifts the colour, which is why oxygenated blood is brighter."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an event called the sprint finish?",
+      "options": [
+        "Speed skating",
+        "Running",
+        "Cycling",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "fact": "In cycling it is a team effort, with riders positioning their sprinter until the final few hundred metres."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the song Enter Sandman?",
+      "options": [
+        "Pantera",
+        "Metallica",
+        "Guns N' Roses",
+        "Megadeth"
+      ],
+      "answerIndex": 1,
+      "fact": "It is played before home games by several sports teams, which has made it familiar to people who dislike metal."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Wellington's largest city rival, Auckland?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Fiji",
+        "Papua New Guinea"
+      ],
+      "answerIndex": 1,
+      "fact": "Auckland is built on a field of around fifty volcanoes, most of them dormant rather than extinct."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Bertha Mason?",
+      "options": [
+        "Jane Eyre",
+        "Villette",
+        "The Woman in White",
+        "Wuthering Heights"
+      ],
+      "answerIndex": 0,
+      "fact": "Wide Sargasso Sea was written specifically to give this character her own history and voice."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Kafka streaming platform?",
+      "options": [
+        "LinkedIn",
+        "Netflix",
+        "Airbnb",
+        "Twitter"
+      ],
+      "answerIndex": 0,
+      "fact": "It was named after the writer, with its creator saying it seemed fitting for a system optimised for writing."
+    }
+  ]
+}

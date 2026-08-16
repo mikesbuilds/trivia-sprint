@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the first successful expedition to the North Pole region by airship?",
+      "options": [
+        "Fridtjof Nansen",
+        "Umberto Nobile",
+        "Robert Peary",
+        "Roald Amundsen"
+      ],
+      "answerIndex": 3,
+      "fact": "Whether earlier claims to have reached the pole on foot were genuine is still argued over."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the process by which cells divide to make identical copies?",
+      "options": [
+        "Meiosis",
+        "Transcription",
+        "Mitosis",
+        "Fertilisation"
+      ],
+      "answerIndex": 2,
+      "fact": "Roughly two trillion of these divisions happen in an adult human body every day."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the men's football World Cup in 2018?",
+      "options": [
+        "Croatia",
+        "Belgium",
+        "Brazil",
+        "France"
+      ],
+      "answerIndex": 3,
+      "fact": "It was their second title, twenty years after the first, which they also won as hosts."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a character called Sherlock Holmes played by Benedict Cumberbatch?",
+      "options": [
+        "Sherlock",
+        "Elementary",
+        "Endeavour",
+        "Luther"
+      ],
+      "answerIndex": 0,
+      "fact": "Its habit of putting text messages on screen was widely copied by other dramas afterwards."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the world's largest bay by area?",
+      "options": [
+        "Hudson Bay",
+        "The Gulf of Guinea",
+        "The Bay of Bengal",
+        "The Bay of Biscay"
+      ],
+      "answerIndex": 2,
+      "fact": "It is fed by the Ganges and Brahmaputra, which together carry more sediment than any other river system."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Waiting for Godot's contemporary, The Birthday Party?",
+      "options": [
+        "Joe Orton",
+        "Harold Pinter",
+        "Arnold Wesker",
+        "John Osborne"
+      ],
+      "answerIndex": 1,
+      "fact": "It closed after eight performances following brutal reviews, and is now a standard set text."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym VoIP describe?",
+      "options": [
+        "Virtual operating instance",
+        "Voice calls over the internet",
+        "Verified online identity",
+        "Video output protocol"
+      ],
+      "answerIndex": 1,
+      "fact": "It undercut international call charges so completely that traditional long-distance pricing effectively disappeared."
+    }
+  ]
+}

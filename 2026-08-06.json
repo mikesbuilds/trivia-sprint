@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder was a statue of Zeus?",
+      "options": [
+        "At Rhodes",
+        "At Ephesus",
+        "At Halicarnassus",
+        "At Olympia"
+      ],
+      "answerIndex": 3,
+      "fact": "It was around twelve metres tall and seated, so a standing figure would have burst through the temple roof."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for organisms living in extreme environments?",
+      "options": [
+        "Halophiles",
+        "Mesophiles",
+        "Symbionts",
+        "Extremophiles"
+      ],
+      "answerIndex": 3,
+      "fact": "Some survive inside nuclear reactors, and their enzymes made routine DNA testing possible."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes does a rugby union match last?",
+      "options": [
+        "Ninety",
+        "Seventy",
+        "Eighty",
+        "Sixty"
+      ],
+      "answerIndex": 2,
+      "fact": "Play continues past the whistle until the ball goes dead, so halves regularly run over."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television programme features a blue police box?",
+      "options": [
+        "Blake's 7",
+        "Torchwood",
+        "Doctor Who",
+        "Red Dwarf"
+      ],
+      "answerIndex": 2,
+      "fact": "The box was meant to change appearance each episode, and the mechanism was written as broken to save money."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies west of Denmark?",
+      "options": [
+        "The North Sea",
+        "The Norwegian Sea",
+        "The Baltic Sea",
+        "The Irish Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "Its shallow depth and storm surges are why the Netherlands built such extensive flood defences."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel One Day in the Life of Ivan Denisovich?",
+      "options": [
+        "Boris Pasternak",
+        "Alexander Solzhenitsyn",
+        "Varlam Shalamov",
+        "Vasily Grossman"
+      ],
+      "answerIndex": 1,
+      "fact": "It was published with Khrushchev's personal approval, and its author was expelled from the country twelve years later."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym ETL describe in data work?",
+      "options": [
+        "Encrypt, transfer, log",
+        "Extract, transform, load",
+        "Evaluate, test, launch",
+        "Export, translate, link"
+      ],
+      "answerIndex": 1,
+      "fact": "A newer variant reverses the last two steps, loading raw data first and transforming it inside the warehouse."
+    }
+  ]
+}

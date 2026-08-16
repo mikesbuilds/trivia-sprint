@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-31",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country's parliament building is the Palace of Westminster?",
+      "options": [
+        "Ireland",
+        "Canada",
+        "Australia",
+        "The United Kingdom"
+      ],
+      "answerIndex": 3,
+      "fact": "The current building dates from the 1840s, after a fire destroyed nearly all of the medieval original."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the study of the movement of fluids?",
+      "options": [
+        "Statics",
+        "Fluid dynamics",
+        "Kinematics",
+        "Thermodynamics"
+      ],
+      "answerIndex": 1,
+      "fact": "Turbulence remains one of the great unsolved problems in classical physics."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a technique called the flop shot?",
+      "options": [
+        "Tennis",
+        "Cricket",
+        "Golf",
+        "Volleyball"
+      ],
+      "answerIndex": 2,
+      "fact": "It uses an open clubface to send the ball almost straight up, landing it with almost no roll."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the Batmobile?",
+      "options": [
+        "Batman",
+        "Spider-Man",
+        "Iron Man",
+        "Superman"
+      ],
+      "answerIndex": 0,
+      "fact": "Its design has changed radically with each era, from a 1960s convertible to a military vehicle."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Plitvice Lakes?",
+      "options": [
+        "Croatia",
+        "Montenegro",
+        "Slovenia",
+        "Bosnia"
+      ],
+      "answerIndex": 0,
+      "fact": "The lakes are separated by natural travertine dams that are still growing about a centimetre a year."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Handmaid's Tale's dystopian contemporary, The Children of Men?",
+      "options": [
+        "Fay Weldon",
+        "Doris Lessing",
+        "Angela Carter",
+        "P.D. James"
+      ],
+      "answerIndex": 3,
+      "fact": "She was better known for detective fiction, and this was a rare departure late in her career."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for storing an application's state outside itself?",
+      "options": [
+        "Idempotence",
+        "Statelessness",
+        "Persistence",
+        "Caching"
+      ],
+      "answerIndex": 1,
+      "fact": "It is what allows a service to be scaled by simply running more copies behind a load balancer."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which people built Stonehenge's largest stones into place?",
+      "options": [
+        "Celts",
+        "Neolithic Britons",
+        "Vikings",
+        "Romans"
+      ],
+      "answerIndex": 1,
+      "fact": "The smaller bluestones were brought roughly 250 kilometres from Wales, which remains hard to explain."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the rate of change of velocity?",
+      "options": [
+        "Momentum",
+        "Speed",
+        "Force",
+        "Acceleration"
+      ],
+      "answerIndex": 3,
+      "fact": "Turning at constant speed still counts, since direction is part of velocity."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what surface is the Australian Open played on?",
+      "options": [
+        "Hard court",
+        "Carpet",
+        "Clay",
+        "Grass"
+      ],
+      "answerIndex": 0,
+      "fact": "It was played on grass until 1988, when it moved venues and changed surface at the same time."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician released the album Random Access Memories?",
+      "options": [
+        "Air",
+        "Daft Punk",
+        "Justice",
+        "The Chemical Brothers"
+      ],
+      "answerIndex": 1,
+      "fact": "It was recorded largely with live session musicians, deliberately avoiding the sampling the duo was known for."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state borders the Pacific and Canada?",
+      "options": [
+        "Idaho",
+        "California",
+        "Washington",
+        "Oregon"
+      ],
+      "answerIndex": 2,
+      "fact": "Its Olympic Peninsula contains one of the few temperate rainforests in the northern hemisphere."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Rebecca's Cornish-set predecessor, Jamaica Inn?",
+      "options": [
+        "Mary Wesley",
+        "Winston Graham",
+        "Rosamunde Pilcher",
+        "Daphne du Maurier"
+      ],
+      "answerIndex": 3,
+      "fact": "The inn is a real building, and she stayed there after getting lost on the moor in fog."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a fixed-size numeric identifier produced from data?",
+      "options": [
+        "Hash",
+        "Salt",
+        "Key",
+        "Token"
+      ],
+      "answerIndex": 0,
+      "fact": "Two different inputs producing the same one is called a collision, and finding them deliberately breaks a hash function."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which structure was completed across Panama in 1914?",
+      "options": [
+        "The Colón Railway",
+        "The Darién Bridge",
+        "The Panama Canal",
+        "The Pan-American Highway"
+      ],
+      "answerIndex": 2,
+      "fact": "An earlier French attempt collapsed after around 20,000 workers died, mostly of yellow fever and malaria."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which physical property does a hydrometer measure?",
+      "options": [
+        "Humidity",
+        "Pressure",
+        "Temperature",
+        "Density of liquids"
+      ],
+      "answerIndex": 3,
+      "fact": "Brewers use one to track fermentation, since sugar turning to alcohol lowers the liquid's density."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the NBA Finals?",
+      "options": [
+        "The Larry O'Brien Trophy",
+        "The Commissioner's Trophy",
+        "The Vince Lombardi Trophy",
+        "The Stanley Cup"
+      ],
+      "answerIndex": 0,
+      "fact": "It is made fresh each year, so winning teams keep theirs permanently."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist recorded the album Nevermind's rival, Ten?",
+      "options": [
+        "Alice in Chains",
+        "Pearl Jam",
+        "Mudhoney",
+        "Soundgarden"
+      ],
+      "answerIndex": 1,
+      "fact": "The title refers to a basketball player's shirt number, not to any track on the record."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the largest by area in Central America?",
+      "options": [
+        "Panama",
+        "Nicaragua",
+        "Honduras",
+        "Guatemala"
+      ],
+      "answerIndex": 1,
+      "fact": "It contains the largest lake in the region, which is home to sharks that adapted to fresh water."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play A Doll's House's contemporary, Hedda Gabler?",
+      "options": [
+        "Anton Chekhov",
+        "George Bernard Shaw",
+        "August Strindberg",
+        "Henrik Ibsen"
+      ],
+      "answerIndex": 3,
+      "fact": "The title uses her maiden name deliberately, signalling that she has not accepted her marriage."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology allows a phone to unlock using facial geometry?",
+      "options": [
+        "Infrared depth mapping",
+        "Standard camera only",
+        "NFC",
+        "Bluetooth pairing"
+      ],
+      "answerIndex": 0,
+      "fact": "Projecting thousands of invisible dots is what stops a printed photograph from fooling it."
+    }
+  ]
+}

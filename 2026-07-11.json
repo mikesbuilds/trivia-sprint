@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Nuremberg trials prosecuted officials of which regime?",
+      "options": [
+        "Nazi Germany",
+        "Fascist Italy",
+        "Imperial Japan",
+        "Vichy France"
+      ],
+      "answerIndex": 0,
+      "fact": "They established that following orders was not by itself a defence, a principle now foundational in international law."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a substance that kills bacteria?",
+      "options": [
+        "Antihistamine",
+        "Antifungal",
+        "Antibiotic",
+        "Antiviral"
+      ],
+      "answerIndex": 2,
+      "fact": "They have no effect on viruses, which is why prescribing them for a cold does nothing but breed resistance."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a competition called the Copa Libertadores?",
+      "options": [
+        "Basketball",
+        "Volleyball",
+        "Football",
+        "Rugby"
+      ],
+      "answerIndex": 2,
+      "fact": "It is South America's equivalent of the Champions League, and its winner plays the European champion."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the song Bittersweet Symphony?",
+      "options": [
+        "Blur",
+        "Radiohead",
+        "Oasis",
+        "The Verve"
+      ],
+      "answerIndex": 3,
+      "fact": "A sampling dispute meant the band earned nothing from it for over twenty years, until the rights were signed back in 2019."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain is the highest in the Alps?",
+      "options": [
+        "Mont Blanc",
+        "Jungfrau",
+        "Matterhorn",
+        "Eiger"
+      ],
+      "answerIndex": 0,
+      "fact": "Its measured height changes by a metre or two between surveys, because the summit is a shifting ice cap."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Journey to the Centre of the Earth?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "H.G. Wells",
+        "Rider Haggard"
+      ],
+      "answerIndex": 1,
+      "fact": "His publisher rejected an early novel for being too pessimistic; it appeared 130 years later."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program that appears useful but hides harmful code?",
+      "options": [
+        "Botnet",
+        "Trojan",
+        "Virus",
+        "Worm"
+      ],
+      "answerIndex": 1,
+      "fact": "Unlike a worm it cannot spread by itself, relying entirely on someone choosing to run it."
+    }
+  ]
+}

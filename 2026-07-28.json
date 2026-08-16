@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who was the first person to circumnavigate the globe solo without stopping?",
+      "options": [
+        "Joshua Slocum",
+        "Francis Chichester",
+        "Robin Knox-Johnston",
+        "Bernard Moitessier"
+      ],
+      "answerIndex": 2,
+      "fact": "He completed it in 1969 in a boat with no radio for much of the voyage, having been presumed lost."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas causes bread dough to rise?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answerIndex": 0,
+      "fact": "Yeast produces it along with alcohol, most of which evaporates during baking."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete holds the men's 100 metres world record?",
+      "options": [
+        "Yohan Blake",
+        "Justin Gatlin",
+        "Usain Bolt",
+        "Tyson Gay"
+      ],
+      "answerIndex": 2,
+      "fact": "He set it in 2009 and it has stood far longer than most sprint records, which typically fall within a decade."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series is set in a Yorkshire veterinary practice?",
+      "options": [
+        "Emmerdale",
+        "Heartbeat",
+        "Last of the Summer Wine",
+        "All Creatures Great and Small"
+      ],
+      "answerIndex": 3,
+      "fact": "It is based on memoirs written under a pen name by a vet who borrowed a footballer's surname."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean current warms north-west Europe?",
+      "options": [
+        "The Gulf Stream",
+        "The Humboldt Current",
+        "The Kuroshio",
+        "The Benguela Current"
+      ],
+      "answerIndex": 0,
+      "fact": "Without it, Britain's winters would resemble those of Labrador, at a similar latitude."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Dracula's Irish predecessor, Carmilla?",
+      "options": [
+        "Charles Maturin",
+        "Sheridan Le Fanu",
+        "Bram Stoker",
+        "Oscar Wilde"
+      ],
+      "answerIndex": 1,
+      "fact": "It predates Dracula by twenty-six years and established several conventions the later book borrowed."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Swift package manager's host, GitHub's rival GitLab?",
+      "options": [
+        "Atlassian",
+        "Google",
+        "Microsoft",
+        "GitLab Inc"
+      ],
+      "answerIndex": 3,
+      "fact": "It is unusual in offering its full platform as software you can install on your own servers."
+    }
+  ]
+}

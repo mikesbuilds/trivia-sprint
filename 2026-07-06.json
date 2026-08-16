@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which treaty formally created the European Union in 1993?",
+      "options": [
+        "The Lisbon Treaty",
+        "The Single European Act",
+        "The Treaty of Rome",
+        "The Maastricht Treaty"
+      ],
+      "answerIndex": 3,
+      "fact": "It also laid out the path to a single currency, which arrived as notes and coins nine years later."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed that species change through natural selection alongside a theory of inheritance he did not have?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Alfred Wallace",
+        "Gregor Mendel",
+        "Charles Darwin"
+      ],
+      "answerIndex": 3,
+      "fact": "Mendel's work on inheritance was published in his lifetime and he appears never to have read it."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a term called the sin bin?",
+      "options": [
+        "Rugby",
+        "Both rugby and ice hockey",
+        "Football",
+        "Ice hockey"
+      ],
+      "answerIndex": 1,
+      "fact": "Football trialled it in lower leagues, and its wider adoption has been debated for years."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom features a character called Del Boy?",
+      "options": [
+        "Only Fools and Horses",
+        "Porridge",
+        "Steptoe and Son",
+        "Minder"
+      ],
+      "answerIndex": 0,
+      "fact": "One episode drew over twenty-four million UK viewers, a record for a sitcom that still stands."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Bay of Fundy?",
+      "options": [
+        "Canada",
+        "Norway",
+        "Ireland",
+        "The United States"
+      ],
+      "answerIndex": 0,
+      "fact": "It has the highest tidal range on Earth, with water rising more than sixteen metres twice a day."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Sydney Carton's resemblance to another man?",
+      "options": [
+        "The Prisoner of Zenda",
+        "The Prince and the Pauper",
+        "A Tale of Two Cities",
+        "The Man in the Iron Mask"
+      ],
+      "answerIndex": 2,
+      "fact": "The plot depends entirely on that likeness, which is set up hundreds of pages before it matters."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Android Studio development tool?",
+      "options": [
+        "Microsoft",
+        "Google",
+        "JetBrains",
+        "Samsung"
+      ],
+      "answerIndex": 1,
+      "fact": "It is built on JetBrains' IntelliJ platform, so both companies have a genuine claim to it."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US event of 1969 drew an estimated 400,000 people to a farm in New York?",
+      "options": [
+        "Altamont",
+        "Monterey Pop",
+        "Woodstock",
+        "The March on Washington"
+      ],
+      "answerIndex": 2,
+      "fact": "It was meant to be a paying event, and became free when the crowd overwhelmed the fences."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin deficiency causes scurvy?",
+      "options": [
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C"
+      ],
+      "answerIndex": 3,
+      "fact": "The cure was demonstrated in 1747 in one of the earliest controlled clinical trials, and ignored for decades."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an obstacle course called cross-country?",
+      "options": [
+        "Equestrian eventing",
+        "Cycling",
+        "Athletics",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "fact": "The equestrian version is the only one where the obstacles are fixed and will not give way on contact."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known for the song Hallelujah?",
+      "options": [
+        "Leonard Cohen",
+        "Bob Dylan",
+        "Tom Waits",
+        "Nick Cave"
+      ],
+      "answerIndex": 0,
+      "fact": "He wrote around eighty verses over several years, and the famous cover uses a different selection from his own."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest desert in Asia?",
+      "options": [
+        "The Thar",
+        "The Arabian",
+        "The Taklamakan",
+        "The Gobi"
+      ],
+      "answerIndex": 1,
+      "fact": "It contains the Empty Quarter, the largest continuous sand desert anywhere on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the sequence of events in a story?",
+      "options": [
+        "Theme",
+        "Style",
+        "Plot",
+        "Setting"
+      ],
+      "answerIndex": 2,
+      "fact": "E.M. Forster distinguished it from story by causation: the king died and then the queen died is a story, and of grief makes it a plot."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Figma alternative Sketch?",
+      "options": [
+        "Bohemian Coding",
+        "Figma",
+        "Adobe",
+        "Corel"
+      ],
+      "answerIndex": 0,
+      "fact": "It ran only on macOS, which is much of why a browser-based competitor was able to take its market."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was destroyed by the Romans in 146 BC?",
+      "options": [
+        "Both Corinth and Carthage",
+        "Syracuse",
+        "Carthage",
+        "Corinth"
+      ],
+      "answerIndex": 0,
+      "fact": "Both fell in the same year, one in Greece and one in North Africa, in unrelated campaigns."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force causes a ball to slow as it rolls across grass?",
+      "options": [
+        "Gravity",
+        "Friction",
+        "Tension",
+        "Magnetism"
+      ],
+      "answerIndex": 1,
+      "fact": "On a perfectly frictionless surface it would roll forever, which is Newton's first law stated practically."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a term called the paddock?",
+      "options": [
+        "Both motor and horse racing",
+        "Sailing",
+        "Horse racing",
+        "Motor racing"
+      ],
+      "answerIndex": 0,
+      "fact": "In both it means the enclosure where competitors prepare before going out to compete."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician recorded the album Hounds of Love?",
+      "options": [
+        "Tori Amos",
+        "Björk",
+        "Kate Bush",
+        "Sinéad O'Connor"
+      ],
+      "answerIndex": 2,
+      "fact": "One of its songs returned to number one worldwide in 2022, thirty-seven years after release, after appearing in a series."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the highest mountain in the contiguous United States?",
+      "options": [
+        "Mount Elbert",
+        "Mount Whitney",
+        "Mount Rainier",
+        "Pikes Peak"
+      ],
+      "answerIndex": 1,
+      "fact": "It sits roughly a hundred kilometres from the lowest point in North America, in Death Valley."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a novel published in instalments?",
+      "options": [
+        "Compendium",
+        "Novella",
+        "Serial",
+        "Anthology"
+      ],
+      "answerIndex": 2,
+      "fact": "Dickens shaped whole plots around reader reaction between instalments, which is early audience-responsive storytelling."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Rust-adjacent language Zig?",
+      "options": [
+        "Mozilla",
+        "Apple",
+        "Google",
+        "An independent developer and foundation"
+      ],
+      "answerIndex": 3,
+      "fact": "It is developed by a non-profit funded by donations, with no corporate backer at all."
+    }
+  ]
+}

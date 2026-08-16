@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which act of parliament abolished slavery across the British Empire in 1833?",
+      "options": [
+        "The Slave Trade Act",
+        "The Slavery Abolition Act",
+        "The Reform Act",
+        "The Emancipation Proclamation"
+      ],
+      "answerIndex": 1,
+      "fact": "It compensated slave owners rather than the enslaved, and the resulting debt was not fully repaid until 2015."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure in a plant cell carries out photosynthesis?",
+      "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Vacuole",
+        "Mitochondrion"
+      ],
+      "answerIndex": 1,
+      "fact": "Like mitochondria they carry their own DNA, and appear to have been free-living bacteria absorbed long ago."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a scoring term called a birdie's opposite, the bogey?",
+      "options": [
+        "Darts",
+        "Bowling",
+        "Archery",
+        "Golf"
+      ],
+      "answerIndex": 3,
+      "fact": "Double and triple bogeys follow the same pattern, and there is no widely used term beyond that."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television series features a character called Michael Scott's successor?",
+      "options": [
+        "Superstore",
+        "30 Rock",
+        "The Office",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 2,
+      "fact": "The series ran two further seasons after the lead departed, which few sitcoms survive."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Cambridge in England?",
+      "options": [
+        "The Stour",
+        "The Ouse",
+        "The Cam",
+        "The Nene"
+      ],
+      "answerIndex": 2,
+      "fact": "Whether the city was named after the river or the river renamed after the city is genuinely uncertain."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Holden Caulfield's sister Phoebe?",
+      "options": [
+        "The Catcher in the Rye",
+        "A Separate Peace",
+        "The Bell Jar",
+        "Franny and Zooey"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author refused all film offers, and the estate has continued to refuse them since his death."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Obsidian note-taking application?",
+      "options": [
+        "Dynalist's developers",
+        "Notion Labs",
+        "Microsoft",
+        "Evernote"
+      ],
+      "answerIndex": 0,
+      "fact": "It stores notes as plain text files on your own disk, which is its main selling point over cloud rivals."
+    }
+  ]
+}
