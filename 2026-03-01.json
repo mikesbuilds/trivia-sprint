@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which king united England and Denmark in the 11th century?",
+      "options": [
+        "Sweyn Forkbeard",
+        "Harold Godwinson",
+        "Cnut",
+        "Ethelred"
+      ],
+      "answerIndex": 2,
+      "fact": "The story of him commanding the tide was staged to prove the opposite of what it is usually quoted for: that kings are powerless."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element makes up about 65 percent of the human body by mass?",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answerIndex": 1,
+      "fact": "Almost all of it is locked up in water rather than the air in your lungs."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, what does TKO stand for?",
+      "options": [
+        "Technical Knockout",
+        "Total Knockout",
+        "Timed Knockout",
+        "Tactical Knockout"
+      ],
+      "answerIndex": 0,
+      "fact": "It exists so a referee can stop a fight before a fighter is actually knocked unconscious."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Marty McFly?",
+      "options": [
+        "Back to the Future",
+        "The Goonies",
+        "Ferris Bueller's Day Off",
+        "Weird Science"
+      ],
+      "answerIndex": 0,
+      "fact": "Filming began with a different lead actor, and five weeks of footage was scrapped when he was replaced."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the Faroe Islands?",
+      "options": [
+        "Norway",
+        "Iceland",
+        "Denmark",
+        "Scotland"
+      ],
+      "answerIndex": 2,
+      "fact": "The islands govern themselves and stayed out of the European Union when Denmark joined."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby's neighbour and narrator?",
+      "options": [
+        "George Wilson",
+        "Nick Carraway",
+        "Meyer Wolfsheim",
+        "Tom Buchanan"
+      ],
+      "answerIndex": 1,
+      "fact": "The book sold poorly in its author's lifetime, and unsold copies were still sitting in a warehouse when he died."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CSS stand for?",
+      "options": [
+        "Central Styling Standard",
+        "Coded Screen Syntax",
+        "Computer Style System",
+        "Cascading Style Sheets"
+      ],
+      "answerIndex": 3,
+      "fact": "The cascade is the rule that decides which style wins when several apply, and it is where most confusion with it starts."
+    }
+  ]
+}

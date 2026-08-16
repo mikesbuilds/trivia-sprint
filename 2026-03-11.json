@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Long March was a retreat by forces of which movement?",
+      "options": [
+        "The Khmer Rouge",
+        "The Viet Minh",
+        "The Chinese Communist Party",
+        "The Korean Workers' Party"
+      ],
+      "answerIndex": 2,
+      "fact": "Roughly one in ten who set out arrived, but the survivors formed the leadership for the next forty years."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a change in a DNA sequence?",
+      "options": [
+        "Transcription",
+        "Mitosis",
+        "Meiosis",
+        "Mutation"
+      ],
+      "answerIndex": 3,
+      "fact": "Most have no effect at all, since much of the genome does not code for anything."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played with a puck and a curved stick on grass?",
+      "options": [
+        "Shinty",
+        "Hurling",
+        "Field hockey",
+        "Lacrosse"
+      ],
+      "answerIndex": 2,
+      "fact": "It is played with a ball rather than a puck, which is the detail this question is designed to catch."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the first Academy Award for Best Picture?",
+      "options": [
+        "Wings",
+        "The Jazz Singer",
+        "Sunrise",
+        "Metropolis"
+      ],
+      "answerIndex": 0,
+      "fact": "It remains the only silent film to win the award, until The Artist eighty-four years later."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city lies on the Danube?",
+      "options": [
+        "Zagreb",
+        "Warsaw",
+        "Prague",
+        "Vienna"
+      ],
+      "answerIndex": 3,
+      "fact": "The river passes through four capitals in total, more than any other river on Earth."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a story within a story?",
+      "options": [
+        "Foreshadowing",
+        "Frame narrative",
+        "Epilogue",
+        "In medias res"
+      ],
+      "answerIndex": 1,
+      "fact": "The Arabian Nights nests them several layers deep, with characters telling stories about characters telling stories."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CPU cache reduce?",
+      "options": [
+        "Power draw",
+        "Time waiting for memory",
+        "Disk fragmentation",
+        "Screen flicker"
+      ],
+      "answerIndex": 1,
+      "fact": "Fetching from main memory can cost the processor hundreds of idle cycles, which the cache exists to avoid."
+    }
+  ]
+}

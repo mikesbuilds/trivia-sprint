@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient Egyptian ruler ordered the construction at Abu Simbel?",
+      "options": [
+        "Ramesses II",
+        "Thutmose III",
+        "Akhenaten",
+        "Khufu"
+      ],
+      "answerIndex": 0,
+      "fact": "The whole temple was cut apart and moved uphill in the 1960s to save it from a rising reservoir."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet takes the longest to orbit the Sun?",
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "answerIndex": 0,
+      "fact": "It completed its first full orbit since discovery only in 2011, 165 years after being found."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Lord's, Headingley and Edgbaston?",
+      "options": [
+        "Athletics",
+        "Football",
+        "Cricket",
+        "Rugby"
+      ],
+      "answerIndex": 2,
+      "fact": "All three are English Test grounds, and each has a distinct reputation for how the pitch behaves."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set aboard a train called the Snowpiercer?",
+      "options": [
+        "The Midnight Meat Train",
+        "Snowpiercer",
+        "Unstoppable",
+        "Train to Busan"
+      ],
+      "answerIndex": 1,
+      "fact": "It is adapted from a French graphic novel its director found by chance in a Seoul comic shop."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest city in Africa by population?",
+      "options": [
+        "Cairo",
+        "Kinshasa",
+        "Johannesburg",
+        "Lagos"
+      ],
+      "answerIndex": 3,
+      "fact": "Estimates vary enormously, because the city has grown faster than anyone has been able to count."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Yossarian?",
+      "options": [
+        "A Farewell to Arms",
+        "Catch-22",
+        "Slaughterhouse-Five",
+        "The Thin Red Line"
+      ],
+      "answerIndex": 1,
+      "fact": "The paradox the title describes has entered ordinary English for any rule that defeats itself."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Firefox browser?",
+      "options": [
+        "Opera",
+        "Google",
+        "Mozilla",
+        "Netscape"
+      ],
+      "answerIndex": 2,
+      "fact": "It grew out of Netscape's code being released as open source after the company lost the browser war."
+    }
+  ]
+}

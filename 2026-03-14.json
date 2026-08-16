@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which city was destroyed by an earthquake and tsunami in 1755, shaking European thought?",
+      "options": [
+        "Marseille",
+        "Naples",
+        "Lisbon",
+        "Cadiz"
+      ],
+      "answerIndex": 2,
+      "fact": "It struck on a religious holiday with churches full, which prompted a wave of philosophical argument about divine justice."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure connects muscle to bone?",
+      "options": [
+        "Tendon",
+        "Fascia",
+        "Cartilage",
+        "Ligament"
+      ],
+      "answerIndex": 0,
+      "fact": "The Achilles is the thickest in the body and can withstand several times an adult's body weight in load."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which nation invented the sport of curling?",
+      "options": [
+        "Sweden",
+        "Scotland",
+        "Norway",
+        "Canada"
+      ],
+      "answerIndex": 1,
+      "fact": "Every competition stone is quarried from a single small Scottish island, prized for granite that resists cracking."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band performed the song Smells Like Teen Spirit?",
+      "options": [
+        "Pearl Jam",
+        "Soundgarden",
+        "Stone Temple Pilots",
+        "Nirvana"
+      ],
+      "answerIndex": 3,
+      "fact": "The title came from graffiti a friend wrote on a wall, referring to a deodorant brand the singer had not heard of."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates Spain from Morocco?",
+      "options": [
+        "The Bosphorus",
+        "The Strait of Sicily",
+        "The Strait of Gibraltar",
+        "The Kerch Strait"
+      ],
+      "answerIndex": 2,
+      "fact": "The Mediterranean would largely evaporate within a couple of thousand years if this gap ever closed."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a dog named Enzo?",
+      "options": [
+        "A Dog's Purpose",
+        "Timbuktu",
+        "Marley and Me",
+        "The Art of Racing in the Rain"
+      ],
+      "answerIndex": 3,
+      "fact": "The narrator believes he will be reincarnated as a human, which shapes how he interprets everything he sees."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit describes how many times a screen updates per second?",
+      "options": [
+        "Aspect ratio",
+        "Refresh rate",
+        "Resolution",
+        "Contrast ratio"
+      ],
+      "answerIndex": 1,
+      "fact": "Cinema runs at 24 per second, which is why film looks different from video even on the same screen."
+    }
+  ]
+}

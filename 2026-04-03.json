@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-03",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Bay of Pigs invasion targeted which country?",
+      "options": [
+        "Cuba",
+        "Nicaragua",
+        "Panama",
+        "Dominican Republic"
+      ],
+      "answerIndex": 0,
+      "fact": "Its failure hardened the alliance it was meant to break, and led directly to the missile crisis a year later."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is a group of cells working together to perform a function called?",
+      "options": [
+        "Organism",
+        "Tissue",
+        "System",
+        "Organ"
+      ],
+      "answerIndex": 1,
+      "fact": "There are four basic types in the human body, and everything from a heart to an eyelid is built from combinations of them."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport involves a horse performing set movements to music?",
+      "options": [
+        "Eventing",
+        "Show jumping",
+        "Polo",
+        "Dressage"
+      ],
+      "answerIndex": 3,
+      "fact": "The freestyle routine is judged partly on how well the horse's gait matches the chosen music."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known as the Boss?",
+      "options": [
+        "Bob Dylan",
+        "Tom Petty",
+        "Bruce Springsteen",
+        "Neil Young"
+      ],
+      "answerIndex": 2,
+      "fact": "The nickname came from his habit of collecting the band's pay and distributing it after early gigs."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range runs along Italy's spine?",
+      "options": [
+        "The Dolomites",
+        "The Alps",
+        "The Carpathians",
+        "The Apennines"
+      ],
+      "answerIndex": 3,
+      "fact": "It is geologically young and still rising, which is why the peninsula gets so many earthquakes."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the Hunger Games trilogy?",
+      "options": [
+        "Suzanne Collins",
+        "Stephenie Meyer",
+        "Cassandra Clare",
+        "Veronica Roth"
+      ],
+      "answerIndex": 0,
+      "fact": "She has said the idea came from channel-hopping between a reality show and war coverage."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SEO stand for?",
+      "options": [
+        "Secure Encryption Overlay",
+        "Search Engine Optimisation",
+        "Structured Entity Object",
+        "System Event Output"
+      ],
+      "answerIndex": 1,
+      "fact": "Search engines deliberately keep ranking details secret, because publishing them would make gaming trivial."
+    }
+  ]
+}

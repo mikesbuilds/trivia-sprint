@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient Greek was tutor to Alexander the Great?",
+      "options": [
+        "Socrates",
+        "Aristotle",
+        "Diogenes",
+        "Plato"
+      ],
+      "answerIndex": 1,
+      "fact": "Alexander reportedly carried an annotated copy of the Iliad from his tutor throughout his campaigns."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which theory describes the origin of the universe from a hot dense state?",
+      "options": [
+        "Big Bang",
+        "Inflation",
+        "Multiverse",
+        "Steady State"
+      ],
+      "answerIndex": 0,
+      "fact": "The name was coined dismissively by an opponent of the idea, and stuck."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called love-forty?",
+      "options": [
+        "Squash",
+        "Table tennis",
+        "Badminton",
+        "Tennis"
+      ],
+      "answerIndex": 3,
+      "fact": "It means the server has lost three straight points, and faces three chances for the opponent to take the game."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features the character Ellen Ripley's cat?",
+      "options": [
+        "Stuart Little",
+        "Men in Black",
+        "Gremlins",
+        "Alien"
+      ],
+      "answerIndex": 3,
+      "fact": "The cat was used on set to gauge tension, since animals react visibly to sudden movement."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city is closest to the equator?",
+      "options": [
+        "Bogotá",
+        "Singapore",
+        "Quito",
+        "Nairobi"
+      ],
+      "answerIndex": 2,
+      "fact": "A monument marks the line just outside it, though GPS later showed the marker sits a couple of hundred metres off."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set during the Nigerian Civil War?",
+      "options": [
+        "Purple Hibiscus",
+        "Half of a Yellow Sun",
+        "Americanah",
+        "Things Fall Apart"
+      ],
+      "answerIndex": 1,
+      "fact": "The war lasted from 1967 to 1970 and killed an estimated one to three million people, mostly from famine."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Nintendo Switch?",
+      "options": [
+        "Sega",
+        "Sony",
+        "Nintendo",
+        "Microsoft"
+      ],
+      "answerIndex": 2,
+      "fact": "It followed the company's worst-selling home console, and became one of the best-selling of all time."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ship carried Charles Darwin on his survey voyage?",
+      "options": [
+        "HMS Beagle",
+        "HMS Challenger",
+        "HMS Endeavour",
+        "HMS Victory"
+      ],
+      "answerIndex": 0,
+      "fact": "He was invited largely as a dinner companion for the captain, whose rank forbade socialising with the crew."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which unit expresses the amount of substance in chemistry?",
+      "options": [
+        "Mole",
+        "Kelvin",
+        "Litre",
+        "Gram"
+      ],
+      "answerIndex": 0,
+      "fact": "One contains about 6.02 times ten to the twenty-third particles, a number chosen so atomic mass in grams comes out neat."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a technique called the butterfly?",
+      "options": [
+        "Diving",
+        "Swimming",
+        "Gymnastics",
+        "Rowing"
+      ],
+      "answerIndex": 1,
+      "fact": "It developed out of breaststroke, when swimmers realised the rules did not forbid recovering the arms over the water."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a toy cowboy named Woody?",
+      "options": [
+        "A Bug's Life",
+        "Cars",
+        "Monsters Inc",
+        "Toy Story"
+      ],
+      "answerIndex": 3,
+      "fact": "An early version of the character was written as far nastier, and test audiences disliked him so much he was rewritten."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Asia from the Indian subcontinent?",
+      "options": [
+        "The Zagros",
+        "The Himalayas",
+        "The Caucasus",
+        "The Urals"
+      ],
+      "answerIndex": 1,
+      "fact": "It is still rising by around five millimetres a year as the Indian plate pushes north."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Dickens novel opens in a debtors' prison?",
+      "options": [
+        "Dombey and Son",
+        "Oliver Twist",
+        "Little Dorrit",
+        "Bleak House"
+      ],
+      "answerIndex": 2,
+      "fact": "His own father was imprisoned for debt when he was twelve, and he was sent to work in a factory."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym MFA describe?",
+      "options": [
+        "Media Format Adapter",
+        "Managed File Access",
+        "Multi-factor authentication",
+        "Modular Framework Architecture"
+      ],
+      "answerIndex": 2,
+      "fact": "A hardware key is the strongest common form, because it verifies the site as well as the user."
+    }
+  ]
+}

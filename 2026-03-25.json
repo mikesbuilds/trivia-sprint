@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country was partitioned in 1947 into two independent states?",
+      "options": [
+        "British India",
+        "Vietnam",
+        "Korea",
+        "Palestine"
+      ],
+      "answerIndex": 0,
+      "fact": "The border was drawn in five weeks by a lawyer who had never previously visited the subcontinent."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of skin is the outermost?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutis",
+        "Hypodermis"
+      ],
+      "answerIndex": 0,
+      "fact": "Its outer cells are already dead, and you shed roughly 500 million of them every day."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes long is each quarter in an NBA game?",
+      "options": [
+        "Twenty",
+        "Ten",
+        "Twelve",
+        "Fifteen"
+      ],
+      "answerIndex": 2,
+      "fact": "International basketball uses ten-minute quarters, which is why NBA and Olympic statistics do not compare directly."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor starred as James Bond in Casino Royale in 2006?",
+      "options": [
+        "Timothy Dalton",
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "George Lazenby"
+      ],
+      "answerIndex": 1,
+      "fact": "His casting drew such hostile press that campaigners set up a website urging a boycott before release."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the only one to border both the Atlantic and Indian oceans in Africa?",
+      "options": [
+        "Egypt",
+        "Somalia",
+        "Morocco",
+        "South Africa"
+      ],
+      "answerIndex": 3,
+      "fact": "It has three capital cities, splitting the executive, legislative and judicial branches between them."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Bigwig?",
+      "options": [
+        "Redwall",
+        "Watership Down",
+        "Animal Farm",
+        "The Wind in the Willows"
+      ],
+      "answerIndex": 1,
+      "fact": "It began as stories told to the author's daughters on car journeys, and he invented a rabbit language for it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for software that holds data hostage until payment?",
+      "options": [
+        "Rootkit",
+        "Spyware",
+        "Adware",
+        "Ransomware"
+      ],
+      "answerIndex": 3,
+      "fact": "Attacks increasingly target backups first, since a working backup removes any reason to pay."
+    }
+  ]
+}

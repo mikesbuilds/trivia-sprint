@@ -1,0 +1,5555 @@
+{
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which king united England and Denmark in the 11th century?",
+      "options": [
+        "Cnut",
+        "Harold Godwinson",
+        "Ethelred",
+        "Sweyn Forkbeard"
+      ],
+      "answerIndex": 0,
+      "fact": "The story of him commanding the tide was staged to prove the opposite of what it is usually quoted for: that kings are powerless.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Antikythera mechanism was used to predict what?",
+      "options": [
+        "Tides",
+        "Astronomical positions",
+        "Harvests",
+        "Earthquakes"
+      ],
+      "answerIndex": 1,
+      "fact": "Nothing of comparable gearing complexity appears again for well over a thousand years.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by the Tokugawa shogunate?",
+      "options": [
+        "Korea",
+        "Japan",
+        "China",
+        "Vietnam"
+      ],
+      "answerIndex": 1,
+      "fact": "It closed the country to almost all foreign contact for over two centuries, permitting one Dutch trading post.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which US general accepted the Confederate surrender at Appomattox?",
+      "options": [
+        "William Sherman",
+        "Ulysses S. Grant",
+        "George Meade",
+        "Philip Sheridan"
+      ],
+      "answerIndex": 1,
+      "fact": "He let the defeated soldiers keep their horses, reasoning they would need them for spring planting.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ancient wonder stood on the island of Pharos?",
+      "options": [
+        "The Colossus",
+        "The Lighthouse of Alexandria",
+        "The Mausoleum",
+        "The Temple of Artemis"
+      ],
+      "answerIndex": 1,
+      "fact": "It stood for around 1,600 years before earthquakes finally brought it down, outlasting every other wonder but the pyramids.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Meiji Restoration ended rule by which class?",
+      "options": [
+        "Merchants",
+        "Samurai",
+        "Priests",
+        "Farmers"
+      ],
+      "answerIndex": 1,
+      "fact": "Samurai were compensated with government bonds, and many promptly lost everything investing them badly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which European power colonised Brazil?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "France",
+        "Netherlands"
+      ],
+      "answerIndex": 1,
+      "fact": "For a period in the 1800s the Portuguese court actually governed its empire from Rio rather than Lisbon.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which battle in 1066 preceded the Battle of Hastings by weeks?",
+      "options": [
+        "Stamford Bridge",
+        "Bannockburn",
+        "Agincourt",
+        "Towton"
+      ],
+      "answerIndex": 0,
+      "fact": "Harold marched his army about 300 kilometres between the two battles, which is a plausible reason he lost the second.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which civilisation produced the Code of Hammurabi?",
+      "options": [
+        "Egyptian",
+        "Babylonian",
+        "Assyrian",
+        "Hittite"
+      ],
+      "answerIndex": 1,
+      "fact": "It set penalties by social rank, so the same offence cost a noble and a commoner very different amounts.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first European monarch to break with the Roman Catholic Church in the 1530s?",
+      "options": [
+        "Henry VIII",
+        "Charles V",
+        "Francis I",
+        "Philip II"
+      ],
+      "answerIndex": 0,
+      "fact": "The Pope had earlier given him a title defending the faith, which English monarchs still carry today.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Long March was a retreat by forces of which movement?",
+      "options": [
+        "The Chinese Communist Party",
+        "The Viet Minh",
+        "The Korean Workers' Party",
+        "The Khmer Rouge"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly one in ten who set out arrived, but the survivors formed the leadership for the next forty years.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which empire was defeated at the Battle of Lepanto in 1571?",
+      "options": [
+        "Ottoman",
+        "Persian",
+        "Venetian",
+        "Spanish"
+      ],
+      "answerIndex": 0,
+      "fact": "It was among the last great battles fought with oared galleys, a technology already being replaced by sail.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which treaty divided the New World between Spain and Portugal?",
+      "options": [
+        "Treaty of Tordesillas",
+        "Treaty of Utrecht",
+        "Treaty of Madrid",
+        "Treaty of Zaragoza"
+      ],
+      "answerIndex": 0,
+      "fact": "The line was drawn before anyone knew what was there, which is the accident that made Brazil Portuguese.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which city was destroyed by an earthquake and tsunami in 1755, shaking European thought?",
+      "options": [
+        "Lisbon",
+        "Naples",
+        "Cadiz",
+        "Marseille"
+      ],
+      "answerIndex": 0,
+      "fact": "It struck on a religious holiday with churches full, which prompted a wave of philosophical argument about divine justice.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Zulu kingdom rose to power in which region?",
+      "options": [
+        "West Africa",
+        "Southern Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "answerIndex": 1,
+      "fact": "Its army defeated a British force at Isandlwana in 1879, one of the worst defeats a colonial army suffered in Africa.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which US document was adopted on 4 July 1776?",
+      "options": [
+        "The Constitution",
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "The Bill of Rights"
+      ],
+      "answerIndex": 1,
+      "fact": "Most signatures were added weeks later, so the famous scene of everyone signing that day never happened.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which empire did Justinian I rule?",
+      "options": [
+        "Byzantine",
+        "Holy Roman",
+        "Carolingian",
+        "Sasanian"
+      ],
+      "answerIndex": 0,
+      "fact": "His legal code was rediscovered in medieval Italy and became the foundation of law across much of continental Europe.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which conflict was triggered by the assassination of Archduke Franz Ferdinand?",
+      "options": [
+        "The Crimean War",
+        "The First World War",
+        "The Balkan Wars",
+        "The Second World War"
+      ],
+      "answerIndex": 1,
+      "fact": "The assassin got his chance only because the archduke's driver took a wrong turn and stopped to reverse.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ancient people built Great Zimbabwe?",
+      "options": [
+        "Shona",
+        "Zulu",
+        "Swahili",
+        "Nubian"
+      ],
+      "answerIndex": 0,
+      "fact": "Colonial authorities spent decades insisting it must have been built by outsiders, against the archaeological evidence.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Suez Crisis of 1956 involved the nationalisation of what?",
+      "options": [
+        "Oil fields",
+        "The Suez Canal",
+        "Railways",
+        "Cotton exports"
+      ],
+      "answerIndex": 1,
+      "fact": "It ended when the United States pressured its own allies to withdraw, a moment often read as the end of British imperial reach.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which dynasty ruled China immediately before the Qing?",
+      "options": [
+        "Ming",
+        "Song",
+        "Tang",
+        "Yuan"
+      ],
+      "answerIndex": 0,
+      "fact": "Its last emperor hanged himself on a hill overlooking the Forbidden City as rebels entered Beijing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Who led the Mongol invasion that sacked Baghdad in 1258?",
+      "options": [
+        "Hulagu Khan",
+        "Genghis Khan",
+        "Batu Khan",
+        "Timur"
+      ],
+      "answerIndex": 0,
+      "fact": "The city's libraries were destroyed, and accounts describe the Tigris running black with ink from the books.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country did Simón Bolívar first liberate from Spanish rule?",
+      "options": [
+        "Venezuela",
+        "Peru",
+        "Chile",
+        "Argentina"
+      ],
+      "answerIndex": 0,
+      "fact": "He declared independence three separate times before it held, losing and regaining the country in between.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Rosetta Stone was discovered during whose military campaign?",
+      "options": [
+        "Nelson's",
+        "Napoleon's",
+        "Wellington's",
+        "Kitchener's"
+      ],
+      "answerIndex": 1,
+      "fact": "The expedition brought scholars as well as soldiers, and their survey created the modern study of ancient Egypt.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country was partitioned in 1947 into two independent states?",
+      "options": [
+        "Vietnam",
+        "British India",
+        "Korea",
+        "Palestine"
+      ],
+      "answerIndex": 1,
+      "fact": "The border was drawn in five weeks by a lawyer who had never previously visited the subcontinent.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which Viking is traditionally said to have reached North America around 1000?",
+      "options": [
+        "Erik the Red",
+        "Leif Erikson",
+        "Harald Hardrada",
+        "Ragnar Lodbrok"
+      ],
+      "answerIndex": 1,
+      "fact": "A Norse settlement at L'Anse aux Meadows in Newfoundland confirms Europeans arrived roughly 500 years before Columbus.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Reign of Terror occurred during which revolution?",
+      "options": [
+        "American",
+        "French",
+        "Russian",
+        "Haitian"
+      ],
+      "answerIndex": 1,
+      "fact": "Its chief architect was executed by the same method he had used on others, within a year of taking power.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which empire's capital was Persepolis?",
+      "options": [
+        "Achaemenid Persia",
+        "Babylon",
+        "Assyria",
+        "Parthia"
+      ],
+      "answerIndex": 0,
+      "fact": "Alexander burned it in 330 BC, an act his own officers reportedly tried to talk him out of.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first person to be elected US president four times?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Woodrow Wilson",
+        "Theodore Roosevelt",
+        "Harry Truman"
+      ],
+      "answerIndex": 0,
+      "fact": "A constitutional amendment passed shortly after his death capped future presidents at two terms.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country's revolution of 1979 replaced a monarchy with an Islamic republic?",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Afghanistan",
+        "Egypt"
+      ],
+      "answerIndex": 1,
+      "fact": "The Shah left on what was officially described as a holiday, and never returned.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Elgin Marbles were removed from which building?",
+      "options": [
+        "The Colosseum",
+        "The Parthenon",
+        "The Pantheon",
+        "The Hagia Sophia"
+      ],
+      "answerIndex": 1,
+      "fact": "Their ownership has been formally disputed since Greek independence in the 1830s and remains unresolved.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which war ended with the Treaty of Ghent in 1814?",
+      "options": [
+        "The War of 1812",
+        "The Napoleonic Wars",
+        "The Seven Years' War",
+        "The Mexican-American War"
+      ],
+      "answerIndex": 0,
+      "fact": "The largest battle of the war was fought after the treaty was signed, because news took weeks to cross the Atlantic.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ancient Egyptian ruler ordered the construction at Abu Simbel?",
+      "options": [
+        "Ramesses II",
+        "Akhenaten",
+        "Thutmose III",
+        "Khufu"
+      ],
+      "answerIndex": 0,
+      "fact": "The whole temple was cut apart and moved uphill in the 1960s to save it from a rising reservoir.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Bay of Pigs invasion targeted which country?",
+      "options": [
+        "Nicaragua",
+        "Cuba",
+        "Panama",
+        "Dominican Republic"
+      ],
+      "answerIndex": 1,
+      "fact": "Its failure hardened the alliance it was meant to break, and led directly to the missile crisis a year later.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which people built the moai statues of Easter Island?",
+      "options": [
+        "Rapa Nui",
+        "Maori",
+        "Samoan",
+        "Tongan"
+      ],
+      "answerIndex": 0,
+      "fact": "Many statues have full buried bodies below the famous heads, only revealed by excavation.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Who was the first Holy Roman Emperor?",
+      "options": [
+        "Otto I",
+        "Charlemagne",
+        "Frederick Barbarossa",
+        "Charles V"
+      ],
+      "answerIndex": 1,
+      "fact": "He reportedly could not write fluently, keeping a writing tablet under his pillow to practise at night.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Berlin Airlift supplied which city during a Soviet blockade?",
+      "options": [
+        "Vienna",
+        "West Berlin",
+        "Prague",
+        "Warsaw"
+      ],
+      "answerIndex": 1,
+      "fact": "At its peak an aircraft landed roughly every thirty seconds, sustaining two million people for almost a year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which Roman structure could be flooded to stage mock naval battles?",
+      "options": [
+        "The Circus Maximus",
+        "The Colosseum",
+        "The Forum",
+        "The Baths of Caracalla"
+      ],
+      "answerIndex": 1,
+      "fact": "The capability was lost once a network of underground chambers was built beneath the arena floor.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country's civil war ended in 1939 with Franco in power?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "answerIndex": 1,
+      "fact": "It served as a testing ground for weapons and tactics both Germany and the Soviet Union used soon after.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which US movement was led in part by Susan B. Anthony?",
+      "options": [
+        "Abolition",
+        "Women's suffrage",
+        "Temperance",
+        "Labour reform"
+      ],
+      "answerIndex": 1,
+      "fact": "She was arrested for voting in 1872, fined a hundred dollars, and refused to pay a cent of it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Anglo-Zanzibar War of 1896 is notable for what?",
+      "options": [
+        "Its length of under an hour",
+        "Its casualties",
+        "Its naval scale",
+        "Its treaty"
+      ],
+      "answerIndex": 0,
+      "fact": "It is generally recorded as the shortest war in history, lasting roughly 38 minutes.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which pharaoh is associated with a brief shift to worshipping a single sun disc?",
+      "options": [
+        "Akhenaten",
+        "Tutankhamun",
+        "Ramesses II",
+        "Hatshepsut"
+      ],
+      "answerIndex": 0,
+      "fact": "His successors tried to erase him from the records, which is partly why his son's tomb went unnoticed for so long.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country did Napoleon invade in 1812 with disastrous results?",
+      "options": [
+        "Spain",
+        "Russia",
+        "Austria",
+        "Prussia"
+      ],
+      "answerIndex": 1,
+      "fact": "He entered with around 600,000 men and left with a fraction of that, most lost to cold, hunger and disease.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Underground Railroad helped people escape from what?",
+      "options": [
+        "Debtors' prison",
+        "Slavery",
+        "Conscription",
+        "Famine"
+      ],
+      "answerIndex": 1,
+      "fact": "It was neither underground nor a railroad, but the railway vocabulary of stations and conductors served as code.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which Italian city-state was ruled by the Medici family?",
+      "options": [
+        "Venice",
+        "Florence",
+        "Milan",
+        "Genoa"
+      ],
+      "answerIndex": 1,
+      "fact": "They began as bankers, and their funding of artists is much of why the Renaissance happened where it did.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which US state was an independent republic before joining the Union?",
+      "options": [
+        "California",
+        "Texas",
+        "Vermont",
+        "Hawaii"
+      ],
+      "answerIndex": 1,
+      "fact": "It ran its own navy and diplomatic missions for nearly a decade before annexation.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which plague-carrying pandemic reached Europe in 1347 by ship?",
+      "options": [
+        "Smallpox",
+        "The Black Death",
+        "Typhus",
+        "Cholera"
+      ],
+      "answerIndex": 1,
+      "fact": "Quarantine gets its name from the forty days Venetian ships were held offshore during outbreaks.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which African kingdom was known for its bronze plaques taken by British forces in 1897?",
+      "options": [
+        "Benin",
+        "Ashanti",
+        "Dahomey",
+        "Kongo"
+      ],
+      "answerIndex": 0,
+      "fact": "The plaques are held in museums across Europe and North America, and repatriation has been under way since 2021.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which conference in 1919 produced the post-war settlement of Europe?",
+      "options": [
+        "Vienna",
+        "Paris",
+        "Berlin",
+        "Geneva"
+      ],
+      "answerIndex": 1,
+      "fact": "An economist attending resigned in protest and wrote a book predicting the settlement would cause another war.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Who commanded the Allied invasion of Normandy in 1944?",
+      "options": [
+        "Bernard Montgomery",
+        "Dwight Eisenhower",
+        "George Patton",
+        "Omar Bradley"
+      ],
+      "answerIndex": 1,
+      "fact": "He wrote a note accepting full blame in case it failed, kept it in his wallet, and found it weeks later.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ancient Greek was tutor to Alexander the Great?",
+      "options": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Diogenes"
+      ],
+      "answerIndex": 1,
+      "fact": "Alexander reportedly carried an annotated copy of the Iliad from his tutor throughout his campaigns.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Gold Rush of 1849 drew prospectors to which US state?",
+      "options": [
+        "Alaska",
+        "California",
+        "Colorado",
+        "Nevada"
+      ],
+      "answerIndex": 1,
+      "fact": "Most miners lost money. The reliable fortunes were made selling them tools, food and trousers.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which empire was ended by the fall of Constantinople in 1453?",
+      "options": [
+        "Roman",
+        "Byzantine",
+        "Latin",
+        "Bulgarian"
+      ],
+      "answerIndex": 1,
+      "fact": "Scholars fleeing westward carried Greek manuscripts with them, feeding the Italian Renaissance directly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country did Britain hand back to China in 1997?",
+      "options": [
+        "Macau",
+        "Hong Kong",
+        "Taiwan",
+        "Singapore"
+      ],
+      "answerIndex": 1,
+      "fact": "The handover happened because a 99-year lease on the surrounding territories expired, not the island itself.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ship carried Charles Darwin on his survey voyage?",
+      "options": [
+        "HMS Beagle",
+        "HMS Endeavour",
+        "HMS Victory",
+        "HMS Challenger"
+      ],
+      "answerIndex": 0,
+      "fact": "He was invited largely as a dinner companion for the captain, whose rank forbade socialising with the crew.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Hagia Sophia was built as what kind of building?",
+      "options": [
+        "A palace",
+        "A cathedral",
+        "A mosque",
+        "A library"
+      ],
+      "answerIndex": 1,
+      "fact": "It held the record for the world's largest interior space for nearly a thousand years.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country was ruled by apartheid until the early 1990s?",
+      "options": [
+        "Zimbabwe",
+        "South Africa",
+        "Namibia",
+        "Angola"
+      ],
+      "answerIndex": 1,
+      "fact": "The system was formalised in 1948 and dismantled through negotiations that took four years to complete.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "The Domesday Book was commissioned by which king?",
+      "options": [
+        "William the Conqueror",
+        "Henry I",
+        "Alfred the Great",
+        "Edward the Confessor"
+      ],
+      "answerIndex": 0,
+      "fact": "Its purpose was almost entirely fiscal: he wanted to know exactly what the country could be taxed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which ancient city's walls are described in the Epic of Gilgamesh?",
+      "options": [
+        "Uruk",
+        "Ur",
+        "Nippur",
+        "Lagash"
+      ],
+      "answerIndex": 0,
+      "fact": "The poem opens and closes by praising the walls, framing the whole story as a monument the king left behind.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which country did the Soviet Union invade in 1956 to crush an uprising?",
+      "options": [
+        "Poland",
+        "Hungary",
+        "Czechoslovakia",
+        "Romania"
+      ],
+      "answerIndex": 1,
+      "fact": "Around 200,000 people fled the country in the weeks that followed, most crossing on foot into Austria.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "History",
+      "prompt": "Which trading company effectively governed large parts of India?",
+      "options": [
+        "The Hudson's Bay Company",
+        "The East India Company",
+        "The Royal African Company",
+        "The Dutch West India Company"
+      ],
+      "answerIndex": 1,
+      "fact": "It maintained an army roughly twice the size of the British Army before the Crown took direct control in 1858.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element makes up about 65 percent of the human body by mass?",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answerIndex": 1,
+      "fact": "Almost all of it is locked up in water rather than the air in your lungs.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for the point at which a liquid becomes a gas?",
+      "options": [
+        "Melting point",
+        "Boiling point",
+        "Triple point",
+        "Critical point"
+      ],
+      "answerIndex": 1,
+      "fact": "It falls with altitude, which is why cooking instructions differ at high elevation and water boils cooler on Everest.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What does an ecologist study?",
+      "options": [
+        "Rocks",
+        "Relationships between organisms and environment",
+        "Stars",
+        "Ancient life"
+      ],
+      "answerIndex": 1,
+      "fact": "The word ecosystem was coined only in 1935, long after the study itself began.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of blood vessel is thinnest?",
+      "options": [
+        "Artery",
+        "Vein",
+        "Capillary",
+        "Aorta"
+      ],
+      "answerIndex": 2,
+      "fact": "Their walls are one cell thick, which is the whole point: gases have to pass straight through.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for animals that maintain a stable internal temperature?",
+      "options": [
+        "Ectotherms",
+        "Endotherms",
+        "Poikilotherms",
+        "Hibernators"
+      ],
+      "answerIndex": 1,
+      "fact": "It costs enormously more food, which is why a lizard can live on a fraction of what a similar-sized mammal needs.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist proposed the theory of continental drift?",
+      "options": [
+        "Charles Lyell",
+        "Alfred Wegener",
+        "James Hutton",
+        "Harry Hess"
+      ],
+      "answerIndex": 1,
+      "fact": "He was ridiculed for decades because he could not explain what moved the continents. Seafloor spreading later supplied the answer.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant metal in the Earth's crust?",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Copper",
+        "Magnesium"
+      ],
+      "answerIndex": 1,
+      "fact": "It was once more valuable than gold, because separating it from ore was so difficult before electricity.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of the brain regulates breathing and heart rate?",
+      "options": [
+        "Cerebrum",
+        "Brainstem",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "answerIndex": 1,
+      "fact": "It runs these functions without conscious input, which is why you cannot hold your breath until you pass out and stay out.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of insects called?",
+      "options": [
+        "Entomology",
+        "Etymology",
+        "Herpetology",
+        "Ichthyology"
+      ],
+      "answerIndex": 0,
+      "fact": "It is regularly confused with etymology, the study of word origins, which is itself a nice piece of etymology.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas makes up the majority of the air we exhale?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Water vapour"
+      ],
+      "answerIndex": 1,
+      "fact": "Nitrogen passes through untouched, and exhaled air still contains about 16 percent oxygen, which is what makes rescue breathing work.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a change in a DNA sequence?",
+      "options": [
+        "Mutation",
+        "Mitosis",
+        "Meiosis",
+        "Transcription"
+      ],
+      "answerIndex": 0,
+      "fact": "Most have no effect at all, since much of the genome does not code for anything.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force keeps a satellite in orbit?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Thrust"
+      ],
+      "answerIndex": 1,
+      "fact": "An orbiting satellite is falling continuously, just moving sideways fast enough to keep missing the planet.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the pH range of an acidic solution?",
+      "options": [
+        "Below 7",
+        "Exactly 7",
+        "Above 7",
+        "Above 14"
+      ],
+      "answerIndex": 0,
+      "fact": "The scale is logarithmic, so a pH of 3 is a hundred times more acidic than a pH of 5.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure connects muscle to bone?",
+      "options": [
+        "Ligament",
+        "Tendon",
+        "Cartilage",
+        "Fascia"
+      ],
+      "answerIndex": 1,
+      "fact": "The Achilles is the thickest in the body and can withstand several times an adult's body weight in load.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the closest planet to Earth on average over time?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "answerIndex": 2,
+      "fact": "Venus comes closest at its nearest approach, but Mercury spends more of its orbit near us than any other planet.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which vitamin deficiency causes rickets?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answerIndex": 2,
+      "fact": "It surged in industrial cities where smog blocked the sunlight children needed to make it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the splitting of an atomic nucleus?",
+      "options": [
+        "Fusion",
+        "Fission",
+        "Decay",
+        "Ionisation"
+      ],
+      "answerIndex": 1,
+      "fact": "It was discovered by accident in 1938, and the physicist who explained it was excluded from the Nobel that followed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ is primarily affected by cirrhosis?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Lung",
+        "Pancreas"
+      ],
+      "answerIndex": 1,
+      "fact": "Scarring replaces working tissue, which is the one kind of liver damage the organ cannot regenerate its way out of.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of wave does sound travel as?",
+      "options": [
+        "Transverse",
+        "Longitudinal",
+        "Electromagnetic",
+        "Standing"
+      ],
+      "answerIndex": 1,
+      "fact": "It cannot travel through a vacuum at all, which is why space is genuinely silent.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest artery in the human body?",
+      "options": [
+        "Carotid",
+        "Aorta",
+        "Femoral",
+        "Pulmonary"
+      ],
+      "answerIndex": 1,
+      "fact": "It is about the diameter of a garden hose, and every drop of blood leaving the heart's left side passes through it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which process do bacteria use to reproduce?",
+      "options": [
+        "Binary fission",
+        "Meiosis",
+        "Budding",
+        "Pollination"
+      ],
+      "answerIndex": 0,
+      "fact": "Under ideal conditions some divide every twenty minutes, which is why food spoils so suddenly rather than gradually.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What does a catalyst do to the activation energy of a reaction?",
+      "options": [
+        "Raises it",
+        "Lowers it",
+        "Removes it",
+        "Doubles it"
+      ],
+      "answerIndex": 1,
+      "fact": "It provides an easier route rather than pushing harder, which is why it can be recovered unchanged afterwards.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the scientific name for the windpipe?",
+      "options": [
+        "Oesophagus",
+        "Trachea",
+        "Larynx",
+        "Bronchus"
+      ],
+      "answerIndex": 1,
+      "fact": "It is held open by C-shaped rings of cartilage, with the gap at the back so the food pipe behind it can expand.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle is exchanged to produce the electromagnetic force?",
+      "options": [
+        "Photon",
+        "Gluon",
+        "Neutrino",
+        "Boson"
+      ],
+      "answerIndex": 0,
+      "fact": "It has no mass, which is why the force it carries reaches across the entire universe rather than fading out.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which layer of skin is the outermost?",
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis",
+        "Subcutis"
+      ],
+      "answerIndex": 1,
+      "fact": "Its outer cells are already dead, and you shed roughly 500 million of them every day.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the unit of frequency?",
+      "options": [
+        "Hertz",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "answerIndex": 0,
+      "fact": "Human hearing tops out around 20,000 of them, and that ceiling drops steadily with age.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which mineral is measured as 10 on the Mohs scale?",
+      "options": [
+        "Quartz",
+        "Corundum",
+        "Diamond",
+        "Topaz"
+      ],
+      "answerIndex": 2,
+      "fact": "The scale is ordinal, not proportional: the gap between 9 and 10 is far larger than between 1 and 9.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a solution that resists changes in pH?",
+      "options": [
+        "Buffer",
+        "Solvent",
+        "Electrolyte",
+        "Colloid"
+      ],
+      "answerIndex": 0,
+      "fact": "Blood is one, and it holds pH within a range so narrow that a shift of a few tenths is life threatening.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of galaxy is the Milky Way?",
+      "options": [
+        "Elliptical",
+        "Spiral",
+        "Irregular",
+        "Lenticular"
+      ],
+      "answerIndex": 1,
+      "fact": "We only worked this out indirectly, since we cannot get outside it to look.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the main function of red blood cells?",
+      "options": [
+        "Fighting infection",
+        "Carrying oxygen",
+        "Clotting",
+        "Storing fat"
+      ],
+      "answerIndex": 1,
+      "fact": "A single one makes the full circuit of the body roughly every minute.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the process by which a solid becomes a gas directly?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Deposition"
+      ],
+      "answerIndex": 0,
+      "fact": "Dry ice does it at ordinary pressure, which is why it produces fog rather than a puddle.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which human organ system includes the skin, hair and nails?",
+      "options": [
+        "Integumentary",
+        "Endocrine",
+        "Lymphatic",
+        "Muscular"
+      ],
+      "answerIndex": 0,
+      "fact": "Skin is the body's largest organ, weighing more than the brain and liver combined.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet takes the longest to orbit the Sun?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answerIndex": 2,
+      "fact": "It completed its first full orbit since discovery only in 2011, 165 years after being found.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is a group of cells working together to perform a function called?",
+      "options": [
+        "Organ",
+        "Tissue",
+        "System",
+        "Organism"
+      ],
+      "answerIndex": 1,
+      "fact": "There are four basic types in the human body, and everything from a heart to an eyelid is built from combinations of them.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scale measures the intensity of tornadoes?",
+      "options": [
+        "Richter",
+        "Fujita",
+        "Beaufort",
+        "Saffir-Simpson"
+      ],
+      "answerIndex": 1,
+      "fact": "It rates the damage rather than the wind, because instruments rarely survive close enough to measure directly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical formula for methane?",
+      "options": [
+        "CH4",
+        "CO2",
+        "C2H6",
+        "NH3"
+      ],
+      "answerIndex": 0,
+      "fact": "As a greenhouse gas it traps far more heat than carbon dioxide, but breaks down in the atmosphere much faster.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is the universal plasma donor?",
+      "options": [
+        "O negative",
+        "AB positive",
+        "A positive",
+        "B negative"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the reverse of red cells: AB gives plasma to anyone, while O can receive plasma from anyone.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a star that suddenly increases dramatically in brightness?",
+      "options": [
+        "Pulsar",
+        "Nova",
+        "Quasar",
+        "Nebula"
+      ],
+      "answerIndex": 1,
+      "fact": "The name means new, because early astronomers assumed a star had appeared where none had been.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which sense do bats primarily use to navigate in darkness?",
+      "options": [
+        "Sight",
+        "Echolocation",
+        "Smell",
+        "Magnetism"
+      ],
+      "answerIndex": 1,
+      "fact": "They emit calls loud enough to deafen themselves, and briefly disconnect their own ear bones with each shout.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for water containing dissolved salts from rock?",
+      "options": [
+        "Soft water",
+        "Hard water",
+        "Distilled water",
+        "Brackish water"
+      ],
+      "answerIndex": 1,
+      "fact": "The dissolved minerals are why kettles fur up, and why soap lathers poorly in some regions.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the largest volcano in the solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Earth",
+        "Io"
+      ],
+      "answerIndex": 1,
+      "fact": "Olympus Mons is roughly the size of France and so wide that from its slopes the summit would sit below the horizon.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of heredity called?",
+      "options": [
+        "Genetics",
+        "Cytology",
+        "Physiology",
+        "Anatomy"
+      ],
+      "answerIndex": 0,
+      "fact": "Its foundations came from a monk counting pea plants, work that went almost unread for thirty-five years.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of energy does a moving object possess?",
+      "options": [
+        "Potential",
+        "Kinetic",
+        "Chemical",
+        "Nuclear"
+      ],
+      "answerIndex": 1,
+      "fact": "It rises with the square of speed, which is why stopping distances grow so sharply as a car goes faster.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ produces bile?",
+      "options": [
+        "Gallbladder",
+        "Liver",
+        "Pancreas",
+        "Stomach"
+      ],
+      "answerIndex": 1,
+      "fact": "The gallbladder only stores it, which is why removing that organ changes little about digestion.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for an atom with a different number of neutrons?",
+      "options": [
+        "Ion",
+        "Isotope",
+        "Isomer",
+        "Allotrope"
+      ],
+      "answerIndex": 1,
+      "fact": "Carbon dating works by measuring how much of one unstable version remains in organic material.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which colour of visible light has the longest wavelength?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Violet"
+      ],
+      "answerIndex": 0,
+      "fact": "It scatters least in air, which is why sunsets redden and why it is used for distant warning lights.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the outermost layer of the Earth?",
+      "options": [
+        "Crust",
+        "Mantle",
+        "Core",
+        "Lithosphere"
+      ],
+      "answerIndex": 0,
+      "fact": "Under the oceans it is only about six kilometres thick, thinner relative to the planet than an apple skin.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which body system is responsible for producing antibodies?",
+      "options": [
+        "Nervous",
+        "Immune",
+        "Digestive",
+        "Skeletal"
+      ],
+      "answerIndex": 1,
+      "fact": "It keeps a memory of past infections, which is the entire principle vaccines exploit.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which physical quantity is measured in pascals?",
+      "options": [
+        "Force",
+        "Pressure",
+        "Energy",
+        "Power"
+      ],
+      "answerIndex": 1,
+      "fact": "Atmospheric pressure at sea level is about 101,000 of them, which is roughly a kilogram pressing on every square centimetre of you.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the largest type of white blood cell?",
+      "options": [
+        "Neutrophil",
+        "Monocyte",
+        "Lymphocyte",
+        "Basophil"
+      ],
+      "answerIndex": 1,
+      "fact": "They mature into cells that engulf debris and pathogens whole, a process named for the Greek for devouring.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which theory describes the origin of the universe from a hot dense state?",
+      "options": [
+        "Steady State",
+        "Big Bang",
+        "Inflation",
+        "Multiverse"
+      ],
+      "answerIndex": 1,
+      "fact": "The name was coined dismissively by an opponent of the idea, and stuck.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure in plants absorbs water and nutrients from soil?",
+      "options": [
+        "Stem",
+        "Root",
+        "Leaf",
+        "Bud"
+      ],
+      "answerIndex": 1,
+      "fact": "Most of the absorbing is done by microscopic hairs, and many plants effectively outsource the job to fungi.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the amount of matter in an object?",
+      "options": [
+        "Weight",
+        "Mass",
+        "Density",
+        "Volume"
+      ],
+      "answerIndex": 1,
+      "fact": "It does not change with location, which is why an astronaut has the same amount on the Moon and weighs a sixth as much.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which chemical element is essential to haemoglobin?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Magnesium"
+      ],
+      "answerIndex": 1,
+      "fact": "Some marine animals use copper instead, which is why a horseshoe crab's blood is blue.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which unit expresses the amount of substance in chemistry?",
+      "options": [
+        "Mole",
+        "Gram",
+        "Litre",
+        "Kelvin"
+      ],
+      "answerIndex": 0,
+      "fact": "One contains about 6.02 times ten to the twenty-third particles, a number chosen so atomic mass in grams comes out neat.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which part of a comet points away from the Sun?",
+      "options": [
+        "The nucleus",
+        "The tail",
+        "The coma",
+        "The core"
+      ],
+      "answerIndex": 1,
+      "fact": "It is pushed by solar wind rather than trailing behind, so on the outbound leg it precedes the comet.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a self-sustaining nuclear reaction?",
+      "options": [
+        "Chain reaction",
+        "Half-life",
+        "Decay series",
+        "Critical mass"
+      ],
+      "answerIndex": 0,
+      "fact": "The first controlled one was achieved under a disused squash court at the University of Chicago in 1942.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which class of animal are dolphins?",
+      "options": [
+        "Fish",
+        "Mammals",
+        "Reptiles",
+        "Amphibians"
+      ],
+      "answerIndex": 1,
+      "fact": "They sleep with one half of the brain at a time, because breathing for them is a conscious act.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the SI unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Coulomb"
+      ],
+      "answerIndex": 1,
+      "fact": "It is defined by the force between two current-carrying wires, one of the few units tied to a physical effect rather than an object.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which process describes water moving from soil into the atmosphere via plants?",
+      "options": [
+        "Evapotranspiration",
+        "Precipitation",
+        "Percolation",
+        "Infiltration"
+      ],
+      "answerIndex": 0,
+      "fact": "The Amazon moves so much water this way that it effectively creates its own rainfall.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Science",
+      "prompt": "Which subatomic particles make up a proton?",
+      "options": [
+        "Electrons",
+        "Quarks",
+        "Neutrinos",
+        "Photons"
+      ],
+      "answerIndex": 1,
+      "fact": "Their combined mass accounts for only a small fraction of the proton's. The rest is the energy binding them.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In boxing, what does TKO stand for?",
+      "options": [
+        "Total Knockout",
+        "Technical Knockout",
+        "Timed Knockout",
+        "Tactical Knockout"
+      ],
+      "answerIndex": 1,
+      "fact": "It exists so a referee can stop a fight before a fighter is actually knocked unconscious.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a sport-specific term called a bogey?",
+      "options": [
+        "Golf",
+        "Cricket",
+        "Bowling",
+        "Curling"
+      ],
+      "answerIndex": 0,
+      "fact": "It comes from a Victorian song about a bogeyman, adopted by golfers as the phantom opponent they were chasing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many players are on an Australian rules football team on the field?",
+      "options": [
+        "Fifteen",
+        "Sixteen",
+        "Eighteen",
+        "Twenty"
+      ],
+      "answerIndex": 2,
+      "fact": "The oval ground it is played on is borrowed from cricket, since the sport was invented to keep cricketers fit in winter.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country dominates the sport of table tennis at Olympic level?",
+      "options": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Germany"
+      ],
+      "answerIndex": 1,
+      "fact": "Its national trials are widely considered harder to win than the Olympics themselves.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the term for scoring three goals in one ice hockey game?",
+      "options": [
+        "A treble",
+        "A hat-trick",
+        "A triple",
+        "A trifecta"
+      ],
+      "answerIndex": 1,
+      "fact": "Fans traditionally throw hats onto the ice, and the arena staff collect them during the next stoppage.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which race is known as the Greatest Show on Turf in horse racing's British calendar?",
+      "options": [
+        "The Grand National",
+        "The Derby",
+        "Royal Ascot",
+        "The Cheltenham Gold Cup"
+      ],
+      "answerIndex": 0,
+      "fact": "Its fences are named rather than numbered, and Becher's Brook is called after a rider who fell into it in 1839.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points does a converted try earn in total in rugby union?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "answerIndex": 2,
+      "fact": "The conversion is kicked from a line drawn straight back from where the try was scored, so scoring nearer the posts helps.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a move called the Fosbury Flop?",
+      "options": [
+        "Pole vault",
+        "High jump",
+        "Long jump",
+        "Triple jump"
+      ],
+      "answerIndex": 1,
+      "fact": "It only became possible once landing pits changed from sand and sawdust to deep foam.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do teams compete for the Webb Ellis Cup?",
+      "options": [
+        "Cricket",
+        "Rugby union",
+        "Rugby league",
+        "Hockey"
+      ],
+      "answerIndex": 1,
+      "fact": "It is named after the schoolboy of the founding legend, a story historians consider almost certainly invented.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How wide is a regulation football goal?",
+      "options": [
+        "6.4 metres",
+        "7.32 metres",
+        "8 metres",
+        "9.15 metres"
+      ],
+      "answerIndex": 1,
+      "fact": "The figure is 8 yards converted, which is why it comes out at such an awkward metric number.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played with a puck and a curved stick on grass?",
+      "options": [
+        "Field hockey",
+        "Lacrosse",
+        "Hurling",
+        "Shinty"
+      ],
+      "answerIndex": 0,
+      "fact": "It is played with a ball rather than a puck, which is the detail this question is designed to catch.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic event involves shooting and fencing among five disciplines?",
+      "options": [
+        "Decathlon",
+        "Modern pentathlon",
+        "Heptathlon",
+        "Triathlon"
+      ],
+      "answerIndex": 1,
+      "fact": "It was invented to simulate the skills of a 19th-century cavalry officer trapped behind enemy lines.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In cricket, what is the fielding position directly behind the batter called?",
+      "options": [
+        "Slip",
+        "Gully",
+        "Wicketkeeper",
+        "Point"
+      ],
+      "answerIndex": 2,
+      "fact": "They typically take more catches than any other fielder, and are the only player permitted gloves and pads.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which nation invented the sport of curling?",
+      "options": [
+        "Canada",
+        "Scotland",
+        "Sweden",
+        "Norway"
+      ],
+      "answerIndex": 1,
+      "fact": "Every competition stone is quarried from a single small Scottish island, prized for granite that resists cracking.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the diameter of a basketball hoop?",
+      "options": [
+        "38 cm",
+        "45 cm",
+        "50 cm",
+        "56 cm"
+      ],
+      "answerIndex": 1,
+      "fact": "That is a little under twice the diameter of the ball, so a clean centred shot has surprisingly little margin.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards the Claret Jug?",
+      "options": [
+        "Golf",
+        "Cricket",
+        "Sailing",
+        "Rowing"
+      ],
+      "answerIndex": 0,
+      "fact": "The winner keeps a replica. The original goes back before the next championship, engraved with their name.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first Cricket World Cup in 1975?",
+      "options": [
+        "Australia",
+        "West Indies",
+        "England",
+        "India"
+      ],
+      "answerIndex": 1,
+      "fact": "They won the next one too, and the final in 1975 finished close to nine in the evening in midsummer London.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms jib, tack and spinnaker?",
+      "options": [
+        "Rowing",
+        "Sailing",
+        "Canoeing",
+        "Surfing"
+      ],
+      "answerIndex": 1,
+      "fact": "A boat cannot sail directly into the wind, so tacking is a zigzag that makes upwind progress at an angle.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a standard Olympic-distance triathlon run?",
+      "options": [
+        "5 km",
+        "10 km",
+        "21 km",
+        "42 km"
+      ],
+      "answerIndex": 1,
+      "fact": "It follows a 1.5 kilometre swim and a 40 kilometre bike leg, and the run is where most races are decided.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which martial art is the national sport of Korea?",
+      "options": [
+        "Judo",
+        "Taekwondo",
+        "Hapkido",
+        "Karate"
+      ],
+      "answerIndex": 1,
+      "fact": "It became a full Olympic medal sport in 2000, after two Games as a demonstration event.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, what is the standard height of a men's 110 metre hurdle?",
+      "options": [
+        "91 cm",
+        "100 cm",
+        "107 cm",
+        "114 cm"
+      ],
+      "answerIndex": 2,
+      "fact": "The hurdles are weighted to tip forward if struck, a change made after athletes broke bones on rigid barriers.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called a maiden over?",
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Rounders",
+        "Softball"
+      ],
+      "answerIndex": 0,
+      "fact": "It means six balls bowled with no runs conceded, and the term dates back to at least the 1830s.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Tour de France titles by nationality?",
+      "options": [
+        "Belgium",
+        "France",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 1,
+      "fact": "No French rider has won it since 1985, which has become a running national frustration.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is contested at the Crucible Theatre in Sheffield?",
+      "options": [
+        "Darts",
+        "Snooker",
+        "Bowls",
+        "Squash"
+      ],
+      "answerIndex": 1,
+      "fact": "The venue seats under a thousand, making it far smaller than most sports would accept for a world final.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes long is each quarter in an NBA game?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Fifteen",
+        "Twenty"
+      ],
+      "answerIndex": 1,
+      "fact": "International basketball uses ten-minute quarters, which is why NBA and Olympic statistics do not compare directly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which event is the shortest sprint on the Olympic athletics programme?",
+      "options": [
+        "100 metres",
+        "60 metres",
+        "200 metres",
+        "400 metres"
+      ],
+      "answerIndex": 0,
+      "fact": "The 60 metres is contested indoors only, so the 100 is the shortest at a summer Games.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a position called the hooker?",
+      "options": [
+        "Rugby",
+        "Cricket",
+        "Hockey",
+        "Handball"
+      ],
+      "answerIndex": 0,
+      "fact": "The name describes the job: hooking the ball backwards with the foot once the scrum engages.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the term birdie for one under par?",
+      "options": [
+        "Golf",
+        "Badminton",
+        "Archery",
+        "Croquet"
+      ],
+      "answerIndex": 0,
+      "fact": "Badminton uses birdie too, but for the shuttlecock itself, which is where the confusion comes from.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport would you perform a triple axel?",
+      "options": [
+        "Gymnastics",
+        "Figure skating",
+        "Diving",
+        "Trampolining"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the only jump taken off facing forwards, which adds an extra half rotation compared with every other triple.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which competition is contested by women's golfers of Europe and the United States?",
+      "options": [
+        "The Ryder Cup",
+        "The Solheim Cup",
+        "The Curtis Cup",
+        "The Presidents Cup"
+      ],
+      "answerIndex": 1,
+      "fact": "It began in 1990, more than sixty years after the men's equivalent.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many pins are set at the start of a tenpin bowling frame?",
+      "options": [
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "answerIndex": 1,
+      "fact": "The game exists because an earlier nine-pin version was banned in parts of America over gambling.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which position in football is the only one permitted to handle the ball?",
+      "options": [
+        "Sweeper",
+        "Goalkeeper",
+        "Defender",
+        "Midfielder"
+      ],
+      "answerIndex": 1,
+      "fact": "Even then only inside the penalty area, a restriction introduced in 1912 after keepers began roaming.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Lord's, Headingley and Edgbaston?",
+      "options": [
+        "Rugby",
+        "Cricket",
+        "Football",
+        "Athletics"
+      ],
+      "answerIndex": 1,
+      "fact": "All three are English Test grounds, and each has a distinct reputation for how the pitch behaves.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic sport involves a horse performing set movements to music?",
+      "options": [
+        "Dressage",
+        "Show jumping",
+        "Eventing",
+        "Polo"
+      ],
+      "answerIndex": 0,
+      "fact": "The freestyle routine is judged partly on how well the horse's gait matches the chosen music.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many attempts does a shot putter get in an Olympic final?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "answerIndex": 2,
+      "fact": "The field is usually cut after three, with only the leaders taking the final three throws.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has hosted the Summer Olympics most often?",
+      "options": [
+        "Greece",
+        "The United States",
+        "France",
+        "The United Kingdom"
+      ],
+      "answerIndex": 1,
+      "fact": "It has hosted four times and will host a fifth in 2028, more than any other nation.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an event called the omnium?",
+      "options": [
+        "Track cycling",
+        "Swimming",
+        "Athletics",
+        "Rowing"
+      ],
+      "answerIndex": 0,
+      "fact": "It combines four separate races into one score, making it cycling's closest equivalent to a decathlon.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is a home run with the bases loaded called?",
+      "options": [
+        "A grand slam",
+        "A full house",
+        "A four-bagger",
+        "A cycle"
+      ],
+      "answerIndex": 0,
+      "fact": "The term was borrowed from bridge, where it means winning every trick.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a device called a starting block?",
+      "options": [
+        "Swimming",
+        "Sprinting",
+        "Both swimming and sprinting",
+        "Cycling"
+      ],
+      "answerIndex": 2,
+      "fact": "Both fit them with sensors, and a reaction under a tenth of a second is ruled a false start as physically impossible.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which team sport is played on ice with a broom?",
+      "options": [
+        "Ice hockey",
+        "Curling",
+        "Bandy",
+        "Broomball"
+      ],
+      "answerIndex": 1,
+      "fact": "Sweepers can extend a stone's travel by several metres, which makes them as important as the thrower.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the men's football World Cup in 1966?",
+      "options": [
+        "Brazil",
+        "England",
+        "West Germany",
+        "Italy"
+      ],
+      "answerIndex": 1,
+      "fact": "The trophy had been stolen months earlier and was found by a dog named Pickles under a hedge in south London.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a scoring zone called the D?",
+      "options": [
+        "Field hockey",
+        "Darts",
+        "Netball",
+        "Basketball"
+      ],
+      "answerIndex": 0,
+      "fact": "A goal only counts if the shot is taken inside it, which is why attacks funnel into a narrow area.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long does a standard boxing round last?",
+      "options": [
+        "Two minutes",
+        "Three minutes",
+        "Four minutes",
+        "Five minutes"
+      ],
+      "answerIndex": 1,
+      "fact": "Women's professional rounds are usually two minutes, a difference that remains a live argument in the sport.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the Iron Man and Iron Woman events?",
+      "options": [
+        "Triathlon",
+        "Surf lifesaving",
+        "Rowing",
+        "Cross-country"
+      ],
+      "answerIndex": 1,
+      "fact": "It combines swimming, board paddling, ski paddling and running, and is a major spectator sport in Australia.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country's team is nicknamed the All Blacks?",
+      "options": [
+        "South Africa",
+        "New Zealand",
+        "Australia",
+        "Fiji"
+      ],
+      "answerIndex": 1,
+      "fact": "The name may have come from a printer's error, with all backs misread as all blacks in a match report.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what score follows deuce for the serving player?",
+      "options": [
+        "Advantage",
+        "Game",
+        "Break point",
+        "Set point"
+      ],
+      "answerIndex": 0,
+      "fact": "The word comes from the French for two-of, meaning two more points are needed to take the game.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How heavy is a men's Olympic shot?",
+      "options": [
+        "4 kg",
+        "5.4 kg",
+        "7.26 kg",
+        "9 kg"
+      ],
+      "answerIndex": 2,
+      "fact": "That is exactly sixteen pounds, another metric figure that gives itself away as an imperial conversion.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a race called the Paris-Roubaix?",
+      "options": [
+        "Running",
+        "Cycling",
+        "Motor racing",
+        "Horse racing"
+      ],
+      "answerIndex": 1,
+      "fact": "Much of it runs over cobbles so rough that riders use wider tyres and extra padding on the handlebars.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which stadium is known as the Theatre of Dreams?",
+      "options": [
+        "Wembley",
+        "Old Trafford",
+        "Anfield",
+        "Camp Nou"
+      ],
+      "answerIndex": 1,
+      "fact": "The nickname came from a former player turned commentator, and the club adopted it in its own marketing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many events make up the women's heptathlon?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "answerIndex": 2,
+      "fact": "It replaced the pentathlon in 1984, and the 800 metres that closes it is regularly where the medals change hands.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called love-forty?",
+      "options": [
+        "Tennis",
+        "Squash",
+        "Badminton",
+        "Table tennis"
+      ],
+      "answerIndex": 0,
+      "fact": "It means the server has lost three straight points, and faces three chances for the opponent to take the game.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country invented the sport of lacrosse?",
+      "options": [
+        "Canada",
+        "The United States",
+        "England",
+        "France"
+      ],
+      "answerIndex": 0,
+      "fact": "It descends from games played by Indigenous nations, some involving hundreds of players and lasting days.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Formula One team has won the most constructors' championships?",
+      "options": [
+        "McLaren",
+        "Ferrari",
+        "Mercedes",
+        "Williams"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the only team to have competed in every season since the championship began in 1950.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many laps is the Indianapolis 500?",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "answerIndex": 2,
+      "fact": "The winner traditionally drinks milk, a custom that began when a driver asked for buttermilk in 1936.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features a technique called the butterfly?",
+      "options": [
+        "Swimming",
+        "Diving",
+        "Gymnastics",
+        "Rowing"
+      ],
+      "answerIndex": 0,
+      "fact": "It developed out of breaststroke, when swimmers realised the rules did not forbid recovering the arms over the water.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is awarded to the winner of the Premier League?",
+      "options": [
+        "The FA Cup",
+        "The Premier League Trophy",
+        "The Charity Shield",
+        "The League Cup"
+      ],
+      "answerIndex": 1,
+      "fact": "A second identical trophy exists so presentations can be staged simultaneously if the title is undecided on the final day.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country has won the most Olympic gold medals in gymnastics?",
+      "options": [
+        "Russia and the Soviet Union",
+        "The United States",
+        "Japan",
+        "China"
+      ],
+      "answerIndex": 0,
+      "fact": "Their dominance was built on a state system that identified and trained gymnasts from early childhood.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport is played at Roland Garros?",
+      "options": [
+        "Football",
+        "Tennis",
+        "Rugby",
+        "Cycling"
+      ],
+      "answerIndex": 1,
+      "fact": "The venue is named after a First World War aviator, not a tennis player.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many minutes is a period of extra time in knockout football?",
+      "options": [
+        "Ten",
+        "Fifteen",
+        "Twenty",
+        "Thirty"
+      ],
+      "answerIndex": 1,
+      "fact": "Two such periods are played in full, with no sudden death, after the golden goal experiment was abandoned in 2004.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms peloton and domestique?",
+      "options": [
+        "Cycling",
+        "Rowing",
+        "Marathon running",
+        "Speed skating"
+      ],
+      "answerIndex": 0,
+      "fact": "Riding in the pack saves up to forty percent of a rider's energy, which is why breakaways so often fail.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country hosted the 2016 Summer Olympics?",
+      "options": [
+        "China",
+        "Brazil",
+        "Japan",
+        "Greece"
+      ],
+      "answerIndex": 1,
+      "fact": "It was the first Games held in South America, and the first in the southern hemisphere's winter.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character called Marty McFly?",
+      "options": [
+        "Back to the Future",
+        "Ferris Bueller's Day Off",
+        "The Goonies",
+        "Weird Science"
+      ],
+      "answerIndex": 0,
+      "fact": "Filming began with a different lead actor, and five weeks of footage was scrapped when he was replaced.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV drama is set in the fictional Sterling Cooper advertising agency?",
+      "options": [
+        "Mad Men",
+        "Suits",
+        "The Newsroom",
+        "Billions"
+      ],
+      "answerIndex": 0,
+      "fact": "Its creator wrote the pilot years earlier and used it as a writing sample to get a job on The Sopranos.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist is known for the Marilyn Diptych?",
+      "options": [
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "Jackson Pollock",
+        "Keith Haring"
+      ],
+      "answerIndex": 0,
+      "fact": "He made it in the weeks after her death, using a publicity photograph from a film released ten years earlier.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a computer system called Skynet?",
+      "options": [
+        "The Matrix",
+        "The Terminator",
+        "Blade Runner",
+        "RoboCop"
+      ],
+      "answerIndex": 1,
+      "fact": "The first film was made for around six million dollars, a fraction of what its sequels cost.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album Lemonade?",
+      "options": [
+        "Rihanna",
+        "Beyoncé",
+        "Alicia Keys",
+        "Solange"
+      ],
+      "answerIndex": 1,
+      "fact": "It was released with an hour-long film, and arrived with no advance announcement at all.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which sitcom features an apartment above Monk's Café?",
+      "options": [
+        "Friends",
+        "Seinfeld",
+        "Will and Grace",
+        "Frasier"
+      ],
+      "answerIndex": 1,
+      "fact": "It was pitched as a show about nothing, a phrase that began as an in-joke and became its actual reputation.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game features a plumber's brother named Luigi?",
+      "options": [
+        "Sonic",
+        "Super Mario",
+        "Donkey Kong",
+        "Zelda"
+      ],
+      "answerIndex": 1,
+      "fact": "He is taller and jumps higher but has worse traction, differences introduced so the two brothers played distinctly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director made the films Kill Bill and Reservoir Dogs?",
+      "options": [
+        "Robert Rodriguez",
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "David Fincher"
+      ],
+      "answerIndex": 1,
+      "fact": "He sold his first screenplay for fifty thousand dollars and used the money to fund his own directing debut.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series is set in the Upside Down?",
+      "options": [
+        "Dark",
+        "Stranger Things",
+        "Locke and Key",
+        "The OA"
+      ],
+      "answerIndex": 1,
+      "fact": "Its early working title was Montauk, after the Long Island town where it was originally to be set.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician was known as Slowhand?",
+      "options": [
+        "Jimmy Page",
+        "Eric Clapton",
+        "Jeff Beck",
+        "Keith Richards"
+      ],
+      "answerIndex": 1,
+      "fact": "The nickname came from audiences slow-clapping while he changed a broken string mid-song.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the first Academy Award for Best Picture?",
+      "options": [
+        "Wings",
+        "The Jazz Singer",
+        "Sunrise",
+        "Metropolis"
+      ],
+      "answerIndex": 0,
+      "fact": "It remains the only silent film to win the award, until The Artist eighty-four years later.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features the Griffin family?",
+      "options": [
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "King of the Hill"
+      ],
+      "answerIndex": 1,
+      "fact": "It was cancelled twice and revived after DVD sales and reruns proved an audience still existed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fashion designer created the little black dress in the 1920s?",
+      "options": [
+        "Elsa Schiaparelli",
+        "Coco Chanel",
+        "Christian Dior",
+        "Madeleine Vionnet"
+      ],
+      "answerIndex": 1,
+      "fact": "A magazine compared it to the Ford Model T, meaning it was a uniform anyone could wear.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band performed the song Smells Like Teen Spirit?",
+      "options": [
+        "Pearl Jam",
+        "Nirvana",
+        "Soundgarden",
+        "Stone Temple Pilots"
+      ],
+      "answerIndex": 1,
+      "fact": "The title came from graffiti a friend wrote on a wall, referring to a deodorant brand the singer had not heard of.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Tyler Durden?",
+      "options": [
+        "Se7en",
+        "Fight Club",
+        "American Psycho",
+        "Trainspotting"
+      ],
+      "answerIndex": 1,
+      "fact": "It lost money in cinemas and became profitable only through DVD, which reshaped how studios judged failure.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features the Iron Throne?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "Vikings",
+        "The Last Kingdom"
+      ],
+      "answerIndex": 1,
+      "fact": "The book describes it as vastly larger and more jagged than any screen version could practically build.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician recorded the album Blue?",
+      "options": [
+        "Carole King",
+        "Joni Mitchell",
+        "Carly Simon",
+        "Judy Collins"
+      ],
+      "answerIndex": 1,
+      "fact": "She used unconventional guitar tunings extensively, partly because polio in childhood limited her left hand.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a shark hunt led by Quint?",
+      "options": [
+        "Jaws",
+        "The Meg",
+        "Deep Blue Sea",
+        "Open Water"
+      ],
+      "answerIndex": 0,
+      "fact": "Its two-note theme was initially dismissed by the director as a joke when the composer first played it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which K-pop group is known for the song Gangnam Style?",
+      "options": [
+        "BTS",
+        "Psy",
+        "Big Bang",
+        "Super Junior"
+      ],
+      "answerIndex": 1,
+      "fact": "Psy is a solo artist, and the video was the first to pass a billion views on YouTube.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film studio produced Snow White and the Seven Dwarfs?",
+      "options": [
+        "Warner Bros",
+        "Disney",
+        "MGM",
+        "Universal"
+      ],
+      "answerIndex": 1,
+      "fact": "It was called Disney's Folly during production, since nobody believed audiences would sit through a feature-length cartoon.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV chef is associated with the phrase pukka?",
+      "options": [
+        "Gordon Ramsay",
+        "Jamie Oliver",
+        "Rick Stein",
+        "Heston Blumenthal"
+      ],
+      "answerIndex": 1,
+      "fact": "The word is borrowed from Hindi, where it means properly made or genuine.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's logo is a tongue and lips?",
+      "options": [
+        "The Who",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "AC/DC"
+      ],
+      "answerIndex": 1,
+      "fact": "It was designed by a student for fifty pounds and is now among the most recognised band marks in the world.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set in the fictional African nation of Wakanda?",
+      "options": [
+        "Black Panther",
+        "Coming to America",
+        "Blood Diamond",
+        "The Woman King"
+      ],
+      "answerIndex": 0,
+      "fact": "It was the first superhero film nominated for the Academy Award for Best Picture.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which game show features the phrase Is that your final answer?",
+      "options": [
+        "The Weakest Link",
+        "Who Wants to Be a Millionaire",
+        "Deal or No Deal",
+        "Jeopardy"
+      ],
+      "answerIndex": 1,
+      "fact": "The lighting and music were designed to intensify as the money rose, a format detail licensed along with the questions.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor starred as James Bond in Casino Royale in 2006?",
+      "options": [
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Timothy Dalton",
+        "George Lazenby"
+      ],
+      "answerIndex": 1,
+      "fact": "His casting drew such hostile press that campaigners set up a website urging a boycott before release.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which magazine is known for its annual swimsuit issue?",
+      "options": [
+        "Sports Illustrated",
+        "GQ",
+        "Esquire",
+        "Vanity Fair"
+      ],
+      "answerIndex": 0,
+      "fact": "It began in 1964 as filler for a slow sports month between the Super Bowl and spring training.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the character Amélie Poulain?",
+      "options": [
+        "Amélie",
+        "La Vie en Rose",
+        "The Intouchables",
+        "Delicatessen"
+      ],
+      "answerIndex": 0,
+      "fact": "Its colour grading pushed greens and reds heavily, a look widely imitated for years afterwards.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which rapper founded the record label Death Row?",
+      "options": [
+        "Dr. Dre",
+        "Suge Knight",
+        "Snoop Dogg",
+        "Tupac Shakur"
+      ],
+      "answerIndex": 1,
+      "fact": "Dr. Dre co-founded it and left within five years, going on to start Aftermath instead.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series follows the Crawley family at a country estate?",
+      "options": [
+        "Downton Abbey",
+        "Brideshead Revisited",
+        "Upstairs Downstairs",
+        "Peaky Blinders"
+      ],
+      "answerIndex": 0,
+      "fact": "The real house used for filming remains a private family home and opens to visitors for part of the year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer performed the theme to Skyfall?",
+      "options": [
+        "Sam Smith",
+        "Adele",
+        "Billie Eilish",
+        "Shirley Bassey"
+      ],
+      "answerIndex": 1,
+      "fact": "It was the first Bond theme to win an Academy Award, fifty years into the series.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game series is set in the Mushroom Kingdom?",
+      "options": [
+        "Zelda",
+        "Super Mario",
+        "Kirby",
+        "Metroid"
+      ],
+      "answerIndex": 1,
+      "fact": "Its designer has said the pipes came from watching workers install plumbing outside his office.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which comedian created the character Ali G?",
+      "options": [
+        "Ricky Gervais",
+        "Sacha Baron Cohen",
+        "Steve Coogan",
+        "Matt Lucas"
+      ],
+      "answerIndex": 1,
+      "fact": "Several interviewees only realised the character was fictional after their footage aired.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film is set aboard a train called the Snowpiercer?",
+      "options": [
+        "Snowpiercer",
+        "Train to Busan",
+        "The Midnight Meat Train",
+        "Unstoppable"
+      ],
+      "answerIndex": 0,
+      "fact": "It is adapted from a French graphic novel its director found by chance in a Seoul comic shop.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician is known as the Boss?",
+      "options": [
+        "Bob Dylan",
+        "Bruce Springsteen",
+        "Tom Petty",
+        "Neil Young"
+      ],
+      "answerIndex": 1,
+      "fact": "The nickname came from his habit of collecting the band's pay and distributing it after early gigs.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a hotel run by Gustave H?",
+      "options": [
+        "The Grand Budapest Hotel",
+        "Moonrise Kingdom",
+        "The Royal Tenenbaums",
+        "Rushmore"
+      ],
+      "answerIndex": 0,
+      "fact": "It uses three different screen shapes, each marking a different decade in the story.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the song Wonderwall?",
+      "options": [
+        "Blur",
+        "Oasis",
+        "Pulp",
+        "The Verve"
+      ],
+      "answerIndex": 1,
+      "fact": "The title came from a 1968 film soundtrack by George Harrison, and has nothing to do with the lyrics.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series dramatises the Chernobyl disaster?",
+      "options": [
+        "Chernobyl",
+        "The Americans",
+        "Deutschland 83",
+        "Bodyguard"
+      ],
+      "answerIndex": 0,
+      "fact": "It was filmed largely in Lithuania at a plant of the same Soviet design as the one that failed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist created the sculpture known as The Thinker?",
+      "options": [
+        "Auguste Rodin",
+        "Michelangelo",
+        "Donatello",
+        "Constantin Brancusi"
+      ],
+      "answerIndex": 0,
+      "fact": "It was originally a small figure meant to sit above a much larger doorway, and was only later enlarged.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which comedy film features a wedding planner named Franck?",
+      "options": [
+        "Father of the Bride",
+        "The Wedding Singer",
+        "27 Dresses",
+        "Bridesmaids"
+      ],
+      "answerIndex": 0,
+      "fact": "The character's near-incomprehensible accent was invented by the actor during auditions and kept.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the Renaissance and Cowboy Carter albums?",
+      "options": [
+        "Beyoncé",
+        "Rihanna",
+        "Lizzo",
+        "SZA"
+      ],
+      "answerIndex": 0,
+      "fact": "The two are parts of a planned trilogy, each built around a different genre tradition.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV format features contestants in a house under constant filming?",
+      "options": [
+        "Big Brother",
+        "Survivor",
+        "The Bachelor",
+        "Love Island"
+      ],
+      "answerIndex": 0,
+      "fact": "It began in the Netherlands in 1999 and takes its name from the surveillance state in Orwell's novel.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album OK Computer's follow-up, Kid A?",
+      "options": [
+        "Radiohead",
+        "Blur",
+        "Muse",
+        "Coldplay"
+      ],
+      "answerIndex": 0,
+      "fact": "It was released with no singles and almost no promotion, and still went to number one in several countries.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Forrest Gump's friend Lieutenant Dan?",
+      "options": [
+        "Gary Sinise",
+        "Bill Paxton",
+        "Kevin Bacon",
+        "Ed Harris"
+      ],
+      "answerIndex": 0,
+      "fact": "His missing legs were created by wrapping them in blue fabric, an early use of the technique in a mainstream film.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musical is based on the songs of ABBA?",
+      "options": [
+        "Mamma Mia",
+        "Jersey Boys",
+        "We Will Rock You",
+        "Rock of Ages"
+      ],
+      "answerIndex": 0,
+      "fact": "Its writer built an entirely new story around existing songs, a format that became known as the jukebox musical.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which social platform is built around short vertical videos?",
+      "options": [
+        "TikTok",
+        "LinkedIn",
+        "Pinterest",
+        "Discord"
+      ],
+      "answerIndex": 0,
+      "fact": "It grew out of a merger with a lip-syncing app that already had tens of millions of users.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line I'll be back?",
+      "options": [
+        "The Terminator",
+        "Predator",
+        "Commando",
+        "Total Recall"
+      ],
+      "answerIndex": 0,
+      "fact": "The actor argued for changing the line, saying the contraction was awkward for him to pronounce.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist painted The Persistence of Memory with its melting clocks?",
+      "options": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "answerIndex": 0,
+      "fact": "He said the clocks were inspired by camembert cheese softening in the sun.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's members include Thom Yorke?",
+      "options": [
+        "Radiohead",
+        "Elbow",
+        "Doves",
+        "Interpol"
+      ],
+      "answerIndex": 0,
+      "fact": "They took their name from a Talking Heads song, having previously been called On a Friday after rehearsal day.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Neo?",
+      "options": [
+        "The Matrix",
+        "Inception",
+        "Tron",
+        "Ex Machina"
+      ],
+      "answerIndex": 0,
+      "fact": "Its bullet-time effect used over a hundred still cameras fired in sequence rather than a moving camera.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer released the album 1989?",
+      "options": [
+        "Taylor Swift",
+        "Katy Perry",
+        "Lorde",
+        "Halsey"
+      ],
+      "answerIndex": 0,
+      "fact": "She re-recorded it years later to own the masters, a move that reshaped industry conversations about artist rights.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features the character Ellen Ripley's cat?",
+      "options": [
+        "Alien",
+        "Gremlins",
+        "Men in Black",
+        "Stuart Little"
+      ],
+      "answerIndex": 0,
+      "fact": "The cat was used on set to gauge tension, since animals react visibly to sudden movement.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features a prison called Litchfield?",
+      "options": [
+        "Orange Is the New Black",
+        "Oz",
+        "Prison Break",
+        "Wentworth"
+      ],
+      "answerIndex": 0,
+      "fact": "It was based on a memoir, and the real author served just over a year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director is known for Spirited Away and My Neighbour Totoro?",
+      "options": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Makoto Shinkai",
+        "Mamoru Hosoda"
+      ],
+      "answerIndex": 0,
+      "fact": "He has announced his retirement several times and returned to directing after each one.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band recorded the album Rumours?",
+      "options": [
+        "Fleetwood Mac",
+        "The Eagles",
+        "Steely Dan",
+        "America"
+      ],
+      "answerIndex": 0,
+      "fact": "All three couples in the band were breaking up during recording, which is more or less what the album is about.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a toy cowboy named Woody?",
+      "options": [
+        "Toy Story",
+        "Cars",
+        "A Bug's Life",
+        "Monsters Inc"
+      ],
+      "answerIndex": 0,
+      "fact": "An early version of the character was written as far nastier, and test audiences disliked him so much he was rewritten.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which festival is held annually in the Nevada desert?",
+      "options": [
+        "Burning Man",
+        "Coachella",
+        "Lollapalooza",
+        "SXSW"
+      ],
+      "answerIndex": 0,
+      "fact": "Participants are expected to remove everything they bring, leaving the site as they found it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV series features the character Tony Soprano?",
+      "options": [
+        "The Sopranos",
+        "Boardwalk Empire",
+        "Goodfellas",
+        "The Wire"
+      ],
+      "answerIndex": 0,
+      "fact": "Its final scene cuts abruptly to black, and viewers initially assumed their televisions had failed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the fictional Dunder Mifflin paper company?",
+      "options": [
+        "The Office",
+        "Office Space",
+        "Horrible Bosses",
+        "Corporate"
+      ],
+      "answerIndex": 0,
+      "fact": "It is a television series rather than a film, which is the trap in this question.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician performed at Live Aid wearing a white vest and led the crowd in call and response?",
+      "options": [
+        "Freddie Mercury",
+        "David Bowie",
+        "Bono",
+        "Phil Collins"
+      ],
+      "answerIndex": 0,
+      "fact": "Phil Collins played both London and Philadelphia that day, crossing the Atlantic on Concorde between sets.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film franchise features the Millennium Falcon?",
+      "options": [
+        "Star Wars",
+        "Star Trek",
+        "Firefly",
+        "Battlestar Galactica"
+      ],
+      "answerIndex": 0,
+      "fact": "Its distinctive shape came late in design, after the original was judged too similar to a rival series' ship.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which board game involves solving a murder at Tudor Mansion?",
+      "options": [
+        "Cluedo",
+        "Monopoly",
+        "Risk",
+        "Scrabble"
+      ],
+      "answerIndex": 0,
+      "fact": "It was invented during the Second World War by a British clerk to pass the time during air raids.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the Faroe Islands?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Iceland",
+        "Scotland"
+      ],
+      "answerIndex": 1,
+      "fact": "The islands govern themselves and stayed out of the European Union when Denmark joined.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city sits at the mouth of the River Tagus?",
+      "options": [
+        "Porto",
+        "Lisbon",
+        "Seville",
+        "Cadiz"
+      ],
+      "answerIndex": 1,
+      "fact": "Its lower town was rebuilt on a strict grid after 1755, using some of the earliest earthquake-resistant design in Europe.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Tian Shan mountain range's highest peak?",
+      "options": [
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Uzbekistan"
+      ],
+      "answerIndex": 1,
+      "fact": "Roughly ninety percent of the country sits above 1,500 metres, making it one of the most mountainous on Earth.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Greece and Turkey?",
+      "options": [
+        "The Ionian Sea",
+        "The Aegean Sea",
+        "The Sea of Crete",
+        "The Levantine Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "It holds well over a thousand islands, and ownership of some of the smallest is still formally disputed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the largest producer of cocoa beans?",
+      "options": [
+        "Ghana",
+        "Ivory Coast",
+        "Nigeria",
+        "Ecuador"
+      ],
+      "answerIndex": 1,
+      "fact": "It and Ghana together grow well over half the world's supply, almost all of it on smallholder farms.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the Grand Canyon?",
+      "options": [
+        "The Colorado",
+        "The Rio Grande",
+        "The Snake",
+        "The Green"
+      ],
+      "answerIndex": 0,
+      "fact": "It carved roughly a mile of depth over six million years, exposing rock nearly two billion years old at the bottom.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is entirely within the southern hemisphere?",
+      "options": [
+        "Africa",
+        "Australia",
+        "South America",
+        "Asia"
+      ],
+      "answerIndex": 1,
+      "fact": "Antarctica is too, but Australia is the only inhabited continent that qualifies.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait lies between Denmark and Sweden?",
+      "options": [
+        "The Øresund",
+        "The Skagerrak",
+        "The Kattegat",
+        "The Great Belt"
+      ],
+      "answerIndex": 0,
+      "fact": "A bridge and tunnel cross it, switching from one to the other on an artificial island built for the purpose.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state is the only one to border two oceans?",
+      "options": [
+        "Florida",
+        "Alaska",
+        "California",
+        "Texas"
+      ],
+      "answerIndex": 1,
+      "fact": "It touches both the Pacific and the Arctic, and its northern coast is icebound for much of the year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the world's highest waterfall by uninterrupted drop?",
+      "options": [
+        "Brazil",
+        "Venezuela",
+        "Guyana",
+        "Colombia"
+      ],
+      "answerIndex": 1,
+      "fact": "It was unknown outside the region until an American pilot crash-landed nearby in 1937.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city lies on the Danube?",
+      "options": [
+        "Prague",
+        "Vienna",
+        "Warsaw",
+        "Zagreb"
+      ],
+      "answerIndex": 1,
+      "fact": "The river passes through four capitals in total, more than any other river on Earth.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is directly east of Poland?",
+      "options": [
+        "Germany",
+        "Belarus",
+        "Slovakia",
+        "Lithuania"
+      ],
+      "answerIndex": 1,
+      "fact": "The border runs through the last old-growth lowland forest in Europe, split between the two countries.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which African river is the second longest?",
+      "options": [
+        "The Zambezi",
+        "The Congo",
+        "The Niger",
+        "The Orange"
+      ],
+      "answerIndex": 1,
+      "fact": "It crosses the equator twice, which means part of its basin is always in a rainy season.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates Spain from Morocco?",
+      "options": [
+        "The Strait of Gibraltar",
+        "The Strait of Sicily",
+        "The Bosphorus",
+        "The Kerch Strait"
+      ],
+      "answerIndex": 0,
+      "fact": "The Mediterranean would largely evaporate within a couple of thousand years if this gap ever closed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Wellington?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Fiji",
+        "Papua New Guinea"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the southernmost capital of any sovereign state, and among the windiest cities in the world.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert lies mostly in Chile?",
+      "options": [
+        "The Patagonian",
+        "The Atacama",
+        "The Sechura",
+        "The Monte"
+      ],
+      "answerIndex": 1,
+      "fact": "Its skies are so clear and dry that several of the world's largest telescopes are built there.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the source of the Amazon river?",
+      "options": [
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "Ecuador"
+      ],
+      "answerIndex": 1,
+      "fact": "The exact source was disputed for centuries and was only settled in the 1970s by satellite survey.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the highest capital city in Europe?",
+      "options": [
+        "Bern",
+        "Madrid",
+        "Andorra la Vella",
+        "Sofia"
+      ],
+      "answerIndex": 2,
+      "fact": "It sits above 1,000 metres in the Pyrenees, and the country around it has no airport at all.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean surrounds Antarctica?",
+      "options": [
+        "The Pacific",
+        "The Southern",
+        "The Atlantic",
+        "The Indian"
+      ],
+      "answerIndex": 1,
+      "fact": "It was only formally recognised as a separate ocean in 2000, and some bodies still dispute the designation.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the longest land border in the world?",
+      "options": [
+        "Russia",
+        "China",
+        "Brazil",
+        "India"
+      ],
+      "answerIndex": 1,
+      "fact": "It borders fourteen countries, tied with Russia, but its total border length is greater.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which UK city sits on the River Clyde?",
+      "options": [
+        "Edinburgh",
+        "Glasgow",
+        "Aberdeen",
+        "Dundee"
+      ],
+      "answerIndex": 1,
+      "fact": "At its shipbuilding peak the river produced roughly a fifth of all ships launched worldwide.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range contains K2?",
+      "options": [
+        "Himalaya",
+        "Karakoram",
+        "Hindu Kush",
+        "Pamir"
+      ],
+      "answerIndex": 1,
+      "fact": "It has never been successfully climbed in winter until 2021, decades after Everest fell in the same season.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is completely surrounded by Italy and Switzerland?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Monaco",
+        "None of these"
+      ],
+      "answerIndex": 3,
+      "fact": "Liechtenstein sits between Switzerland and Austria, and it is one of only two doubly landlocked countries on Earth.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US city is known as the Big Easy?",
+      "options": [
+        "Memphis",
+        "New Orleans",
+        "Nashville",
+        "Savannah"
+      ],
+      "answerIndex": 1,
+      "fact": "Much of it sits below sea level, protected by a levee system that failed catastrophically in 2005.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the only one to border both the Atlantic and Indian oceans in Africa?",
+      "options": [
+        "Egypt",
+        "South Africa",
+        "Morocco",
+        "Somalia"
+      ],
+      "answerIndex": 1,
+      "fact": "It has three capital cities, splitting the executive, legislative and judicial branches between them.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea does the Jordan river flow into?",
+      "options": [
+        "The Mediterranean",
+        "The Dead Sea",
+        "The Red Sea",
+        "The Sea of Galilee"
+      ],
+      "answerIndex": 1,
+      "fact": "So much water is now drawn off upstream that the sea it feeds is shrinking by about a metre a year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the world's largest producer of natural rubber?",
+      "options": [
+        "Brazil",
+        "Thailand",
+        "Malaysia",
+        "India"
+      ],
+      "answerIndex": 1,
+      "fact": "The trees are native to the Amazon, and were smuggled to Asia in the 1870s in a single shipment of seeds.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European capital is built across a series of islands?",
+      "options": [
+        "Oslo",
+        "Stockholm",
+        "Helsinki",
+        "Copenhagen"
+      ],
+      "answerIndex": 1,
+      "fact": "It spreads over fourteen islands, and the surrounding archipelago holds tens of thousands more.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's coastline forms the Bay of Bengal's western edge?",
+      "options": [
+        "Myanmar",
+        "India",
+        "Bangladesh",
+        "Sri Lanka"
+      ],
+      "answerIndex": 1,
+      "fact": "The bay funnels cyclones toward its northern coast, which is why it produces some of the deadliest storms on record.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river runs through Vienna and Budapest?",
+      "options": [
+        "The Rhine",
+        "The Danube",
+        "The Elbe",
+        "The Vistula"
+      ],
+      "answerIndex": 1,
+      "fact": "It flows west to east, unusual for a major European river, which shaped centuries of trade along it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the smallest country in mainland Africa by area?",
+      "options": [
+        "Djibouti",
+        "The Gambia",
+        "Rwanda",
+        "Eswatini"
+      ],
+      "answerIndex": 1,
+      "fact": "Its shape follows a river, and one story holds the borders were fixed by how far a gunboat could fire from midstream.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Serengeti plains?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Zambia"
+      ],
+      "answerIndex": 1,
+      "fact": "Its annual wildebeest migration involves nearly two million animals moving in a rough circle across the border and back.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest city in Africa by population?",
+      "options": [
+        "Cairo",
+        "Lagos",
+        "Kinshasa",
+        "Johannesburg"
+      ],
+      "answerIndex": 1,
+      "fact": "Estimates vary enormously, because the city has grown faster than anyone has been able to count.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range runs along Italy's spine?",
+      "options": [
+        "The Alps",
+        "The Apennines",
+        "The Dolomites",
+        "The Carpathians"
+      ],
+      "answerIndex": 1,
+      "fact": "It is geologically young and still rising, which is why the peninsula gets so many earthquakes.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most UNESCO World Heritage sites?",
+      "options": [
+        "China",
+        "Italy",
+        "Spain",
+        "France"
+      ],
+      "answerIndex": 1,
+      "fact": "It and China trade the top spot regularly, with each new listing round shifting the lead.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which South American country has no coastline?",
+      "options": [
+        "Paraguay",
+        "Uruguay",
+        "Ecuador",
+        "Guyana"
+      ],
+      "answerIndex": 0,
+      "fact": "Bolivia is the other landlocked one, and it still maintains a navy on rivers and Lake Titicaca.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is directly south of Egypt?",
+      "options": [
+        "Libya",
+        "Sudan",
+        "Chad",
+        "Ethiopia"
+      ],
+      "answerIndex": 1,
+      "fact": "It has more pyramids than Egypt, though they are smaller and far less visited.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the deepest point of the Atlantic Ocean?",
+      "options": [
+        "The Puerto Rico Trench",
+        "The Romanche Trench",
+        "The South Sandwich Trench",
+        "The Cayman Trough"
+      ],
+      "answerIndex": 0,
+      "fact": "It reaches over 8,000 metres, and the tectonic strain there makes the Caribbean a tsunami risk.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known for the fjord called Geirangerfjord?",
+      "options": [
+        "Iceland",
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ],
+      "answerIndex": 1,
+      "fact": "Cruise ships were restricted there over emissions, since the steep walls trap exhaust in the valley.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's flag features a cedar tree?",
+      "options": [
+        "Cyprus",
+        "Lebanon",
+        "Jordan",
+        "Syria"
+      ],
+      "answerIndex": 1,
+      "fact": "The tree is mentioned repeatedly in ancient texts, and the forests that made the country famous are now tiny remnants.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is bordered by Vietnam, the Philippines and China?",
+      "options": [
+        "The South China Sea",
+        "The East China Sea",
+        "The Java Sea",
+        "The Andaman Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly a third of global shipping passes through it, which is much of why its islands are so fiercely contested.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the longest river in Western Europe?",
+      "options": [
+        "The Rhine",
+        "The Loire",
+        "The Seine",
+        "The Elbe"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the last major French river without significant damming on its main course.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the world's largest reserves of lithium?",
+      "options": [
+        "Chile",
+        "Bolivia",
+        "Australia",
+        "China"
+      ],
+      "answerIndex": 1,
+      "fact": "Most of it lies under a salt flat so level it is used to calibrate satellites from orbit.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain sits closest to the equator among major peaks?",
+      "options": [
+        "Kilimanjaro",
+        "Mount Kenya",
+        "Chimborazo",
+        "Cotopaxi"
+      ],
+      "answerIndex": 1,
+      "fact": "It has glaciers despite straddling the equator, though they have shrunk by over ninety percent in a century.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's largest city is Ho Chi Minh City?",
+      "options": [
+        "Cambodia",
+        "Vietnam",
+        "Laos",
+        "Thailand"
+      ],
+      "answerIndex": 1,
+      "fact": "It is still widely called Saigon in everyday speech, including by the airport's own international code.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest lake entirely within Canada?",
+      "options": [
+        "Great Bear Lake",
+        "Lake Winnipeg",
+        "Great Slave Lake",
+        "Lake Athabasca"
+      ],
+      "answerIndex": 0,
+      "fact": "It stays partly frozen for around eight months of the year.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Great Rift Valley's northern end?",
+      "options": [
+        "Kenya",
+        "Israel and Jordan",
+        "Ethiopia",
+        "Tanzania"
+      ],
+      "answerIndex": 1,
+      "fact": "The system runs some 6,000 kilometres, and East Africa is slowly tearing away along it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European country has the most coastline relative to its size?",
+      "options": [
+        "Greece",
+        "Norway",
+        "Croatia",
+        "Italy"
+      ],
+      "answerIndex": 1,
+      "fact": "Its fjords make the measured coastline longer than the distance from Norway to Australia.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which US state has the most national parks?",
+      "options": [
+        "Alaska",
+        "California",
+        "Utah",
+        "Colorado"
+      ],
+      "answerIndex": 1,
+      "fact": "It has nine, spanning desert, alpine and coastal terrain within a single state.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country lies immediately south of Saudi Arabia on the Red Sea coast?",
+      "options": [
+        "Oman",
+        "Yemen",
+        "Qatar",
+        "Kuwait"
+      ],
+      "answerIndex": 1,
+      "fact": "Its island of Socotra hosts hundreds of plant species found nowhere else, including the dragon's blood tree.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which capital city is closest to the equator?",
+      "options": [
+        "Nairobi",
+        "Quito",
+        "Singapore",
+        "Bogotá"
+      ],
+      "answerIndex": 1,
+      "fact": "A monument marks the line just outside it, though GPS later showed the marker sits a couple of hundred metres off.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea separates Korea from Japan?",
+      "options": [
+        "The Yellow Sea",
+        "The Sea of Japan",
+        "The East China Sea",
+        "The Philippine Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "Its name is itself a long-running diplomatic dispute, with Korea preferring the East Sea.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country produces the most wine by volume?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "The United States"
+      ],
+      "answerIndex": 1,
+      "fact": "It and France swap the lead most years depending on harvest, while Spain has the most land under vine.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest country in the Caribbean by area?",
+      "options": [
+        "Jamaica",
+        "Cuba",
+        "Haiti",
+        "Dominican Republic"
+      ],
+      "answerIndex": 1,
+      "fact": "It is larger than all the other Caribbean islands combined.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range separates Asia from the Indian subcontinent?",
+      "options": [
+        "The Urals",
+        "The Himalayas",
+        "The Caucasus",
+        "The Zagros"
+      ],
+      "answerIndex": 1,
+      "fact": "It is still rising by around five millimetres a year as the Indian plate pushes north.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's currency is the yen?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "answerIndex": 1,
+      "fact": "It has no smaller circulating unit, having abolished the sen in 1953 to end wartime inflation accounting.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the world's largest island country by area?",
+      "options": [
+        "Madagascar",
+        "Indonesia",
+        "Japan",
+        "Philippines"
+      ],
+      "answerIndex": 1,
+      "fact": "It is moving its capital away from Jakarta, partly because the current one is sinking.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake sits on the border of Bolivia and Peru?",
+      "options": [
+        "Lake Poopó",
+        "Lake Titicaca",
+        "Lake Maracaibo",
+        "Lake Argentino"
+      ],
+      "answerIndex": 1,
+      "fact": "At over 3,800 metres it is the highest navigable lake in the world, with commercial ferries operating on it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's northernmost point lies inside the Arctic Circle and hosts a midnight sun?",
+      "options": [
+        "Denmark",
+        "Norway",
+        "Ireland",
+        "Estonia"
+      ],
+      "answerIndex": 1,
+      "fact": "In its far north the sun does not set for around ten weeks, and does not rise for a similar stretch in winter.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the Uluru rock formation?",
+      "options": [
+        "New Zealand",
+        "Australia",
+        "South Africa",
+        "Namibia"
+      ],
+      "answerIndex": 1,
+      "fact": "Climbing it was banned in 2019 at the request of its traditional owners, the Anangu.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river forms much of the border between Germany and France?",
+      "options": [
+        "The Rhine",
+        "The Moselle",
+        "The Rhône",
+        "The Meuse"
+      ],
+      "answerIndex": 0,
+      "fact": "Its course has been straightened so heavily since the 1800s that it is now roughly eighty kilometres shorter.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby's neighbour and narrator?",
+      "options": [
+        "Nick Carraway",
+        "Tom Buchanan",
+        "George Wilson",
+        "Meyer Wolfsheim"
+      ],
+      "answerIndex": 0,
+      "fact": "The book sold poorly in its author's lifetime, and unsold copies were still sitting in a warehouse when he died.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem begins Let us go then, you and I?",
+      "options": [
+        "The Waste Land",
+        "The Love Song of J. Alfred Prufrock",
+        "Four Quartets",
+        "Ash Wednesday"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author wrote most of it while still a student, years before it found a publisher.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Lolita?",
+      "options": [
+        "Vladimir Nabokov",
+        "Boris Pasternak",
+        "Ivan Bunin",
+        "Yevgeny Zamyatin"
+      ],
+      "answerIndex": 0,
+      "fact": "He wrote in his third language, and claimed his English prose was a poor substitute for his Russian.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the ship Pequod?",
+      "options": [
+        "Treasure Island",
+        "Moby-Dick",
+        "Lord Jim",
+        "The Sea-Wolf"
+      ],
+      "answerIndex": 1,
+      "fact": "Its author worked on a whaler himself and deserted in the Marquesas, living for weeks among islanders.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with the line Call me Jonah?",
+      "options": [
+        "Cat's Cradle",
+        "Slaughterhouse-Five",
+        "Breakfast of Champions",
+        "Galápagos"
+      ],
+      "answerIndex": 0,
+      "fact": "The opening deliberately echoes Moby-Dick, and the novel invents a religion built on admitted lies.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who created the character Jeeves?",
+      "options": [
+        "P.G. Wodehouse",
+        "Evelyn Waugh",
+        "Saki",
+        "Nancy Mitford"
+      ],
+      "answerIndex": 0,
+      "fact": "The character was originally a minor figure with two lines, and took over the series almost by accident.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set on the island of Guernsey during occupation?",
+      "options": [
+        "The Guernsey Literary and Potato Peel Pie Society",
+        "Birdsong",
+        "Atonement",
+        "The Reader"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author died before publication, and her niece completed the manuscript.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote One Flew Over the Cuckoo's Nest?",
+      "options": [
+        "Ken Kesey",
+        "Jack Kerouac",
+        "Hunter S. Thompson",
+        "Tom Wolfe"
+      ],
+      "answerIndex": 0,
+      "fact": "He drew on night shifts at a psychiatric hospital, where he had volunteered for government drug trials.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Greek myth is retold in the novel Circe?",
+      "options": [
+        "The Odyssey",
+        "The Iliad",
+        "Theogony",
+        "Oedipus"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author taught classics for a decade before writing fiction, and translated her own source passages.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Never Let Me Go?",
+      "options": [
+        "Ian McEwan",
+        "Kazuo Ishiguro",
+        "Julian Barnes",
+        "Martin Amis"
+      ],
+      "answerIndex": 1,
+      "fact": "He has said he tried the same premise twice before, over fifteen years, and abandoned both attempts.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a story within a story?",
+      "options": [
+        "Frame narrative",
+        "Foreshadowing",
+        "In medias res",
+        "Epilogue"
+      ],
+      "answerIndex": 0,
+      "fact": "The Arabian Nights nests them several layers deep, with characters telling stories about characters telling stories.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Holly Golightly?",
+      "options": [
+        "Breakfast at Tiffany's",
+        "The Talented Mr Ripley",
+        "Revolutionary Road",
+        "Bonjour Tristesse"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author reportedly wanted Marilyn Monroe for the film and was unhappy with the casting he got.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the epic poem Paradise Lost?",
+      "options": [
+        "John Milton",
+        "John Donne",
+        "Edmund Spenser",
+        "Andrew Marvell"
+      ],
+      "answerIndex": 0,
+      "fact": "He was completely blind by the time he composed it, dictating the lines to whoever was available.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a dog named Enzo?",
+      "options": [
+        "The Art of Racing in the Rain",
+        "Marley and Me",
+        "A Dog's Purpose",
+        "Timbuktu"
+      ],
+      "answerIndex": 0,
+      "fact": "The narrator believes he will be reincarnated as a human, which shapes how he interprets everything he sees.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel White Teeth?",
+      "options": [
+        "Zadie Smith",
+        "Andrea Levy",
+        "Monica Ali",
+        "Hanif Kureishi"
+      ],
+      "answerIndex": 0,
+      "fact": "She sold it on the strength of a partial manuscript while still an undergraduate.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features a shipwreck on a magical island?",
+      "options": [
+        "The Tempest",
+        "Twelfth Night",
+        "The Winter's Tale",
+        "Pericles"
+      ],
+      "answerIndex": 0,
+      "fact": "It is widely read as his farewell to the stage, since the magician breaks his staff and gives up his art at the end.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Clockwork Orange?",
+      "options": [
+        "Anthony Burgess",
+        "William Golding",
+        "J.G. Ballard",
+        "Graham Greene"
+      ],
+      "answerIndex": 0,
+      "fact": "He invented an entire slang for it, drawn largely from Russian, so the book would not date.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Bilbo's nephew Frodo?",
+      "options": [
+        "The Lord of the Rings",
+        "The Hobbit",
+        "The Silmarillion",
+        "Unfinished Tales"
+      ],
+      "answerIndex": 0,
+      "fact": "Frodo is actually Bilbo's cousin, though the book calls him a nephew as a term of affection.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Beloved and Song of Solomon?",
+      "options": [
+        "Toni Morrison",
+        "Maya Angelou",
+        "Gwendolyn Brooks",
+        "Octavia Butler"
+      ],
+      "answerIndex": 0,
+      "fact": "She worked as an editor for years, publishing other Black writers before writing her own first novel at thirty-nine.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which literary term describes an ironic gap between what a character knows and the audience knows?",
+      "options": [
+        "Dramatic irony",
+        "Situational irony",
+        "Verbal irony",
+        "Satire"
+      ],
+      "answerIndex": 0,
+      "fact": "Greek tragedy relies on it almost entirely, since audiences already knew the myths being staged.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the fictional country of Gilead?",
+      "options": [
+        "The Handmaid's Tale",
+        "Brave New World",
+        "We",
+        "Parable of the Sower"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author began writing it in West Berlin in 1984, while the Wall was still standing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem Do not go gentle's contemporary, Death Be Not Proud?",
+      "options": [
+        "John Donne",
+        "George Herbert",
+        "Andrew Marvell",
+        "Henry Vaughan"
+      ],
+      "answerIndex": 0,
+      "fact": "He later became a famous preacher, and had his own funeral portrait painted while still alive.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set at a boarding school called Hailsham?",
+      "options": [
+        "Never Let Me Go",
+        "The Secret History",
+        "A Separate Peace",
+        "Black Swan Green"
+      ],
+      "answerIndex": 0,
+      "fact": "The nature of the school is withheld for much of the book, and the narrator reveals it almost casually.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the repetition of vowel sounds within nearby words?",
+      "options": [
+        "Assonance",
+        "Alliteration",
+        "Consonance",
+        "Sibilance"
+      ],
+      "answerIndex": 0,
+      "fact": "It binds a line together more subtly than rhyme, which is why it is common in free verse.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Bigwig?",
+      "options": [
+        "Watership Down",
+        "The Wind in the Willows",
+        "Animal Farm",
+        "Redwall"
+      ],
+      "answerIndex": 0,
+      "fact": "It began as stories told to the author's daughters on car journeys, and he invented a rabbit language for it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play An Inspector Calls?",
+      "options": [
+        "J.B. Priestley",
+        "Terence Rattigan",
+        "Noël Coward",
+        "John Osborne"
+      ],
+      "answerIndex": 0,
+      "fact": "It premiered in the Soviet Union in 1945, because no London theatre was free to stage it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is subtitled A Story of the Great Fire of London?",
+      "options": [
+        "Old St Paul's",
+        "Pepys's Diary",
+        "Restoration",
+        "The Plague"
+      ],
+      "answerIndex": 0,
+      "fact": "Samuel Pepys's diary remains the most cited eyewitness source, including his burying of cheese to save it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Remains of the Day's Booker rival, Possession?",
+      "options": [
+        "A.S. Byatt",
+        "Penelope Lively",
+        "Iris Murdoch",
+        "Anita Brookner"
+      ],
+      "answerIndex": 0,
+      "fact": "She wrote entire Victorian poems for the novel, attributing them to two invented poets.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Randle McMurphy?",
+      "options": [
+        "One Flew Over the Cuckoo's Nest",
+        "Catch-22",
+        "The Naked and the Dead",
+        "From Here to Eternity"
+      ],
+      "answerIndex": 0,
+      "fact": "The novel is narrated by a different character entirely, a detail the film adaptation abandoned.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Wolf Hall?",
+      "options": [
+        "Hilary Mantel",
+        "Sarah Waters",
+        "Pat Barker",
+        "Rose Tremain"
+      ],
+      "answerIndex": 0,
+      "fact": "She became the first woman to win the Booker Prize twice, taking it for this novel and its sequel.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem features the Lady of Shalott?",
+      "options": [
+        "Tennyson's The Lady of Shalott",
+        "Coleridge's Christabel",
+        "Keats's Lamia",
+        "Browning's My Last Duchess"
+      ],
+      "answerIndex": 0,
+      "fact": "It became a favourite subject of Pre-Raphaelite painters, who returned to the same scene repeatedly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a long speech by one character in a play?",
+      "options": [
+        "Monologue",
+        "Dialogue",
+        "Aside",
+        "Chorus"
+      ],
+      "answerIndex": 0,
+      "fact": "A soliloquy differs in that the character is alone and speaking their thoughts rather than addressing anyone.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Yossarian?",
+      "options": [
+        "Catch-22",
+        "Slaughterhouse-Five",
+        "The Thin Red Line",
+        "A Farewell to Arms"
+      ],
+      "answerIndex": 0,
+      "fact": "The paradox the title describes has entered ordinary English for any rule that defeats itself.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the Hunger Games trilogy?",
+      "options": [
+        "Suzanne Collins",
+        "Veronica Roth",
+        "Stephenie Meyer",
+        "Cassandra Clare"
+      ],
+      "answerIndex": 0,
+      "fact": "She has said the idea came from channel-hopping between a reality show and war coverage.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in the fictional Salinas Valley across two generations?",
+      "options": [
+        "East of Eden",
+        "The Grapes of Wrath",
+        "Cannery Row",
+        "Tortilla Flat"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author called it the book everything else he had written had been practice for.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play The Importance of Being Earnest?",
+      "options": [
+        "Oscar Wilde",
+        "George Bernard Shaw",
+        "Richard Sheridan",
+        "Ben Jonson"
+      ],
+      "answerIndex": 0,
+      "fact": "It opened weeks before the trial that ruined him, and his name was removed from the theatre's billboards.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Frankenstein's contemporary, Dracula?",
+      "options": [
+        "Bram Stoker",
+        "Sheridan Le Fanu",
+        "M.R. James",
+        "Wilkie Collins"
+      ],
+      "answerIndex": 0,
+      "fact": "It is told entirely through letters, diaries and newspaper clippings, with no conventional narrator at all.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes giving a hint of what is to come in a story?",
+      "options": [
+        "Foreshadowing",
+        "Flashback",
+        "Exposition",
+        "Denouement"
+      ],
+      "answerIndex": 0,
+      "fact": "The advice about a gun on the wall having to be fired later comes from Chekhov, describing exactly this.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Master and Margarita?",
+      "options": [
+        "Mikhail Bulgakov",
+        "Boris Pasternak",
+        "Alexander Solzhenitsyn",
+        "Andrei Bely"
+      ],
+      "answerIndex": 0,
+      "fact": "He burned an early draft, then rewrote it, and it was published only twenty-six years after his death.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with a man waking to find himself on trial without knowing the charge?",
+      "options": [
+        "The Trial",
+        "The Castle",
+        "Amerika",
+        "The Metamorphosis"
+      ],
+      "answerIndex": 0,
+      "fact": "The chapters were found unbound and unnumbered, so their order is an editorial guess.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Half of a Yellow Sun?",
+      "options": [
+        "Chimamanda Ngozi Adichie",
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Ben Okri"
+      ],
+      "answerIndex": 0,
+      "fact": "The title refers to the emblem on the flag of Biafra, the breakaway state at the centre of the story.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Estella?",
+      "options": [
+        "Great Expectations",
+        "Bleak House",
+        "Little Dorrit",
+        "Hard Times"
+      ],
+      "answerIndex": 0,
+      "fact": "Her name means star, and she is described throughout as distant and cold light.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Secret History?",
+      "options": [
+        "Donna Tartt",
+        "Jeffrey Eugenides",
+        "Bret Easton Ellis",
+        "Michael Chabon"
+      ],
+      "answerIndex": 0,
+      "fact": "She takes roughly a decade over each novel, and has published three in thirty years.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poem contains the line I am the master of my fate?",
+      "options": [
+        "Invictus",
+        "If",
+        "Ozymandias",
+        "The Charge of the Light Brigade"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author wrote it while recovering from surgery that had already cost him one leg.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Boo Radley?",
+      "options": [
+        "To Kill a Mockingbird",
+        "The Help",
+        "A Time to Kill",
+        "Cold Sassy Tree"
+      ],
+      "answerIndex": 0,
+      "fact": "He appears in person only at the very end, having been present in the story's imagination throughout.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a whale-hunting captain obsessed with revenge?",
+      "options": [
+        "Moby-Dick",
+        "The Old Man and the Sea",
+        "Billy Budd",
+        "In the Heart of the Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "Roughly a third of it is not narrative at all, but essays on whales, ropes and the whaling trade.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Rebecca and the short story The Birds?",
+      "options": [
+        "Daphne du Maurier",
+        "Shirley Jackson",
+        "Elizabeth Bowen",
+        "Muriel Spark"
+      ],
+      "answerIndex": 0,
+      "fact": "Both were adapted by Hitchcock, and she reportedly disliked what he did to the second one.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a poem mourning someone who has died?",
+      "options": [
+        "Elegy",
+        "Ode",
+        "Sonnet",
+        "Ballad"
+      ],
+      "answerIndex": 0,
+      "fact": "The form dates to ancient Greece, where it originally described a metre rather than a subject.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Road's earlier work, Blood Meridian?",
+      "options": [
+        "Cormac McCarthy",
+        "Larry McMurtry",
+        "Annie Proulx",
+        "Denis Johnson"
+      ],
+      "answerIndex": 0,
+      "fact": "It draws closely on documented events of the 1840s southwest, which is much of what makes it so bleak.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Rosencrantz and Guildenstern Are Dead?",
+      "options": [
+        "Tom Stoppard",
+        "Harold Pinter",
+        "Alan Ayckbourn",
+        "Peter Shaffer"
+      ],
+      "answerIndex": 0,
+      "fact": "He arrived in Britain as a refugee child and learned English from scratch at eight.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set during the Nigerian Civil War?",
+      "options": [
+        "Half of a Yellow Sun",
+        "Things Fall Apart",
+        "Purple Hibiscus",
+        "Americanah"
+      ],
+      "answerIndex": 0,
+      "fact": "The war lasted from 1967 to 1970 and killed an estimated one to three million people, mostly from famine.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Brief History of Seven Killings?",
+      "options": [
+        "Marlon James",
+        "Zadie Smith",
+        "Colson Whitehead",
+        "Paul Beatty"
+      ],
+      "answerIndex": 0,
+      "fact": "It circles an attempt on Bob Marley's life, and is narrated by more than seventy different voices.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes the use of exaggeration for effect?",
+      "options": [
+        "Hyperbole",
+        "Litotes",
+        "Understatement",
+        "Irony"
+      ],
+      "answerIndex": 0,
+      "fact": "Its opposite, litotes, states something by denying the reverse, as in not bad meaning very good.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Book Thief?",
+      "options": [
+        "Markus Zusak",
+        "John Boyne",
+        "Ruta Sepetys",
+        "Anthony Doerr"
+      ],
+      "answerIndex": 0,
+      "fact": "It is narrated by Death, who repeatedly tells the reader the ending well in advance.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Dickens novel opens in a debtors' prison?",
+      "options": [
+        "Little Dorrit",
+        "Oliver Twist",
+        "Bleak House",
+        "Dombey and Son"
+      ],
+      "answerIndex": 0,
+      "fact": "His own father was imprisoned for debt when he was twelve, and he was sent to work in a factory.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel All the Light We Cannot See?",
+      "options": [
+        "Anthony Doerr",
+        "Kristin Hannah",
+        "Markus Zusak",
+        "Sebastian Faulks"
+      ],
+      "answerIndex": 0,
+      "fact": "He spent ten years on it, and its very short chapters were designed to be read in single sittings.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Humbert Humbert?",
+      "options": [
+        "Lolita",
+        "Pale Fire",
+        "Pnin",
+        "Despair"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author insisted the doubled name was chosen to sound repellent and faintly absurd at once.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Cloud Atlas?",
+      "options": [
+        "David Mitchell",
+        "Ian McEwan",
+        "Will Self",
+        "Jonathan Coe"
+      ],
+      "answerIndex": 0,
+      "fact": "Its six nested stories run forward then backward, so the first is also the last.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which term describes a recurring image or idea in a work?",
+      "options": [
+        "Motif",
+        "Genre",
+        "Trope",
+        "Conceit"
+      ],
+      "answerIndex": 0,
+      "fact": "It differs from a theme in being concrete: the theme is the idea, this is the thing that keeps appearing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play Long Day's Journey into Night?",
+      "options": [
+        "Eugene O'Neill",
+        "Arthur Miller",
+        "Tennessee Williams",
+        "Clifford Odets"
+      ],
+      "answerIndex": 0,
+      "fact": "He asked for it not to be staged until twenty-five years after his death; his widow allowed it after three.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set aboard a Mississippi raft?",
+      "options": [
+        "The Adventures of Huckleberry Finn",
+        "Tom Sawyer",
+        "Life on the Mississippi",
+        "The Prince and the Pauper"
+      ],
+      "answerIndex": 0,
+      "fact": "It has been among the most frequently banned books in American schools since the year it was published.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style System",
+        "Central Styling Standard",
+        "Coded Screen Syntax"
+      ],
+      "answerIndex": 0,
+      "fact": "The cascade is the rule that decides which style wins when several apply, and it is where most confusion with it starts.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Unix operating system?",
+      "options": [
+        "IBM",
+        "Bell Labs",
+        "DEC",
+        "Xerox"
+      ],
+      "answerIndex": 1,
+      "fact": "It began as a side project after a larger operating system was cancelled, written partly to run a game.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a program that translates code line by line at runtime?",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Assembler",
+        "Linker"
+      ],
+      "answerIndex": 1,
+      "fact": "It runs slower than compiled code but lets you test a change instantly, which is why scripting languages use it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the first mass-market personal computer spreadsheet-driven success, the Apple II?",
+      "options": [
+        "Apple",
+        "Commodore",
+        "Tandy",
+        "Atari"
+      ],
+      "answerIndex": 0,
+      "fact": "It stayed in production for sixteen years, longer than almost any computer since.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym DNS resolve?",
+      "options": [
+        "Passwords",
+        "Domain names",
+        "File formats",
+        "Video codecs"
+      ],
+      "answerIndex": 1,
+      "fact": "There are thirteen root server addresses worldwide, though each is actually many machines answering to the same address.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which programming language was designed by Bjarne Stroustrup?",
+      "options": [
+        "C",
+        "C++",
+        "Java",
+        "Rust"
+      ],
+      "answerIndex": 1,
+      "fact": "The name is a programmer's joke: the ++ operator means add one to what came before.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of RAID in storage?",
+      "options": [
+        "Faster boot times",
+        "Redundancy or performance across drives",
+        "Encryption",
+        "Compression"
+      ],
+      "answerIndex": 1,
+      "fact": "Some configurations survive a drive failing entirely, which is why it is standard in servers but rare in laptops.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which protocol secures web traffic with encryption?",
+      "options": [
+        "HTTP",
+        "TLS",
+        "FTP",
+        "SMTP"
+      ],
+      "answerIndex": 1,
+      "fact": "It replaced SSL, though almost everyone still calls certificates SSL certificates out of habit.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for a network attack that overwhelms a server with traffic?",
+      "options": [
+        "Phishing",
+        "Denial of service",
+        "SQL injection",
+        "Man in the middle"
+      ],
+      "answerIndex": 1,
+      "fact": "Distributed versions use thousands of compromised machines, which is what makes them so hard to block by address.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the PostScript page description language?",
+      "options": [
+        "Adobe",
+        "Apple",
+        "HP",
+        "Xerox"
+      ],
+      "answerIndex": 0,
+      "fact": "Combined with the laser printer and a Mac, it created desktop publishing more or less overnight.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CPU cache reduce?",
+      "options": [
+        "Power draw",
+        "Time waiting for memory",
+        "Screen flicker",
+        "Disk fragmentation"
+      ],
+      "answerIndex": 1,
+      "fact": "Fetching from main memory can cost the processor hundreds of idle cycles, which the cache exists to avoid.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is primarily used for styling and structuring data exchange as tags?",
+      "options": [
+        "XML",
+        "Python",
+        "Ruby",
+        "Go"
+      ],
+      "answerIndex": 0,
+      "fact": "JSON largely displaced it for web APIs, being far less verbose for the same information.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for testing software by feeding it random input?",
+      "options": [
+        "Fuzzing",
+        "Linting",
+        "Profiling",
+        "Mocking"
+      ],
+      "answerIndex": 0,
+      "fact": "It has found serious flaws in software that had passed years of careful hand-written tests.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit describes how many times a screen updates per second?",
+      "options": [
+        "Resolution",
+        "Refresh rate",
+        "Contrast ratio",
+        "Aspect ratio"
+      ],
+      "answerIndex": 1,
+      "fact": "Cinema runs at 24 per second, which is why film looks different from video even on the same screen.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym VPN's tunnel do?",
+      "options": [
+        "Compresses data",
+        "Encapsulates traffic inside another connection",
+        "Speeds up DNS",
+        "Blocks adverts"
+      ],
+      "answerIndex": 1,
+      "fact": "The outer connection hides what the inner one is doing, which is why it works on restricted networks.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a repository in version control?",
+      "options": [
+        "A backup drive",
+        "A store of code and its history",
+        "A build server",
+        "A package manager"
+      ],
+      "answerIndex": 1,
+      "fact": "Git stores every version as a full snapshot rather than a set of differences, which is why history is so fast to search.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company manufactures the M-series chips used in Macs?",
+      "options": [
+        "Intel",
+        "Apple",
+        "AMD",
+        "Qualcomm"
+      ],
+      "answerIndex": 1,
+      "fact": "They put processor and memory on the same package, which is much of why they run so cool for their speed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which sorting algorithm has an average complexity of n log n and is widely used?",
+      "options": [
+        "Bubble sort",
+        "Quicksort",
+        "Insertion sort",
+        "Selection sort"
+      ],
+      "answerIndex": 1,
+      "fact": "Its worst case is far slower, which is why real implementations shuffle or pick pivots carefully.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a CDN?",
+      "options": [
+        "Encrypting traffic",
+        "Serving content from servers near the user",
+        "Compiling code",
+        "Managing databases"
+      ],
+      "answerIndex": 1,
+      "fact": "Distance is a hard physical limit: light in fibre crosses the Atlantic in roughly thirty milliseconds at best.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Java programming language's current steward Oracle acquired?",
+      "options": [
+        "Sun Microsystems",
+        "Netscape",
+        "Borland",
+        "Novell"
+      ],
+      "answerIndex": 0,
+      "fact": "The acquisition led to a decade-long lawsuit with Google over whether an API can be copyrighted.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology uses a distributed ledger with no central authority?",
+      "options": [
+        "Blockchain",
+        "SQL",
+        "LDAP",
+        "SOAP"
+      ],
+      "answerIndex": 0,
+      "fact": "Its energy cost comes not from storing data but from making it expensive to rewrite history.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for code that runs in a browser rather than on a server?",
+      "options": [
+        "Client-side",
+        "Server-side",
+        "Middleware",
+        "Firmware"
+      ],
+      "answerIndex": 0,
+      "fact": "It can never be trusted for security, since the user controls the machine running it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym API rate limiting prevent?",
+      "options": [
+        "Data loss",
+        "Excessive requests",
+        "Password theft",
+        "Slow rendering"
+      ],
+      "answerIndex": 1,
+      "fact": "Well-designed limits return a header telling you when to try again, rather than simply refusing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage medium held about 700 megabytes?",
+      "options": [
+        "Floppy disk",
+        "CD-ROM",
+        "DVD",
+        "Blu-ray"
+      ],
+      "answerIndex": 1,
+      "fact": "Its 74-minute capacity is often said to have been chosen so Beethoven's Ninth would fit on one disc.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for software that holds data hostage until payment?",
+      "options": [
+        "Spyware",
+        "Ransomware",
+        "Adware",
+        "Rootkit"
+      ],
+      "answerIndex": 1,
+      "fact": "Attacks increasingly target backups first, since a working backup removes any reason to pay.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym GPS's rival GLONASS belong to?",
+      "options": [
+        "China",
+        "Russia",
+        "India",
+        "Japan"
+      ],
+      "answerIndex": 1,
+      "fact": "Most modern phones use several systems at once, which is why fixes are faster than they were a decade ago.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes making software work in another language and region?",
+      "options": [
+        "Localisation",
+        "Normalisation",
+        "Virtualisation",
+        "Federation"
+      ],
+      "answerIndex": 0,
+      "fact": "The hardest parts are usually dates, plurals and text direction rather than the words themselves.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the function of a database index?",
+      "options": [
+        "Compress data",
+        "Speed up lookups",
+        "Encrypt records",
+        "Back up tables"
+      ],
+      "answerIndex": 1,
+      "fact": "Each one speeds reads and slows writes, so adding them everywhere makes a database worse rather than better.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Linux distribution Red Hat Enterprise Linux?",
+      "options": [
+        "Canonical",
+        "Red Hat",
+        "SUSE",
+        "Oracle"
+      ],
+      "answerIndex": 1,
+      "fact": "It sells support rather than software, a model that made a large business out of something given away free.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym HTTP status 404 indicate?",
+      "options": [
+        "Server error",
+        "Not found",
+        "Unauthorised",
+        "Redirect"
+      ],
+      "answerIndex": 1,
+      "fact": "The 4 at the start means the client's request was at fault, which is why 500 codes blame the server instead.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology allows a single machine to run multiple isolated operating systems?",
+      "options": [
+        "Virtualisation",
+        "Compilation",
+        "Clustering",
+        "Sharding"
+      ],
+      "answerIndex": 0,
+      "fact": "Containers do something similar with far less overhead by sharing one kernel rather than emulating hardware.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for the first version of a product released for testing?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Release candidate",
+        "Patch"
+      ],
+      "answerIndex": 0,
+      "fact": "Beta follows it, and the practice of public betas began largely because testing at scale is impossible in-house.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Firefox browser?",
+      "options": [
+        "Mozilla",
+        "Google",
+        "Opera",
+        "Netscape"
+      ],
+      "answerIndex": 0,
+      "fact": "It grew out of Netscape's code being released as open source after the company lost the browser war.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SEO stand for?",
+      "options": [
+        "Search Engine Optimisation",
+        "Secure Encryption Overlay",
+        "System Event Output",
+        "Structured Entity Object"
+      ],
+      "answerIndex": 0,
+      "fact": "Search engines deliberately keep ranking details secret, because publishing them would make gaming trivial.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which measure describes the delay before data starts arriving?",
+      "options": [
+        "Bandwidth",
+        "Latency",
+        "Throughput",
+        "Jitter"
+      ],
+      "answerIndex": 1,
+      "fact": "It is why satellite internet feels sluggish even at high speeds: the signal has to travel to orbit and back.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the ARM architecture originally?",
+      "options": [
+        "Acorn Computers",
+        "Sinclair",
+        "Amstrad",
+        "Psion"
+      ],
+      "answerIndex": 0,
+      "fact": "It was designed by a tiny team for a British home computer, and now ships in tens of billions of devices.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a hash function in security?",
+      "options": [
+        "Encrypt reversibly",
+        "Produce a fixed-length fingerprint",
+        "Compress files",
+        "Route packets"
+      ],
+      "answerIndex": 1,
+      "fact": "It is deliberately one-way, which is why a stolen password database is not the same as stolen passwords.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which format is commonly used for lossy audio compression?",
+      "options": [
+        "MP3",
+        "WAV",
+        "FLAC",
+        "AIFF"
+      ],
+      "answerIndex": 0,
+      "fact": "It discards sound the ear is unlikely to notice, a technique borrowed from research into human hearing.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym UI stand for?",
+      "options": [
+        "User Interface",
+        "Universal Input",
+        "Unified Integration",
+        "Update Instance"
+      ],
+      "answerIndex": 0,
+      "fact": "UX is the broader experience, so a beautiful interface can still sit inside a terrible one.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Kubernetes container system?",
+      "options": [
+        "Google",
+        "Docker",
+        "Red Hat",
+        "Amazon"
+      ],
+      "answerIndex": 0,
+      "fact": "It grew out of an internal system used to run Google's own services for over a decade.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a copy of a website stored to serve faster?",
+      "options": [
+        "Cache",
+        "Mirror",
+        "Archive",
+        "Snapshot"
+      ],
+      "answerIndex": 0,
+      "fact": "Deciding when to discard it is famously one of the two hardest problems in computing, alongside naming things.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company introduced the first commercially available laser printer?",
+      "options": [
+        "HP",
+        "IBM",
+        "Xerox",
+        "Canon"
+      ],
+      "answerIndex": 1,
+      "fact": "Xerox invented the technology but IBM shipped a product first, an early example of a pattern that repeated for them.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes writing tests before the code they test?",
+      "options": [
+        "Test-driven development",
+        "Continuous integration",
+        "Pair programming",
+        "Refactoring"
+      ],
+      "answerIndex": 0,
+      "fact": "The discipline is as much about designing the interface first as about catching bugs.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Photoshop-rival GIMP?",
+      "options": [
+        "A volunteer community",
+        "Adobe",
+        "Corel",
+        "Serif"
+      ],
+      "answerIndex": 0,
+      "fact": "It began as a university project in 1995 and has been maintained by contributors ever since.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym LED's successor OLED add?",
+      "options": [
+        "Organic compounds that emit light",
+        "Optical lenses",
+        "Overclocked drivers",
+        "Outer laminated glass"
+      ],
+      "answerIndex": 0,
+      "fact": "Because each pixel makes its own light, switching one off produces genuine black rather than dark grey.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company owns the WhatsApp messaging service?",
+      "options": [
+        "Meta",
+        "Google",
+        "Telegram",
+        "Apple"
+      ],
+      "answerIndex": 0,
+      "fact": "It was bought for around nineteen billion dollars when it had roughly fifty employees.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for combining code changes from different branches?",
+      "options": [
+        "Merging",
+        "Compiling",
+        "Deploying",
+        "Staging"
+      ],
+      "answerIndex": 0,
+      "fact": "Conflicts arise only when two branches change the same lines, which is why small frequent changes hurt less.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which wireless generation introduced widespread mobile video streaming?",
+      "options": [
+        "2G",
+        "3G",
+        "4G",
+        "5G"
+      ],
+      "answerIndex": 2,
+      "fact": "3G made it technically possible; 4G made it cheap enough that people actually did it.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym CMS stand for in web publishing?",
+      "options": [
+        "Content Management System",
+        "Central Media Server",
+        "Coded Markup Standard",
+        "Client Messaging Service"
+      ],
+      "answerIndex": 0,
+      "fact": "WordPress alone powers a substantial share of all websites, which makes its security everyone's problem.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes reducing an image's file size by discarding detail?",
+      "options": [
+        "Lossy compression",
+        "Lossless compression",
+        "Rasterisation",
+        "Dithering"
+      ],
+      "answerIndex": 0,
+      "fact": "Repeatedly saving the same file this way degrades it each time, which is where visibly mangled memes come from.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Nintendo Switch?",
+      "options": [
+        "Sony",
+        "Nintendo",
+        "Sega",
+        "Microsoft"
+      ],
+      "answerIndex": 1,
+      "fact": "It followed the company's worst-selling home console, and became one of the best-selling of all time.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym SQL injection exploit?",
+      "options": [
+        "Weak passwords",
+        "Unsanitised database queries",
+        "Open ports",
+        "Outdated firmware"
+      ],
+      "answerIndex": 1,
+      "fact": "It has been in published top-ten vulnerability lists for over twenty years and still appears regularly.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes a single point of failure being eliminated?",
+      "options": [
+        "Redundancy",
+        "Latency",
+        "Throughput",
+        "Concurrency"
+      ],
+      "answerIndex": 0,
+      "fact": "Achieving it properly means duplicating the thing you forgot about, which is usually the power or the network.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Raspberry Pi?",
+      "options": [
+        "A UK charitable foundation",
+        "Intel",
+        "ARM",
+        "Broadcom"
+      ],
+      "answerIndex": 0,
+      "fact": "It was designed to get children programming again, and sold to industry in far greater numbers than expected.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym MFA describe?",
+      "options": [
+        "Multi-factor authentication",
+        "Managed File Access",
+        "Modular Framework Architecture",
+        "Media Format Adapter"
+      ],
+      "answerIndex": 0,
+      "fact": "A hardware key is the strongest common form, because it verifies the site as well as the user.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is used to query relational databases?",
+      "options": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "YAML"
+      ],
+      "answerIndex": 0,
+      "fact": "Every database vendor has its own dialect, so queries rarely move between systems unchanged.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Tor anonymity network's original design?",
+      "options": [
+        "The US Naval Research Laboratory",
+        "Mozilla",
+        "The EFF",
+        "MIT"
+      ],
+      "answerIndex": 0,
+      "fact": "It only provides anonymity if many different people use it, so its designers needed it to be public.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology powers most electric vehicle batteries today?",
+      "options": [
+        "Lithium-ion",
+        "Lead-acid",
+        "Nickel-cadmium",
+        "Sodium-sulfur"
+      ],
+      "answerIndex": 0,
+      "fact": "The chemistry won a Nobel Prize in 2019, roughly thirty years after it first reached consumers in camcorders.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Slack messaging platform?",
+      "options": [
+        "A failed game studio",
+        "Microsoft",
+        "Atlassian",
+        "Salesforce"
+      ],
+      "answerIndex": 0,
+      "fact": "It was the internal chat tool built for a game that flopped, and the tool outlived the game.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a firewall rule?",
+      "options": [
+        "To permit or block specific traffic",
+        "To compress packets",
+        "To assign IP addresses",
+        "To cache DNS"
+      ],
+      "answerIndex": 0,
+      "fact": "Default-deny is the safer design: block everything, then allow only what is needed.",
+      "source": "marapr2026-refresh"
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the first widely adopted smartphone touchscreen keyboard?",
+      "options": [
+        "Apple",
+        "BlackBerry",
+        "Palm",
+        "Nokia"
+      ],
+      "answerIndex": 0,
+      "fact": "Its predictive correction was what made a glass keyboard usable, and it was considered the riskiest part of the design.",
+      "source": "marapr2026-refresh"
+    }
+  ]
+}

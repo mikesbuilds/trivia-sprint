@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US movement was led in part by Susan B. Anthony?",
+      "options": [
+        "Labour reform",
+        "Women's suffrage",
+        "Abolition",
+        "Temperance"
+      ],
+      "answerIndex": 1,
+      "fact": "She was arrested for voting in 1872, fined a hundred dollars, and refused to pay a cent of it."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for water containing dissolved salts from rock?",
+      "options": [
+        "Hard water",
+        "Soft water",
+        "Distilled water",
+        "Brackish water"
+      ],
+      "answerIndex": 0,
+      "fact": "The dissolved minerals are why kettles fur up, and why soap lathers poorly in some regions."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which team sport is played on ice with a broom?",
+      "options": [
+        "Ice hockey",
+        "Broomball",
+        "Curling",
+        "Bandy"
+      ],
+      "answerIndex": 2,
+      "fact": "Sweepers can extend a stone's travel by several metres, which makes them as important as the thrower."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which pop star is known for the Renaissance and Cowboy Carter albums?",
+      "options": [
+        "Rihanna",
+        "SZA",
+        "Beyoncé",
+        "Lizzo"
+      ],
+      "answerIndex": 2,
+      "fact": "The two are parts of a planned trilogy, each built around a different genre tradition."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's flag features a cedar tree?",
+      "options": [
+        "Jordan",
+        "Syria",
+        "Cyprus",
+        "Lebanon"
+      ],
+      "answerIndex": 3,
+      "fact": "The tree is mentioned repeatedly in ancient texts, and the forests that made the country famous are now tiny remnants."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with a man waking to find himself on trial without knowing the charge?",
+      "options": [
+        "The Metamorphosis",
+        "Amerika",
+        "The Castle",
+        "The Trial"
+      ],
+      "answerIndex": 3,
+      "fact": "The chapters were found unbound and unnumbered, so their order is an editorial guess."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Kubernetes container system?",
+      "options": [
+        "Google",
+        "Amazon",
+        "Docker",
+        "Red Hat"
+      ],
+      "answerIndex": 0,
+      "fact": "It grew out of an internal system used to run Google's own services for over a decade."
+    }
+  ]
+}

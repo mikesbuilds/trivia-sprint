@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was defeated at the Battle of Lepanto in 1571?",
+      "options": [
+        "Persian",
+        "Spanish",
+        "Venetian",
+        "Ottoman"
+      ],
+      "answerIndex": 3,
+      "fact": "It was among the last great battles fought with oared galleys, a technology already being replaced by sail."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which force keeps a satellite in orbit?",
+      "options": [
+        "Thrust",
+        "Gravity",
+        "Friction",
+        "Magnetism"
+      ],
+      "answerIndex": 1,
+      "fact": "An orbiting satellite is falling continuously, just moving sideways fast enough to keep missing the planet."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which Olympic event involves shooting and fencing among five disciplines?",
+      "options": [
+        "Modern pentathlon",
+        "Triathlon",
+        "Heptathlon",
+        "Decathlon"
+      ],
+      "answerIndex": 0,
+      "fact": "It was invented to simulate the skills of a 19th-century cavalry officer trapped behind enemy lines."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated series features the Griffin family?",
+      "options": [
+        "The Simpsons",
+        "King of the Hill",
+        "Family Guy",
+        "American Dad"
+      ],
+      "answerIndex": 2,
+      "fact": "It was cancelled twice and revived after DVD sales and reruns proved an audience still existed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is directly east of Poland?",
+      "options": [
+        "Slovakia",
+        "Belarus",
+        "Lithuania",
+        "Germany"
+      ],
+      "answerIndex": 1,
+      "fact": "The border runs through the last old-growth lowland forest in Europe, split between the two countries."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character called Holly Golightly?",
+      "options": [
+        "Revolutionary Road",
+        "The Talented Mr Ripley",
+        "Breakfast at Tiffany's",
+        "Bonjour Tristesse"
+      ],
+      "answerIndex": 2,
+      "fact": "Its author reportedly wanted Marilyn Monroe for the film and was unhappy with the casting he got."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which language is primarily used for styling and structuring data exchange as tags?",
+      "options": [
+        "Python",
+        "Ruby",
+        "Go",
+        "XML"
+      ],
+      "answerIndex": 3,
+      "fact": "JSON largely displaced it for web APIs, being far less verbose for the same information."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which pharaoh is associated with a brief shift to worshipping a single sun disc?",
+      "options": [
+        "Akhenaten",
+        "Tutankhamun",
+        "Ramesses II",
+        "Hatshepsut"
+      ],
+      "answerIndex": 0,
+      "fact": "His successors tried to erase him from the records, which is partly why his son's tomb went unnoticed for so long."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the study of heredity called?",
+      "options": [
+        "Cytology",
+        "Physiology",
+        "Anatomy",
+        "Genetics"
+      ],
+      "answerIndex": 3,
+      "fact": "Its foundations came from a monk counting pea plants, work that went almost unread for thirty-five years."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport has a scoring zone called the D?",
+      "options": [
+        "Darts",
+        "Netball",
+        "Field hockey",
+        "Basketball"
+      ],
+      "answerIndex": 2,
+      "fact": "A goal only counts if the shot is taken inside it, which is why attacks funnel into a narrow area."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band released the album OK Computer's follow-up, Kid A?",
+      "options": [
+        "Muse",
+        "Blur",
+        "Radiohead",
+        "Coldplay"
+      ],
+      "answerIndex": 2,
+      "fact": "It was released with no singles and almost no promotion, and still went to number one in several countries."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the longest river in Western Europe?",
+      "options": [
+        "The Seine",
+        "The Loire",
+        "The Elbe",
+        "The Rhine"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the last major French river without significant damming on its main course."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Estella?",
+      "options": [
+        "Little Dorrit",
+        "Hard Times",
+        "Bleak House",
+        "Great Expectations"
+      ],
+      "answerIndex": 3,
+      "fact": "Her name means star, and she is described throughout as distant and cold light."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company introduced the first commercially available laser printer?",
+      "options": [
+        "IBM",
+        "Canon",
+        "HP",
+        "Xerox"
+      ],
+      "answerIndex": 0,
+      "fact": "Xerox invented the technology but IBM shipped a product first, an early example of a pattern that repeated for them."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Viking is traditionally said to have reached North America around 1000?",
+      "options": [
+        "Leif Erikson",
+        "Erik the Red",
+        "Ragnar Lodbrok",
+        "Harald Hardrada"
+      ],
+      "answerIndex": 0,
+      "fact": "A Norse settlement at L'Anse aux Meadows in Newfoundland confirms Europeans arrived roughly 500 years before Columbus."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the unit of frequency?",
+      "options": [
+        "Hertz",
+        "Pascal",
+        "Newton",
+        "Joule"
+      ],
+      "answerIndex": 0,
+      "fact": "Human hearing tops out around 20,000 of them, and that ceiling drops steadily with age."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which event is the shortest sprint on the Olympic athletics programme?",
+      "options": [
+        "400 metres",
+        "100 metres",
+        "200 metres",
+        "60 metres"
+      ],
+      "answerIndex": 1,
+      "fact": "The 60 metres is contested indoors only, so the 100 is the shortest at a summer Games."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which magazine is known for its annual swimsuit issue?",
+      "options": [
+        "Esquire",
+        "Sports Illustrated",
+        "GQ",
+        "Vanity Fair"
+      ],
+      "answerIndex": 1,
+      "fact": "It began in 1964 as filler for a slow sports month between the Super Bowl and spring training."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea does the Jordan river flow into?",
+      "options": [
+        "The Sea of Galilee",
+        "The Red Sea",
+        "The Mediterranean",
+        "The Dead Sea"
+      ],
+      "answerIndex": 3,
+      "fact": "So much water is now drawn off upstream that the sea it feeds is shrinking by about a metre a year."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the play An Inspector Calls?",
+      "options": [
+        "Terence Rattigan",
+        "Noël Coward",
+        "J.B. Priestley",
+        "John Osborne"
+      ],
+      "answerIndex": 2,
+      "fact": "It premiered in the Soviet Union in 1945, because no London theatre was free to stage it."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym GPS's rival GLONASS belong to?",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Russia"
+      ],
+      "answerIndex": 3,
+      "fact": "Most modern phones use several systems at once, which is why fixes are faster than they were a decade ago."
+    }
+  ]
+}

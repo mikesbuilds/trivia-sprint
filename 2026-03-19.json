@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient people built Great Zimbabwe?",
+      "options": [
+        "Shona",
+        "Zulu",
+        "Nubian",
+        "Swahili"
+      ],
+      "answerIndex": 0,
+      "fact": "Colonial authorities spent decades insisting it must have been built by outsiders, against the archaeological evidence."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of wave does sound travel as?",
+      "options": [
+        "Standing",
+        "Electromagnetic",
+        "Longitudinal",
+        "Transverse"
+      ],
+      "answerIndex": 2,
+      "fact": "It cannot travel through a vacuum at all, which is why space is genuinely silent."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long is a standard Olympic-distance triathlon run?",
+      "options": [
+        "42 km",
+        "10 km",
+        "5 km",
+        "21 km"
+      ],
+      "answerIndex": 1,
+      "fact": "It follows a 1.5 kilometre swim and a 40 kilometre bike leg, and the run is where most races are decided."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which K-pop group is known for the song Gangnam Style?",
+      "options": [
+        "Super Junior",
+        "BTS",
+        "Big Bang",
+        "Psy"
+      ],
+      "answerIndex": 3,
+      "fact": "Psy is a solo artist, and the video was the first to pass a billion views on YouTube."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which ocean surrounds Antarctica?",
+      "options": [
+        "The Indian",
+        "The Atlantic",
+        "The Southern",
+        "The Pacific"
+      ],
+      "answerIndex": 2,
+      "fact": "It was only formally recognised as a separate ocean in 2000, and some bodies still dispute the designation."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Beloved and Song of Solomon?",
+      "options": [
+        "Maya Angelou",
+        "Toni Morrison",
+        "Gwendolyn Brooks",
+        "Octavia Butler"
+      ],
+      "answerIndex": 1,
+      "fact": "She worked as an editor for years, publishing other Black writers before writing her own first novel at thirty-nine."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a CDN?",
+      "options": [
+        "Serving content from servers near the user",
+        "Compiling code",
+        "Encrypting traffic",
+        "Managing databases"
+      ],
+      "answerIndex": 0,
+      "fact": "Distance is a hard physical limit: light in fibre crosses the Atlantic in roughly thirty milliseconds at best."
+    }
+  ]
+}

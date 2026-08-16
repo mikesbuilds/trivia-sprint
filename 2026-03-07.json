@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which European power colonised Brazil?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "France",
+        "Netherlands"
+      ],
+      "answerIndex": 1,
+      "fact": "For a period in the 1800s the Portuguese court actually governed its empire from Rio rather than Lisbon."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the most abundant metal in the Earth's crust?",
+      "options": [
+        "Magnesium",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answerIndex": 2,
+      "fact": "It was once more valuable than gold, because separating it from ore was so difficult before electricity."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many points does a converted try earn in total in rugby union?",
+      "options": [
+        "Six",
+        "Eight",
+        "Five",
+        "Seven"
+      ],
+      "answerIndex": 3,
+      "fact": "The conversion is kicked from a line drawn straight back from where the try was scored, so scoring nearer the posts helps."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which video game features a plumber's brother named Luigi?",
+      "options": [
+        "Sonic",
+        "Donkey Kong",
+        "Zelda",
+        "Super Mario"
+      ],
+      "answerIndex": 3,
+      "fact": "He is taller and jumps higher but has worse traction, differences introduced so the two brothers played distinctly."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent is entirely within the southern hemisphere?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answerIndex": 2,
+      "fact": "Antarctica is too, but Australia is the only inhabited continent that qualifies."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set on the island of Guernsey during occupation?",
+      "options": [
+        "The Guernsey Literary and Potato Peel Pie Society",
+        "Birdsong",
+        "The Reader",
+        "Atonement"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author died before publication, and her niece completed the manuscript."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of RAID in storage?",
+      "options": [
+        "Redundancy or performance across drives",
+        "Faster boot times",
+        "Encryption",
+        "Compression"
+      ],
+      "answerIndex": 0,
+      "fact": "Some configurations survive a drive failing entirely, which is why it is standard in servers but rare in laptops."
+    }
+  ]
+}

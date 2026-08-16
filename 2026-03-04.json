@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US general accepted the Confederate surrender at Appomattox?",
+      "options": [
+        "William Sherman",
+        "Ulysses S. Grant",
+        "George Meade",
+        "Philip Sheridan"
+      ],
+      "answerIndex": 1,
+      "fact": "He let the defeated soldiers keep their horses, reasoning they would need them for spring planting."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of blood vessel is thinnest?",
+      "options": [
+        "Aorta",
+        "Artery",
+        "Vein",
+        "Capillary"
+      ],
+      "answerIndex": 3,
+      "fact": "Their walls are one cell thick, which is the whole point: gases have to pass straight through."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country dominates the sport of table tennis at Olympic level?",
+      "options": [
+        "South Korea",
+        "Germany",
+        "Japan",
+        "China"
+      ],
+      "answerIndex": 3,
+      "fact": "Its national trials are widely considered harder to win than the Olympics themselves."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film series features a computer system called Skynet?",
+      "options": [
+        "RoboCop",
+        "The Terminator",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answerIndex": 1,
+      "fact": "The first film was made for around six million dollars, a fraction of what its sequels cost."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea lies between Greece and Turkey?",
+      "options": [
+        "The Aegean Sea",
+        "The Levantine Sea",
+        "The Sea of Crete",
+        "The Ionian Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "It holds well over a thousand islands, and ownership of some of the smallest is still formally disputed."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the ship Pequod?",
+      "options": [
+        "Moby-Dick",
+        "Lord Jim",
+        "Treasure Island",
+        "The Sea-Wolf"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author worked on a whaler himself and deserted in the Marquesas, living for weeks among islanders."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the first mass-market personal computer spreadsheet-driven success, the Apple II?",
+      "options": [
+        "Commodore",
+        "Atari",
+        "Apple",
+        "Tandy"
+      ],
+      "answerIndex": 2,
+      "fact": "It stayed in production for sixteen years, longer than almost any computer since."
+    }
+  ]
+}

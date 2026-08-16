@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Britain hand back to China in 1997?",
+      "options": [
+        "Macau",
+        "Hong Kong",
+        "Singapore",
+        "Taiwan"
+      ],
+      "answerIndex": 1,
+      "fact": "The handover happened because a 99-year lease on the surrounding territories expired, not the island itself."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which chemical element is essential to haemoglobin?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Magnesium",
+        "Zinc"
+      ],
+      "answerIndex": 0,
+      "fact": "Some marine animals use copper instead, which is why a horseshoe crab's blood is blue."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many laps is the Indianapolis 500?",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "answerIndex": 2,
+      "fact": "The winner traditionally drinks milk, a custom that began when a driver asked for buttermilk in 1936."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band recorded the album Rumours?",
+      "options": [
+        "The Eagles",
+        "America",
+        "Fleetwood Mac",
+        "Steely Dan"
+      ],
+      "answerIndex": 2,
+      "fact": "All three couples in the band were breaking up during recording, which is more or less what the album is about."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest country in the Caribbean by area?",
+      "options": [
+        "Haiti",
+        "Cuba",
+        "Dominican Republic",
+        "Jamaica"
+      ],
+      "answerIndex": 1,
+      "fact": "It is larger than all the other Caribbean islands combined."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Book Thief?",
+      "options": [
+        "Anthony Doerr",
+        "Ruta Sepetys",
+        "John Boyne",
+        "Markus Zusak"
+      ],
+      "answerIndex": 3,
+      "fact": "It is narrated by Death, who repeatedly tells the reader the ending well in advance."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Raspberry Pi?",
+      "options": [
+        "A UK charitable foundation",
+        "Broadcom",
+        "ARM",
+        "Intel"
+      ],
+      "answerIndex": 0,
+      "fact": "It was designed to get children programming again, and sold to industry in far greater numbers than expected."
+    }
+  ]
+}

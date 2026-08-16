@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Who led the Mongol invasion that sacked Baghdad in 1258?",
+      "options": [
+        "Timur",
+        "Hulagu Khan",
+        "Batu Khan",
+        "Genghis Khan"
+      ],
+      "answerIndex": 1,
+      "fact": "The city's libraries were destroyed, and accounts describe the Tigris running black with ink from the books."
+    },
+    {
+      "category": "Science",
+      "prompt": "What does a catalyst do to the activation energy of a reaction?",
+      "options": [
+        "Removes it",
+        "Raises it",
+        "Doubles it",
+        "Lowers it"
+      ],
+      "answerIndex": 3,
+      "fact": "It provides an easier route rather than pushing harder, which is why it can be recovered unchanged afterwards."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses a term called a maiden over?",
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Softball",
+        "Rounders"
+      ],
+      "answerIndex": 0,
+      "fact": "It means six balls bowled with no runs conceded, and the term dates back to at least the 1830s."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's logo is a tongue and lips?",
+      "options": [
+        "AC/DC",
+        "The Who",
+        "The Rolling Stones",
+        "Led Zeppelin"
+      ],
+      "answerIndex": 2,
+      "fact": "It was designed by a student for fifty pounds and is now among the most recognised band marks in the world."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which mountain range contains K2?",
+      "options": [
+        "Hindu Kush",
+        "Pamir",
+        "Himalaya",
+        "Karakoram"
+      ],
+      "answerIndex": 3,
+      "fact": "It has never been successfully climbed in winter until 2021, decades after Everest fell in the same season."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the poem Do not go gentle's contemporary, Death Be Not Proud?",
+      "options": [
+        "Andrew Marvell",
+        "John Donne",
+        "George Herbert",
+        "Henry Vaughan"
+      ],
+      "answerIndex": 1,
+      "fact": "He later became a famous preacher, and had his own funeral portrait painted while still alive."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for code that runs in a browser rather than on a server?",
+      "options": [
+        "Firmware",
+        "Server-side",
+        "Client-side",
+        "Middleware"
+      ],
+      "answerIndex": 2,
+      "fact": "It can never be trusted for security, since the user controls the machine running it."
+    }
+  ]
+}

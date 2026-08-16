@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Berlin Airlift supplied which city during a Soviet blockade?",
+      "options": [
+        "Warsaw",
+        "West Berlin",
+        "Vienna",
+        "Prague"
+      ],
+      "answerIndex": 1,
+      "fact": "At its peak an aircraft landed roughly every thirty seconds, sustaining two million people for almost a year."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is the universal plasma donor?",
+      "options": [
+        "B negative",
+        "O negative",
+        "AB positive",
+        "A positive"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the reverse of red cells: AB gives plasma to anyone, while O can receive plasma from anyone."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features an event called the omnium?",
+      "options": [
+        "Rowing",
+        "Athletics",
+        "Swimming",
+        "Track cycling"
+      ],
+      "answerIndex": 3,
+      "fact": "It combines four separate races into one score, making it cycling's closest equivalent to a decathlon."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series dramatises the Chernobyl disaster?",
+      "options": [
+        "The Americans",
+        "Chernobyl",
+        "Bodyguard",
+        "Deutschland 83"
+      ],
+      "answerIndex": 1,
+      "fact": "It was filmed largely in Lithuania at a plant of the same Soviet design as the one that failed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is directly south of Egypt?",
+      "options": [
+        "Chad",
+        "Ethiopia",
+        "Sudan",
+        "Libya"
+      ],
+      "answerIndex": 2,
+      "fact": "It has more pyramids than Egypt, though they are smaller and far less visited."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel Frankenstein's contemporary, Dracula?",
+      "options": [
+        "Bram Stoker",
+        "M.R. James",
+        "Sheridan Le Fanu",
+        "Wilkie Collins"
+      ],
+      "answerIndex": 0,
+      "fact": "It is told entirely through letters, diaries and newspaper clippings, with no conventional narrator at all."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a hash function in security?",
+      "options": [
+        "Route packets",
+        "Compress files",
+        "Encrypt reversibly",
+        "Produce a fixed-length fingerprint"
+      ],
+      "answerIndex": 3,
+      "fact": "It is deliberately one-way, which is why a stolen password database is not the same as stolen passwords."
+    }
+  ]
+}

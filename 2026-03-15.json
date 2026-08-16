@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Zulu kingdom rose to power in which region?",
+      "options": [
+        "West Africa",
+        "East Africa",
+        "Southern Africa",
+        "North Africa"
+      ],
+      "answerIndex": 2,
+      "fact": "Its army defeated a British force at Isandlwana in 1879, one of the worst defeats a colonial army suffered in Africa."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the closest planet to Earth on average over time?",
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Mercury"
+      ],
+      "answerIndex": 3,
+      "fact": "Venus comes closest at its nearest approach, but Mercury spends more of its orbit near us than any other planet."
+    },
+    {
+      "category": "Sports",
+      "prompt": "What is the diameter of a basketball hoop?",
+      "options": [
+        "45 cm",
+        "50 cm",
+        "56 cm",
+        "38 cm"
+      ],
+      "answerIndex": 0,
+      "fact": "That is a little under twice the diameter of the ball, so a clean centred shot has surprisingly little margin."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a character named Tyler Durden?",
+      "options": [
+        "Trainspotting",
+        "Se7en",
+        "Fight Club",
+        "American Psycho"
+      ],
+      "answerIndex": 2,
+      "fact": "It lost money in cinemas and became profitable only through DVD, which reshaped how studios judged failure."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's capital is Wellington?",
+      "options": [
+        "New Zealand",
+        "Papua New Guinea",
+        "Australia",
+        "Fiji"
+      ],
+      "answerIndex": 0,
+      "fact": "It is the southernmost capital of any sovereign state, and among the windiest cities in the world."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel White Teeth?",
+      "options": [
+        "Andrea Levy",
+        "Zadie Smith",
+        "Monica Ali",
+        "Hanif Kureishi"
+      ],
+      "answerIndex": 1,
+      "fact": "She sold it on the strength of a partial manuscript while still an undergraduate."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym VPN's tunnel do?",
+      "options": [
+        "Speeds up DNS",
+        "Encapsulates traffic inside another connection",
+        "Blocks adverts",
+        "Compresses data"
+      ],
+      "answerIndex": 1,
+      "fact": "The outer connection hides what the inner one is doing, which is why it works on restricted networks."
+    }
+  ]
+}

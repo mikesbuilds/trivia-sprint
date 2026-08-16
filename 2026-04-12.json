@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which country did Napoleon invade in 1812 with disastrous results?",
+      "options": [
+        "Prussia",
+        "Russia",
+        "Austria",
+        "Spain"
+      ],
+      "answerIndex": 1,
+      "fact": "He entered with around 600,000 men and left with a fraction of that, most lost to cold, hunger and disease."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of energy does a moving object possess?",
+      "options": [
+        "Kinetic",
+        "Nuclear",
+        "Chemical",
+        "Potential"
+      ],
+      "answerIndex": 0,
+      "fact": "It rises with the square of speed, which is why stopping distances grow so sharply as a car goes faster."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How long does a standard boxing round last?",
+      "options": [
+        "Two minutes",
+        "Five minutes",
+        "Four minutes",
+        "Three minutes"
+      ],
+      "answerIndex": 3,
+      "fact": "Women's professional rounds are usually two minutes, a difference that remains a live argument in the sport."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which actor played Forrest Gump's friend Lieutenant Dan?",
+      "options": [
+        "Kevin Bacon",
+        "Gary Sinise",
+        "Ed Harris",
+        "Bill Paxton"
+      ],
+      "answerIndex": 1,
+      "fact": "His missing legs were created by wrapping them in blue fabric, an early use of the technique in a mainstream film."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the world's largest reserves of lithium?",
+      "options": [
+        "China",
+        "Australia",
+        "Chile",
+        "Bolivia"
+      ],
+      "answerIndex": 3,
+      "fact": "Most of it lies under a salt flat so level it is used to calibrate satellites from orbit."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Secret History?",
+      "options": [
+        "Jeffrey Eugenides",
+        "Bret Easton Ellis",
+        "Donna Tartt",
+        "Michael Chabon"
+      ],
+      "answerIndex": 2,
+      "fact": "She takes roughly a decade over each novel, and has published three in thirty years."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes writing tests before the code they test?",
+      "options": [
+        "Test-driven development",
+        "Pair programming",
+        "Refactoring",
+        "Continuous integration"
+      ],
+      "answerIndex": 0,
+      "fact": "The discipline is as much about designing the interface first as about catching bugs."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire did Justinian I rule?",
+      "options": [
+        "Holy Roman",
+        "Sasanian",
+        "Byzantine",
+        "Carolingian"
+      ],
+      "answerIndex": 2,
+      "fact": "His legal code was rediscovered in medieval Italy and became the foundation of law across much of continental Europe."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the splitting of an atomic nucleus?",
+      "options": [
+        "Fission",
+        "Decay",
+        "Fusion",
+        "Ionisation"
+      ],
+      "answerIndex": 0,
+      "fact": "It was discovered by accident in 1938, and the physicist who explained it was excluded from the Nobel that followed."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which country won the first Cricket World Cup in 1975?",
+      "options": [
+        "England",
+        "Australia",
+        "India",
+        "West Indies"
+      ],
+      "answerIndex": 3,
+      "fact": "They won the next one too, and the final in 1975 finished close to nine in the evening in midsummer London."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musician recorded the album Blue?",
+      "options": [
+        "Carly Simon",
+        "Joni Mitchell",
+        "Carole King",
+        "Judy Collins"
+      ],
+      "answerIndex": 1,
+      "fact": "She used unconventional guitar tunings extensively, partly because polio in childhood limited her left hand."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country contains the source of the Amazon river?",
+      "options": [
+        "Ecuador",
+        "Peru",
+        "Colombia",
+        "Brazil"
+      ],
+      "answerIndex": 1,
+      "fact": "The exact source was disputed for centuries and was only settled in the 1970s by satellite survey."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel A Clockwork Orange?",
+      "options": [
+        "J.G. Ballard",
+        "Graham Greene",
+        "Anthony Burgess",
+        "William Golding"
+      ],
+      "answerIndex": 2,
+      "fact": "He invented an entire slang for it, drawn largely from Russian, so the book would not date."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company manufactures the M-series chips used in Macs?",
+      "options": [
+        "Apple",
+        "Intel",
+        "AMD",
+        "Qualcomm"
+      ],
+      "answerIndex": 0,
+      "fact": "They put processor and memory on the same package, which is much of why they run so cool for their speed."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire's capital was Persepolis?",
+      "options": [
+        "Babylon",
+        "Assyria",
+        "Parthia",
+        "Achaemenid Persia"
+      ],
+      "answerIndex": 3,
+      "fact": "Alexander burned it in 330 BC, an act his own officers reportedly tried to talk him out of."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a solution that resists changes in pH?",
+      "options": [
+        "Colloid",
+        "Electrolyte",
+        "Solvent",
+        "Buffer"
+      ],
+      "answerIndex": 3,
+      "fact": "Blood is one, and it holds pH within a range so narrow that a shift of a few tenths is life threatening."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport uses the term birdie for one under par?",
+      "options": [
+        "Archery",
+        "Golf",
+        "Croquet",
+        "Badminton"
+      ],
+      "answerIndex": 1,
+      "fact": "Badminton uses birdie too, but for the shuttlecock itself, which is where the confusion comes from."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which rapper founded the record label Death Row?",
+      "options": [
+        "Dr. Dre",
+        "Tupac Shakur",
+        "Suge Knight",
+        "Snoop Dogg"
+      ],
+      "answerIndex": 2,
+      "fact": "Dr. Dre co-founded it and left within five years, going on to start Aftermath instead."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European capital is built across a series of islands?",
+      "options": [
+        "Stockholm",
+        "Helsinki",
+        "Oslo",
+        "Copenhagen"
+      ],
+      "answerIndex": 0,
+      "fact": "It spreads over fourteen islands, and the surrounding archipelago holds tens of thousands more."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the novel The Remains of the Day's Booker rival, Possession?",
+      "options": [
+        "Iris Murdoch",
+        "Anita Brookner",
+        "A.S. Byatt",
+        "Penelope Lively"
+      ],
+      "answerIndex": 2,
+      "fact": "She wrote entire Victorian poems for the novel, attributing them to two invented poets."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the function of a database index?",
+      "options": [
+        "Back up tables",
+        "Speed up lookups",
+        "Encrypt records",
+        "Compress data"
+      ],
+      "answerIndex": 1,
+      "fact": "Each one speeds reads and slows writes, so adding them everywhere makes a database worse rather than better."
+    }
+  ]
+}

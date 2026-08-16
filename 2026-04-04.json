@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which people built the moai statues of Easter Island?",
+      "options": [
+        "Tongan",
+        "Rapa Nui",
+        "Maori",
+        "Samoan"
+      ],
+      "answerIndex": 1,
+      "fact": "Many statues have full buried bodies below the famous heads, only revealed by excavation."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scale measures the intensity of tornadoes?",
+      "options": [
+        "Beaufort",
+        "Saffir-Simpson",
+        "Fujita",
+        "Richter"
+      ],
+      "answerIndex": 2,
+      "fact": "It rates the damage rather than the wind, because instruments rarely survive close enough to measure directly."
+    },
+    {
+      "category": "Sports",
+      "prompt": "How many attempts does a shot putter get in an Olympic final?",
+      "options": [
+        "Six",
+        "Four",
+        "Three",
+        "Eight"
+      ],
+      "answerIndex": 0,
+      "fact": "The field is usually cut after three, with only the leaders taking the final three throws."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a hotel run by Gustave H?",
+      "options": [
+        "The Royal Tenenbaums",
+        "Rushmore",
+        "The Grand Budapest Hotel",
+        "Moonrise Kingdom"
+      ],
+      "answerIndex": 2,
+      "fact": "It uses three different screen shapes, each marking a different decade in the story."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most UNESCO World Heritage sites?",
+      "options": [
+        "China",
+        "France",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 3,
+      "fact": "It and China trade the top spot regularly, with each new listing round shifting the lead."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is set in the fictional Salinas Valley across two generations?",
+      "options": [
+        "Tortilla Flat",
+        "The Grapes of Wrath",
+        "Cannery Row",
+        "East of Eden"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author called it the book everything else he had written had been practice for."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which measure describes the delay before data starts arriving?",
+      "options": [
+        "Bandwidth",
+        "Latency",
+        "Throughput",
+        "Jitter"
+      ],
+      "answerIndex": 1,
+      "fact": "It is why satellite internet feels sluggish even at high speeds: the signal has to travel to orbit and back."
+    }
+  ]
+}

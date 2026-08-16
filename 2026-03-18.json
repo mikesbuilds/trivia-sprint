@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which conflict was triggered by the assassination of Archduke Franz Ferdinand?",
+      "options": [
+        "The Balkan Wars",
+        "The First World War",
+        "The Crimean War",
+        "The Second World War"
+      ],
+      "answerIndex": 1,
+      "fact": "The assassin got his chance only because the archduke's driver took a wrong turn and stopped to reverse."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organ is primarily affected by cirrhosis?",
+      "options": [
+        "Pancreas",
+        "Kidney",
+        "Lung",
+        "Liver"
+      ],
+      "answerIndex": 3,
+      "fact": "Scarring replaces working tissue, which is the one kind of liver damage the organ cannot regenerate its way out of."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the terms jib, tack and spinnaker?",
+      "options": [
+        "Rowing",
+        "Sailing",
+        "Canoeing",
+        "Surfing"
+      ],
+      "answerIndex": 1,
+      "fact": "A boat cannot sail directly into the wind, so tacking is a zigzag that makes upwind progress at an angle."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features a shark hunt led by Quint?",
+      "options": [
+        "Jaws",
+        "Deep Blue Sea",
+        "Open Water",
+        "The Meg"
+      ],
+      "answerIndex": 0,
+      "fact": "Its two-note theme was initially dismissed by the director as a joke when the composer first played it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the highest capital city in Europe?",
+      "options": [
+        "Sofia",
+        "Bern",
+        "Andorra la Vella",
+        "Madrid"
+      ],
+      "answerIndex": 2,
+      "fact": "It sits above 1,000 metres in the Pyrenees, and the country around it has no airport at all."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character named Bilbo's nephew Frodo?",
+      "options": [
+        "The Lord of the Rings",
+        "The Silmarillion",
+        "The Hobbit",
+        "Unfinished Tales"
+      ],
+      "answerIndex": 0,
+      "fact": "Frodo is actually Bilbo's cousin, though the book calls him a nephew as a term of affection."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which sorting algorithm has an average complexity of n log n and is widely used?",
+      "options": [
+        "Insertion sort",
+        "Bubble sort",
+        "Quicksort",
+        "Selection sort"
+      ],
+      "answerIndex": 2,
+      "fact": "Its worst case is far slower, which is why real implementations shuffle or pick pivots carefully."
+    }
+  ]
+}

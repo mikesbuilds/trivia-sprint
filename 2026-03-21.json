@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which dynasty ruled China immediately before the Qing?",
+      "options": [
+        "Ming",
+        "Tang",
+        "Song",
+        "Yuan"
+      ],
+      "answerIndex": 0,
+      "fact": "Its last emperor hanged himself on a hill overlooking the Forbidden City as rebels entered Beijing."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which process do bacteria use to reproduce?",
+      "options": [
+        "Budding",
+        "Meiosis",
+        "Binary fission",
+        "Pollination"
+      ],
+      "answerIndex": 2,
+      "fact": "Under ideal conditions some divide every twenty minutes, which is why food spoils so suddenly rather than gradually."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, what is the standard height of a men's 110 metre hurdle?",
+      "options": [
+        "114 cm",
+        "100 cm",
+        "107 cm",
+        "91 cm"
+      ],
+      "answerIndex": 2,
+      "fact": "The hurdles are weighted to tip forward if struck, a change made after athletes broke bones on rigid barriers."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which TV chef is associated with the phrase pukka?",
+      "options": [
+        "Rick Stein",
+        "Jamie Oliver",
+        "Heston Blumenthal",
+        "Gordon Ramsay"
+      ],
+      "answerIndex": 1,
+      "fact": "The word is borrowed from Hindi, where it means properly made or genuine."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which UK city sits on the River Clyde?",
+      "options": [
+        "Glasgow",
+        "Dundee",
+        "Edinburgh",
+        "Aberdeen"
+      ],
+      "answerIndex": 0,
+      "fact": "At its shipbuilding peak the river produced roughly a fifth of all ships launched worldwide."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the fictional country of Gilead?",
+      "options": [
+        "We",
+        "Parable of the Sower",
+        "Brave New World",
+        "The Handmaid's Tale"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author began writing it in West Berlin in 1984, while the Wall was still standing."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology uses a distributed ledger with no central authority?",
+      "options": [
+        "SQL",
+        "SOAP",
+        "LDAP",
+        "Blockchain"
+      ],
+      "answerIndex": 3,
+      "fact": "Its energy cost comes not from storing data but from making it expensive to rewrite history."
+    }
+  ]
+}

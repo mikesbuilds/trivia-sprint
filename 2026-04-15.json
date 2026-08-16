@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which US state was an independent republic before joining the Union?",
+      "options": [
+        "Vermont",
+        "Texas",
+        "California",
+        "Hawaii"
+      ],
+      "answerIndex": 1,
+      "fact": "It ran its own navy and diplomatic missions for nearly a decade before annexation."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which colour of visible light has the longest wavelength?",
+      "options": [
+        "Violet",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "answerIndex": 1,
+      "fact": "It scatters least in air, which is why sunsets redden and why it is used for distant warning lights."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In tennis, what score follows deuce for the serving player?",
+      "options": [
+        "Advantage",
+        "Break point",
+        "Game",
+        "Set point"
+      ],
+      "answerIndex": 0,
+      "fact": "The word comes from the French for two-of, meaning two more points are needed to take the game."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film features the line I'll be back?",
+      "options": [
+        "Total Recall",
+        "Predator",
+        "The Terminator",
+        "Commando"
+      ],
+      "answerIndex": 2,
+      "fact": "The actor argued for changing the line, saying the contraction was awkward for him to pronounce."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest lake entirely within Canada?",
+      "options": [
+        "Lake Athabasca",
+        "Great Slave Lake",
+        "Great Bear Lake",
+        "Lake Winnipeg"
+      ],
+      "answerIndex": 2,
+      "fact": "It stays partly frozen for around eight months of the year."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a whale-hunting captain obsessed with revenge?",
+      "options": [
+        "In the Heart of the Sea",
+        "Billy Budd",
+        "The Old Man and the Sea",
+        "Moby-Dick"
+      ],
+      "answerIndex": 3,
+      "fact": "Roughly a third of it is not narrative at all, but essays on whales, ropes and the whaling trade."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company owns the WhatsApp messaging service?",
+      "options": [
+        "Google",
+        "Telegram",
+        "Apple",
+        "Meta"
+      ],
+      "answerIndex": 3,
+      "fact": "It was bought for around nineteen billion dollars when it had roughly fifty employees."
+    }
+  ]
+}
