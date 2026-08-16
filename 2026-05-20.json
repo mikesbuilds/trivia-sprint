@@ -72,7 +72,7 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features a character called Jane Eyre's employer?",
+      "prompt": "Which novel follows a governess who falls for her employer, Mr Rochester?",
       "options": [
         "Villette",
         "Agnes Grey",

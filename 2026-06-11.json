@@ -84,7 +84,7 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the Elasticsearch search engine?",
+      "prompt": "Which company's 2021 licence change prompted Amazon to fork its search engine?",
       "options": [
         "Apache",
         "Elastic",

@@ -36,7 +36,7 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which country hosts the Australian Open tennis tournament?",
+      "prompt": "Which country hosts the first tennis major of the calendar year?",
       "options": [
         "Singapore",
         "Japan",

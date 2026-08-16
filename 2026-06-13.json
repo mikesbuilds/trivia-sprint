@@ -84,7 +84,7 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the Figma design tool?",
+      "prompt": "Which company built a browser-based design tool that Adobe attempted to buy?",
       "options": [
         "InVision",
         "Sketch",

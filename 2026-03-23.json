@@ -36,7 +36,7 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which country has won the most Tour de France titles by nationality?",
+      "prompt": "Which nationality has won cycling's biggest stage race most often?",
       "options": [
         "Belgium",
         "France",

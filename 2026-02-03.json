@@ -36,7 +36,7 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which country hosts the Monaco Grand Prix?",
+      "prompt": "The Formula One race at Monte Carlo is held in which country?",
       "options": [
         "Monaco",
         "Switzerland",

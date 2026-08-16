@@ -48,7 +48,7 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which fashion house did Coco Chanel found?",
+      "prompt": "Which fashion house is known for its interlocking double-C logo?",
       "options": [
         "Chanel",
         "Balenciaga",
@@ -56,7 +56,7 @@
         "Givenchy"
       ],
       "answerIndex": 0,
-      "fact": "She started as a hat maker. The move into clothing came from using jersey fabric, then considered suitable only for underwear."
+      "fact": "Its founder started out making hats. The move into clothing came from using jersey fabric, then considered suitable only for underwear."
     },
     {
       "category": "Geography",

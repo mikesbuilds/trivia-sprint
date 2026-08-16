@@ -72,7 +72,7 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which Jane Austen novel centres on a matchmaker named Emma Woodhouse?",
+      "prompt": "Which Jane Austen novel centres on a wealthy young matchmaker in Highbury?",
       "options": [
         "Mansfield Park",
         "Emma",

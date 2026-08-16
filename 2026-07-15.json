@@ -72,7 +72,7 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features a character called Winnie-the-Pooh's friend Eeyore?",
+      "prompt": "Which children's book features a gloomy grey donkey called Eeyore?",
       "options": [
         "Winnie-the-Pooh",
         "The Wind in the Willows",

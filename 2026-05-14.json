@@ -48,7 +48,7 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film features a robot called WALL-E?",
+      "prompt": "Which animated film follows a waste-collecting robot left alone on Earth?",
       "options": [
         "Chappie",
         "WALL-E",

@@ -84,7 +84,7 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the Linux distribution Red Hat Enterprise Linux?",
+      "prompt": "Which company built a business selling support for its own Linux distribution?",
       "options": [
         "SUSE",
         "Red Hat",

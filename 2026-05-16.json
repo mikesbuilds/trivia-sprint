@@ -72,7 +72,7 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the fictional island of Utopia?",
+      "prompt": "Which 1516 work by Thomas More describes an imaginary island society?",
       "options": [
         "Utopia",
         "Erewhon",

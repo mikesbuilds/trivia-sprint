@@ -24,15 +24,15 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the amount of dissolved oxygen a water body holds?",
+      "prompt": "What is the term for water's cloudiness caused by suspended particles?",
       "options": [
         "Dissolved oxygen",
         "Turbidity",
         "Alkalinity",
         "Salinity"
       ],
-      "answerIndex": 0,
-      "fact": "Warm water holds less of it, which is why heat waves can suffocate fish in shallow lakes."
+      "answerIndex": 1,
+      "fact": "It is measured by shining a light through a sample, and it is the first thing tested after heavy rainfall."
     },
     {
       "category": "Sports",
