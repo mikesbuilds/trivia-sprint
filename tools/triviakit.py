@@ -37,9 +37,18 @@ QUESTIONS_PER_DAY = len(CATEGORIES)
 # The cap keeps a review row to a few lines on the narrowest supported phone.
 MAX_FACT_CHARS = 240
 
+# The earliest day the archive will ever offer. Everything before it was
+# written against a generator that answered A or B most of the time and had no
+# facts at all, which is exactly the experience the archive must not lead with.
+# The app reads this from index.json rather than hard-coding it, so the floor
+# can move later — backwards if that content is ever rewritten — without
+# shipping a new build.
+ARCHIVE_START = "2026-01-01"
+
 ROOT = Path(__file__).resolve().parent.parent
 BANK_PATH = ROOT / "bank" / "questions.json"
 USED_PATH = ROOT / "bank" / "used.json"
+INDEX_PATH = ROOT / "index.json"
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -349,6 +358,28 @@ def published_dates() -> set[str]:
 
 def day_paths() -> list[Path]:
     return sorted(ROOT.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"))
+
+
+def write_manifest() -> dict:
+    """Publish index.json: which days exist, and how far back the archive goes.
+
+    The archive cannot discover days by guessing URLs. Coverage is deliberately
+    not contiguous — days fail to generate, and whole stretches get cleared
+    before a rewrite — so probing would mean firing hundreds of requests at
+    dates that are simply absent.
+
+    `dates` lists everything on or after the floor, including days still ahead
+    of today. Deciding what counts as past belongs to the client, which is the
+    only side that knows the device's timezone.
+    """
+    dates = sorted(d for d in published_dates() if d >= ARCHIVE_START)
+    manifest = {
+        "archive_start": ARCHIVE_START,
+        "count": len(dates),
+        "dates": dates,
+    }
+    save_json(INDEX_PATH, manifest)
+    return manifest
 
 
 def load_days(start: str | None = None, end: str | None = None) -> dict[str, list[dict]]:
