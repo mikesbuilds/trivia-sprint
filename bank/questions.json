@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which mountain range runs along the western edge of South America?",
-      "options": [
-        "The Andes",
-        "The Rockies",
-        "The Sierra Madre",
-        "The Appalachians"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country has the most volcanoes?",
       "options": [
         "Indonesia",
@@ -92,18 +80,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "The Marshall Plan provided aid to rebuild which region?",
-      "options": [
-        "Western Europe",
-        "East Asia",
-        "Latin America",
-        "North Africa"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -350,18 +326,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which epic poem describes the fall of Troy from a Roman perspective?",
-      "options": [
-        "The Aeneid",
-        "The Iliad",
-        "Metamorphoses",
-        "The Georgics"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Invisible Man', published in 1952?",
       "options": [
         "Ralph Ellison",
@@ -536,18 +500,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which band's members included John, Paul, George, and Ringo?",
-      "options": [
-        "The Beatles",
-        "The Kinks",
-        "The Byrds",
-        "The Hollies"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -818,18 +770,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the main component of natural gas?",
-      "options": [
-        "Methane",
-        "Propane",
-        "Butane",
-        "Ethane"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which part of the brain controls balance and coordination?",
       "options": [
         "The cerebellum",
@@ -1028,18 +968,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "What is the term for three consecutive strikes in bowling?",
-      "options": [
-        "A turkey",
-        "A hat trick",
-        "A triple",
-        "A run"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1256,18 +1184,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which port number is standard for HTTPS traffic?",
-      "options": [
-        "443",
-        "80",
-        "21",
-        "25"
       ],
       "answerIndex": 0,
       "source": "curated"
