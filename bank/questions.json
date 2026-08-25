@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which country has the most volcanoes?",
-      "options": [
-        "Indonesia",
-        "Japan",
-        "The United States",
-        "Chile"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the largest city in the world by population?",
       "options": [
         "Tokyo",
@@ -80,18 +68,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Who wrote the pamphlet 'Common Sense' in 1776?",
-      "options": [
-        "Thomas Paine",
-        "Thomas Jefferson",
-        "John Adams",
-        "Benjamin Franklin"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -326,18 +302,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Invisible Man', published in 1952?",
-      "options": [
-        "Ralph Ellison",
-        "Richard Wright",
-        "James Baldwin",
-        "Langston Hughes"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author wrote 'The Chronicles of Narnia'?",
       "options": [
         "C. S. Lewis",
@@ -500,18 +464,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film features a computer named HAL 9000?",
-      "options": [
-        "2001: A Space Odyssey",
-        "Blade Runner",
-        "Solaris",
-        "Silent Running"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -770,18 +722,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which part of the brain controls balance and coordination?",
-      "options": [
-        "The cerebellum",
-        "The cerebrum",
-        "The medulla",
-        "The hypothalamus"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for animals that are active at night?",
       "options": [
         "Nocturnal",
@@ -968,18 +908,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In which sport is the Ryder Cup contested?",
-      "options": [
-        "Golf",
-        "Tennis",
-        "Sailing",
-        "Rowing"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1184,18 +1112,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which law observed that transistor counts double roughly every two years?",
-      "options": [
-        "Moore's Law",
-        "Ohm's Law",
-        "Metcalfe's Law",
-        "Amdahl's Law"
       ],
       "answerIndex": 0,
       "source": "curated"
