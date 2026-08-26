@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "What is the largest city in the world by population?",
-      "options": [
-        "Tokyo",
-        "Delhi",
-        "Shanghai",
-        "Sao Paulo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which line of latitude divides Earth into northern and southern halves?",
       "options": [
         "The equator",
@@ -68,18 +56,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which two cities were the capitals of the divided Roman Empire?",
-      "options": [
-        "Rome and Constantinople",
-        "Athens and Rome",
-        "Carthage and Rome",
-        "Milan and Athens"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -302,18 +278,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'The Chronicles of Narnia'?",
-      "options": [
-        "C. S. Lewis",
-        "J. R. R. Tolkien",
-        "Roald Dahl",
-        "Lewis Carroll"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'War and Peace'?",
       "options": [
         "Leo Tolstoy",
@@ -464,18 +428,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which singer is known for the album '21' and the song 'Rolling in the Deep'?",
-      "options": [
-        "Adele",
-        "Amy Winehouse",
-        "Sam Smith",
-        "Duffy"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -722,18 +674,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for animals that are active at night?",
-      "options": [
-        "Nocturnal",
-        "Diurnal",
-        "Crepuscular",
-        "Hibernal"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which element makes up the majority of the Sun's mass?",
       "options": [
         "Hydrogen",
@@ -908,18 +848,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which athlete is nicknamed the Lightning Bolt?",
-      "options": [
-        "Usain Bolt",
-        "Carl Lewis",
-        "Michael Johnson",
-        "Tyson Gay"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1112,18 +1040,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which social network was originally called 'The Facebook'?",
-      "options": [
-        "Facebook",
-        "Twitter",
-        "MySpace",
-        "LinkedIn"
       ],
       "answerIndex": 0,
       "source": "curated"
