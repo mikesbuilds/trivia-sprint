@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which line of latitude divides Earth into northern and southern halves?",
-      "options": [
-        "The equator",
-        "The prime meridian",
-        "The Tropic of Cancer",
-        "The Arctic Circle"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country is landlocked and borders both France and Italy?",
       "options": [
         "Switzerland",
@@ -56,18 +44,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Who was the first person to reach the South Pole?",
-      "options": [
-        "Roald Amundsen",
-        "Robert Falcon Scott",
-        "Ernest Shackleton",
-        "Fridtjof Nansen"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -278,18 +254,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'War and Peace'?",
-      "options": [
-        "Leo Tolstoy",
-        "Fyodor Dostoevsky",
-        "Boris Pasternak",
-        "Mikhail Sholokhov"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel introduced the character Hester Prynne?",
       "options": [
         "The Scarlet Letter",
@@ -428,18 +392,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which movie features the character Indiana Jones?",
-      "options": [
-        "Raiders of the Lost Ark",
-        "The Mummy",
-        "National Treasure",
-        "Romancing the Stone"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -674,18 +626,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which element makes up the majority of the Sun's mass?",
-      "options": [
-        "Hydrogen",
-        "Helium",
-        "Oxygen",
-        "Carbon"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the smallest unit of an element that retains its properties?",
       "options": [
         "The atom",
@@ -848,18 +788,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport combines skiing and rifle shooting?",
-      "options": [
-        "Biathlon",
-        "Triathlon",
-        "Pentathlon",
-        "Decathlon"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1040,18 +968,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'IoT' stand for?",
-      "options": [
-        "Internet of Things",
-        "Index of Terms",
-        "Input Output Transfer",
-        "Integrated Optical Transmission"
       ],
       "answerIndex": 0,
       "source": "curated"
