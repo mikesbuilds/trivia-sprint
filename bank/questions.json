@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which country is landlocked and borders both France and Italy?",
-      "options": [
-        "Switzerland",
-        "Austria",
-        "Belgium",
-        "Slovenia"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which is the only continent that lies in all four hemispheres?",
       "options": [
         "Africa",
@@ -44,18 +32,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which dynasty built the majority of the Great Wall that survives today?",
-      "options": [
-        "The Ming",
-        "The Han",
-        "The Tang",
-        "The Qing"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -254,18 +230,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel introduced the character Hester Prynne?",
-      "options": [
-        "The Scarlet Letter",
-        "The House of the Seven Gables",
-        "Little Women",
-        "The Awakening"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which playwright wrote 'Death of a Salesman'?",
       "options": [
         "Arthur Miller",
@@ -392,18 +356,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which show features chemistry teacher Walter White?",
-      "options": [
-        "Breaking Bad",
-        "Better Call Saul",
-        "Ozark",
-        "Weeds"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -626,18 +578,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the smallest unit of an element that retains its properties?",
-      "options": [
-        "The atom",
-        "The molecule",
-        "The cell",
-        "The quark"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which scientist formulated the three laws of motion?",
       "options": [
         "Isaac Newton",
@@ -788,18 +728,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In rugby union, how many points is a try worth?",
-      "options": [
-        "Five",
-        "Three",
-        "Six",
-        "Four"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -968,18 +896,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which file format is a lossy image compression standard?",
-      "options": [
-        "JPEG",
-        "PNG",
-        "BMP",
-        "TIFF"
       ],
       "answerIndex": 0,
       "source": "curated"
