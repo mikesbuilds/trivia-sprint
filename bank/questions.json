@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which is the only continent that lies in all four hemispheres?",
-      "options": [
-        "Africa",
-        "Asia",
-        "South America",
-        "Europe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country was formerly known as Siam?",
       "options": [
         "Thailand",
@@ -32,18 +20,6 @@
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "The Suez Canal opened in which decade?",
-      "options": [
-        "The 1860s",
-        "The 1820s",
-        "The 1900s",
-        "The 1780s"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -230,18 +206,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which playwright wrote 'Death of a Salesman'?",
-      "options": [
-        "Arthur Miller",
-        "Tennessee Williams",
-        "Eugene O'Neill",
-        "Edward Albee"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features the boy wizard's school called Hogwarts?",
       "options": [
         "Harry Potter and the Philosopher's Stone",
@@ -356,18 +320,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which video game features a plumber named Mario?",
-      "options": [
-        "Super Mario Bros.",
-        "Sonic the Hedgehog",
-        "Mega Man",
-        "Donkey Kong Country"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -578,18 +530,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientist formulated the three laws of motion?",
-      "options": [
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Johannes Kepler",
-        "Nicolaus Copernicus"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for a substance that speeds up a chemical reaction?",
       "options": [
         "A catalyst",
@@ -728,18 +668,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "How many events make up a men's decathlon?",
-      "options": [
-        "Ten",
-        "Seven",
-        "Twelve",
-        "Five"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -896,18 +824,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is a compiler?",
-      "options": [
-        "A program that translates source code into machine code",
-        "A text editor",
-        "A network switch",
-        "A database index"
       ],
       "answerIndex": 0,
       "source": "curated"
