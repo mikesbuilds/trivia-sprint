@@ -2,36 +2,12 @@
   "questions": [
     {
       "category": "Geography",
-      "prompt": "Which country was formerly known as Siam?",
-      "options": [
-        "Thailand",
-        "Myanmar",
-        "Cambodia",
-        "Laos"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the largest lake in Africa by surface area?",
       "options": [
         "Lake Victoria",
         "Lake Tanganyika",
         "Lake Malawi",
         "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Who delivered the 'I Have a Dream' speech in 1963?",
-      "options": [
-        "Martin Luther King Jr.",
-        "Malcolm X",
-        "John Lewis",
-        "Thurgood Marshall"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -206,18 +182,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the boy wizard's school called Hogwarts?",
-      "options": [
-        "Harry Potter and the Philosopher's Stone",
-        "The Worst Witch",
-        "A Wizard of Earthsea",
-        "The Magicians"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Their Eyes Were Watching God'?",
       "options": [
         "Zora Neale Hurston",
@@ -320,18 +284,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film features the song 'Let It Go'?",
-      "options": [
-        "Frozen",
-        "Moana",
-        "Tangled",
-        "Encanto"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -530,18 +482,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a substance that speeds up a chemical reaction?",
-      "options": [
-        "A catalyst",
-        "A reagent",
-        "A solvent",
-        "An inhibitor"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which ocean zone receives no sunlight at all?",
       "options": [
         "The aphotic zone",
@@ -668,18 +608,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which country invented the sport of judo?",
-      "options": [
-        "Japan",
-        "China",
-        "Korea",
-        "Brazil"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -824,18 +752,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company built the first commercially successful personal computer spreadsheet, VisiCalc?",
-      "options": [
-        "VisiCorp",
-        "Microsoft",
-        "Lotus",
-        "Apple"
       ],
       "answerIndex": 0,
       "source": "curated"
