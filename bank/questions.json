@@ -1,30 +1,6 @@
 {
   "questions": [
     {
-      "category": "Geography",
-      "prompt": "What is the largest lake in Africa by surface area?",
-      "options": [
-        "Lake Victoria",
-        "Lake Tanganyika",
-        "Lake Malawi",
-        "Lake Chad"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which empire was ruled from Tenochtitlan?",
-      "options": [
-        "The Aztec Empire",
-        "The Inca Empire",
-        "The Maya city-states",
-        "The Zapotec kingdom"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "History",
       "prompt": "The Black Death reached Europe in which century?",
       "options": [
@@ -182,18 +158,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Their Eyes Were Watching God'?",
-      "options": [
-        "Zora Neale Hurston",
-        "Toni Morrison",
-        "Nella Larsen",
-        "Gwendolyn Brooks"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author is known for the 'Foundation' science fiction series?",
       "options": [
         "Isaac Asimov",
@@ -284,18 +248,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which actor is known for playing James Bond in 'Goldfinger'?",
-      "options": [
-        "Sean Connery",
-        "Roger Moore",
-        "Timothy Dalton",
-        "Pierce Brosnan"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -482,18 +434,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which ocean zone receives no sunlight at all?",
-      "options": [
-        "The aphotic zone",
-        "The photic zone",
-        "The intertidal zone",
-        "The neritic zone"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the chemical formula for table salt?",
       "options": [
         "NaCl",
@@ -608,18 +548,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "What is the term for scoring three goals in one soccer match?",
-      "options": [
-        "A hat trick",
-        "A triple",
-        "A treble",
-        "A trifecta"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -752,18 +680,6 @@
         "Canada",
         "Norway",
         "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'cloud computing' primarily rely on?",
-      "options": [
-        "Remote servers accessed over the internet",
-        "Local hard drives only",
-        "Satellite dishes",
-        "Analog signals"
       ],
       "answerIndex": 0,
       "source": "curated"
