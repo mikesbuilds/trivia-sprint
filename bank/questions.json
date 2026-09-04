@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which conflict is also known as the War Between the States?",
-      "options": [
-        "The American Civil War",
-        "The War of 1812",
-        "The Mexican-American War",
-        "The Spanish-American War"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Which queen ruled Egypt as its last active pharaoh?",
       "options": [
         "Cleopatra VII",
@@ -122,18 +110,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel is narrated by Holden Caulfield?",
-      "options": [
-        "The Catcher in the Rye",
-        "On the Road",
-        "A Separate Peace",
-        "Franny and Zooey"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Divine Comedy'?",
       "options": [
         "Dante Alighieri",
@@ -176,18 +152,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film trilogy is set in Middle-earth?",
-      "options": [
-        "The Lord of the Rings",
-        "The Chronicles of Narnia",
-        "Harry Potter",
-        "His Dark Materials"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -326,18 +290,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which gas is most responsible for the greenhouse effect on Venus?",
-      "options": [
-        "Carbon dioxide",
-        "Methane",
-        "Nitrogen",
-        "Oxygen"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the basic unit of heredity called?",
       "options": [
         "The gene",
@@ -404,18 +356,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport awards the Green Jacket to its champion?",
-      "options": [
-        "The Masters golf tournament",
-        "The Kentucky Derby",
-        "The Tour de France",
-        "Wimbledon"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -505,18 +445,6 @@
       "source": "curated"
     },
     {
-      "category": "Technology",
-      "prompt": "What does 'bandwidth' measure on a network?",
-      "options": [
-        "Data transfer capacity",
-        "Physical cable length",
-        "Signal color",
-        "Server temperature"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "Geography",
       "prompt": "Which strait separates the North and South Islands of New Zealand?",
       "options": [
@@ -524,18 +452,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which island nation lies off the southeastern coast of Africa?",
-      "options": [
-        "Madagascar",
-        "Sri Lanka",
-        "Fiji",
-        "Seychelles"
       ],
       "answerIndex": 0,
       "source": "curated"
