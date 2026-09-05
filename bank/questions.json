@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which queen ruled Egypt as its last active pharaoh?",
-      "options": [
-        "Cleopatra VII",
-        "Nefertiti",
-        "Hatshepsut",
-        "Berenice IV"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Boston Tea Party protested taxes imposed by which country?",
       "options": [
         "Britain",
@@ -110,18 +98,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Divine Comedy'?",
-      "options": [
-        "Dante Alighieri",
-        "Petrarch",
-        "Boccaccio",
-        "Machiavelli"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author wrote 'Brave New World'?",
       "options": [
         "Aldous Huxley",
@@ -152,18 +128,6 @@
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which artist recorded 'Like a Rolling Stone'?",
-      "options": [
-        "Bob Dylan",
-        "Neil Young",
-        "Bruce Springsteen",
-        "Tom Petty"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -290,18 +254,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the basic unit of heredity called?",
-      "options": [
-        "The gene",
-        "The chromosome",
-        "The protein",
-        "The enzyme"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the variety of life in an ecosystem?",
       "options": [
         "Biodiversity",
@@ -356,18 +308,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In basketball, how many points is a free throw worth?",
-      "options": [
-        "One",
-        "Two",
-        "Three",
-        "Four"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -452,18 +392,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Ireland?",
-      "options": [
-        "Dublin",
-        "Cork",
-        "Belfast",
-        "Galway"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -2096,18 +2024,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'PDF' stand for?",
-      "options": [
-        "Portable Document Format",
-        "Printed Document File",
-        "Public Data Format",
-        "Personal Display File"
       ],
       "answerIndex": 0,
       "source": "curated"
