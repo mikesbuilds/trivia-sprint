@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who founded the Mongol Empire?",
-      "options": [
-        "Genghis Khan",
-        "Kublai Khan",
-        "Timur",
-        "Batu Khan"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Which pandemic swept the globe beginning in 1918?",
       "options": [
         "The influenza pandemic",
@@ -86,36 +74,12 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Lord of the Rings'?",
-      "options": [
-        "J. R. R. Tolkien",
-        "C. S. Lewis",
-        "Ursula K. Le Guin",
-        "Terry Brooks"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Long Walk to Freedom'?",
       "options": [
         "Nelson Mandela",
         "Desmond Tutu",
         "Steve Biko",
         "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which movie features a shark terrorizing Amity Island?",
-      "options": [
-        "Jaws",
-        "The Meg",
-        "Deep Blue Sea",
-        "Open Water"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -218,18 +182,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientist is credited with discovering penicillin?",
-      "options": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Joseph Lister",
-        "Edward Jenner"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which planet rotates on its side relative to its orbit?",
       "options": [
         "Uranus",
@@ -260,18 +212,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "What does a libero specialize in during a volleyball match?",
-      "options": [
-        "Defense",
-        "Serving",
-        "Blocking",
-        "Spiking"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -332,18 +272,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is home to the Great Barrier Reef?",
-      "options": [
-        "Australia",
-        "Indonesia",
-        "Philippines",
-        "Fiji"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1952,18 +1880,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'ISP' stand for?",
-      "options": [
-        "Internet Service Provider",
-        "Internal System Protocol",
-        "Integrated Service Platform",
-        "Internet Security Program"
       ],
       "answerIndex": 0,
       "source": "curated"
