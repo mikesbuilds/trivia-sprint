@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which pandemic swept the globe beginning in 1918?",
-      "options": [
-        "The influenza pandemic",
-        "Cholera",
-        "Smallpox",
-        "Typhus"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Magna Carta limited the power of which office?",
       "options": [
         "The English monarchy",
@@ -68,30 +56,6 @@
         "Tsar Nicholas II",
         "Kaiser Wilhelm II",
         "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Long Walk to Freedom'?",
-      "options": [
-        "Nelson Mandela",
-        "Desmond Tutu",
-        "Steve Biko",
-        "Oliver Tambo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which comic book publisher created the X-Men?",
-      "options": [
-        "Marvel",
-        "DC",
-        "Image",
-        "Dark Horse"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -182,18 +146,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which planet rotates on its side relative to its orbit?",
-      "options": [
-        "Uranus",
-        "Neptune",
-        "Saturn",
-        "Mars"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for an animal that eats both plants and meat?",
       "options": [
         "An omnivore",
@@ -212,18 +164,6 @@
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "How many players form a water polo team in the pool?",
-      "options": [
-        "Seven",
-        "Six",
-        "Five",
-        "Eight"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -272,18 +212,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which African river flows through Cairo?",
-      "options": [
-        "The Nile",
-        "The Congo",
-        "The Volta",
-        "The Limpopo"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1880,18 +1808,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which symbol begins a hashtag on social media?",
-      "options": [
-        "#",
-        "@",
-        "&",
-        "*"
       ],
       "answerIndex": 0,
       "source": "curated"
