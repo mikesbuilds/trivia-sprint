@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Magna Carta limited the power of which office?",
-      "options": [
-        "The English monarchy",
-        "The papacy",
-        "The Holy Roman Emperor",
-        "The French monarchy"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Who was the first African American elected president of the United States?",
       "options": [
         "Barack Obama",
@@ -56,18 +44,6 @@
         "Tsar Nicholas II",
         "Kaiser Wilhelm II",
         "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film features the phrase 'Here's looking at you, kid'?",
-      "options": [
-        "Casablanca",
-        "Gone with the Wind",
-        "Citizen Kane",
-        "The Maltese Falcon"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -146,36 +122,12 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for an animal that eats both plants and meat?",
-      "options": [
-        "An omnivore",
-        "A herbivore",
-        "A carnivore",
-        "A detritivore"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which unit measures electrical resistance?",
       "options": [
         "The ohm",
         "The volt",
         "The ampere",
         "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport uses the terms scrum and lineout?",
-      "options": [
-        "Rugby",
-        "Cricket",
-        "Field hockey",
-        "Netball"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -212,18 +164,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country occupies the entire continent of Australia?",
-      "options": [
-        "Australia",
-        "New Zealand",
-        "Papua New Guinea",
-        "Indonesia"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -500,18 +440,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Anna Karenina'?",
-      "options": [
-        "Leo Tolstoy",
-        "Fyodor Dostoevsky",
-        "Anton Chekhov",
-        "Ivan Turgenev"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1808,18 +1736,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the term for an unsolicited bulk email?",
-      "options": [
-        "Spam",
-        "Ham",
-        "Cache",
-        "Cookie"
       ],
       "answerIndex": 0,
       "source": "curated"
