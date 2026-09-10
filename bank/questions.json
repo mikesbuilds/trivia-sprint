@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Who was the first African American elected president of the United States?",
-      "options": [
-        "Barack Obama",
-        "Jesse Jackson",
-        "Colin Powell",
-        "Shirley Chisholm"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Industrial Revolution began in which country?",
       "options": [
         "Britain",
@@ -44,18 +32,6 @@
         "Tsar Nicholas II",
         "Kaiser Wilhelm II",
         "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which singer released the album 'Purple Rain'?",
-      "options": [
-        "Prince",
-        "Rick James",
-        "George Clinton",
-        "Sly Stone"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -121,30 +97,6 @@
       "source": "curated"
     },
     {
-      "category": "Science",
-      "prompt": "Which unit measures electrical resistance?",
-      "options": [
-        "The ohm",
-        "The volt",
-        "The ampere",
-        "The watt"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In fencing, which weapon targets only the torso?",
-      "options": [
-        "The foil",
-        "The sabre",
-        "The epee",
-        "The rapier"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "Sports",
       "prompt": "Which country originated the sport of curling?",
       "options": [
@@ -164,18 +116,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Poland?",
-      "options": [
-        "Warsaw",
-        "Krakow",
-        "Gdansk",
-        "Wroclaw"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -440,18 +380,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel features the character Bilbo Baggins?",
-      "options": [
-        "The Hobbit",
-        "The Silmarillion",
-        "Watership Down",
-        "The Wind in the Willows"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1736,18 +1664,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company makes the PlayStation console?",
-      "options": [
-        "Sony",
-        "Nintendo",
-        "Microsoft",
-        "Sega"
       ],
       "answerIndex": 0,
       "source": "curated"
