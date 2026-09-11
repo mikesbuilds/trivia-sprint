@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Industrial Revolution began in which country?",
-      "options": [
-        "Britain",
-        "The United States",
-        "Germany",
-        "Belgium"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Which wall divided a European capital from 1961 to 1989?",
       "options": [
         "The Berlin Wall",
@@ -32,18 +20,6 @@
         "Tsar Nicholas II",
         "Kaiser Wilhelm II",
         "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which TV series follows a group of survivors in a zombie apocalypse, based on a comic?",
-      "options": [
-        "The Walking Dead",
-        "Z Nation",
-        "Fear Itself",
-        "Black Summer"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -97,18 +73,6 @@
       "source": "curated"
     },
     {
-      "category": "Sports",
-      "prompt": "Which country originated the sport of curling?",
-      "options": [
-        "Scotland",
-        "Canada",
-        "Norway",
-        "Sweden"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "Geography",
       "prompt": "Which strait separates the North and South Islands of New Zealand?",
       "options": [
@@ -116,18 +80,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which US state borders only one other state?",
-      "options": [
-        "Maine",
-        "Florida",
-        "Alaska",
-        "Washington"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -380,18 +332,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Trial'?",
-      "options": [
-        "Franz Kafka",
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "Hermann Broch"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -860,18 +800,6 @@
         "Sense and Sensibility",
         "Northanger Abbey",
         "Mansfield Park"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
-      "prompt": "Which gas makes up about 21 percent of Earth's atmosphere?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Carbon dioxide"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1664,18 +1592,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'OS' stand for in computing?",
-      "options": [
-        "Operating System",
-        "Open Source",
-        "Output Signal",
-        "Online Storage"
       ],
       "answerIndex": 0,
       "source": "curated"
