@@ -2,36 +2,12 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which wall divided a European capital from 1961 to 1989?",
-      "options": [
-        "The Berlin Wall",
-        "Hadrian's Wall",
-        "The Antonine Wall",
-        "The Iron Curtain gate"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Who was assassinated in Sarajevo in 1914, helping spark World War I?",
       "options": [
         "Archduke Franz Ferdinand",
         "Tsar Nicholas II",
         "Kaiser Wilhelm II",
         "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which Disney film features a mermaid named Ariel?",
-      "options": [
-        "The Little Mermaid",
-        "Moana",
-        "Pocahontas",
-        "Atlantis"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -80,18 +56,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which volcano famously overlooks the Bay of Naples?",
-      "options": [
-        "Mount Vesuvius",
-        "Mount Etna",
-        "Stromboli",
-        "Mount Fuji"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -332,18 +296,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which poet wrote 'Leaves of Grass'?",
-      "options": [
-        "Walt Whitman",
-        "Emily Dickinson",
-        "Ezra Pound",
-        "T. S. Eliot"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -806,18 +758,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for an animal with a backbone?",
-      "options": [
-        "A vertebrate",
-        "An invertebrate",
-        "An arthropod",
-        "A mollusk"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which scientist proposed that species evolve by natural selection?",
       "options": [
         "Charles Darwin",
@@ -1202,18 +1142,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "In which sport is the Davis Cup awarded?",
-      "options": [
-        "Tennis",
-        "Golf",
-        "Sailing",
-        "Cricket"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "How many players are on a netball team on court?",
       "options": [
         "Seven",
@@ -1592,18 +1520,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which small text file stores website preferences in a browser?",
-      "options": [
-        "A cookie",
-        "A cache",
-        "A applet",
-        "A macro"
       ],
       "answerIndex": 0,
       "source": "curated"
