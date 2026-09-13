@@ -1,30 +1,6 @@
 {
   "questions": [
     {
-      "category": "History",
-      "prompt": "Who was assassinated in Sarajevo in 1914, helping spark World War I?",
-      "options": [
-        "Archduke Franz Ferdinand",
-        "Tsar Nicholas II",
-        "Kaiser Wilhelm II",
-        "King Peter I"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which director is known for 'Vertigo' and 'Psycho'?",
-      "options": [
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Billy Wilder",
-        "John Ford"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "Pop Culture",
       "prompt": "Which band is fronted by Mick Jagger?",
       "options": [
@@ -56,18 +32,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is divided by the 38th parallel?",
-      "options": [
-        "Korea",
-        "Vietnam",
-        "Germany",
-        "Cyprus"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -296,18 +260,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Mrs Dalloway'?",
-      "options": [
-        "Virginia Woolf",
-        "Katherine Mansfield",
-        "Iris Murdoch",
-        "Doris Lessing"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -758,18 +710,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientist proposed that species evolve by natural selection?",
-      "options": [
-        "Charles Darwin",
-        "Carl Linnaeus",
-        "Jean-Baptiste Lamarck",
-        "Gregor Mendel"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "How many planets are in our solar system?",
       "options": [
         "Eight",
@@ -1142,18 +1082,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "How many players are on a netball team on court?",
-      "options": [
-        "Seven",
-        "Six",
-        "Five",
-        "Eight"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "In athletics, how many hurdles are in a 110-metre hurdles race?",
       "options": [
         "Ten",
@@ -1520,18 +1448,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'LED' stand for?",
-      "options": [
-        "Light Emitting Diode",
-        "Low Energy Display",
-        "Linear Electronic Device",
-        "Layered Emission Diode"
       ],
       "answerIndex": 0,
       "source": "curated"
