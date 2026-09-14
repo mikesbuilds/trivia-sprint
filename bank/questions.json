@@ -2,18 +2,6 @@
   "questions": [
     {
       "category": "Pop Culture",
-      "prompt": "Which band is fronted by Mick Jagger?",
-      "options": [
-        "The Rolling Stones",
-        "The Doors",
-        "The Animals",
-        "The Yardbirds"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which film features a boy who says 'I see dead people'?",
       "options": [
         "The Sixth Sense",
@@ -32,18 +20,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which desert covers much of Mongolia and northern China?",
-      "options": [
-        "The Gobi",
-        "The Taklamakan",
-        "The Thar",
-        "The Karakum"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -260,18 +236,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which Shakespeare play features the character Shylock?",
-      "options": [
-        "The Merchant of Venice",
-        "Twelfth Night",
-        "As You Like It",
-        "Much Ado About Nothing"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -710,18 +674,6 @@
     },
     {
       "category": "Science",
-      "prompt": "How many planets are in our solar system?",
-      "options": [
-        "Eight",
-        "Nine",
-        "Seven",
-        "Ten"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which organ produces insulin in the human body?",
       "options": [
         "The pancreas",
@@ -1082,18 +1034,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "In athletics, how many hurdles are in a 110-metre hurdles race?",
-      "options": [
-        "Ten",
-        "Eight",
-        "Twelve",
-        "Six"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which sport uses a mallet to hit a ball while riding a horse?",
       "options": [
         "Polo",
@@ -1220,18 +1160,6 @@
         "An eagle",
         "A bogey",
         "An albatross"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which ancient civilization built the Parthenon?",
-      "options": [
-        "Ancient Greece",
-        "Ancient Rome",
-        "Ancient Egypt",
-        "Ancient Persia"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1448,18 +1376,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which programming language is known for the phrase 'write once, run anywhere'?",
-      "options": [
-        "Java",
-        "C",
-        "Pascal",
-        "Fortran"
       ],
       "answerIndex": 0,
       "source": "curated"
