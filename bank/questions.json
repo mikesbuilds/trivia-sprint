@@ -1,18 +1,6 @@
 {
   "questions": [
     {
-      "category": "Pop Culture",
-      "prompt": "Which film features a boy who says 'I see dead people'?",
-      "options": [
-        "The Sixth Sense",
-        "Poltergeist",
-        "The Others",
-        "Signs"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
       "category": "Geography",
       "prompt": "Which strait separates the North and South Islands of New Zealand?",
       "options": [
@@ -20,18 +8,6 @@
         "Bass Strait",
         "Torres Strait",
         "Foveaux Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which Great Lake is entirely within the United States?",
-      "options": [
-        "Lake Michigan",
-        "Lake Erie",
-        "Lake Huron",
-        "Lake Ontario"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -236,18 +212,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel is set on the fictional island of Lilliput?",
-      "options": [
-        "Gulliver's Travels",
-        "Robinson Crusoe",
-        "Treasure Island",
-        "The Coral Island"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -674,18 +638,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which organ produces insulin in the human body?",
-      "options": [
-        "The pancreas",
-        "The liver",
-        "The kidney",
-        "The spleen"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for a change from a solid directly to a gas?",
       "options": [
         "Sublimation",
@@ -1034,18 +986,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which sport uses a mallet to hit a ball while riding a horse?",
-      "options": [
-        "Polo",
-        "Croquet",
-        "Lacrosse",
-        "Jai alai"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "How many players are on an American football team on the field?",
       "options": [
         "Eleven",
@@ -1160,18 +1100,6 @@
         "An eagle",
         "A bogey",
         "An albatross"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "In which year did the Titanic sink?",
-      "options": [
-        "1912",
-        "1905",
-        "1920",
-        "1898"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1376,18 +1304,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company developed the Chrome web browser?",
-      "options": [
-        "Google",
-        "Mozilla",
-        "Microsoft",
-        "Opera Software"
       ],
       "answerIndex": 0,
       "source": "curated"
