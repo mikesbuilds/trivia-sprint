@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which country has Reykjavik as its capital?",
-      "options": [
-        "Iceland",
-        "Greenland",
-        "Norway",
-        "Finland"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which continent is the driest on average?",
       "options": [
         "Antarctica",
@@ -212,18 +200,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Color Purple'?",
-      "options": [
-        "Alice Walker",
-        "Toni Morrison",
-        "Maya Angelou",
-        "Terry McMillan"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -638,18 +614,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a change from a solid directly to a gas?",
-      "options": [
-        "Sublimation",
-        "Condensation",
-        "Evaporation",
-        "Deposition"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which force resists motion between two surfaces in contact?",
       "options": [
         "Friction",
@@ -986,18 +950,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "How many players are on an American football team on the field?",
-      "options": [
-        "Eleven",
-        "Ten",
-        "Twelve",
-        "Nine"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which Olympic sport features a balance beam?",
       "options": [
         "Artistic gymnastics",
@@ -1106,18 +1058,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which empire was ruled by Suleiman the Magnificent?",
-      "options": [
-        "The Ottoman Empire",
-        "The Mughal Empire",
-        "The Persian Empire",
-        "The Byzantine Empire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Who was the first person to walk on the Moon?",
       "options": [
         "Neil Armstrong",
@@ -1184,18 +1124,6 @@
         "Nefertari",
         "Hatshepsut",
         "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film features a character named Darth Vader?",
-      "options": [
-        "Star Wars",
-        "Star Trek",
-        "Flash Gordon",
-        "Buck Rogers"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1304,18 +1232,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the term for a backup copy of data stored offsite?",
-      "options": [
-        "An offsite backup",
-        "A cache",
-        "A partition",
-        "A registry"
       ],
       "answerIndex": 0,
       "source": "curated"
