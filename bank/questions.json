@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of India?",
-      "options": [
-        "New Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Bangalore"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which mountain is the highest in Japan?",
       "options": [
         "Mount Fuji",
@@ -188,18 +176,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Waiting for Godot'?",
-      "options": [
-        "Samuel Beckett",
-        "Harold Pinter",
-        "Eugene Ionesco",
-        "Tom Stoppard"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -590,18 +566,6 @@
     },
     {
       "category": "Science",
-      "prompt": "How many teeth does a typical adult human have?",
-      "options": [
-        "32",
-        "28",
-        "36",
-        "24"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which particle is found in the nucleus alongside protons?",
       "options": [
         "Neutrons",
@@ -914,18 +878,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "In darts, what is the highest score possible with three darts?",
-      "options": [
-        "180",
-        "150",
-        "200",
-        "120"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which country traditionally dominates the sport of sumo wrestling?",
       "options": [
         "Japan",
@@ -1010,18 +962,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which wall encircled the ancient city of Babylon's famous gate?",
-      "options": [
-        "The Ishtar Gate",
-        "The Lion Gate",
-        "The Golden Gate",
-        "The Gate of Xerxes"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "In which century did the American Revolution take place?",
       "options": [
         "The 18th century",
@@ -1064,18 +1004,6 @@
         "Nefertari",
         "Hatshepsut",
         "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which animated studio produced 'Toy Story'?",
-      "options": [
-        "Pixar",
-        "DreamWorks",
-        "Blue Sky",
-        "Illumination"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1160,18 +1088,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does '2FA' stand for?",
-      "options": [
-        "Two-Factor Authentication",
-        "Two-File Archive",
-        "Second Format Access",
-        "Twin Firewall Array"
       ],
       "answerIndex": 0,
       "source": "curated"
