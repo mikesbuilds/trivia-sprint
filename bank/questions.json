@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which mountain is the highest in Japan?",
-      "options": [
-        "Mount Fuji",
-        "Mount Aso",
-        "Mount Hotaka",
-        "Mount Tate"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country surrounds the microstate of San Marino?",
       "options": [
         "Italy",
@@ -176,18 +164,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel opens with the line 'It is a truth universally acknowledged'?",
-      "options": [
-        "Pride and Prejudice",
-        "Emma",
-        "Middlemarch",
-        "Vanity Fair"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -566,18 +542,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which particle is found in the nucleus alongside protons?",
-      "options": [
-        "Neutrons",
-        "Electrons",
-        "Photons",
-        "Neutrinos"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the largest planet in the solar system?",
       "options": [
         "Jupiter",
@@ -878,18 +842,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which country traditionally dominates the sport of sumo wrestling?",
-      "options": [
-        "Japan",
-        "China",
-        "Mongolia",
-        "Korea"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "How many minutes are in a professional soccer match, excluding stoppage?",
       "options": [
         "90",
@@ -962,18 +914,6 @@
     },
     {
       "category": "History",
-      "prompt": "In which century did the American Revolution take place?",
-      "options": [
-        "The 18th century",
-        "The 17th century",
-        "The 19th century",
-        "The 16th century"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Which leader was known as the Iron Chancellor of Germany?",
       "options": [
         "Otto von Bismarck",
@@ -1004,18 +944,6 @@
         "Nefertari",
         "Hatshepsut",
         "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which actor played Neo in 'The Matrix'?",
-      "options": [
-        "Keanu Reeves",
-        "Will Smith",
-        "Tom Cruise",
-        "Brad Pitt"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1088,18 +1016,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which storage medium was standard for music albums before CDs?",
-      "options": [
-        "Vinyl records",
-        "Floppy disks",
-        "Flash drives",
-        "Blu-ray discs"
       ],
       "answerIndex": 0,
       "source": "curated"
