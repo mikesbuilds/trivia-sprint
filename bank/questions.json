@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which country surrounds the microstate of San Marino?",
-      "options": [
-        "Italy",
-        "France",
-        "Spain",
-        "Austria"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the capital of Peru?",
       "options": [
         "Lima",
@@ -164,18 +152,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which author created the character Miss Marple?",
-      "options": [
-        "Agatha Christie",
-        "Ngaio Marsh",
-        "P. D. James",
-        "Ruth Rendell"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -542,18 +518,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the largest planet in the solar system?",
-      "options": [
-        "Jupiter",
-        "Saturn",
-        "Neptune",
-        "Uranus"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which scientific instrument is used to view very small objects?",
       "options": [
         "A microscope",
@@ -842,18 +806,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "How many minutes are in a professional soccer match, excluding stoppage?",
-      "options": [
-        "90",
-        "80",
-        "100",
-        "120"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which stroke is swum on the back in competitive swimming?",
       "options": [
         "Backstroke",
@@ -914,18 +866,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which leader was known as the Iron Chancellor of Germany?",
-      "options": [
-        "Otto von Bismarck",
-        "Kaiser Wilhelm I",
-        "Frederick the Great",
-        "Konrad Adenauer"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "What was the name of the first artificial satellite launched into orbit?",
       "options": [
         "Sputnik 1",
@@ -944,18 +884,6 @@
         "Nefertari",
         "Hatshepsut",
         "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which TV series is set in a New York apartment shared by Monica and Rachel?",
-      "options": [
-        "Friends",
-        "Seinfeld",
-        "Will & Grace",
-        "Mad About You"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -1016,18 +944,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the name of the first widely used web browser with a graphical interface?",
-      "options": [
-        "Mosaic",
-        "Netscape",
-        "Internet Explorer",
-        "Lynx"
       ],
       "answerIndex": 0,
       "source": "curated"
