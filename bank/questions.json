@@ -14,18 +14,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Peru?",
-      "options": [
-        "Lima",
-        "Cusco",
-        "Arequipa",
-        "Trujillo"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which US city is nicknamed the Windy City?",
       "options": [
         "Chicago",
@@ -152,18 +140,6 @@
         "The Danube",
         "The Rhine",
         "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Madame Bovary'?",
-      "options": [
-        "Gustave Flaubert",
-        "Honore de Balzac",
-        "Stendhal",
-        "Guy de Maupassant"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -518,18 +494,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientific instrument is used to view very small objects?",
-      "options": [
-        "A microscope",
-        "A telescope",
-        "A periscope",
-        "A spectroscope"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for water vapor turning into liquid?",
       "options": [
         "Condensation",
@@ -806,18 +770,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which stroke is swum on the back in competitive swimming?",
-      "options": [
-        "Backstroke",
-        "Butterfly",
-        "Breaststroke",
-        "Freestyle"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "In baseball, what is it called when a batter hits the ball over the fence in fair territory?",
       "options": [
         "A home run",
@@ -866,36 +818,12 @@
     },
     {
       "category": "History",
-      "prompt": "What was the name of the first artificial satellite launched into orbit?",
-      "options": [
-        "Sputnik 1",
-        "Explorer 1",
-        "Vostok 1",
-        "Telstar"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Who was the Egyptian queen who allied with Julius Caesar and Mark Antony?",
       "options": [
         "Cleopatra",
         "Nefertari",
         "Hatshepsut",
         "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which singer is known as the Queen of Soul?",
-      "options": [
-        "Aretha Franklin",
-        "Tina Turner",
-        "Diana Ross",
-        "Whitney Houston"
       ],
       "answerIndex": 0,
       "source": "curated"
@@ -944,18 +872,6 @@
         "Claude Monet",
         "Paul Cezanne",
         "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which term describes computer code that duplicates itself across systems?",
-      "options": [
-        "A worm",
-        "A cookie",
-        "A driver",
-        "A kernel"
       ],
       "answerIndex": 0,
       "source": "curated"
