@@ -19,7 +19,8 @@
         "The Spanish-American War",
         "The War of 1812"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "More soldiers died of disease than of wounds, and the total dead exceeded American losses in both world wars combined."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Carbon dioxide",
         "Nitrogen"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It makes up about ninety-six percent of that atmosphere, and the surface is hot enough to melt lead."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "The Kentucky Derby",
         "The Masters golf tournament"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The winner may take it home for a year, after which it must remain at the club."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "His Dark Materials",
         "Harry Potter"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "All three parts were shot at once over roughly fifteen months, which had never been attempted at that scale."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Sri Lanka",
         "Fiji"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It separated from other landmasses so long ago that the overwhelming majority of its wildlife exists nowhere else."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "On the Road",
         "The Catcher in the Rye"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Its author published nothing after 1965 and spent his last decades refusing interviews and blocking adaptations."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Data transfer capacity",
         "Signal color"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It is often confused with latency, but a high-capacity link can still feel slow if each message takes long to arrive."
     }
   ]
 }

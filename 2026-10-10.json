@@ -19,7 +19,8 @@
         "Shirley Chisholm",
         "Colin Powell"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He was awarded the Nobel Peace Prize less than nine months into his first term, a decision he later called premature."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The volt",
         "The ohm"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is defined so that one of them passes one ampere when one volt is applied across it."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "The epee",
         "The sabre"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It descends from practice weapons for duelling to the death, where a torso hit was the one that counted."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Rick James",
         "Sly Stone"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He played the overwhelming majority of the instruments on his early records himself, often recording alone."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Gdansk",
         "Warsaw"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was systematically destroyed in 1944 and its historic centre rebuilt from paintings and photographs after the war."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "The Wind in the Willows",
         "Watership Down"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The author wrote the famous opening line on a blank page of an exam script he was marking."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Sony",
         "Sega"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It began as a scrapped collaboration with Nintendo on a CD add-on, which the partner cancelled publicly at a trade show."
     }
   ]
 }

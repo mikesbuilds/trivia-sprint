@@ -19,7 +19,8 @@
         "The 17th century",
         "The 18th century"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Roughly a fifth of the colonial population remained loyal to the crown, and many left for Canada afterwards."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Neutrons",
         "Electrons"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "A free one outside a nucleus decays within about fifteen minutes, which is why they are only stable when bound."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Korea",
         "China"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Despite being the national sport there, wrestlers from Mongolia have held the top rank for much of recent decades."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Keanu Reeves",
         "Tom Cruise"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He reportedly gave away a large share of his fee to the visual effects and costume teams."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Mount Hotaka",
         "Mount Tate"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is an active volcano that last erupted in 1707, and it is climbed by hundreds of thousands of people each summer."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Emma",
         "Pride and Prejudice"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Floppy disks",
         "Flash drives"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Sales collapsed almost to nothing by the late 1990s, then recovered to outsell CDs again in the 2020s."
     }
   ]
 }

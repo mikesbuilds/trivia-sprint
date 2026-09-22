@@ -19,7 +19,8 @@
         "Thomas Jefferson",
         "John Adams"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It sold well over a hundred thousand copies within months, an astonishing figure in a population of about two and a half million."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The medulla",
         "The cerebellum"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It holds more neurons than the rest of the brain combined, despite taking up only about a tenth of the volume."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Golf",
         "Sailing"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "There is no prize money; players compete unpaid, which is often credited with the unusual intensity of the event."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Silent Running",
         "2001: A Space Odyssey"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Its calm voice was recorded last, replacing an earlier performance the director felt was too obviously sinister."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Indonesia",
         "Japan"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It sits where several plates meet, and a single 1815 eruption there cooled the globe enough to cause a year without a summer."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "James Baldwin",
         "Langston Hughes"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He spent the rest of his life on a second novel, leaving thousands of pages unfinished at his death forty years later."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Ohm's Law",
         "Amdahl's Law"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was never a law of physics but a commercial projection, and the man behind it later admitted he expected it to hold for only a decade."
     }
   ]
 }

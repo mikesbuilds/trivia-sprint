@@ -19,7 +19,8 @@
         "Carthage and Rome",
         "Rome and Constantinople"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The eastern half outlasted the western by nearly a thousand years, which is why its fall is dated to 1453 rather than 476."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Diurnal",
         "Hibernal"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Many such animals have a reflective layer behind the retina, which is what makes their eyes shine in headlights."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Usain Bolt",
         "Carl Lewis"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "His 100 metre world record has stood since 2009, and he reached his top speed somewhere around the 60 metre mark."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Amy Winehouse",
         "Duffy"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "She has twice cancelled tours for vocal cord surgery, and writes most of her material about a small number of relationships."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Shanghai",
         "Tokyo"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Its greater metropolitan area holds more people than the whole of Canada, and its rail network moves millions of passengers daily."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "C. S. Lewis",
         "Lewis Carroll"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He wrote the seven books out of chronological order, and later editions renumbered them, which still divides readers."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "MySpace",
         "LinkedIn"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The definite article was dropped in 2005 after the company bought the shorter domain name for two hundred thousand dollars."
     }
   ]
 }

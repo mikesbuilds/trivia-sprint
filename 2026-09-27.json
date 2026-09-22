@@ -19,7 +19,8 @@
         "The Tang",
         "The Ming"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Earlier walls were rammed earth; the brick and stone sections tourists visit are mostly from this later period."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The cell",
         "The quark"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The name comes from a Greek word meaning uncuttable, which turned out to be wrong by about two thousand years."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Six",
         "Three"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was worth nothing at all originally, merely earning the right to try a kick at goal, which is where the name comes from."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Weeds",
         "Ozark"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The creator originally pitched it as taking the protagonist from a sympathetic figure to an antagonist across the run."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Slovenia",
         "Switzerland"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It has not fought a foreign war since 1815, though military service remains compulsory for most men."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Little Women",
         "The Awakening"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The author was descended from a judge at the Salem witch trials, and added a letter to his surname to distance himself."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "JPEG",
         "BMP"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Each save discards a little more detail, so repeatedly editing and resaving the same file visibly degrades it."
     }
   ]
 }

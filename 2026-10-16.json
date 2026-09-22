@@ -19,7 +19,8 @@
         "The Persian Empire",
         "The Ottoman Empire"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "His own subjects knew him as the Lawgiver for codifying the legal system, a reputation quite separate from the military one."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Evaporation",
         "Sublimation"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Dry ice does this at ordinary pressure, which is why it leaves no puddle behind."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Twelve",
         "Ten"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Squads run to over fifty players because almost nobody plays both offence and defence, unlike the sport's early decades."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Star Wars",
         "Star Trek"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The voice and the body were different performers, and the actor in the suit did not know his lines were being replaced."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Iceland",
         "Finland"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Nearly all its heating and electricity come from geothermal and hydroelectric sources."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Maya Angelou",
         "Terry McMillan"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "She later tracked down the unmarked grave of Zora Neale Hurston and paid for a headstone, reviving interest in that writer."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A partition",
         "A registry"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "A common guideline recommends three copies on two kinds of media with one kept away from the original site."
     }
   ]
 }

@@ -19,7 +19,8 @@
         "The Gate of Xerxes",
         "The Lion Gate"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was faced with glazed blue bricks and decorated with reliefs of bulls and dragons, and a reconstruction stands in Berlin."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "28",
         "36"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "That count includes wisdom teeth, which a substantial minority of people never develop at all."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "180",
         "150"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It requires three darts in the same small treble bed, and professionals still celebrate it as a notable event."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "DreamWorks",
         "Pixar"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was the first entirely computer-animated feature, and the company had been a struggling hardware business beforehand."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Kolkata",
         "Bangalore"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was purpose-built as a capital and inaugurated in 1931, replacing Calcutta as the seat of government."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Tom Stoppard",
         "Samuel Beckett"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He wrote it in French first, then translated it into English himself, saying the second language gave him more discipline."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Twin Firewall Array",
         "Second Format Access"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It combines something you know with something you have, which is why a stolen password alone is not enough."
     }
   ]
 }

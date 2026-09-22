@@ -19,7 +19,8 @@
         "Buzz Aldrin",
         "Neil Armstrong"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The famous line was broadcast with a missing article, and he maintained for years that he had said it."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Gravity",
         "Tension"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Getting something moving takes more force than keeping it moving, because the static form is stronger than the kinetic."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Artistic gymnastics",
         "Weightlifting"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The beam is ten centimetres wide, and routines must include a full-length movement along it."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Black Sabbath",
         "Led Zeppelin"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was never released as a single in its home market, yet became one of the most requested radio tracks ever."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Antarctica",
         "Asia"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Parts of it have seen no rain for roughly two million years, making them drier than any hot desert."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Dorothy Sayers",
         "Agatha Christie"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He had killed the detective off years earlier and brought him back partly under pressure from readers and publishers."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Ctrl+A",
         "Ctrl+P"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It dates to teletype terminals, where the combination sent a signal asking the operating system to end the foreground process."
     }
   ]
 }

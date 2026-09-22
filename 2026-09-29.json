@@ -19,7 +19,8 @@
         "Martin Luther King Jr.",
         "Malcolm X"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The most famous passage was improvised; the prepared text did not contain it, and a singer behind him called out to tell the dream."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "A reagent",
         "A solvent"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Industrial ammonia production depends on an iron one, which is what made synthetic fertiliser possible at scale."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "China",
         "Brazil"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its founder built it from older jujutsu schools in 1882, deliberately removing the most dangerous techniques."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Moana",
         "Frozen"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was written for a villain, and hearing it convinced the team to rewrite the character as sympathetic instead."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Cambodia",
         "Thailand"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The name changed in 1939, briefly reverted during the war, then changed back permanently in 1949."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "The Worst Witch",
         "The Magicians"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was rejected by a dozen publishers, and the editor who took it advised the author to get a day job."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Lotus",
         "Microsoft"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was the first program compelling enough that people bought a computer specifically to run it."
     }
   ]
 }

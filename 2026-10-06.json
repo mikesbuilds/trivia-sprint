@@ -19,7 +19,8 @@
         "France",
         "Spain"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The tea was actually being sold cheaply; the objection was to the principle of the tax, not the price."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Biomass",
         "Biosphere"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Systems with more of it generally recover faster from disturbance, because more species can fill a lost role."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Germany",
         "China"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It began as an after-dinner parlour game using books as a net and a cigar box lid as a bat."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Frasier Crane",
         "Sam Malone"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The bar was based on a real Boston establishment, which still trades heavily on the association."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Baltic Sea",
         "The North Sea"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It is only weakly salty, because many rivers drain into it and its connection to the ocean is narrow."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Yevgeny Zamyatin",
         "George Orwell"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He wrote it in about four months, partly as a parody of the optimistic futurism popular at the time."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Amazon",
         "Google"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The price was 1.65 billion dollars for a site barely eighteen months old with no meaningful revenue."
     }
   ]
 }

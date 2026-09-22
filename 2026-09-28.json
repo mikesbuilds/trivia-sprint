@@ -19,7 +19,8 @@
         "The 1820s",
         "The 1900s"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Verdi was commissioned to write an opera for the occasion, though Aida arrived two years after the opening."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Galileo Galilei",
         "Johannes Kepler"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He served as Master of the Mint and pursued counterfeiters personally, securing several executions."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Seven",
         "Ten"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "They are contested over two days, and the scoring tables are designed so no single event can dominate the total."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Super Mario Bros.",
         "Mega Man"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He first appeared as a carpenter in Donkey Kong, and was renamed after the landlord of the company's American warehouse."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "South America",
         "Africa"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The equator and the prime meridian both cross it, which is what places parts of it in every quadrant."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Edward Albee",
         "Eugene O'Neill"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He wrote the first act in roughly a day and a half, in a shed he had built himself for the purpose."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A program that translates source code into machine code",
         "A text editor"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Grace Hopper built an early one and had to argue against colleagues who insisted computers could only do arithmetic."
     }
   ]
 }

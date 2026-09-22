@@ -1543,6 +1543,1638 @@
     {
       "prompt": "Which ancient city was known for its hanging gardens?",
       "fact": "No archaeological trace of the gardens has been found there, and some historians place them at Nineveh instead."
+    },
+    {
+      "prompt": "The Marshall Plan provided aid to rebuild which region?",
+      "fact": "Congress approved about 13 billion dollars over four years, and the aid was deliberately offered to the Soviet bloc too, which refused it."
+    },
+    {
+      "prompt": "What is the main component of natural gas?",
+      "fact": "It is odourless in its natural state; the rotten-egg smell is an additive put in deliberately so leaks can be detected."
+    },
+    {
+      "prompt": "What is the term for three consecutive strikes in bowling?",
+      "fact": "The name is said to come from nineteenth-century tournaments that handed out an actual turkey as a prize."
+    },
+    {
+      "prompt": "Which band's members included John, Paul, George, and Ringo?",
+      "fact": "Ringo joined last, replacing Pete Best weeks before the first single, and he is the only member never to sing lead on a number one."
+    },
+    {
+      "prompt": "Which mountain range runs along the western edge of South America?",
+      "fact": "At roughly 7,000 kilometres it is the longest continental range on Earth, and it is still rising as two plates collide."
+    },
+    {
+      "prompt": "Which epic poem describes the fall of Troy from a Roman perspective?",
+      "fact": "Virgil left it unfinished and asked for it to be burned; Augustus overruled him, which is the only reason it survives."
+    },
+    {
+      "prompt": "Which port number is standard for HTTPS traffic?",
+      "fact": "Its unencrypted counterpart sits on port 80, and browsers now hide the prefix entirely because the secure version is assumed."
+    },
+    {
+      "prompt": "Who wrote the pamphlet 'Common Sense' in 1776?",
+      "fact": "It sold well over a hundred thousand copies within months, an astonishing figure in a population of about two and a half million."
+    },
+    {
+      "prompt": "Which part of the brain controls balance and coordination?",
+      "fact": "It holds more neurons than the rest of the brain combined, despite taking up only about a tenth of the volume."
+    },
+    {
+      "prompt": "In which sport is the Ryder Cup contested?",
+      "fact": "There is no prize money; players compete unpaid, which is often credited with the unusual intensity of the event."
+    },
+    {
+      "prompt": "Which film features a computer named HAL 9000?",
+      "fact": "Its calm voice was recorded last, replacing an earlier performance the director felt was too obviously sinister."
+    },
+    {
+      "prompt": "Which country has the most volcanoes?",
+      "fact": "It sits where several plates meet, and a single 1815 eruption there cooled the globe enough to cause a year without a summer."
+    },
+    {
+      "prompt": "Who wrote 'Invisible Man', published in 1952?",
+      "fact": "He spent the rest of his life on a second novel, leaving thousands of pages unfinished at his death forty years later."
+    },
+    {
+      "prompt": "Which law observed that transistor counts double roughly every two years?",
+      "fact": "It was never a law of physics but a commercial projection, and the man behind it later admitted he expected it to hold for only a decade."
+    },
+    {
+      "prompt": "Which two cities were the capitals of the divided Roman Empire?",
+      "fact": "The eastern half outlasted the western by nearly a thousand years, which is why its fall is dated to 1453 rather than 476."
+    },
+    {
+      "prompt": "What is the term for animals that are active at night?",
+      "fact": "Many such animals have a reflective layer behind the retina, which is what makes their eyes shine in headlights."
+    },
+    {
+      "prompt": "Which athlete is nicknamed the Lightning Bolt?",
+      "fact": "His 100 metre world record has stood since 2009, and he reached his top speed somewhere around the 60 metre mark."
+    },
+    {
+      "prompt": "Which singer is known for the album '21' and the song 'Rolling in the Deep'?",
+      "fact": "She has twice cancelled tours for vocal cord surgery, and writes most of her material about a small number of relationships."
+    },
+    {
+      "prompt": "What is the largest city in the world by population?",
+      "fact": "Its greater metropolitan area holds more people than the whole of Canada, and its rail network moves millions of passengers daily."
+    },
+    {
+      "prompt": "Which author wrote 'The Chronicles of Narnia'?",
+      "fact": "He wrote the seven books out of chronological order, and later editions renumbered them, which still divides readers."
+    },
+    {
+      "prompt": "Which social network was originally called 'The Facebook'?",
+      "fact": "The definite article was dropped in 2005 after the company bought the shorter domain name for two hundred thousand dollars."
+    },
+    {
+      "prompt": "Who was the first person to reach the South Pole?",
+      "fact": "He beat Scott's party by about five weeks, relying on dogs and skis where his rival used ponies and man-hauling."
+    },
+    {
+      "prompt": "Which element makes up the majority of the Sun's mass?",
+      "fact": "It is fused into helium in the core at a rate of roughly six hundred million tonnes per second."
+    },
+    {
+      "prompt": "Which sport combines skiing and rifle shooting?",
+      "fact": "Competitors must slow their heart rate to shoot accurately, often firing between heartbeats after skiing at full effort."
+    },
+    {
+      "prompt": "Which movie features the character Indiana Jones?",
+      "fact": "The role was offered to Tom Selleck first, who had to decline because of a television contract."
+    },
+    {
+      "prompt": "Which line of latitude divides Earth into northern and southern halves?",
+      "fact": "Objects weigh very slightly less there, because the planet bulges outward and spins fastest at that line."
+    },
+    {
+      "prompt": "Who wrote 'War and Peace'?",
+      "fact": "He came to disown his own great novels in later life, considering them less important than his religious and moral writing."
+    },
+    {
+      "prompt": "What does 'IoT' stand for?",
+      "fact": "The phrase was coined in 1999 for a presentation about putting radio tags on supply chain goods."
+    },
+    {
+      "prompt": "Which dynasty built the majority of the Great Wall that survives today?",
+      "fact": "Earlier walls were rammed earth; the brick and stone sections tourists visit are mostly from this later period."
+    },
+    {
+      "prompt": "What is the smallest unit of an element that retains its properties?",
+      "fact": "The name comes from a Greek word meaning uncuttable, which turned out to be wrong by about two thousand years."
+    },
+    {
+      "prompt": "In rugby union, how many points is a try worth?",
+      "fact": "It was worth nothing at all originally, merely earning the right to try a kick at goal, which is where the name comes from."
+    },
+    {
+      "prompt": "Which show features chemistry teacher Walter White?",
+      "fact": "The creator originally pitched it as taking the protagonist from a sympathetic figure to an antagonist across the run."
+    },
+    {
+      "prompt": "Which country is landlocked and borders both France and Italy?",
+      "fact": "It has not fought a foreign war since 1815, though military service remains compulsory for most men."
+    },
+    {
+      "prompt": "Which novel introduced the character Hester Prynne?",
+      "fact": "The author was descended from a judge at the Salem witch trials, and added a letter to his surname to distance himself."
+    },
+    {
+      "prompt": "Which file format is a lossy image compression standard?",
+      "fact": "Each save discards a little more detail, so repeatedly editing and resaving the same file visibly degrades it."
+    },
+    {
+      "prompt": "The Suez Canal opened in which decade?",
+      "fact": "Verdi was commissioned to write an opera for the occasion, though Aida arrived two years after the opening."
+    },
+    {
+      "prompt": "Which scientist formulated the three laws of motion?",
+      "fact": "He served as Master of the Mint and pursued counterfeiters personally, securing several executions."
+    },
+    {
+      "prompt": "How many events make up a men's decathlon?",
+      "fact": "They are contested over two days, and the scoring tables are designed so no single event can dominate the total."
+    },
+    {
+      "prompt": "Which video game features a plumber named Mario?",
+      "fact": "He first appeared as a carpenter in Donkey Kong, and was renamed after the landlord of the company's American warehouse."
+    },
+    {
+      "prompt": "Which is the only continent that lies in all four hemispheres?",
+      "fact": "The equator and the prime meridian both cross it, which is what places parts of it in every quadrant."
+    },
+    {
+      "prompt": "Which playwright wrote 'Death of a Salesman'?",
+      "fact": "He wrote the first act in roughly a day and a half, in a shed he had built himself for the purpose."
+    },
+    {
+      "prompt": "What is a compiler?",
+      "fact": "Grace Hopper built an early one and had to argue against colleagues who insisted computers could only do arithmetic."
+    },
+    {
+      "prompt": "Who delivered the 'I Have a Dream' speech in 1963?",
+      "fact": "The most famous passage was improvised; the prepared text did not contain it, and a singer behind him called out to tell the dream."
+    },
+    {
+      "prompt": "What is the term for a substance that speeds up a chemical reaction?",
+      "fact": "Industrial ammonia production depends on an iron one, which is what made synthetic fertiliser possible at scale."
+    },
+    {
+      "prompt": "Which country invented the sport of judo?",
+      "fact": "Its founder built it from older jujutsu schools in 1882, deliberately removing the most dangerous techniques."
+    },
+    {
+      "prompt": "Which film features the song 'Let It Go'?",
+      "fact": "It was written for a villain, and hearing it convinced the team to rewrite the character as sympathetic instead."
+    },
+    {
+      "prompt": "Which country was formerly known as Siam?",
+      "fact": "The name changed in 1939, briefly reverted during the war, then changed back permanently in 1949."
+    },
+    {
+      "prompt": "Which novel features the boy wizard's school called Hogwarts?",
+      "fact": "It was rejected by a dozen publishers, and the editor who took it advised the author to get a day job."
+    },
+    {
+      "prompt": "Which company built the first commercially successful personal computer spreadsheet, VisiCalc?",
+      "fact": "It was the first program compelling enough that people bought a computer specifically to run it."
+    },
+    {
+      "prompt": "Which empire was ruled from Tenochtitlan?",
+      "fact": "The capital was built on an island and fed by floating garden plots, and it likely held more people than any European city of the day."
+    },
+    {
+      "prompt": "Which ocean zone receives no sunlight at all?",
+      "fact": "It begins around a thousand metres down and makes up the overwhelming majority of the ocean by volume."
+    },
+    {
+      "prompt": "What is the term for scoring three goals in one soccer match?",
+      "fact": "The phrase was borrowed from cricket, where a bowler taking three wickets in three balls was rewarded with a hat."
+    },
+    {
+      "prompt": "Which actor is known for playing James Bond in 'Goldfinger'?",
+      "fact": "He was working as a milkman and a coffin polisher before bodybuilding contests led him into acting."
+    },
+    {
+      "prompt": "What is the largest lake in Africa by surface area?",
+      "fact": "It is shared by three countries and is shallow for its size, averaging only about forty metres deep."
+    },
+    {
+      "prompt": "Who wrote 'Their Eyes Were Watching God'?",
+      "fact": "She died in obscurity in an unmarked grave; Alice Walker tracked down the site in 1973 and paid for a headstone."
+    },
+    {
+      "prompt": "What does 'cloud computing' primarily rely on?",
+      "fact": "The metaphor comes from network diagrams, where engineers drew the parts they did not control as a cloud."
+    },
+    {
+      "prompt": "The Black Death reached Europe in which century?",
+      "fact": "Labour became so scarce afterwards that wages rose sharply, which helped break the manorial system."
+    },
+    {
+      "prompt": "What is the chemical formula for table salt?",
+      "fact": "Both elements are dangerous alone - one explodes in water, the other is a poison gas - yet the compound is essential to life."
+    },
+    {
+      "prompt": "In Formula One, what flag signals the end of a race?",
+      "fact": "Its origin is disputed, but the pattern was chosen simply because it is highly visible at speed."
+    },
+    {
+      "prompt": "Which band released 'The Dark Side of the Moon'?",
+      "fact": "It stayed on the Billboard chart for over 900 weeks, far longer than any other album."
+    },
+    {
+      "prompt": "Which peninsula contains Spain and Portugal?",
+      "fact": "The Pyrenees seal it off from the rest of the continent, which is why it developed somewhat separately."
+    },
+    {
+      "prompt": "Which author is known for the 'Foundation' science fiction series?",
+      "fact": "He wrote or edited over four hundred books and is one of the few authors with work in nearly every Dewey Decimal category."
+    },
+    {
+      "prompt": "Which key combination is the standard copy shortcut on Windows?",
+      "fact": "The shortcut was popularised on the Macintosh first, where the same letters are used with a different modifier key."
+    },
+    {
+      "prompt": "Who was the first emperor of a unified China?",
+      "fact": "He standardised weights, currency and even axle widths, and was buried with an army of thousands of terracotta figures."
+    },
+    {
+      "prompt": "Which type of blood vessel carries blood away from the heart?",
+      "fact": "The pulmonary one is the exception to the usual rule, carrying oxygen-poor blood toward the lungs."
+    },
+    {
+      "prompt": "Which sport is played with a peloton?",
+      "fact": "Riders in the main group use around thirty percent less energy than one riding alone at the same speed."
+    },
+    {
+      "prompt": "Which reality competition show features a panel judging singing auditions?",
+      "fact": "It was adapted from a British format, and at its peak drew more American votes than some presidential primaries."
+    },
+    {
+      "prompt": "Which river forms much of the border between Texas and Mexico?",
+      "fact": "Its flow has fallen so much through irrigation that it sometimes fails to reach the sea."
+    },
+    {
+      "prompt": "Which Japanese author wrote 'Norwegian Wood'?",
+      "fact": "He ran a jazz bar in Tokyo before writing, and says the idea for his first novel arrived at a baseball game."
+    },
+    {
+      "prompt": "What is the name of Apple's mobile operating system?",
+      "fact": "It had no third-party app store for its first year; developers were told to build web pages instead."
+    },
+    {
+      "prompt": "The Louisiana Purchase transferred territory from which country?",
+      "fact": "It roughly doubled the size of the United States for about four cents an acre, and the seller needed the money for a European war."
+    },
+    {
+      "prompt": "What causes the phases of the Moon?",
+      "fact": "Earth's shadow has nothing to do with it - that only produces an eclipse, which is why they are rare rather than monthly."
+    },
+    {
+      "prompt": "How many bases are on a baseball diamond?",
+      "fact": "Home plate is a five-sided slab rather than a bag, a shape settled on in 1900 to help umpires judge the strike zone."
+    },
+    {
+      "prompt": "Which anime film was directed by Hayao Miyazaki and features a bathhouse?",
+      "fact": "It was the first hand-drawn and first non-English language film to win the Academy Award for Best Animated Feature."
+    },
+    {
+      "prompt": "What is the capital of Switzerland?",
+      "fact": "The constitution never actually names a capital; the city is formally the seat of federal authorities."
+    },
+    {
+      "prompt": "Who wrote 'Jane Eyre'?",
+      "fact": "It was published under a male pen name, and even the author's publisher did not know her real identity at first."
+    },
+    {
+      "prompt": "Which term describes testing software by end users before general release?",
+      "fact": "The name comes from an IBM testing sequence, where the earlier internal stage was labelled with the first Greek letter."
+    },
+    {
+      "prompt": "Which conflict is also known as the War Between the States?",
+      "fact": "More soldiers died of disease than of wounds, and the total dead exceeded American losses in both world wars combined."
+    },
+    {
+      "prompt": "Which gas is most responsible for the greenhouse effect on Venus?",
+      "fact": "It makes up about ninety-six percent of that atmosphere, and the surface is hot enough to melt lead."
+    },
+    {
+      "prompt": "Which sport awards the Green Jacket to its champion?",
+      "fact": "The winner may take it home for a year, after which it must remain at the club."
+    },
+    {
+      "prompt": "Which film trilogy is set in Middle-earth?",
+      "fact": "All three parts were shot at once over roughly fifteen months, which had never been attempted at that scale."
+    },
+    {
+      "prompt": "Which island nation lies off the southeastern coast of Africa?",
+      "fact": "It separated from other landmasses so long ago that the overwhelming majority of its wildlife exists nowhere else."
+    },
+    {
+      "prompt": "Which novel is narrated by Holden Caulfield?",
+      "fact": "Its author published nothing after 1965 and spent his last decades refusing interviews and blocking adaptations."
+    },
+    {
+      "prompt": "What does 'bandwidth' measure on a network?",
+      "fact": "It is often confused with latency, but a high-capacity link can still feel slow if each message takes long to arrive."
+    },
+    {
+      "prompt": "Which queen ruled Egypt as its last active pharaoh?",
+      "fact": "She was Macedonian Greek by descent, and reportedly the first of her dynasty in three centuries to learn Egyptian."
+    },
+    {
+      "prompt": "What is the basic unit of heredity called?",
+      "fact": "Humans have far fewer than expected - around twenty thousand, comparable to a roundworm."
+    },
+    {
+      "prompt": "In basketball, how many points is a free throw worth?",
+      "fact": "Some of the greatest players have been notably poor at it, despite it being the only undefended shot in the game."
+    },
+    {
+      "prompt": "Which artist recorded 'Like a Rolling Stone'?",
+      "fact": "Its six-minute length was thought unplayable on radio, and the label initially released it split across two sides."
+    },
+    {
+      "prompt": "What is the capital of Ireland?",
+      "fact": "Its name derives from an Irish phrase meaning black pool, describing a dark tidal basin where two rivers met."
+    },
+    {
+      "prompt": "Who wrote 'The Divine Comedy'?",
+      "fact": "He wrote it in the Tuscan vernacular rather than Latin, which helped make that dialect the basis of modern Italian."
+    },
+    {
+      "prompt": "What does 'PDF' stand for?",
+      "fact": "Adobe released the specification as an open standard in 2008, which is why the format outlived its commercial origins."
+    },
+    {
+      "prompt": "The Boston Tea Party protested taxes imposed by which country?",
+      "fact": "The tea was actually being sold cheaply; the objection was to the principle of the tax, not the price."
+    },
+    {
+      "prompt": "What is the term for the variety of life in an ecosystem?",
+      "fact": "Systems with more of it generally recover faster from disturbance, because more species can fill a lost role."
+    },
+    {
+      "prompt": "Which country is credited with inventing table tennis?",
+      "fact": "It began as an after-dinner parlour game using books as a net and a cigar box lid as a bat."
+    },
+    {
+      "prompt": "Which sitcom character worked at a bar called Cheers in Boston?",
+      "fact": "The bar was based on a real Boston establishment, which still trades heavily on the association."
+    },
+    {
+      "prompt": "Which sea lies north of Poland and Germany?",
+      "fact": "It is only weakly salty, because many rivers drain into it and its connection to the ocean is narrow."
+    },
+    {
+      "prompt": "Which author wrote 'Brave New World'?",
+      "fact": "He wrote it in about four months, partly as a parody of the optimistic futurism popular at the time."
+    },
+    {
+      "prompt": "Which company acquired YouTube in 2006?",
+      "fact": "The price was 1.65 billion dollars for a site barely eighteen months old with no meaningful revenue."
+    },
+    {
+      "prompt": "Who founded the Mongol Empire?",
+      "fact": "At its height the empire he began covered about a fifth of the world's land, the largest contiguous land empire in history."
+    },
+    {
+      "prompt": "Which scientist is credited with discovering penicillin?",
+      "fact": "He spotted it on a culture plate he had left out while on holiday, and it took another decade for others to turn it into a usable drug."
+    },
+    {
+      "prompt": "What does a libero specialize in during a volleyball match?",
+      "fact": "The role wears a contrasting shirt and may not attack the ball above net height, in exchange for freedom to substitute."
+    },
+    {
+      "prompt": "Which movie features a shark terrorizing Amity Island?",
+      "fact": "The mechanical shark broke down constantly, so the creature was largely kept off screen, which made it far more frightening."
+    },
+    {
+      "prompt": "Which country is home to the Great Barrier Reef?",
+      "fact": "The reef is made up of roughly three thousand separate systems and is visible from low Earth orbit."
+    },
+    {
+      "prompt": "Who wrote 'The Lord of the Rings'?",
+      "fact": "He invented the languages first and wrote the stories partly to give those languages somewhere to live."
+    },
+    {
+      "prompt": "What does 'ISP' stand for?",
+      "fact": "Early consumer access was billed by the hour over a telephone line, which is why flat-rate pricing felt revolutionary."
+    },
+    {
+      "prompt": "Which pandemic swept the globe beginning in 1918?",
+      "fact": "It was called Spanish only because neutral Spain reported it honestly while combatant nations censored the news."
+    },
+    {
+      "prompt": "Which planet rotates on its side relative to its orbit?",
+      "fact": "Its axial tilt is about ninety-eight degrees, most likely the result of a massive early collision."
+    },
+    {
+      "prompt": "How many players form a water polo team in the pool?",
+      "fact": "Players are not allowed to touch the bottom, so they tread water using an egg-beater kick for the entire match."
+    },
+    {
+      "prompt": "Which comic book publisher created the X-Men?",
+      "fact": "The concept let writers address prejudice directly, with mutants standing in for whichever group the era was marginalising."
+    },
+    {
+      "prompt": "Which African river flows through Cairo?",
+      "fact": "Its annual flood sustained Egyptian agriculture for millennia until the Aswan High Dam ended the cycle in 1970."
+    },
+    {
+      "prompt": "Who wrote 'Long Walk to Freedom'?",
+      "fact": "Much of it was drafted secretly in prison and smuggled out, with pages hidden inside the walls of the compound."
+    },
+    {
+      "prompt": "Which symbol begins a hashtag on social media?",
+      "fact": "Its use for grouping topics was proposed by a user in 2007, not by the company, which initially thought it too technical."
+    },
+    {
+      "prompt": "The Magna Carta limited the power of which office?",
+      "fact": "It was annulled by the pope within ten weeks, yet later reissues embedded it permanently in English law."
+    },
+    {
+      "prompt": "What is the term for an animal that eats both plants and meat?",
+      "fact": "Such animals typically have teeth specialised for both cutting and grinding, which is why human dentition is mixed."
+    },
+    {
+      "prompt": "Which sport uses the terms scrum and lineout?",
+      "fact": "The lineout restarts play after the ball goes out, and lifting jumpers was illegal until the late 1990s."
+    },
+    {
+      "prompt": "Which film features the phrase 'Here's looking at you, kid'?",
+      "fact": "The line was reportedly improvised during poker lessons the lead was giving his co-star between takes."
+    },
+    {
+      "prompt": "Which country occupies the entire continent of Australia?",
+      "fact": "It is the only nation to govern a whole continent, and also the driest inhabited one."
+    },
+    {
+      "prompt": "Who wrote 'Anna Karenina'?",
+      "fact": "He rewrote the opening dozens of times, and his wife is said to have copied out the manuscript by hand repeatedly."
+    },
+    {
+      "prompt": "What is the term for an unsolicited bulk email?",
+      "fact": "The name comes from a Monty Python sketch in which the word is repeated until it drowns out all conversation."
+    },
+    {
+      "prompt": "Who was the first African American elected president of the United States?",
+      "fact": "He was awarded the Nobel Peace Prize less than nine months into his first term, a decision he later called premature."
+    },
+    {
+      "prompt": "Which unit measures electrical resistance?",
+      "fact": "It is defined so that one of them passes one ampere when one volt is applied across it."
+    },
+    {
+      "prompt": "In fencing, which weapon targets only the torso?",
+      "fact": "It descends from practice weapons for duelling to the death, where a torso hit was the one that counted."
+    },
+    {
+      "prompt": "Which singer released the album 'Purple Rain'?",
+      "fact": "He played the overwhelming majority of the instruments on his early records himself, often recording alone."
+    },
+    {
+      "prompt": "What is the capital of Poland?",
+      "fact": "It was systematically destroyed in 1944 and its historic centre rebuilt from paintings and photographs after the war."
+    },
+    {
+      "prompt": "Which novel features the character Bilbo Baggins?",
+      "fact": "The author wrote the famous opening line on a blank page of an exam script he was marking."
+    },
+    {
+      "prompt": "Which company makes the PlayStation console?",
+      "fact": "It began as a scrapped collaboration with Nintendo on a CD add-on, which the partner cancelled publicly at a trade show."
+    },
+    {
+      "prompt": "The Industrial Revolution began in which country?",
+      "fact": "Cheap coal, navigable rivers and a patent system are usually credited, though historians still argue over the weighting."
+    },
+    {
+      "prompt": "Which gas makes up about 21 percent of Earth's atmosphere?",
+      "fact": "Almost all of it is biological in origin, produced over billions of years by photosynthesising organisms."
+    },
+    {
+      "prompt": "Which country originated the sport of curling?",
+      "fact": "Stones for elite play are quarried from a single Scottish island whose granite resists absorbing water."
+    },
+    {
+      "prompt": "Which TV series follows a group of survivors in a zombie apocalypse, based on a comic?",
+      "fact": "The source comic deliberately avoided explaining the cause of the outbreak, and the show largely kept that choice."
+    },
+    {
+      "prompt": "Which US state borders only one other state?",
+      "fact": "It is also the closest US state to Africa, and its coastline is longer than California's once inlets are counted."
+    },
+    {
+      "prompt": "Who wrote 'The Trial'?",
+      "fact": "He asked his friend to burn all his unpublished work; the friend published it instead, which is why any of it survives."
+    },
+    {
+      "prompt": "What does 'OS' stand for in computing?",
+      "fact": "Early machines had none at all - each program had to manage the hardware itself, including reading its own input."
+    },
+    {
+      "prompt": "Which wall divided a European capital from 1961 to 1989?",
+      "fact": "It went up almost overnight as barbed wire, and concrete replaced it only gradually over the following years."
+    },
+    {
+      "prompt": "What is the term for an animal with a backbone?",
+      "fact": "They make up only about five percent of known animal species; the overwhelming majority of animals have no backbone."
+    },
+    {
+      "prompt": "In which sport is the Davis Cup awarded?",
+      "fact": "It began in 1900 as a match between two countries and now runs as a large multi-round international competition."
+    },
+    {
+      "prompt": "Which Disney film features a mermaid named Ariel?",
+      "fact": "Its success is generally credited with starting the studio's late-century revival after a long commercial slump."
+    },
+    {
+      "prompt": "Which volcano famously overlooks the Bay of Naples?",
+      "fact": "Roughly three million people live close enough to be at risk, making it among the most dangerous volcanoes on Earth."
+    },
+    {
+      "prompt": "Which poet wrote 'Leaves of Grass'?",
+      "fact": "He revised and expanded it over roughly thirty-five years, from a slim self-published volume into a lifetime's work."
+    },
+    {
+      "prompt": "Which small text file stores website preferences in a browser?",
+      "fact": "The name comes from magic cookie, an older computing term for a small token passed between programs."
+    },
+    {
+      "prompt": "Who was assassinated in Sarajevo in 1914, helping spark World War I?",
+      "fact": "The assassin only got his chance because the motorcade took a wrong turn and stopped to reverse."
+    },
+    {
+      "prompt": "Which scientist proposed that species evolve by natural selection?",
+      "fact": "He sat on the theory for about twenty years, publishing only when a younger naturalist arrived at the same idea independently."
+    },
+    {
+      "prompt": "How many players are on a netball team on court?",
+      "fact": "Players are confined to marked thirds of the court by position, and no dribbling or running with the ball is allowed."
+    },
+    {
+      "prompt": "Which director is known for 'Vertigo' and 'Psycho'?",
+      "fact": "He appeared briefly in most of his own films, and moved the cameos to the opening so audiences would stop watching for them."
+    },
+    {
+      "prompt": "Which country is divided by the 38th parallel?",
+      "fact": "The line was chosen hastily by two American officers in 1945 using a National Geographic map."
+    },
+    {
+      "prompt": "Who wrote 'Mrs Dalloway'?",
+      "fact": "She and her husband ran a small press by hand, which let her publish experimental work without seeking approval."
+    },
+    {
+      "prompt": "What does 'LED' stand for?",
+      "fact": "The blue one took decades longer than red or green, and the breakthrough won a Nobel Prize in 2014."
+    },
+    {
+      "prompt": "Which ancient civilization built the Parthenon?",
+      "fact": "It has almost no straight lines; columns bulge slightly and the base curves, corrections for how the eye perceives scale."
+    },
+    {
+      "prompt": "How many planets are in our solar system?",
+      "fact": "The count dropped by one in 2006 when a new definition required a body to have cleared its orbital neighbourhood."
+    },
+    {
+      "prompt": "In athletics, how many hurdles are in a 110-metre hurdles race?",
+      "fact": "Elite runners take exactly three strides between each one, which is why the event rewards a very specific stride length."
+    },
+    {
+      "prompt": "Which band is fronted by Mick Jagger?",
+      "fact": "They were named after a Muddy Waters song, chosen hurriedly during a phone call with a venue asking what to print."
+    },
+    {
+      "prompt": "Which desert covers much of Mongolia and northern China?",
+      "fact": "It is a cold desert where winter temperatures fall well below freezing and snow sometimes settles on the dunes."
+    },
+    {
+      "prompt": "Which Shakespeare play features the character Shylock?",
+      "fact": "It was classed as a comedy in the first collected edition, a label modern productions tend to resist."
+    },
+    {
+      "prompt": "Which programming language is known for the phrase 'write once, run anywhere'?",
+      "fact": "Programs compile to an intermediate bytecode run by a virtual machine, which is what makes the portability claim work."
+    },
+    {
+      "prompt": "In which year did the Titanic sink?",
+      "fact": "It carried lifeboats for about half those aboard, which met the regulations of the day because rules were based on tonnage."
+    },
+    {
+      "prompt": "Which organ produces insulin in the human body?",
+      "fact": "It also secretes digestive enzymes, making it both an endocrine and an exocrine gland."
+    },
+    {
+      "prompt": "Which sport uses a mallet to hit a ball while riding a horse?",
+      "fact": "Players change horses between chukkas because the animals cannot sustain the pace for a whole match."
+    },
+    {
+      "prompt": "Which film features a boy who says 'I see dead people'?",
+      "fact": "The director wrote the script as a straightforward thriller first, adding the twist relatively late in drafting."
+    },
+    {
+      "prompt": "Which Great Lake is entirely within the United States?",
+      "fact": "It is hydrologically joined to Lake Huron at the Straits of Mackinac, so the two are technically one lake."
+    },
+    {
+      "prompt": "Which novel is set on the fictional island of Lilliput?",
+      "fact": "It was written as a savage political satire, and only later repackaged as a children's adventure story."
+    },
+    {
+      "prompt": "Which company developed the Chrome web browser?",
+      "fact": "It launched with a comic book drawn by Scott McCloud explaining its design, released a day early by accident."
+    },
+    {
+      "prompt": "Which empire was ruled by Suleiman the Magnificent?",
+      "fact": "His own subjects knew him as the Lawgiver for codifying the legal system, a reputation quite separate from the military one."
+    },
+    {
+      "prompt": "What is the term for a change from a solid directly to a gas?",
+      "fact": "Dry ice does this at ordinary pressure, which is why it leaves no puddle behind."
+    },
+    {
+      "prompt": "How many players are on an American football team on the field?",
+      "fact": "Squads run to over fifty players because almost nobody plays both offence and defence, unlike the sport's early decades."
+    },
+    {
+      "prompt": "Which film features a character named Darth Vader?",
+      "fact": "The voice and the body were different performers, and the actor in the suit did not know his lines were being replaced."
+    },
+    {
+      "prompt": "Which country has Reykjavik as its capital?",
+      "fact": "Nearly all its heating and electricity come from geothermal and hydroelectric sources."
+    },
+    {
+      "prompt": "Who wrote 'The Color Purple'?",
+      "fact": "She later tracked down the unmarked grave of Zora Neale Hurston and paid for a headstone, reviving interest in that writer."
+    },
+    {
+      "prompt": "What is the term for a backup copy of data stored offsite?",
+      "fact": "A common guideline recommends three copies on two kinds of media with one kept away from the original site."
+    },
+    {
+      "prompt": "Who was the first person to walk on the Moon?",
+      "fact": "The famous line was broadcast with a missing article, and he maintained for years that he had said it."
+    },
+    {
+      "prompt": "Which force resists motion between two surfaces in contact?",
+      "fact": "Getting something moving takes more force than keeping it moving, because the static form is stronger than the kinetic."
+    },
+    {
+      "prompt": "Which Olympic sport features a balance beam?",
+      "fact": "The beam is ten centimetres wide, and routines must include a full-length movement along it."
+    },
+    {
+      "prompt": "Which band released the song 'Stairway to Heaven'?",
+      "fact": "It was never released as a single in its home market, yet became one of the most requested radio tracks ever."
+    },
+    {
+      "prompt": "Which continent is the driest on average?",
+      "fact": "Parts of it have seen no rain for roughly two million years, making them drier than any hot desert."
+    },
+    {
+      "prompt": "Which author wrote the 'Sherlock Holmes' story 'The Hound of the Baskervilles'?",
+      "fact": "He had killed the detective off years earlier and brought him back partly under pressure from readers and publishers."
+    },
+    {
+      "prompt": "Which key is typically used to interrupt a running command in a terminal?",
+      "fact": "It dates to teletype terminals, where the combination sent a signal asking the operating system to end the foreground process."
+    },
+    {
+      "prompt": "Which wall encircled the ancient city of Babylon's famous gate?",
+      "fact": "It was faced with glazed blue bricks and decorated with reliefs of bulls and dragons, and a reconstruction stands in Berlin."
+    },
+    {
+      "prompt": "How many teeth does a typical adult human have?",
+      "fact": "That count includes wisdom teeth, which a substantial minority of people never develop at all."
+    },
+    {
+      "prompt": "In darts, what is the highest score possible with three darts?",
+      "fact": "It requires three darts in the same small treble bed, and professionals still celebrate it as a notable event."
+    },
+    {
+      "prompt": "Which animated studio produced 'Toy Story'?",
+      "fact": "It was the first entirely computer-animated feature, and the company had been a struggling hardware business beforehand."
+    },
+    {
+      "prompt": "What is the capital of India?",
+      "fact": "It was purpose-built as a capital and inaugurated in 1931, replacing Calcutta as the seat of government."
+    },
+    {
+      "prompt": "Who wrote 'Waiting for Godot'?",
+      "fact": "He wrote it in French first, then translated it into English himself, saying the second language gave him more discipline."
+    },
+    {
+      "prompt": "What does '2FA' stand for?",
+      "fact": "It combines something you know with something you have, which is why a stolen password alone is not enough."
+    },
+    {
+      "prompt": "In which century did the American Revolution take place?",
+      "fact": "Roughly a fifth of the colonial population remained loyal to the crown, and many left for Canada afterwards."
+    },
+    {
+      "prompt": "Which particle is found in the nucleus alongside protons?",
+      "fact": "A free one outside a nucleus decays within about fifteen minutes, which is why they are only stable when bound."
+    },
+    {
+      "prompt": "Which country traditionally dominates the sport of sumo wrestling?",
+      "fact": "Despite being the national sport there, wrestlers from Mongolia have held the top rank for much of recent decades."
+    },
+    {
+      "prompt": "Which actor played Neo in 'The Matrix'?",
+      "fact": "He reportedly gave away a large share of his fee to the visual effects and costume teams."
+    },
+    {
+      "prompt": "Which mountain is the highest in Japan?",
+      "fact": "It is an active volcano that last erupted in 1707, and it is climbed by hundreds of thousands of people each summer."
+    },
+    {
+      "prompt": "Which novel opens with the line 'It is a truth universally acknowledged'?",
+      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
+    },
+    {
+      "prompt": "Which storage medium was standard for music albums before CDs?",
+      "fact": "Sales collapsed almost to nothing by the late 1990s, then recovered to outsell CDs again in the 2020s."
+    },
+    {
+      "prompt": "Which leader was known as the Iron Chancellor of Germany?",
+      "fact": "He introduced state pensions and health insurance, partly to undercut the appeal of socialist parties."
+    },
+    {
+      "prompt": "What is the largest planet in the solar system?",
+      "fact": "It is more than twice as massive as all the other planets combined, and its Great Red Spot is a centuries-old storm."
+    },
+    {
+      "prompt": "How many minutes are in a professional soccer match, excluding stoppage?",
+      "fact": "The ball is typically in play for under sixty of them, which is why added time has grown in recent seasons."
+    },
+    {
+      "prompt": "Which TV series is set in a New York apartment shared by Monica and Rachel?",
+      "fact": "The cast negotiated their salaries collectively rather than individually, which was highly unusual at the time."
+    },
+    {
+      "prompt": "Which country surrounds the microstate of San Marino?",
+      "fact": "It claims to be the oldest surviving sovereign state, founded by tradition in the year 301."
+    },
+    {
+      "prompt": "Which author created the character Miss Marple?",
+      "fact": "The character was partly modelled on the author's own grandmother, who she said always expected the worst of people."
+    },
+    {
+      "prompt": "What is the name of the first widely used web browser with a graphical interface?",
+      "fact": "Its team went on to found Netscape, and its code indirectly underlies Internet Explorer through a licensed descendant."
+    },
+    {
+      "prompt": "What was the name of the first artificial satellite launched into orbit?",
+      "fact": "It transmitted only a simple beep, but amateur radio operators worldwide could hear it, which amplified the shock."
+    },
+    {
+      "prompt": "Which scientific instrument is used to view very small objects?",
+      "fact": "Early models were ground by hand, and one Dutch draper's lenses revealed bacteria more than three centuries ago."
+    },
+    {
+      "prompt": "Which stroke is swum on the back in competitive swimming?",
+      "fact": "It is the only competitive stroke started in the water rather than from the blocks."
+    },
+    {
+      "prompt": "Which singer is known as the Queen of Soul?",
+      "fact": "She learned piano by ear and never read music, working out arrangements at the keyboard in the studio."
+    },
+    {
+      "prompt": "What is the capital of Peru?",
+      "fact": "It sits in a coastal desert and receives almost no rainfall, relying on rivers fed by Andean glaciers."
+    },
+    {
+      "prompt": "Who wrote 'Madame Bovary'?",
+      "fact": "He was prosecuted for offending public morals after publication, and the acquittal made the book a bestseller."
+    },
+    {
+      "prompt": "Which term describes computer code that duplicates itself across systems?",
+      "fact": "Unlike a virus it needs no host file, which is why one released in 1988 spread across the early internet on its own."
+    },
+    {
+      "prompt": "Which strait separates the North and South Islands of New Zealand?",
+      "fact": "It is only about twenty-two kilometres at its narrowest, but notoriously rough where two seas meet."
+    },
+    {
+      "prompt": "Which US city is nicknamed the Windy City?",
+      "fact": "The nickname most likely mocked the boastfulness of its politicians rather than describing the weather."
+    },
+    {
+      "prompt": "What is the capital of Morocco?",
+      "fact": "Casablanca is far larger and better known, but the royal palace and government sit in the smaller coastal capital."
+    },
+    {
+      "prompt": "Which country contains the Yucatan Peninsula?",
+      "fact": "The asteroid impact linked to the dinosaur extinction struck just off its northern coast."
+    },
+    {
+      "prompt": "Which country is nicknamed the Land of a Thousand Lakes?",
+      "fact": "The real count is closer to 188,000, carved out by retreating glaciers at the end of the last ice age."
+    },
+    {
+      "prompt": "What is the capital of Cuba?",
+      "fact": "Its old town is a UNESCO site, and the harbour was fortified heavily because it was the assembly point for Spanish treasure fleets."
+    },
+    {
+      "prompt": "Which mountain range forms the border between France and Spain?",
+      "fact": "The microstate of Andorra sits in a valley along it, surviving as a co-principality since medieval times."
+    },
+    {
+      "prompt": "Which US state is the smallest by land area?",
+      "fact": "Despite the name it is not an island, and it was the last of the thirteen colonies to ratify the constitution."
+    },
+    {
+      "prompt": "Which US state is nicknamed the Lone Star State?",
+      "fact": "It was an independent republic for nearly a decade before joining the union, which is what the single star refers to."
+    },
+    {
+      "prompt": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+      "fact": "Without the Atlantic water flowing through it, the Mediterranean would largely evaporate within a few thousand years."
+    },
+    {
+      "prompt": "Which US state contains Yellowstone National Park's largest portion?",
+      "fact": "The park sits atop a supervolcano, and its geysers are powered by that shallow magma chamber."
+    },
+    {
+      "prompt": "Which river is the longest in Europe?",
+      "fact": "It drains much of western Russia and is linked by canal to four other seas."
+    },
+    {
+      "prompt": "Which epic poem features the hero Beowulf battling Grendel?",
+      "fact": "It survives in a single manuscript that was badly damaged by fire in 1731 and nearly lost entirely."
+    },
+    {
+      "prompt": "Who wrote 'Slaughterhouse-Five'?",
+      "fact": "He survived the firebombing of Dresden as a prisoner of war by sheltering in a meat locker, which the novel draws on directly."
+    },
+    {
+      "prompt": "Which novel features a character named Winston Smith?",
+      "fact": "The author wrote it while seriously ill on a remote Scottish island, typing the final draft himself in bed."
+    },
+    {
+      "prompt": "Who wrote 'The Kite Runner'?",
+      "fact": "He was a practising physician when it was published and kept working for some time after it became a bestseller."
+    },
+    {
+      "prompt": "Which Shakespeare play includes the line 'To be, or not to be'?",
+      "fact": "It is his longest play, and an uncut performance runs to roughly four hours."
+    },
+    {
+      "prompt": "Who wrote 'Lord of the Flies'?",
+      "fact": "He drew on his time teaching schoolboys, and said the novel was a response to the optimism of earlier island adventure stories."
+    },
+    {
+      "prompt": "Which author wrote 'The Adventures of Huckleberry Finn'?",
+      "fact": "He was born and died in years when Halley's Comet appeared, and had predicted he would go out with it."
+    },
+    {
+      "prompt": "Who wrote 'A Brief History of Time'?",
+      "fact": "He was told each equation included would halve sales, so the published book contains only one."
+    },
+    {
+      "prompt": "Which poet wrote 'The Waste Land'?",
+      "fact": "Ezra Pound cut the manuscript roughly in half, and the published poem carries a dedication acknowledging it."
+    },
+    {
+      "prompt": "Who wrote 'The Alchemist'?",
+      "fact": "It sold slowly at first and was dropped by its original publisher before becoming one of the best-selling books ever translated."
+    },
+    {
+      "prompt": "Which novel begins 'All happy families are alike'?",
+      "fact": "The author rewrote the opening dozens of times, and his wife is said to have copied the manuscript by hand repeatedly."
+    },
+    {
+      "prompt": "Which author wrote 'A Christmas Carol'?",
+      "fact": "He self-published it in six weeks to clear debts, and the elaborate binding left him with far less profit than expected."
+    },
+    {
+      "prompt": "Who wrote 'Catch-22'?",
+      "fact": "The title was changed late in production from a different number, to avoid clashing with another recent novel."
+    },
+    {
+      "prompt": "Which novel features the character Captain Nemo?",
+      "fact": "Its author described electric submarines decades before practical ones existed, working from contemporary scientific papers."
+    },
+    {
+      "prompt": "Who wrote 'The Bell Jar'?",
+      "fact": "It was published under a pen name a month before her death, and only appeared under her own name years later."
+    },
+    {
+      "prompt": "Which author wrote 'Middlemarch'?",
+      "fact": "She used a male pen name to be taken seriously, at a time when women novelists were assumed to write light romance."
+    },
+    {
+      "prompt": "Who wrote 'On the Origin of Species'?",
+      "fact": "The first print run sold out on the day of publication, and the word evolution barely appears in it."
+    },
+    {
+      "prompt": "Which play features the characters Vladimir and Estragon?",
+      "fact": "Its author wrote it in French first, then translated it himself, saying the second language imposed useful discipline."
+    },
+    {
+      "prompt": "Who wrote 'The Remains of the Day'?",
+      "fact": "He has said he wrote the first draft in four weeks of near-total isolation that his household called the Crash."
+    },
+    {
+      "prompt": "Which novel features the Joad family travelling to California?",
+      "fact": "It was publicly burned and banned in parts of California, where its portrayal of farm labour conditions was fiercely disputed."
+    },
+    {
+      "prompt": "Who wrote 'Midnight's Children'?",
+      "fact": "It won the Booker Prize and later two special awards naming it the best winner of its first decades."
+    },
+    {
+      "prompt": "Which Greek poet is credited with the 'Iliad'?",
+      "fact": "Whether one person wrote these poems is still debated; they were composed for oral performance long before being written down."
+    },
+    {
+      "prompt": "Who wrote 'The Stranger'?",
+      "fact": "Its author died in a car crash at forty-six with an unused train ticket in his pocket."
+    },
+    {
+      "prompt": "Which novel features a character transformed into an insect?",
+      "fact": "The author asked that the creature never be illustrated on the cover, wanting it left to the reader's imagination."
+    },
+    {
+      "prompt": "Which author wrote 'Fahrenheit 451'?",
+      "fact": "He typed the first draft on a rented library typewriter that charged by the half hour, finishing in nine days."
+    },
+    {
+      "prompt": "Which novel features the character Ebenezer Scrooge?",
+      "fact": "The book helped popularise the phrase Merry Christmas and much of the modern shape of the holiday."
+    },
+    {
+      "prompt": "Who wrote 'The Road'?",
+      "fact": "He is known for omitting quotation marks entirely, arguing that punctuation should not clutter the page."
+    },
+    {
+      "prompt": "Who wrote 'The Handmaid's Tale' sequel 'The Testaments'?",
+      "fact": "She has said she included nothing in the original that had not happened somewhere in real history."
+    },
+    {
+      "prompt": "Which novel features the Bennet sisters?",
+      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
+    },
+    {
+      "prompt": "What is the term for water vapor turning into liquid?",
+      "fact": "It releases heat as it happens, which is what powers the updrafts inside thunderstorms."
+    },
+    {
+      "prompt": "Which vitamin is also known as ascorbic acid?",
+      "fact": "Humans are among the few mammals that cannot make it, which is why long sea voyages once caused scurvy."
+    },
+    {
+      "prompt": "Which element is represented by the symbol 'O'?",
+      "fact": "It is the most abundant element in the Earth's crust, mostly locked up in silicate rocks rather than the air."
+    },
+    {
+      "prompt": "What is the powerhouse molecule that carries energy in cells?",
+      "fact": "A human body turns over roughly its own weight in it each day, recycling the same molecules constantly."
+    },
+    {
+      "prompt": "What is the term for animals that maintain a constant body temperature?",
+      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size."
+    },
+    {
+      "prompt": "Which planet is famous for its Great Red Spot?",
+      "fact": "The storm has been observed for well over three centuries and is currently shrinking."
+    },
+    {
+      "prompt": "What is the chemical symbol for silver?",
+      "fact": "The symbol comes from argentum, the Latin name, which is also the root of Argentina."
+    },
+    {
+      "prompt": "Which type of energy is stored in an object due to its position?",
+      "fact": "A pumped-storage power station is essentially a giant battery built on this principle, moving water uphill to store it."
+    },
+    {
+      "prompt": "What is the term for the pathway that food takes through the body?",
+      "fact": "Laid out end to end in an adult it runs around nine metres, most of that the small intestine."
+    },
+    {
+      "prompt": "Which scientist is known for the equation E equals mc squared?",
+      "fact": "He produced it in 1905, the same year he published four papers that each reshaped a different area of physics."
+    },
+    {
+      "prompt": "What is the term for a group of stars forming a recognizable pattern?",
+      "fact": "The stars in one are rarely near each other in space; they only appear grouped from our particular vantage point."
+    },
+    {
+      "prompt": "What does a barometer measure?",
+      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard equipment on ships."
+    },
+    {
+      "prompt": "Which process splits an atomic nucleus to release energy?",
+      "fact": "It was discovered in 1938, and the chemist who did the key experiment initially could not believe the result."
+    },
+    {
+      "prompt": "What is the largest muscle in the human body?",
+      "fact": "It is central to standing upright, and is unusually large in humans compared with other primates."
+    },
+    {
+      "prompt": "Which planet has the shortest day in the solar system?",
+      "fact": "It completes a rotation in under ten hours despite being the largest planet, which makes it visibly flattened at the poles."
+    },
+    {
+      "prompt": "Which part of the plant conducts photosynthesis most actively?",
+      "fact": "Their arrangement on a stem often follows a spiral that minimises how much each one shades the ones below."
+    },
+    {
+      "prompt": "What is the term for the number of protons in an atom?",
+      "fact": "It alone determines which element an atom is; changing it turns one element into another."
+    },
+    {
+      "prompt": "Which gas is essential for combustion?",
+      "fact": "Fire needs it, fuel and heat together, which is why removing any one of the three puts a fire out."
+    },
+    {
+      "prompt": "What is the term for a scientist who studies rocks?",
+      "fact": "Much of what is known about Earth's deep interior comes from how earthquake waves bend as they pass through it."
+    },
+    {
+      "prompt": "Which state of matter has a definite volume but no definite shape?",
+      "fact": "Water is unusual in that its solid form is less dense than this one, which is why ice floats."
+    },
+    {
+      "prompt": "Which acid is found in the human stomach?",
+      "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
+    },
+    {
+      "prompt": "Which type of rock is formed by heat and pressure on existing rock?",
+      "fact": "Marble forms this way from limestone, and slate from shale, without either ever melting fully."
+    },
+    {
+      "prompt": "Which system in the body includes the brain and spinal cord?",
+      "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
+    },
+    {
+      "prompt": "In baseball, what is it called when a batter hits the ball over the fence in fair territory?",
+      "fact": "One hit with the bases loaded scores four runs and is called a grand slam."
+    },
+    {
+      "prompt": "Which sport features the positions point guard and center?",
+      "fact": "It was invented in 1891 using peach baskets, and the bottoms were not cut out at first."
+    },
+    {
+      "prompt": "In which sport would you use a foil, epee, or sabre?",
+      "fact": "The three weapons differ in valid target area and in whether right of way applies."
+    },
+    {
+      "prompt": "What is the term in golf for one stroke under par on a hole?",
+      "fact": "The bird-themed names spread from American slang, where bird once meant anything excellent."
+    },
+    {
+      "prompt": "Who was the Egyptian queen who allied with Julius Caesar and Mark Antony?",
+      "fact": "She was Macedonian Greek by descent, and reportedly the first of her dynasty in three centuries to learn Egyptian."
+    },
+    {
+      "prompt": "Which musical is based on the life of Alexander Hamilton?",
+      "fact": "Its creator got the idea reading a biography on holiday, and first performed an early song at the White House."
+    },
+    {
+      "prompt": "Which film series features the character Jack Sparrow?",
+      "fact": "The performance was reportedly modelled partly on Keith Richards, which alarmed the studio during early filming."
+    },
+    {
+      "prompt": "Which superhero comes from the planet Krypton?",
+      "fact": "He was created by two Cleveland teenagers who sold the rights for a hundred and thirty dollars."
+    },
+    {
+      "prompt": "Which artist painted 'The Starry Night'?",
+      "fact": "He painted it from a room in an asylum, working from memory and the view through a barred window."
+    },
+    {
+      "prompt": "Which company produces the Galaxy line of smartphones?",
+      "fact": "The parent company began in 1938 trading dried fish and noodles, decades before entering electronics."
+    },
+    {
+      "prompt": "What is the standard keyboard layout used in English-speaking countries?",
+      "fact": "It was designed for mechanical typewriters, and the common claim that it deliberately slows typists is disputed."
+    },
+    {
+      "prompt": "Which unit describes a trillion bytes?",
+      "fact": "Drive makers count it as a power of ten while operating systems often use powers of two, which is why capacity appears to shrink."
+    },
+    {
+      "prompt": "What does 'Wi-Fi' hardware use to broadcast a network name?",
+      "fact": "Hiding it offers almost no real security, since the name is still transmitted whenever a device connects."
+    },
+    {
+      "prompt": "Which programming concept means a function calling itself?",
+      "fact": "Each call consumes stack space, so a version without a proper stopping condition crashes rather than looping forever."
+    },
+    {
+      "prompt": "Which company created the Linux kernel's original version?",
+      "fact": "He announced it in 1991 as a hobby project that would not be big and professional."
+    },
+    {
+      "prompt": "What does 'RGB' stand for in display technology?",
+      "fact": "Mixing light works additively, so all three at full intensity produce white rather than black."
+    },
+    {
+      "prompt": "Which type of software translates one language to machine code line by line at runtime?",
+      "fact": "It trades speed for flexibility, which is why such languages are often easier to debug but slower to run."
+    },
+    {
+      "prompt": "What is the common name for unwanted software that displays advertisements?",
+      "fact": "It is often bundled with free downloads, with consent buried in an installer's default options."
+    },
+    {
+      "prompt": "Which protocol is commonly used to send email between servers?",
+      "fact": "It was designed with no authentication at all, which is the root of why forged sender addresses remain easy."
+    },
+    {
+      "prompt": "Which company developed the first mass-market graphical spreadsheet for Windows?",
+      "fact": "Its spreadsheet was released for the Macintosh first, two years before the Windows version arrived."
+    },
+    {
+      "prompt": "What is the term for the visible area of a website before scrolling?",
+      "fact": "The phrase comes from newspapers, where the top half of a folded front page had to sell the issue."
+    },
+    {
+      "prompt": "Which technology allows short-range wireless connections between headphones and phones?",
+      "fact": "Its logo combines the runes for a tenth-century Scandinavian king's initials."
+    },
+    {
+      "prompt": "What does 'CAPTCHA' primarily try to distinguish?",
+      "fact": "Early versions were used to digitise old books, with users unknowingly transcribing scanned words."
+    },
+    {
+      "prompt": "Which file extension typically indicates a compressed archive?",
+      "fact": "The format was released into the public domain by its creator, which is why it became universal."
+    },
+    {
+      "prompt": "What is the practice of writing programs to run tasks without human input called?",
+      "fact": "The oldest surviving example in wide use is cron, which has scheduled tasks on Unix systems since the 1970s."
+    },
+    {
+      "prompt": "Which company operates the Azure cloud platform?",
+      "fact": "It was announced in 2008 under a different name and renamed two years later."
+    },
+    {
+      "prompt": "What does 'UI' stand for in software design?",
+      "fact": "It is often confused with user experience, which covers the whole journey rather than just the visible controls."
+    },
+    {
+      "prompt": "Which version control system was created by Linus Torvalds?",
+      "fact": "He wrote the first working version in about ten days, after the tool Linux had been using withdrew its free licence."
+    },
+    {
+      "prompt": "Which term describes converting data into a shorter fixed-length value?",
+      "fact": "A good one is designed so that changing a single character produces a completely different result."
+    },
+    {
+      "prompt": "Which device converts digital signals for transmission over phone or cable lines?",
+      "fact": "The name is a contraction of modulator and demodulator, describing the two halves of what it does."
+    },
+    {
+      "prompt": "What does 'CD-ROM' stand for?",
+      "fact": "A standard disc holds about 650 megabytes, a capacity reportedly chosen to fit a particular recording of Beethoven's ninth."
+    },
+    {
+      "prompt": "Which term describes software provided free but with paid upgrades?",
+      "fact": "The word is a blend coined in 2006, though the business model long predates the name."
+    },
+    {
+      "prompt": "What is the purpose of a QR code?",
+      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
+    },
+    {
+      "prompt": "Which company created the Kindle e-reader?",
+      "fact": "Its display uses electrically charged particles rather than backlight, which is why it draws power only when the page changes."
+    },
+    {
+      "prompt": "What does 'FAQ' stand for?",
+      "fact": "The format came from early mailing lists, where the same newcomer questions were asked repeatedly."
+    },
+    {
+      "prompt": "Which term describes an unintended flaw in software?",
+      "fact": "The term predates computers, though a moth found in a Harvard relay in 1947 is the most famous illustration."
+    },
+    {
+      "prompt": "Which number system uses only the digits 0 and 1?",
+      "fact": "Leibniz described it in 1703 and saw a theological elegance in representing everything with one and nothing."
+    },
+    {
+      "prompt": "What does 'CC' stand for in an email header?",
+      "fact": "The blind version exists because listing every recipient openly exposes the whole distribution list."
+    },
+    {
+      "prompt": "Which hexadecimal digit follows 9?",
+      "fact": "The system uses sixteen digits because one of them encodes exactly four bits, which maps neatly onto binary."
+    },
+    {
+      "prompt": "What is the term for temporarily stored data that speeds up repeat access?",
+      "fact": "Deciding what to discard when it fills is one of the genuinely hard problems in computing."
+    },
+    {
+      "prompt": "Which company developed the React JavaScript library?",
+      "fact": "It was released as open source in 2013 and met with early scepticism for mixing markup into JavaScript."
+    },
+    {
+      "prompt": "What does 'ROM' stand for?",
+      "fact": "Unlike working memory it keeps its contents without power, which is why it holds start-up instructions."
+    },
+    {
+      "prompt": "Which term describes distributing incoming traffic across multiple servers?",
+      "fact": "It also provides redundancy, since a failed server can simply be taken out of the rotation."
+    },
+    {
+      "prompt": "What is the name for a program that automatically browses the web to index pages?",
+      "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
+    },
+    {
+      "prompt": "Which country's flag features a red maple leaf?",
+      "fact": "The design was adopted only in 1965, after a parliamentary debate so bitter it ran for months."
+    },
+    {
+      "prompt": "Which US state is known as the Sunshine State?",
+      "fact": "It has the longest coastline in the contiguous United States and its highest point is under a hundred metres."
+    },
+    {
+      "prompt": "Which mountain range contains Mount Everest?",
+      "fact": "The range is still rising a few millimetres a year as the Indian plate continues to push north."
+    },
+    {
+      "prompt": "What is the capital of Mexico?",
+      "fact": "It was built on a drained lake bed and is sinking by several centimetres a year as groundwater is pumped out."
+    },
+    {
+      "prompt": "What is the capital of Vietnam?",
+      "fact": "Its name means between rivers, and the old quarter's streets are still named for the guild that once traded there."
+    },
+    {
+      "prompt": "What is the capital of Chile?",
+      "fact": "It sits in a valley ringed by mountains, which traps air pollution during the winter months."
+    },
+    {
+      "prompt": "Which river flows through London?",
+      "fact": "It was so polluted in 1858 that Parliament hung lime-soaked curtains in the windows during the Great Stink."
+    },
+    {
+      "prompt": "What is the capital of Greece?",
+      "fact": "Its ancient rival Sparta left almost no monuments, which is partly why one city dominates our picture of the period."
+    },
+    {
+      "prompt": "What is the capital of the Netherlands?",
+      "fact": "The government and royal residence are actually in The Hague, making this a capital in name and constitution only."
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "fact": "It is built across fourteen islands, and the old town's narrow lanes date from the medieval period."
+    },
+    {
+      "prompt": "What is the longest river in South America?",
+      "fact": "It discharges more water than the next several largest rivers combined, and has no bridges across its main stem."
+    },
+    {
+      "prompt": "Which desert is the largest hot desert in the world?",
+      "fact": "It was green savannah with lakes as recently as six thousand years ago, and will be again on a cycle of tens of thousands of years."
+    },
+    {
+      "prompt": "Which country is home to Machu Picchu?",
+      "fact": "It was never found by the Spanish, which is why it survived largely intact."
+    },
+    {
+      "prompt": "What is the capital of Canada?",
+      "fact": "It was chosen partly as a compromise between rival cities, and partly because it sat further from the American border."
+    },
+    {
+      "prompt": "What is the capital of Japan?",
+      "fact": "Its name means eastern capital, adopted when the emperor moved there from Kyoto in 1868."
+    },
+    {
+      "prompt": "Which continent contains the Atacama Desert?",
+      "fact": "Some weather stations in that desert have never recorded rainfall, which is why observatories cluster there."
+    },
+    {
+      "prompt": "Which river flows through Paris?",
+      "fact": "Its banks are a UNESCO World Heritage Site, one of the few times a stretch of river itself received the designation."
+    },
+    {
+      "prompt": "What is the capital of Brazil?",
+      "fact": "It was built from nothing in about four years and laid out in the shape of an aeroplane."
+    },
+    {
+      "prompt": "Which European country is shaped like a boot?",
+      "fact": "It has more UNESCO World Heritage Sites than any other country."
+    },
+    {
+      "prompt": "What is the capital of South Korea?",
+      "fact": "Its metropolitan area holds roughly half the national population."
+    },
+    {
+      "prompt": "What is the capital of Norway?",
+      "fact": "It was called Christiania for nearly three centuries before reverting to its older name in 1925."
+    },
+    {
+      "prompt": "Which river is the longest in Africa?",
+      "fact": "Which of its tributaries counts as the source was disputed for centuries and is still not fully settled."
+    },
+    {
+      "prompt": "What is the capital of Kenya?",
+      "fact": "It has a national park within the city limits, where lions and rhinos live against a skyline backdrop."
+    },
+    {
+      "prompt": "Which body of water separates Alaska from Russia?",
+      "fact": "At its narrowest two islands sit about four kilometres apart, with the international date line running between them."
+    },
+    {
+      "prompt": "What is the capital of Argentina?",
+      "fact": "Its residents are called porteños, meaning people of the port."
+    },
+    {
+      "prompt": "Who was the first woman to win a Nobel Prize?",
+      "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
+    },
+    {
+      "prompt": "Which ship carried the Pilgrims to North America in 1620?",
+      "fact": "It aimed for the Hudson but landed far north of it, which is why the passengers drew up their own governing compact."
+    },
+    {
+      "prompt": "Who was the first female prime minister of the United Kingdom?",
+      "fact": "She trained as a research chemist before entering law and then politics."
+    },
+    {
+      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
+      "fact": "He was a minor ruler who died young; his fame rests almost entirely on the tomb escaping serious looting."
+    },
+    {
+      "prompt": "The Great Fire of London occurred in which year?",
+      "fact": "It destroyed most of the medieval city but the recorded death toll was remarkably low, probably because it spread slowly enough to flee."
+    },
+    {
+      "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
+      "fact": "He was removed from power two years later and lived out his life under surveillance near Moscow."
+    },
+    {
+      "prompt": "The Renaissance began in which country?",
+      "fact": "Banking wealth funded much of it, with the Medici of Florence the most famous patrons."
+    },
+    {
+      "prompt": "Who wrote 'The Sun Also Rises'?",
+      "fact": "He worked as a journalist first, and credited the wire-service style with teaching him to strip sentences back."
+    },
+    {
+      "prompt": "Who wrote 'The Count of Monte Cristo'?",
+      "fact": "He ran a workshop of collaborators and published so prolifically that the total output is still disputed."
+    },
+    {
+      "prompt": "Which novel features the character Jay Gatsby?",
+      "fact": "It sold modestly at first; its revival owes much to cheap editions distributed to American troops in the 1940s."
+    },
+    {
+      "prompt": "Who wrote 'Animal Farm'?",
+      "fact": "Several publishers rejected it during the war because it satirised an ally."
+    },
+    {
+      "prompt": "Who wrote 'Dracula'?",
+      "fact": "It is told entirely through letters, diary entries and news clippings, with no conventional narrator."
+    },
+    {
+      "prompt": "Who wrote 'Little Women'?",
+      "fact": "She wrote it reluctantly at a publisher's request for a book for girls, and it cleared her family's debts."
+    },
+    {
+      "prompt": "Who wrote 'The Diary of a Young Girl'?",
+      "fact": "Her father was the only member of the household to survive, and he prepared the first edition for publication."
+    },
+    {
+      "prompt": "Who wrote 'Life of Pi'?",
+      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
+    },
+    {
+      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "fact": "Her novels were published anonymously in her lifetime, credited only to a lady."
+    },
+    {
+      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
+      "fact": "It sold poorly in the author's lifetime and was only reappraised as a masterpiece some seventy years later."
+    },
+    {
+      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "fact": "Tom Stoppard later built an entire play around the two minor courtiers waiting offstage."
+    },
+    {
+      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
+      "fact": "He reportedly sold his car to fund the writing and could only afford to post half the manuscript to the publisher."
+    },
+    {
+      "prompt": "Who wrote 'Things Fall Apart'?",
+      "fact": "Its title comes from a Yeats poem, and it has been translated into more than fifty languages."
+    },
+    {
+      "prompt": "Which poet wrote 'The Road Not Taken'?",
+      "fact": "It is widely read as a call to individualism, though the poem itself says the two paths were worn about the same."
+    },
+    {
+      "prompt": "Who wrote 'The Grapes of Wrath'?",
+      "fact": "He travelled with migrant workers to research it, and the book prompted congressional hearings on farm labour."
+    },
+    {
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "fact": "The magazine version was censored by its editor before printing, and the author expanded it for the book edition."
+    },
+    {
+      "prompt": "Who wrote the poem 'The Raven'?",
+      "fact": "He was paid about nine dollars for it, despite its immediate and enormous popularity."
+    },
+    {
+      "prompt": "Who wrote 'Frankenstein'?",
+      "fact": "She was eighteen when she began it, during a wet summer spent indoors after a volcanic eruption wrecked the weather across Europe."
+    },
+    {
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "fact": "It was the last major work published in his lifetime and was cited when he won the Nobel Prize two years later."
+    },
+    {
+      "prompt": "Which novel features the character Elizabeth Bennet?",
+      "fact": "The author called her heroine as delightful a creature as ever appeared in print."
+    },
+    {
+      "prompt": "Which band released the album 'Abbey Road'?",
+      "fact": "It was the last album they recorded together, though not the last released."
+    },
+    {
+      "prompt": "Which superhero is also known as the Dark Knight?",
+      "fact": "He has no superhuman abilities, which his creators treated as the central constraint of the character."
+    },
+    {
+      "prompt": "Who directed 'Pulp Fiction'?",
+      "fact": "Its scenes are deliberately out of chronological order, so a character killed partway through reappears later."
+    },
+    {
+      "prompt": "Which planet is closest to the Sun?",
+      "fact": "It is not the hottest, because it has almost no atmosphere to trap heat."
+    },
+    {
+      "prompt": "What is the chemical symbol for iron?",
+      "fact": "The symbol comes from ferrum, its Latin name, which is also the root of ferrous."
+    },
+    {
+      "prompt": "Which blood type is known as the universal donor?",
+      "fact": "Only about seven percent of people have it, which is why supplies are chronically short."
+    },
+    {
+      "prompt": "What is the chemical symbol for sodium?",
+      "fact": "It comes from natrium, the Latin name, and the element is soft enough to cut with a knife."
+    },
+    {
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "fact": "An orbiting body is continuously falling; it simply moves sideways fast enough to keep missing."
+    },
+    {
+      "prompt": "What is the chemical symbol for gold?",
+      "fact": "It comes from aurum, the Latin name, meaning glowing dawn."
+    },
+    {
+      "prompt": "Which planet has the most extensive ring system?",
+      "fact": "The rings are mostly water ice and are startlingly thin, in places only about ten metres deep."
+    },
+    {
+      "prompt": "Which element has the atomic number 1?",
+      "fact": "It accounts for roughly three quarters of all ordinary matter in the universe by mass."
+    },
+    {
+      "prompt": "What is the largest organ of the human body?",
+      "fact": "It regenerates completely roughly every month, shedding tens of thousands of cells every minute."
+    },
+    {
+      "prompt": "What does DNA stand for?",
+      "fact": "Stretched out, the amount in a single human cell would run about two metres."
+    },
+    {
+      "prompt": "How many bones are in the adult human body?",
+      "fact": "Babies are born with around three hundred; many fuse together during growth."
+    },
+    {
+      "prompt": "How long does light from the Sun take to reach Earth?",
+      "fact": "The energy in that light may have taken tens of thousands of years to escape the Sun's interior first."
+    },
+    {
+      "prompt": "What is the boiling point of water at sea level in Celsius?",
+      "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
+    },
+    {
+      "prompt": "Which country won the first FIFA World Cup in 1930?",
+      "fact": "It hosted the tournament too, and only four European teams made the long sea crossing to take part."
+    },
+    {
+      "prompt": "Which US president issued the Emancipation Proclamation?",
+      "fact": "It applied only to states in rebellion, so it freed nobody in the border states that had stayed loyal."
+    },
+    {
+      "prompt": "Which country gifted the Statue of Liberty to the United States?",
+      "fact": "It arrived in 350 pieces packed in over two hundred crates, and the pedestal was funded by public subscription."
+    },
+    {
+      "prompt": "Which video game franchise features Master Chief?",
+      "fact": "It was originally in development for the Macintosh before the studio was acquired and the game became a console launch title."
+    },
+    {
+      "prompt": "In which sport would you perform a slam dunk?",
+      "fact": "It was banned in American college play for nine years from 1967, a rule widely seen as aimed at one dominant player."
+    },
+    {
+      "prompt": "Which sport is played at Wimbledon?",
+      "fact": "It is the only one of the four majors still played on grass, and players wear almost entirely white by rule."
+    },
+    {
+      "prompt": "In baseball, how many strikes make an out?",
+      "fact": "A foul ball cannot produce the final one, except when the batter is attempting a bunt."
+    },
+    {
+      "prompt": "How many holes are played in a standard round of golf?",
+      "fact": "The number became standard at St Andrews, and was adopted elsewhere largely because of that club's influence."
+    },
+    {
+      "prompt": "Which sport uses a shuttlecock?",
+      "fact": "A feathered shuttle leaves the racket faster than any other racket-sport projectile but decelerates very sharply."
+    },
+    {
+      "prompt": "In which sport do teams compete for the Stanley Cup?",
+      "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
+    },
+    {
+      "prompt": "How many periods are in a standard ice hockey game?",
+      "fact": "The ice is resurfaced between each one, a process named after the man who built the first machine to do it."
+    },
+    {
+      "prompt": "What is the diameter of a basketball hoop, in inches?",
+      "fact": "Two balls can fit through it side by side, with only a little room to spare."
+    },
+    {
+      "prompt": "Which tennis tournament is played on clay courts?",
+      "fact": "The surface slows the ball and produces long rallies, which is why specialists there rarely dominate elsewhere."
+    },
+    {
+      "prompt": "What does 'HTML' stand for?",
+      "fact": "Tim Berners-Lee's first version had about twenty tags, most of which are still valid today."
+    },
+    {
+      "prompt": "What does 'API' stand for?",
+      "fact": "A well-designed one is a contract: it lets the code behind it change completely without breaking anything built on top."
+    },
+    {
+      "prompt": "What does 'SSD' stand for?",
+      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
+    },
+    {
+      "prompt": "What does 'SaaS' stand for?",
+      "fact": "The model shifted software from a one-off purchase to a subscription, which changed how the whole industry is valued."
+    },
+    {
+      "prompt": "What does 'HTTP' stand for?",
+      "fact": "The first version was a single-page specification with just one command."
+    },
+    {
+      "prompt": "Which company developed the Android operating system?",
+      "fact": "It was an independent startup building camera software before being acquired in 2005."
+    },
+    {
+      "prompt": "What does 'CPU' stand for?",
+      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
+    },
+    {
+      "prompt": "Which company created the iPhone?",
+      "fact": "The first model had no app store, no copy and paste, and could not record video."
+    },
+    {
+      "prompt": "What does 'USB' stand for?",
+      "fact": "The connector was famously hard to insert correctly, a flaw its designer later publicly apologised for."
+    },
+    {
+      "prompt": "What does 'AI' stand for?",
+      "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
+    },
+    {
+      "prompt": "Which company developed the Windows operating system?",
+      "fact": "Its first version in 1985 was a graphical shell running on top of an existing disk operating system."
+    },
+    {
+      "prompt": "What does 'URL' stand for?",
+      "fact": "The double slash after the protocol serves no real purpose, and its inventor has said he regrets including it."
+    },
+    {
+      "prompt": "What is a firewall used for?",
+      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections."
+    },
+    {
+      "prompt": "What is phishing?",
+      "fact": "The deliberate misspelling follows an older hacker convention, and the practice was first named on AOL in the mid-1990s."
+    },
+    {
+      "prompt": "What does 'GPU' stand for?",
+      "fact": "Its ability to run thousands of simple calculations at once is why it became central to machine learning."
+    },
+    {
+      "prompt": "What is the purpose of encryption?",
+      "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
     }
   ]
 }

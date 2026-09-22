@@ -19,7 +19,8 @@
         "Ancient Egypt",
         "Ancient Persia"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It has almost no straight lines; columns bulge slightly and the base curves, corrections for how the eye perceives scale."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Ten",
         "Eight"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The count dropped by one in 2006 when a new definition required a body to have cleared its orbital neighbourhood."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Ten",
         "Eight"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Elite runners take exactly three strides between each one, which is why the event rewards a very specific stride length."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "The Yardbirds",
         "The Animals"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "They were named after a Muddy Waters song, chosen hurriedly during a phone call with a venue asking what to print."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Karakum",
         "The Taklamakan"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is a cold desert where winter temperatures fall well below freezing and snow sometimes settles on the dunes."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Much Ado About Nothing",
         "Twelfth Night"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was classed as a comedy in the first collected edition, a label modern productions tend to resist."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Fortran",
         "Java"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Programs compile to an intermediate bytecode run by a virtual machine, which is what makes the portability claim work."
     }
   ]
 }

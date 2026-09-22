@@ -19,7 +19,8 @@
         "Smallpox",
         "Typhus"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was called Spanish only because neutral Spain reported it honestly while combatant nations censored the news."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Mars",
         "Uranus"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Its axial tilt is about ninety-eight degrees, most likely the result of a massive early collision."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Six",
         "Seven"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Players are not allowed to touch the bottom, so they tread water using an egg-beater kick for the entire match."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "DC",
         "Image"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The concept let writers address prejudice directly, with mutants standing in for whichever group the era was marginalising."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Nile",
         "The Congo"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Its annual flood sustained Egyptian agriculture for millennia until the Aswan High Dam ended the cycle in 1970."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Oliver Tambo",
         "Steve Biko"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Much of it was drafted secretly in prison and smuggled out, with pages hidden inside the walls of the compound."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "#",
         "&"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Its use for grouping topics was proposed by a user in 2007, not by the company, which initially thought it too technical."
     }
   ]
 }

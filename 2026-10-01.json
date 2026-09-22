@@ -19,7 +19,8 @@
         "The 10th century",
         "The 14th century"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Labour became so scarce afterwards that wages rose sharply, which helped break the manorial system."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "CaCl2",
         "NaOH"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Both elements are dangerous alone - one explodes in water, the other is a poison gas - yet the compound is essential to life."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "The green flag",
         "The red flag"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its origin is disputed, but the pattern was chosen simply because it is highly visible at speed."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Pink Floyd",
         "Yes"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It stayed on the Billboard chart for over 900 weeks, far longer than any other album."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Balkan Peninsula",
         "The Iberian Peninsula"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The Pyrenees seal it off from the rest of the continent, which is why it developed somewhat separately."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Philip K. Dick",
         "Robert Heinlein"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He wrote or edited over four hundred books and is one of the few authors with work in nearly every Dewey Decimal category."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Ctrl+C",
         "Ctrl+V"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The shortcut was popularised on the Macintosh first, where the same letters are used with a different modifier key."
     }
   ]
 }

@@ -19,7 +19,8 @@
         "Telstar",
         "Vostok 1"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It transmitted only a simple beep, but amateur radio operators worldwide could hear it, which amplified the shock."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "A telescope",
         "A periscope"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Early models were ground by hand, and one Dutch draper's lenses revealed bacteria more than three centuries ago."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Breaststroke",
         "Backstroke"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is the only competitive stroke started in the water rather than from the blocks."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Tina Turner",
         "Whitney Houston"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "She learned piano by ear and never read music, working out arrangements at the keyboard in the studio."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Trujillo",
         "Arequipa"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It sits in a coastal desert and receives almost no rainfall, relying on rivers fed by Andean glaciers."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Guy de Maupassant",
         "Gustave Flaubert"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He was prosecuted for offending public morals after publication, and the acquittal made the book a bestseller."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A worm",
         "A kernel"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Unlike a virus it needs no host file, which is why one released in 1988 spread across the early internet on its own."
     }
   ]
 }

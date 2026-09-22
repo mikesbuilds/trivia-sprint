@@ -19,7 +19,8 @@
         "The French monarchy",
         "The Holy Roman Emperor"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It was annulled by the pope within ten weeks, yet later reissues embedded it permanently in English law."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "An omnivore",
         "A carnivore"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Such animals typically have teeth specialised for both cutting and grinding, which is why human dentition is mixed."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Cricket",
         "Rugby"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The lineout restarts play after the ball goes out, and lifting jumpers was illegal until the late 1990s."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "The Maltese Falcon",
         "Citizen Kane"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The line was reportedly improvised during poker lessons the lead was giving his co-star between takes."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "New Zealand",
         "Papua New Guinea"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It is the only nation to govern a whole continent, and also the driest inhabited one."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Leo Tolstoy",
         "Anton Chekhov"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He rewrote the opening dozens of times, and his wife is said to have copied out the manuscript by hand repeatedly."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Ham",
         "Spam"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The name comes from a Monty Python sketch in which the word is repeated until it drowns out all conversation."
     }
   ]
 }

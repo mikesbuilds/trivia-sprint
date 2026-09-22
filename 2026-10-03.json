@@ -19,7 +19,8 @@
         "Spain",
         "France"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It roughly doubled the size of the United States for about four cents an acre, and the seller needed the money for a European war."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Clouds in Earth's atmosphere",
         "Earth's shadow"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Earth's shadow has nothing to do with it - that only produces an eclipse, which is why they are rare rather than monthly."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Six",
         "Four"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Home plate is a five-sided slab rather than a bag, a shape settled on in 1900 to help umpires judge the strike zone."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Spirited Away",
         "Ghost in the Shell"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It was the first hand-drawn and first non-English language film to win the Academy Award for Best Animated Feature."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Bern",
         "Basel"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The constitution never actually names a capital; the city is formally the seat of federal authorities."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Jane Austen",
         "Mary Ann Evans"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was published under a male pen name, and even the author's publisher did not know her real identity at first."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Regression testing",
         "Alpha coding"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The name comes from an IBM testing sequence, where the earlier internal stage was labelled with the first Greek letter."
     }
   ]
 }
