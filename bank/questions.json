@@ -15,19 +15,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which US city is nicknamed the Windy City?",
-      "options": [
-        "Chicago",
-        "Boston",
-        "Detroit",
-        "Cleveland"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The nickname most likely mocked the boastfulness of its politicians rather than describing the weather."
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the capital of Morocco?",
       "options": [
         "Rabat",
@@ -155,19 +142,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which epic poem features the hero Beowulf battling Grendel?",
-      "options": [
-        "Beowulf",
-        "The Song of Roland",
-        "The Nibelungenlied",
-        "Sir Gawain and the Green Knight"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It survives in a single manuscript that was badly damaged by fire in 1731 and nearly lost entirely."
     },
     {
       "category": "Literature",
@@ -535,19 +509,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for water vapor turning into liquid?",
-      "options": [
-        "Condensation",
-        "Evaporation",
-        "Sublimation",
-        "Precipitation"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It releases heat as it happens, which is what powers the updrafts inside thunderstorms."
-    },
-    {
-      "category": "Science",
       "prompt": "Which vitamin is also known as ascorbic acid?",
       "options": [
         "Vitamin C",
@@ -834,19 +795,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "In baseball, what is it called when a batter hits the ball over the fence in fair territory?",
-      "options": [
-        "A home run",
-        "A triple",
-        "A grand slam only",
-        "A line drive"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "One hit with the bases loaded scores four runs and is called a grand slam."
-    },
-    {
-      "category": "Sports",
       "prompt": "Which sport features the positions point guard and center?",
       "options": [
         "Basketball",
@@ -883,32 +831,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The bird-themed names spread from American slang, where bird once meant anything excellent."
-    },
-    {
-      "category": "History",
-      "prompt": "Who was the Egyptian queen who allied with Julius Caesar and Mark Antony?",
-      "options": [
-        "Cleopatra",
-        "Nefertari",
-        "Hatshepsut",
-        "Arsinoe"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "She was Macedonian Greek by descent, and reportedly the first of her dynasty in three centuries to learn Egyptian."
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which musical is based on the life of Alexander Hamilton?",
-      "options": [
-        "Hamilton",
-        "1776",
-        "Assassins",
-        "Ragtime"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its creator got the idea reading a biography on holiday, and first performed an early song at the White House."
     },
     {
       "category": "Pop Culture",
@@ -948,19 +870,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "He painted it from a room in an asylum, working from memory and the view through a barred window."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company produces the Galaxy line of smartphones?",
-      "options": [
-        "Samsung",
-        "LG",
-        "Huawei",
-        "Xiaomi"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The parent company began in 1938 trading dried fish and noodles, decades before entering electronics."
     },
     {
       "category": "Technology",
