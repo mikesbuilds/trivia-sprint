@@ -19,7 +19,8 @@
         "The Aztec Empire",
         "The Maya city-states"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The capital was built on an island and fed by floating garden plots, and it likely held more people than any European city of the day."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The intertidal zone",
         "The neritic zone"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It begins around a thousand metres down and makes up the overwhelming majority of the ocean by volume."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "A hat trick",
         "A trifecta"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The phrase was borrowed from cricket, where a bowler taking three wickets in three balls was rewarded with a hat."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Pierce Brosnan",
         "Roger Moore"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He was working as a milkman and a coffin polisher before bodybuilding contests led him into acting."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Lake Chad",
         "Lake Victoria"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is shared by three countries and is shallow for its size, averaging only about forty metres deep."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Nella Larsen",
         "Toni Morrison"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "She died in obscurity in an unmarked grave; Alice Walker tracked down the site in 1973 and paid for a headstone."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Analog signals",
         "Satellite dishes"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The metaphor comes from network diagrams, where engineers drew the parts they did not control as a cloud."
     }
   ]
 }

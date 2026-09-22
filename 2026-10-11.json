@@ -19,7 +19,8 @@
         "Germany",
         "The United States"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Cheap coal, navigable rivers and a patent system are usually credited, though historians still argue over the weighting."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Carbon dioxide",
         "Argon"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Almost all of it is biological in origin, produced over billions of years by photosynthesising organisms."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Norway",
         "Scotland"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Stones for elite play are quarried from a single Scottish island whose granite resists absorbing water."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Fear Itself",
         "The Walking Dead"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The source comic deliberately avoided explaining the cause of the outbreak, and the show largely kept that choice."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Alaska",
         "Washington"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It is also the closest US state to Africa, and its coastline is longer than California's once inlets are counted."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Franz Kafka",
         "Hermann Broch"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He asked his friend to burn all his unpublished work; the friend published it instead, which is why any of it survives."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Operating System",
         "Open Source"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Early machines had none at all - each program had to manage the hardware itself, including reading its own input."
     }
   ]
 }

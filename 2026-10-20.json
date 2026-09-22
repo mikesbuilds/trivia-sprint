@@ -19,7 +19,8 @@
         "Frederick the Great",
         "Kaiser Wilhelm I"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He introduced state pensions and health insurance, partly to undercut the appeal of socialist parties."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Uranus",
         "Jupiter"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is more than twice as massive as all the other planets combined, and its Great Red Spot is a centuries-old storm."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "90",
         "100"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The ball is typically in play for under sixty of them, which is why added time has grown in recent seasons."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Friends",
         "Mad About You"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The cast negotiated their salaries collectively rather than individually, which was highly unusual at the time."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "France",
         "Spain"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It claims to be the oldest surviving sovereign state, founded by tradition in the year 301."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Ngaio Marsh",
         "Agatha Christie"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The character was partly modelled on the author's own grandmother, who she said always expected the worst of people."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Lynx",
         "Netscape"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its team went on to found Netscape, and its code indirectly underlies Internet Explorer through a licensed descendant."
     }
   ]
 }

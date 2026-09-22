@@ -19,7 +19,8 @@
         "Tsar Nicholas II",
         "Kaiser Wilhelm II"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The assassin only got his chance because the motorcade took a wrong turn and stopped to reverse."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Charles Darwin",
         "Carl Linnaeus"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He sat on the theory for about twenty years, publishing only when a younger naturalist arrived at the same idea independently."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Six",
         "Five"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Players are confined to marked thirds of the court by position, and no dribbling or running with the ball is allowed."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "John Ford",
         "Alfred Hitchcock"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He appeared briefly in most of his own films, and moved the cameos to the opening so audiences would stop watching for them."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Germany",
         "Cyprus"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The line was chosen hastily by two American officers in 1945 using a National Geographic map."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Virginia Woolf",
         "Katherine Mansfield"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "She and her husband ran a small press by hand, which let her publish experimental work without seeking approval."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Low Energy Display",
         "Layered Emission Diode"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The blue one took decades longer than red or green, and the breakthrough won a Nobel Prize in 2014."
     }
   ]
 }

@@ -19,7 +19,8 @@
         "1905",
         "1898"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It carried lifeboats for about half those aboard, which met the regulations of the day because rules were based on tonnage."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The pancreas",
         "The spleen"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It also secretes digestive enzymes, making it both an endocrine and an exocrine gland."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Croquet",
         "Polo"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Players change horses between chukkas because the animals cannot sustain the pace for a whole match."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Poltergeist",
         "The Others"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The director wrote the script as a straightforward thriller first, adding the twist relatively late in drafting."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Lake Huron",
         "Lake Ontario"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is hydrologically joined to Lake Huron at the Straits of Mackinac, so the two are technically one lake."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Treasure Island",
         "Gulliver's Travels"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It was written as a savage political satire, and only later repackaged as a children's adventure story."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Mozilla",
         "Opera Software"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It launched with a comic book drawn by Scott McCloud explaining its design, released a day early by accident."
     }
   ]
 }

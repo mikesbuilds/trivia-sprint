@@ -19,7 +19,8 @@
         "Kublai Khan",
         "Han Wudi"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He standardised weights, currency and even axle widths, and was buried with an army of thousands of terracotta figures."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Veins",
         "Venules"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The pulmonary one is the exception to the usual rule, carrying oxygen-poor blood toward the lungs."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Rowing",
         "Road cycling"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Riders in the main group use around thirty percent less energy than one riding alone at the same speed."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "The Amazing Race",
         "Survivor"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "It was adapted from a British format, and at its peak drew more American votes than some presidential primaries."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Colorado",
         "The Brazos"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its flow has fallen so much through irrigation that it sometimes fails to reach the sea."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Yukio Mishima",
         "Haruki Murakami"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He ran a jazz bar in Tokyo before writing, and says the idea for his first novel arrived at a baseball game."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "iOS",
         "macOS"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It had no third-party app store for its first year; developers were told to build web pages instead."
     }
   ]
 }

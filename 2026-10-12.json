@@ -19,7 +19,8 @@
         "Hadrian's Wall",
         "The Antonine Wall"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It went up almost overnight as barbed wire, and concrete replaced it only gradually over the following years."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "A mollusk",
         "A vertebrate"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "They make up only about five percent of known animal species; the overwhelming majority of animals have no backbone."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Tennis",
         "Golf"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "It began in 1900 as a match between two countries and now runs as a large multi-round international competition."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Atlantis",
         "Pocahontas"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its success is generally credited with starting the studio's late-century revival after a long commercial slump."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Mount Fuji",
         "Mount Etna"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Roughly three million people live close enough to be at risk, making it among the most dangerous volcanoes on Earth."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Walt Whitman",
         "Ezra Pound"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "He revised and expanded it over roughly thirty-five years, from a slim self-published volume into a lifetime's work."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "A macro",
         "A applet"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "The name comes from magic cookie, an older computing term for a small token passed between programs."
     }
   ]
 }

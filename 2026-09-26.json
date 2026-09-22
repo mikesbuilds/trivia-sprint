@@ -19,7 +19,8 @@
         "Fridtjof Nansen",
         "Ernest Shackleton"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He beat Scott's party by about five weeks, relying on dogs and skis where his rival used ponies and man-hauling."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Helium",
         "Oxygen"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "It is fused into helium in the core at a rate of roughly six hundred million tonnes per second."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Biathlon",
         "Pentathlon"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Competitors must slow their heart rate to shoot accurately, often firing between heartbeats after skiing at full effort."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "National Treasure",
         "Raiders of the Lost Ark"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The role was offered to Tom Selleck first, who had to decline because of a television contract."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The prime meridian",
         "The Arctic Circle"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Objects weigh very slightly less there, because the planet bulges outward and spins fastest at that line."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Fyodor Dostoevsky",
         "Mikhail Sholokhov"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He came to disown his own great novels in later life, considering them less important than his religious and moral writing."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Internet of Things",
         "Integrated Optical Transmission"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The phrase was coined in 1999 for a presentation about putting radio tags on supply chain goods."
     }
   ]
 }

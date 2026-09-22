@@ -19,7 +19,8 @@
         "Latin America",
         "Western Europe"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Congress approved about 13 billion dollars over four years, and the aid was deliberately offered to the Soviet bloc too, which refused it."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Ethane",
         "Methane"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "It is odourless in its natural state; the rotten-egg smell is an additive put in deliberately so leaks can be detected."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "A hat trick",
         "A triple"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "The name is said to come from nineteenth-century tournaments that handed out an actual turkey as a prize."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "The Byrds",
         "The Kinks"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Ringo joined last, replacing Pete Best weeks before the first single, and he is the only member never to sing lead on a number one."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "The Appalachians",
         "The Sierra Madre"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "At roughly 7,000 kilometres it is the longest continental range on Earth, and it is still rising as two plates collide."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "The Aeneid",
         "Metamorphoses"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Virgil left it unfinished and asked for it to be burned; Augustus overruled him, which is the only reason it survives."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "443",
         "80"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Its unencrypted counterpart sits on port 80, and browsers now hide the prefix entirely because the secure version is assumed."
     }
   ]
 }

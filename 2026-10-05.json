@@ -19,7 +19,8 @@
         "Nefertiti",
         "Hatshepsut"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "She was Macedonian Greek by descent, and reportedly the first of her dynasty in three centuries to learn Egyptian."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "The gene",
         "The enzyme"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "Humans have far fewer than expected - around twenty thousand, comparable to a roundworm."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Three",
         "One"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "Some of the greatest players have been notably poor at it, despite it being the only undefended shot in the game."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Neil Young",
         "Bruce Springsteen"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Its six-minute length was thought unplayable on radio, and the label initially released it split across two sides."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Galway",
         "Cork"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Its name derives from an Irish phrase meaning black pool, describing a dark tidal basin where two rivers met."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Machiavelli",
         "Dante Alighieri"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "He wrote it in the Tuscan vernacular rather than Latin, which helped make that dialect the basis of modern Italian."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Printed Document File",
         "Public Data Format"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "Adobe released the specification as an open standard in 2008, which is why the format outlived its commercial origins."
     }
   ]
 }

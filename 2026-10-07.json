@@ -19,7 +19,8 @@
         "Kublai Khan",
         "Batu Khan"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "At its height the empire he began covered about a fifth of the world's land, the largest contiguous land empire in history."
     },
     {
       "category": "Science",
@@ -30,7 +31,8 @@
         "Joseph Lister",
         "Edward Jenner"
       ],
-      "answerIndex": 0
+      "answerIndex": 0,
+      "fact": "He spotted it on a culture plate he had left out while on holiday, and it took another decade for others to turn it into a usable drug."
     },
     {
       "category": "Sports",
@@ -41,7 +43,8 @@
         "Blocking",
         "Defense"
       ],
-      "answerIndex": 3
+      "answerIndex": 3,
+      "fact": "The role wears a contrasting shirt and may not attack the ball above net height, in exchange for freedom to substitute."
     },
     {
       "category": "Pop Culture",
@@ -52,7 +55,8 @@
         "Jaws",
         "Open Water"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The mechanical shark broke down constantly, so the creature was largely kept off screen, which made it far more frightening."
     },
     {
       "category": "Geography",
@@ -63,7 +67,8 @@
         "Australia",
         "Fiji"
       ],
-      "answerIndex": 2
+      "answerIndex": 2,
+      "fact": "The reef is made up of roughly three thousand separate systems and is visible from low Earth orbit."
     },
     {
       "category": "Literature",
@@ -74,7 +79,8 @@
         "Terry Brooks",
         "Ursula K. Le Guin"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "He invented the languages first and wrote the stories partly to give those languages somewhere to live."
     },
     {
       "category": "Technology",
@@ -85,7 +91,8 @@
         "Integrated Service Platform",
         "Internet Security Program"
       ],
-      "answerIndex": 1
+      "answerIndex": 1,
+      "fact": "Early consumer access was billed by the hour over a telephone line, which is why flat-rate pricing felt revolutionary."
     }
   ]
 }
