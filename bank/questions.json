@@ -15,19 +15,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Morocco?",
-      "options": [
-        "Rabat",
-        "Casablanca",
-        "Marrakesh",
-        "Fez"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Casablanca is far larger and better known, but the royal palace and government sit in the smaller coastal capital."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country contains the Yucatan Peninsula?",
       "options": [
         "Mexico",
@@ -142,19 +129,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Slaughterhouse-Five'?",
-      "options": [
-        "Kurt Vonnegut",
-        "Joseph Heller",
-        "Thomas Pynchon",
-        "Norman Mailer"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He survived the firebombing of Dresden as a prisoner of war by sheltering in a meat locker, which the novel draws on directly."
     },
     {
       "category": "Literature",
@@ -509,19 +483,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which vitamin is also known as ascorbic acid?",
-      "options": [
-        "Vitamin C",
-        "Vitamin A",
-        "Vitamin D",
-        "Vitamin E"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Humans are among the few mammals that cannot make it, which is why long sea voyages once caused scurvy."
-    },
-    {
-      "category": "Science",
       "prompt": "Which element is represented by the symbol 'O'?",
       "options": [
         "Oxygen",
@@ -795,19 +756,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features the positions point guard and center?",
-      "options": [
-        "Basketball",
-        "Volleyball",
-        "Handball",
-        "Netball"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was invented in 1891 using peach baskets, and the bottoms were not cut out at first."
-    },
-    {
-      "category": "Sports",
       "prompt": "In which sport would you use a foil, epee, or sabre?",
       "options": [
         "Fencing",
@@ -834,19 +782,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film series features the character Jack Sparrow?",
-      "options": [
-        "Pirates of the Caribbean",
-        "Treasure Island",
-        "Master and Commander",
-        "The Goonies"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The performance was reportedly modelled partly on Keith Richards, which alarmed the studio during early filming."
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which superhero comes from the planet Krypton?",
       "options": [
         "Superman",
@@ -870,19 +805,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "He painted it from a room in an asylum, working from memory and the view through a barred window."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the standard keyboard layout used in English-speaking countries?",
-      "options": [
-        "QWERTY",
-        "AZERTY",
-        "Dvorak",
-        "Colemak"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was designed for mechanical typewriters, and the common claim that it deliberately slows typists is disputed."
     },
     {
       "category": "Technology",
@@ -1689,19 +1611,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "History",
-      "prompt": "Which ship carried the Pilgrims to North America in 1620?",
-      "options": [
-        "The Mayflower",
-        "The Santa Maria",
-        "The Endeavour",
-        "The Beagle"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It aimed for the Hudson but landed far north of it, which is why the passengers drew up their own governing compact."
     },
     {
       "category": "History",
