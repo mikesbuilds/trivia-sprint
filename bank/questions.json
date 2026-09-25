@@ -15,19 +15,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which country is nicknamed the Land of a Thousand Lakes?",
-      "options": [
-        "Finland",
-        "Sweden",
-        "Canada",
-        "Estonia"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The real count is closer to 188,000, carved out by retreating glaciers at the end of the last ice age."
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the capital of Cuba?",
       "options": [
         "Havana",
@@ -116,19 +103,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Kite Runner'?",
-      "options": [
-        "Khaled Hosseini",
-        "Jhumpa Lahiri",
-        "Salman Rushdie",
-        "Rohinton Mistry"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He was a practising physician when it was published and kept working for some time after it became a bestseller."
     },
     {
       "category": "Literature",
@@ -457,19 +431,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the powerhouse molecule that carries energy in cells?",
-      "options": [
-        "ATP",
-        "DNA",
-        "RNA",
-        "NADH"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A human body turns over roughly its own weight in it each day, recycling the same molecules constantly."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for animals that maintain a constant body temperature?",
       "options": [
         "Warm-blooded",
@@ -714,45 +675,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Sports",
-      "prompt": "What is the term in golf for one stroke under par on a hole?",
-      "options": [
-        "A birdie",
-        "An eagle",
-        "A bogey",
-        "An albatross"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The bird-themed names spread from American slang, where bird once meant anything excellent."
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which artist painted 'The Starry Night'?",
-      "options": [
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Paul Cezanne",
-        "Edvard Munch"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He painted it from a room in an asylum, working from memory and the view through a barred window."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'Wi-Fi' hardware use to broadcast a network name?",
-      "options": [
-        "An SSID",
-        "An IP address",
-        "A MAC filter",
-        "A subnet mask"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Hiding it offers almost no real security, since the name is still transmitted whenever a device connects."
     },
     {
       "category": "Technology",
@@ -1533,19 +1455,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "History",
-      "prompt": "Which pharaoh's largely intact tomb was found by Howard Carter in 1922?",
-      "options": [
-        "Tutankhamun",
-        "Ramesses II",
-        "Akhenaten",
-        "Khufu"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He was a minor ruler who died young; his fame rests almost entirely on the tomb escaping serious looting."
     },
     {
       "category": "History",
