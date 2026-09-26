@@ -15,19 +15,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Cuba?",
-      "options": [
-        "Havana",
-        "Santiago de Cuba",
-        "Camaguey",
-        "Holguin"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its old town is a UNESCO site, and the harbour was fortified heavily because it was the assembly point for Spanish treasure fleets."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which mountain range forms the border between France and Spain?",
       "options": [
         "The Pyrenees",
@@ -103,19 +90,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which Shakespeare play includes the line 'To be, or not to be'?",
-      "options": [
-        "Hamlet",
-        "Macbeth",
-        "Othello",
-        "The Tempest"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is his longest play, and an uncut performance runs to roughly four hours."
     },
     {
       "category": "Literature",
@@ -431,19 +405,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for animals that maintain a constant body temperature?",
-      "options": [
-        "Warm-blooded",
-        "Cold-blooded",
-        "Amphibious",
-        "Nocturnal"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size."
-    },
-    {
-      "category": "Science",
       "prompt": "Which planet is famous for its Great Red Spot?",
       "options": [
         "Jupiter",
@@ -675,19 +636,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which programming concept means a function calling itself?",
-      "options": [
-        "Recursion",
-        "Iteration",
-        "Inheritance",
-        "Encapsulation"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Each call consumes stack space, so a version without a proper stopping condition crashes rather than looping forever."
     },
     {
       "category": "Technology",
@@ -1458,19 +1406,6 @@
     },
     {
       "category": "History",
-      "prompt": "The Great Fire of London occurred in which year?",
-      "options": [
-        "1666",
-        "1610",
-        "1720",
-        "1580"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It destroyed most of the medieval city but the recorded death toll was remarkably low, probably because it spread slowly enough to flee."
-    },
-    {
-      "category": "History",
       "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
       "options": [
         "Nikita Khrushchev",
@@ -1757,19 +1692,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which band released the album 'Abbey Road'?",
-      "options": [
-        "The Beatles",
-        "The Rolling Stones",
-        "The Who",
-        "Pink Floyd"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was the last album they recorded together, though not the last released."
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which superhero is also known as the Dark Knight?",
       "options": [
         "Batman",
@@ -2001,19 +1923,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which country won the first FIFA World Cup in 1930?",
-      "options": [
-        "Uruguay",
-        "Brazil",
-        "Argentina",
-        "Italy"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It hosted the tournament too, and only four European teams made the long sea crossing to take part."
     },
     {
       "category": "History",
