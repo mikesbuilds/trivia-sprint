@@ -28,19 +28,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which US state is the smallest by land area?",
-      "options": [
-        "Rhode Island",
-        "Delaware",
-        "Connecticut",
-        "New Jersey"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Despite the name it is not an island, and it was the last of the thirteen colonies to ratify the constitution."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which US state is nicknamed the Lone Star State?",
       "options": [
         "Texas",
@@ -90,19 +77,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Lord of the Flies'?",
-      "options": [
-        "William Golding",
-        "George Orwell",
-        "Anthony Burgess",
-        "Graham Greene"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He drew on his time teaching schoolboys, and said the novel was a response to the optimism of earlier island adventure stories."
     },
     {
       "category": "Literature",
@@ -405,19 +379,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which planet is famous for its Great Red Spot?",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Neptune"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The storm has been observed for well over three centuries and is currently shrinking."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the chemical symbol for silver?",
       "options": [
         "Ag",
@@ -636,19 +597,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company created the Linux kernel's original version?",
-      "options": [
-        "Linus Torvalds",
-        "Richard Stallman",
-        "Ken Thompson",
-        "Dennis Ritchie"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He announced it in 1991 as a hobby project that would not be big and professional."
     },
     {
       "category": "Technology",
@@ -1406,19 +1354,6 @@
     },
     {
       "category": "History",
-      "prompt": "Who was the Soviet leader during the Cuban Missile Crisis?",
-      "options": [
-        "Nikita Khrushchev",
-        "Joseph Stalin",
-        "Leonid Brezhnev",
-        "Mikhail Gorbachev"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He was removed from power two years later and lived out his life under surveillance near Moscow."
-    },
-    {
-      "category": "History",
       "prompt": "The Renaissance began in which country?",
       "options": [
         "Italy",
@@ -1689,19 +1624,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which superhero is also known as the Dark Knight?",
-      "options": [
-        "Batman",
-        "Superman",
-        "Iron Man",
-        "Daredevil"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He has no superhuman abilities, which his creators treated as the central constraint of the character."
     },
     {
       "category": "Pop Culture",
@@ -2014,19 +1936,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Brando was so unwanted by the studio that he had to screen-test for the part. He won the Oscar for it and refused to accept it."
-    },
-    {
-      "category": "Sports",
-      "prompt": "In which sport would you perform a slam dunk?",
-      "options": [
-        "Basketball",
-        "Volleyball",
-        "Handball",
-        "Water polo"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was banned in American college play for nine years from 1967, a rule widely seen as aimed at one dominant player."
     },
     {
       "category": "Sports",
