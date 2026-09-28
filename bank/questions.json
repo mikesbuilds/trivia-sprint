@@ -28,19 +28,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which US state is nicknamed the Lone Star State?",
-      "options": [
-        "Texas",
-        "Oklahoma",
-        "Arizona",
-        "Nevada"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was an independent republic for nearly a decade before joining the union, which is what the single star refers to."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
       "options": [
         "The Strait of Gibraltar",
@@ -77,19 +64,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which author wrote 'The Adventures of Huckleberry Finn'?",
-      "options": [
-        "Mark Twain",
-        "Bret Harte",
-        "Jack London",
-        "O. Henry"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He was born and died in years when Halley's Comet appeared, and had predicted he would go out with it."
     },
     {
       "category": "Literature",
@@ -379,19 +353,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for silver?",
-      "options": [
-        "Ag",
-        "Si",
-        "Sr",
-        "Sv"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The symbol comes from argentum, the Latin name, which is also the root of Argentina."
-    },
-    {
-      "category": "Science",
       "prompt": "Which type of energy is stored in an object due to its position?",
       "options": [
         "Potential energy",
@@ -597,19 +558,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'RGB' stand for in display technology?",
-      "options": [
-        "Red Green Blue",
-        "Raster Graphics Buffer",
-        "Rapid Graphics Bus",
-        "Resolution Grid Base"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Mixing light works additively, so all three at full intensity produce white rather than black."
     },
     {
       "category": "Technology",
@@ -1353,19 +1301,6 @@
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
     },
     {
-      "category": "History",
-      "prompt": "The Renaissance began in which country?",
-      "options": [
-        "Italy",
-        "France",
-        "England",
-        "Germany"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Banking wealth funded much of it, with the Medici of Florence the most famous patrons."
-    },
-    {
       "category": "Literature",
       "prompt": "Who wrote 'The Sun Also Rises'?",
       "options": [
@@ -1624,19 +1559,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Who directed 'Pulp Fiction'?",
-      "options": [
-        "Quentin Tarantino",
-        "Robert Rodriguez",
-        "David Fincher",
-        "Guy Ritchie"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its scenes are deliberately out of chronological order, so a character killed partway through reappears later."
     },
     {
       "category": "Science",
@@ -1936,19 +1858,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Brando was so unwanted by the studio that he had to screen-test for the part. He won the Oscar for it and refused to accept it."
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport is played at Wimbledon?",
-      "options": [
-        "Tennis",
-        "Cricket",
-        "Golf",
-        "Rugby"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is the only one of the four majors still played on grass, and players wear almost entirely white by rule."
     },
     {
       "category": "Sports",
