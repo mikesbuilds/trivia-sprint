@@ -28,19 +28,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
-      "options": [
-        "The Strait of Gibraltar",
-        "The Dardanelles",
-        "The Strait of Malacca",
-        "The Bering Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Without the Atlantic water flowing through it, the Mediterranean would largely evaporate within a few thousand years."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which US state contains Yellowstone National Park's largest portion?",
       "options": [
         "Wyoming",
@@ -64,19 +51,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'A Brief History of Time'?",
-      "options": [
-        "Stephen Hawking",
-        "Carl Sagan",
-        "Richard Feynman",
-        "Neil deGrasse Tyson"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He was told each equation included would halve sales, so the published book contains only one."
     },
     {
       "category": "Literature",
@@ -353,19 +327,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which type of energy is stored in an object due to its position?",
-      "options": [
-        "Potential energy",
-        "Kinetic energy",
-        "Thermal energy",
-        "Chemical energy"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A pumped-storage power station is essentially a giant battery built on this principle, moving water uphill to store it."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the pathway that food takes through the body?",
       "options": [
         "The digestive tract",
@@ -558,19 +519,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which type of software translates one language to machine code line by line at runtime?",
-      "options": [
-        "An interpreter",
-        "A compiler",
-        "A linker",
-        "An assembler"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It trades speed for flexibility, which is why such languages are often easier to debug but slower to run."
     },
     {
       "category": "Technology",
@@ -1770,19 +1718,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which US president issued the Emancipation Proclamation?",
-      "options": [
-        "Abraham Lincoln",
-        "Andrew Johnson",
-        "Ulysses S. Grant",
-        "James Buchanan"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It applied only to states in rebellion, so it freed nobody in the border states that had stayed loyal."
-    },
-    {
-      "category": "History",
       "prompt": "Which country gifted the Statue of Liberty to the United States?",
       "options": [
         "France",
@@ -1822,19 +1757,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which video game franchise features Master Chief?",
-      "options": [
-        "Halo",
-        "Doom",
-        "Gears of War",
-        "Call of Duty"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was originally in development for the Macintosh before the studio was acquired and the game became a console launch title."
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which streaming show features a chess prodigy named Beth Harmon?",
       "options": [
         "The Queen's Gambit",
@@ -1871,19 +1793,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "A foul ball cannot produce the final one, except when the batter is attempting a bunt."
-    },
-    {
-      "category": "Sports",
-      "prompt": "How many holes are played in a standard round of golf?",
-      "options": [
-        "Eighteen",
-        "Nine",
-        "Twenty-one",
-        "Twelve"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The number became standard at St Andrews, and was adopted elsewhere largely because of that club's influence."
     },
     {
       "category": "Sports",
