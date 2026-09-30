@@ -28,19 +28,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which US state contains Yellowstone National Park's largest portion?",
-      "options": [
-        "Wyoming",
-        "Montana",
-        "Idaho",
-        "Colorado"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The park sits atop a supervolcano, and its geysers are powered by that shallow magma chamber."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which river is the longest in Europe?",
       "options": [
         "The Volga",
@@ -51,19 +38,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which poet wrote 'The Waste Land'?",
-      "options": [
-        "T. S. Eliot",
-        "Ezra Pound",
-        "W. H. Auden",
-        "Wallace Stevens"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Ezra Pound cut the manuscript roughly in half, and the published poem carries a dedication acknowledging it."
     },
     {
       "category": "Literature",
@@ -327,19 +301,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the pathway that food takes through the body?",
-      "options": [
-        "The digestive tract",
-        "The circulatory system",
-        "The nervous system",
-        "The lymphatic system"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Laid out end to end in an adult it runs around nine metres, most of that the small intestine."
-    },
-    {
-      "category": "Science",
       "prompt": "Which scientist is known for the equation E equals mc squared?",
       "options": [
         "Albert Einstein",
@@ -519,19 +480,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the common name for unwanted software that displays advertisements?",
-      "options": [
-        "Adware",
-        "Freeware",
-        "Shareware",
-        "Firmware"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is often bundled with free downloads, with consent buried in an installer's default options."
     },
     {
       "category": "Technology",
@@ -1718,19 +1666,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which country gifted the Statue of Liberty to the United States?",
-      "options": [
-        "France",
-        "Britain",
-        "Spain",
-        "Italy"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It arrived in 350 pieces packed in over two hundred crates, and the pedestal was funded by public subscription."
-    },
-    {
-      "category": "History",
       "prompt": "Which decade saw the fall of the Soviet Union?",
       "options": [
         "The 1990s",
@@ -1757,19 +1692,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which streaming show features a chess prodigy named Beth Harmon?",
-      "options": [
-        "The Queen's Gambit",
-        "Mindhunter",
-        "Ozark",
-        "The Crown"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Beth Harmon is invented, but the chess is real — Garry Kasparov advised on the games, which are based on actual matches."
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which film features the quote 'I'm gonna make him an offer he can't refuse'?",
       "options": [
         "The Godfather",
@@ -1793,19 +1715,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "A foul ball cannot produce the final one, except when the batter is attempting a bunt."
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport uses a shuttlecock?",
-      "options": [
-        "Badminton",
-        "Squash",
-        "Table tennis",
-        "Racquetball"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A feathered shuttle leaves the racket faster than any other racket-sport projectile but decelerates very sharply."
     },
     {
       "category": "Sports",
