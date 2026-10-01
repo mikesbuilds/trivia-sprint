@@ -27,32 +27,6 @@
       "fact": "The microstate of Andorra sits in a valley along it, surviving as a co-principality since medieval times."
     },
     {
-      "category": "Geography",
-      "prompt": "Which river is the longest in Europe?",
-      "options": [
-        "The Volga",
-        "The Danube",
-        "The Rhine",
-        "The Loire"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It drains much of western Russia and is linked by canal to four other seas."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Alchemist'?",
-      "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Isabel Allende",
-        "Carlos Ruiz Zafon"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It sold slowly at first and was dropped by its original publisher before becoming one of the best-selling books ever translated."
-    },
-    {
       "category": "Literature",
       "prompt": "Which novel begins 'All happy families are alike'?",
       "options": [
@@ -301,19 +275,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientist is known for the equation E equals mc squared?",
-      "options": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Max Planck",
-        "Erwin Schrodinger"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He produced it in 1905, the same year he published four papers that each reshaped a different area of physics."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for a group of stars forming a recognizable pattern?",
       "options": [
         "A constellation",
@@ -480,19 +441,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which protocol is commonly used to send email between servers?",
-      "options": [
-        "SMTP",
-        "HTTP",
-        "FTP",
-        "DNS"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was designed with no authentication at all, which is the root of why forged sender addresses remain easy."
     },
     {
       "category": "Technology",
@@ -1666,19 +1614,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which decade saw the fall of the Soviet Union?",
-      "options": [
-        "The 1990s",
-        "The 1980s",
-        "The 1970s",
-        "The 2000s"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The Soviet Union formally dissolved on 26 December 1991, and fifteen independent states took its place."
-    },
-    {
-      "category": "History",
       "prompt": "Which conflict involved the Battle of Gettysburg?",
       "options": [
         "The American Civil War",
@@ -1689,19 +1624,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It was the war's bloodiest battle and its turning point. Lincoln's address there four months later ran barely two minutes."
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film features the quote 'I'm gonna make him an offer he can't refuse'?",
-      "options": [
-        "The Godfather",
-        "Goodfellas",
-        "Scarface",
-        "Casino"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Brando was so unwanted by the studio that he had to screen-test for the part. He won the Oscar for it and refused to accept it."
     },
     {
       "category": "Sports",
@@ -1728,19 +1650,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Sports",
-      "prompt": "How many periods are in a standard ice hockey game?",
-      "options": [
-        "Three",
-        "Four",
-        "Two",
-        "Five"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The ice is resurfaced between each one, a process named after the man who built the first machine to do it."
     },
     {
       "category": "Sports",
