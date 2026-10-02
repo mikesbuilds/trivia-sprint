@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel begins 'All happy families are alike'?",
-      "options": [
-        "Anna Karenina",
-        "War and Peace",
-        "Doctor Zhivago",
-        "Fathers and Sons"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The author rewrote the opening dozens of times, and his wife is said to have copied the manuscript by hand repeatedly."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author wrote 'A Christmas Carol'?",
       "options": [
         "Charles Dickens",
@@ -275,19 +262,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a group of stars forming a recognizable pattern?",
-      "options": [
-        "A constellation",
-        "A galaxy",
-        "A nebula",
-        "A cluster"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The stars in one are rarely near each other in space; they only appear grouped from our particular vantage point."
-    },
-    {
-      "category": "Science",
       "prompt": "What does a barometer measure?",
       "options": [
         "Atmospheric pressure",
@@ -441,19 +415,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company developed the first mass-market graphical spreadsheet for Windows?",
-      "options": [
-        "Microsoft",
-        "Lotus",
-        "Borland",
-        "Corel"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its spreadsheet was released for the Macintosh first, two years before the Windows version arrived."
     },
     {
       "category": "Technology",
@@ -766,19 +727,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country's flag features a red maple leaf?",
-      "options": [
-        "Canada",
-        "Lebanon",
-        "Norway",
-        "Denmark"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The design was adopted only in 1965, after a parliamentary debate so bitter it ran for months."
     },
     {
       "category": "Geography",
@@ -1613,19 +1561,6 @@
       "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
     },
     {
-      "category": "History",
-      "prompt": "Which conflict involved the Battle of Gettysburg?",
-      "options": [
-        "The American Civil War",
-        "The Revolutionary War",
-        "The War of 1812",
-        "The Mexican-American War"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was the war's bloodiest battle and its turning point. Lincoln's address there four months later ran barely two minutes."
-    },
-    {
       "category": "Sports",
       "prompt": "In baseball, how many strikes make an out?",
       "options": [
@@ -1650,19 +1585,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Sports",
-      "prompt": "What is the diameter of a basketball hoop, in inches?",
-      "options": [
-        "Eighteen",
-        "Twelve",
-        "Twenty-four",
-        "Fifteen"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Two balls can fit through it side by side, with only a little room to spare."
     },
     {
       "category": "Sports",
@@ -3144,19 +3066,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which South Korean survival drama became Netflix's most-watched launch in 2021?",
-      "options": [
-        "Squid Game",
-        "Kingdom",
-        "Hellbound",
-        "Sweet Home"
-      ],
-      "answerIndex": 0,
-      "fact": "Its production budget was modest by prestige-television standards, and the show had been shopped around for roughly a decade.",
       "source": "curated"
     },
     {
