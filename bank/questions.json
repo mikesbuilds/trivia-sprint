@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'A Christmas Carol'?",
-      "options": [
-        "Charles Dickens",
-        "Thomas Hardy",
-        "Anthony Trollope",
-        "William Thackeray"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He self-published it in six weeks to clear debts, and the elaborate binding left him with far less profit than expected."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Catch-22'?",
       "options": [
         "Joseph Heller",
@@ -262,19 +249,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What does a barometer measure?",
-      "options": [
-        "Atmospheric pressure",
-        "Temperature",
-        "Humidity",
-        "Wind speed"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard equipment on ships."
-    },
-    {
-      "category": "Science",
       "prompt": "Which process splits an atomic nucleus to release energy?",
       "options": [
         "Fission",
@@ -415,19 +389,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the term for the visible area of a website before scrolling?",
-      "options": [
-        "Above the fold",
-        "The header zone",
-        "The viewport cap",
-        "The landing band"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The phrase comes from newspapers, where the top half of a folded front page had to sell the issue."
     },
     {
       "category": "Technology",
@@ -727,19 +688,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Portugal?",
-      "options": [
-        "Lisbon",
-        "Porto",
-        "Madrid",
-        "Seville"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Lisbon is older than Rome. A 1755 earthquake destroyed so much of it that the rebuilt centre became one of Europe's first planned earthquake-resistant districts."
     },
     {
       "category": "Geography",
@@ -1587,19 +1535,6 @@
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
     },
     {
-      "category": "Sports",
-      "prompt": "Which tennis tournament is played on clay courts?",
-      "options": [
-        "The French Open",
-        "Wimbledon",
-        "The US Open",
-        "The Australian Open"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The surface slows the ball and produces long rallies, which is why specialists there rarely dominate elsewhere."
-    },
-    {
       "category": "Technology",
       "prompt": "What does 'HTML' stand for?",
       "options": [
@@ -1832,19 +1767,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Mansa Musa ruled which West African empire?",
-      "options": [
-        "Mali",
-        "Ashanti",
-        "Songhai",
-        "Kongo"
-      ],
-      "answerIndex": 0,
-      "fact": "His 1324 pilgrimage to Mecca released so much gold in Cairo that the metal's local price stayed depressed for years afterwards.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -3066,19 +2988,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which 2023 film about a doll grossed over a billion dollars?",
-      "options": [
-        "Barbie",
-        "Wonka",
-        "Elemental",
-        "Migration"
-      ],
-      "answerIndex": 0,
-      "fact": "Its production reportedly used so much of one shade of fluorescent paint that it contributed to a global shortage.",
       "source": "curated"
     },
     {
