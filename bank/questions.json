@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Catch-22'?",
-      "options": [
-        "Joseph Heller",
-        "Kurt Vonnegut",
-        "Philip Roth",
-        "Saul Bellow"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The title was changed late in production from a different number, to avoid clashing with another recent novel."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features the character Captain Nemo?",
       "options": [
         "Twenty Thousand Leagues Under the Sea",
@@ -249,19 +236,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which process splits an atomic nucleus to release energy?",
-      "options": [
-        "Fission",
-        "Fusion",
-        "Oxidation",
-        "Ionization"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was discovered in 1938, and the chemist who did the key experiment initially could not believe the result."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the largest muscle in the human body?",
       "options": [
         "The gluteus maximus",
@@ -389,19 +363,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which technology allows short-range wireless connections between headphones and phones?",
-      "options": [
-        "Bluetooth",
-        "Wi-Fi",
-        "NFC",
-        "Infrared"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its logo combines the runes for a tenth-century Scandinavian king's initials."
     },
     {
       "category": "Technology",
@@ -688,19 +649,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which US state is known as the Sunshine State?",
-      "options": [
-        "Florida",
-        "California",
-        "Arizona",
-        "Hawaii"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It has the longest coastline in the contiguous United States and its highest point is under a hundred metres."
     },
     {
       "category": "Geography",
@@ -1767,19 +1715,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Meiji Restoration of 1868 returned formal authority to which figure?",
-      "options": [
-        "The emperor",
-        "The shogun",
-        "The prime minister",
-        "The regent"
-      ],
-      "answerIndex": 0,
-      "fact": "The Tokugawa shogunate had governed for over 250 years; the restoration made the teenage emperor the symbol of rapid industrialisation.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2992,19 +2927,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which studio produced the animated features Spirited Away and My Neighbour Totoro?",
-      "options": [
-        "Studio Ghibli",
-        "Toei Animation",
-        "Madhouse",
-        "Studio Trigger"
-      ],
-      "answerIndex": 0,
-      "fact": "Its name comes from an Italian word for a hot desert wind, chosen to suggest blowing through the animation industry.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which video game franchise features creatures called Pikachu and Charizard?",
       "options": [
         "Pokemon",
@@ -3651,19 +3573,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which cyclist holds the record for most Tour de France stage wins by a sprinter, tied with Eddy Merckx?",
-      "options": [
-        "Mark Cavendish",
-        "Peter Sagan",
-        "Andre Greipel",
-        "Marcel Kittel"
-      ],
-      "answerIndex": 0,
-      "fact": "He drew level on thirty-four stage victories in 2021 and moved ahead in 2024, two decades into his career.",
       "source": "curated"
     },
     {
