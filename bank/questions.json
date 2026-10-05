@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the character Captain Nemo?",
-      "options": [
-        "Twenty Thousand Leagues Under the Sea",
-        "Around the World in Eighty Days",
-        "Journey to the Center of the Earth",
-        "The Mysterious Island"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its author described electric submarines decades before practical ones existed, working from contemporary scientific papers."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Bell Jar'?",
       "options": [
         "Sylvia Plath",
@@ -236,19 +223,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the largest muscle in the human body?",
-      "options": [
-        "The gluteus maximus",
-        "The quadriceps",
-        "The latissimus dorsi",
-        "The deltoid"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is central to standing upright, and is unusually large in humans compared with other primates."
-    },
-    {
-      "category": "Science",
       "prompt": "Which planet has the shortest day in the solar system?",
       "options": [
         "Jupiter",
@@ -363,19 +337,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'CAPTCHA' primarily try to distinguish?",
-      "options": [
-        "Humans from bots",
-        "Fast from slow connections",
-        "Mobile from desktop",
-        "Free from paid users"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Early versions were used to digitise old books, with users unknowingly transcribing scanned words."
     },
     {
       "category": "Technology",
@@ -649,19 +610,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which mountain range contains Mount Everest?",
-      "options": [
-        "The Himalayas",
-        "The Karakoram",
-        "The Andes",
-        "The Alps"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The range is still rising a few millimetres a year as the Indian plate continues to push north."
     },
     {
       "category": "Geography",
@@ -1715,19 +1663,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Suleiman the Magnificent presided over the golden age of which state?",
-      "options": [
-        "The Ottoman Empire",
-        "Safavid Persia",
-        "Mughal India",
-        "Habsburg Austria"
-      ],
-      "answerIndex": 0,
-      "fact": "Ottomans knew him as the Lawgiver for codifying the legal system, a reputation quite separate from the military one Europe gave him.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2927,19 +2862,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which video game franchise features creatures called Pikachu and Charizard?",
-      "options": [
-        "Pokemon",
-        "Digimon",
-        "Yo-kai Watch",
-        "Monster Hunter"
-      ],
-      "answerIndex": 0,
-      "fact": "The concept grew out of its creator's childhood insect-collecting, and the link cable was central to the original design.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which puzzle game created by Alexey Pajitnov involves falling tetromino shapes?",
       "options": [
         "Tetris",
@@ -3573,19 +3495,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Iditarod is a race involving what?",
-      "options": [
-        "Sled dogs",
-        "Rowing boats",
-        "Motorcycles",
-        "Hot air balloons"
-      ],
-      "answerIndex": 0,
-      "fact": "Teams cover roughly 1,600 kilometres across Alaska, typically taking eight to fourteen days.",
       "source": "curated"
     },
     {
