@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Bell Jar'?",
-      "options": [
-        "Sylvia Plath",
-        "Anne Sexton",
-        "Adrienne Rich",
-        "Elizabeth Bishop"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was published under a pen name a month before her death, and only appeared under her own name years later."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author wrote 'Middlemarch'?",
       "options": [
         "George Eliot",
@@ -236,19 +223,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which part of the plant conducts photosynthesis most actively?",
-      "options": [
-        "The leaf",
-        "The root",
-        "The stem",
-        "The flower"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Their arrangement on a stem often follows a spiral that minimises how much each one shades the ones below."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the number of protons in an atom?",
       "options": [
         "The atomic number",
@@ -337,19 +311,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which file extension typically indicates a compressed archive?",
-      "options": [
-        ".zip",
-        ".txt",
-        ".exe",
-        ".log"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The format was released into the public domain by its creator, which is why it became universal."
     },
     {
       "category": "Technology",
@@ -610,19 +571,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Mexico?",
-      "options": [
-        "Mexico City",
-        "Guadalajara",
-        "Monterrey",
-        "Cancun"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was built on a drained lake bed and is sinking by several centimetres a year as groundwater is pumped out."
     },
     {
       "category": "Geography",
@@ -1663,19 +1611,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Simon Bolivar led independence campaigns across which continent?",
-      "options": [
-        "South America",
-        "Africa",
-        "Asia",
-        "Europe"
-      ],
-      "answerIndex": 0,
-      "fact": "Six modern nations count him as a founding figure, and Bolivia took its name directly from him.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2862,19 +2797,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which puzzle game created by Alexey Pajitnov involves falling tetromino shapes?",
-      "options": [
-        "Tetris",
-        "Columns",
-        "Dr. Mario",
-        "Puyo Puyo"
-      ],
-      "answerIndex": 0,
-      "fact": "It was written in the Soviet Union in 1984, and its creator saw almost no money from it for years due to state ownership.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which daily word puzzle was bought by The New York Times in 2022?",
       "options": [
         "Wordle",
@@ -3495,19 +3417,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Green Jacket is presented to the winner of which golf event?",
-      "options": [
-        "The Masters",
-        "The Open",
-        "The US Open",
-        "The PGA Championship"
-      ],
-      "answerIndex": 0,
-      "fact": "Winners may take it home for a year, after which it must stay at the club where it was won.",
       "source": "curated"
     },
     {
