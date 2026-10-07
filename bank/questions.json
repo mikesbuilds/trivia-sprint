@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'Middlemarch'?",
-      "options": [
-        "George Eliot",
-        "Elizabeth Gaskell",
-        "Charlotte Bronte",
-        "Frances Burney"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "She used a male pen name to be taken seriously, at a time when women novelists were assumed to write light romance."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'On the Origin of Species'?",
       "options": [
         "Charles Darwin",
@@ -223,19 +210,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the number of protons in an atom?",
-      "options": [
-        "The atomic number",
-        "The mass number",
-        "The valence",
-        "The isotope number"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It alone determines which element an atom is; changing it turns one element into another."
-    },
-    {
-      "category": "Science",
       "prompt": "Which gas is essential for combustion?",
       "options": [
         "Oxygen",
@@ -311,19 +285,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the practice of writing programs to run tasks without human input called?",
-      "options": [
-        "Automation",
-        "Virtualization",
-        "Normalization",
-        "Fragmentation"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The oldest surviving example in wide use is cron, which has scheduled tasks on Unix systems since the 1970s."
     },
     {
       "category": "Technology",
@@ -571,19 +532,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Vietnam?",
-      "options": [
-        "Hanoi",
-        "Ho Chi Minh City",
-        "Hue",
-        "Da Nang"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its name means between rivers, and the old quarter's streets are still named for the guild that once traded there."
     },
     {
       "category": "Geography",
@@ -1611,19 +1559,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Taiping Rebellion convulsed which country in the mid-1800s?",
-      "options": [
-        "China",
-        "Japan",
-        "Korea",
-        "Vietnam"
-      ],
-      "answerIndex": 0,
-      "fact": "With a death toll estimated in the tens of millions, it ranks among the deadliest conflicts in recorded history.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2797,19 +2732,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which daily word puzzle was bought by The New York Times in 2022?",
-      "options": [
-        "Wordle",
-        "Connections",
-        "Spelling Bee",
-        "Letter Boxed"
-      ],
-      "answerIndex": 0,
-      "fact": "It was built by a software engineer for one person, his partner, before he released it publicly.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which musician released the albums Lemonade and Renaissance?",
       "options": [
         "Beyonce",
@@ -3417,19 +3339,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which martial art uses the terms ippon, waza-ari and osaekomi?",
-      "options": [
-        "Judo",
-        "Karate",
-        "Aikido",
-        "Kendo"
-      ],
-      "answerIndex": 0,
-      "fact": "Ippon ends the contest immediately, awarded for a throw landing an opponent largely on their back with control.",
       "source": "curated"
     },
     {
