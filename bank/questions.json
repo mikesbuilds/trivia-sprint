@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'On the Origin of Species'?",
-      "options": [
-        "Charles Darwin",
-        "Alfred Russel Wallace",
-        "Thomas Huxley",
-        "Gregor Mendel"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The first print run sold out on the day of publication, and the word evolution barely appears in it."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which play features the characters Vladimir and Estragon?",
       "options": [
         "Waiting for Godot",
@@ -210,19 +197,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which gas is essential for combustion?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Fire needs it, fuel and heat together, which is why removing any one of the three puts a fire out."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for a scientist who studies rocks?",
       "options": [
         "A geologist",
@@ -285,19 +259,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company operates the Azure cloud platform?",
-      "options": [
-        "Microsoft",
-        "Amazon",
-        "Google",
-        "IBM"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was announced in 2008 under a different name and renamed two years later."
     },
     {
       "category": "Technology",
@@ -532,19 +493,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Chile?",
-      "options": [
-        "Santiago",
-        "Valparaiso",
-        "Concepcion",
-        "Antofagasta"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It sits in a valley ringed by mountains, which traps air pollution during the winter months."
     },
     {
       "category": "Geography",
@@ -1559,19 +1507,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Akbar the Great expanded which South Asian empire?",
-      "options": [
-        "The Mughal Empire",
-        "The Maratha Empire",
-        "The Chola Empire",
-        "The Gupta Empire"
-      ],
-      "answerIndex": 0,
-      "fact": "He abolished the tax on non-Muslim subjects and hosted debates between scholars of rival faiths at his court.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2732,19 +2667,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which musician released the albums Lemonade and Renaissance?",
-      "options": [
-        "Beyonce",
-        "Rihanna",
-        "Alicia Keys",
-        "Janelle Monae"
-      ],
-      "answerIndex": 0,
-      "fact": "Renaissance was framed as the first act of a trilogy, and leaned heavily on house and ballroom traditions.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which artist's 2016 album Blonde followed Channel Orange?",
       "options": [
         "Frank Ocean",
@@ -3339,19 +3261,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Fosbury Flop transformed technique in which event?",
-      "options": [
-        "High jump",
-        "Pole vault",
-        "Long jump",
-        "Triple jump"
-      ],
-      "answerIndex": 0,
-      "fact": "It only became practical once landing pits changed from sand and sawdust to deep foam.",
       "source": "curated"
     },
     {
