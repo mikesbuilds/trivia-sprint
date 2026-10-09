@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which play features the characters Vladimir and Estragon?",
-      "options": [
-        "Waiting for Godot",
-        "The Caretaker",
-        "Rhinoceros",
-        "No Exit"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its author wrote it in French first, then translated it himself, saying the second language imposed useful discipline."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Remains of the Day'?",
       "options": [
         "Kazuo Ishiguro",
@@ -197,19 +184,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a scientist who studies rocks?",
-      "options": [
-        "A geologist",
-        "A biologist",
-        "A chemist",
-        "A physicist"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Much of what is known about Earth's deep interior comes from how earthquake waves bend as they pass through it."
-    },
-    {
-      "category": "Science",
       "prompt": "Which state of matter has a definite volume but no definite shape?",
       "options": [
         "Liquid",
@@ -259,19 +233,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'UI' stand for in software design?",
-      "options": [
-        "User Interface",
-        "Unified Input",
-        "Universal Index",
-        "Utility Instance"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is often confused with user experience, which covers the whole journey rather than just the visible controls."
     },
     {
       "category": "Technology",
@@ -493,19 +454,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which river flows through London?",
-      "options": [
-        "The Thames",
-        "The Mersey",
-        "The Severn",
-        "The Tyne"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was so polluted in 1858 that Parliament hung lime-soaked curtains in the windows during the Great Stink."
     },
     {
       "category": "Geography",
@@ -1507,19 +1455,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Catherine the Great expanded the territory of which nation?",
-      "options": [
-        "Russia",
-        "Prussia",
-        "Sweden",
-        "Poland"
-      ],
-      "answerIndex": 0,
-      "fact": "German by birth, she took the throne after a coup against her own husband and reigned for thirty-four years.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2667,19 +2602,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which artist's 2016 album Blonde followed Channel Orange?",
-      "options": [
-        "Frank Ocean",
-        "The Weeknd",
-        "Miguel",
-        "Khalid"
-      ],
-      "answerIndex": 0,
-      "fact": "He released a visual album one day earlier to satisfy a label contract, then put out the real record independently.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which rapper won a Pulitzer Prize for Music in 2018?",
       "options": [
         "Kendrick Lamar",
@@ -3261,19 +3183,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In cricket, what does a bowler achieve by taking three wickets in three balls?",
-      "options": [
-        "A hat-trick",
-        "A maiden",
-        "A double",
-        "A strike"
-      ],
-      "answerIndex": 0,
-      "fact": "The term crossed over from cricket, where clubs once rewarded the feat with an actual hat.",
       "source": "curated"
     },
     {
