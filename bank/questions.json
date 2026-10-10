@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Remains of the Day'?",
-      "options": [
-        "Kazuo Ishiguro",
-        "Ian McEwan",
-        "Julian Barnes",
-        "Martin Amis"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He has said he wrote the first draft in four weeks of near-total isolation that his household called the Crash."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features the Joad family travelling to California?",
       "options": [
         "The Grapes of Wrath",
@@ -184,19 +171,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which state of matter has a definite volume but no definite shape?",
-      "options": [
-        "Liquid",
-        "Solid",
-        "Gas",
-        "Plasma"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Water is unusual in that its solid form is less dense than this one, which is why ice floats."
-    },
-    {
-      "category": "Science",
       "prompt": "Which acid is found in the human stomach?",
       "options": [
         "Hydrochloric acid",
@@ -233,19 +207,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which version control system was created by Linus Torvalds?",
-      "options": [
-        "Git",
-        "Subversion",
-        "Mercurial",
-        "CVS"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He wrote the first working version in about ten days, after the tool Linux had been using withdrew its free licence."
     },
     {
       "category": "Technology",
@@ -454,19 +415,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Greece?",
-      "options": [
-        "Athens",
-        "Thessaloniki",
-        "Patras",
-        "Heraklion"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its ancient rival Sparta left almost no monuments, which is partly why one city dominates our picture of the period."
     },
     {
       "category": "Geography",
@@ -1455,19 +1403,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Gunpowder Plot of 1605 aimed to destroy which building?",
-      "options": [
-        "The Houses of Parliament",
-        "Westminster Abbey",
-        "The Tower of London",
-        "Hampton Court"
-      ],
-      "answerIndex": 0,
-      "fact": "Guy Fawkes was caught guarding the barrels beneath the chamber, though he was not the plot's leader.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2602,19 +2537,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which rapper won a Pulitzer Prize for Music in 2018?",
-      "options": [
-        "Kendrick Lamar",
-        "Jay-Z",
-        "Nas",
-        "Drake"
-      ],
-      "answerIndex": 0,
-      "fact": "It was the first time the award went to a work outside the classical or jazz traditions.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which Puerto Rican artist became the most-streamed act on Spotify in 2020?",
       "options": [
         "Bad Bunny",
@@ -3183,19 +3105,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Paralympic classification system primarily groups athletes by what?",
-      "options": [
-        "Type and degree of impairment",
-        "Age",
-        "Weight",
-        "Nationality"
-      ],
-      "answerIndex": 0,
-      "fact": "Codes such as T44 or S9 combine a letter for the discipline with a number describing the impairment class.",
       "source": "curated"
     },
     {
