@@ -2537,19 +2537,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Puerto Rican artist became the most-streamed act on Spotify in 2020?",
-      "options": [
-        "Bad Bunny",
-        "Ozuna",
-        "Daddy Yankee",
-        "J Balvin"
-      ],
-      "answerIndex": 0,
-      "fact": "He held the annual top spot three years running while recording almost entirely in Spanish.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which singer's 2019 debut album was recorded largely in her brother's bedroom?",
       "options": [
         "Billie Eilish",
