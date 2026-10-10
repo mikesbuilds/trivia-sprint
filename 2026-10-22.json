@@ -48,15 +48,15 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which musical is based on the life of Alexander Hamilton?",
+      "prompt": "Which Puerto Rican artist became the most-streamed act on Spotify in 2020?",
       "options": [
-        "Ragtime",
-        "Assassins",
-        "Hamilton",
-        "1776"
+        "J Balvin",
+        "Ozuna",
+        "Bad Bunny",
+        "Daddy Yankee"
       ],
       "answerIndex": 2,
-      "fact": "Its creator got the idea reading a biography on holiday, and first performed an early song at the White House."
+      "fact": "He held the annual top spot three years running while recording almost entirely in Spanish."
     },
     {
       "category": "Geography",
@@ -72,7 +72,7 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which epic poem features the hero Beowulf battling Grendel?",
+      "prompt": "Which Old English epic pits its Geatish hero against Grendel and a dragon?",
       "options": [
         "The Nibelungenlied",
         "Beowulf",
