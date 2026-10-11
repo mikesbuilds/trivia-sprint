@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the Joad family travelling to California?",
-      "options": [
-        "The Grapes of Wrath",
-        "East of Eden",
-        "Cannery Row",
-        "Of Mice and Men"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was publicly burned and banned in parts of California, where its portrayal of farm labour conditions was fiercely disputed."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Midnight's Children'?",
       "options": [
         "Salman Rushdie",
@@ -184,19 +171,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which type of rock is formed by heat and pressure on existing rock?",
-      "options": [
-        "Metamorphic",
-        "Igneous",
-        "Sedimentary",
-        "Volcanic"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Marble forms this way from limestone, and slate from shale, without either ever melting fully."
-    },
-    {
-      "category": "Science",
       "prompt": "Which system in the body includes the brain and spinal cord?",
       "options": [
         "The central nervous system",
@@ -207,19 +181,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which term describes converting data into a shorter fixed-length value?",
-      "options": [
-        "Hashing",
-        "Streaming",
-        "Buffering",
-        "Rendering"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A good one is designed so that changing a single character produces a completely different result."
     },
     {
       "category": "Technology",
@@ -415,19 +376,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of the Netherlands?",
-      "options": [
-        "Amsterdam",
-        "The Hague",
-        "Rotterdam",
-        "Utrecht"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The government and royal residence are actually in The Hague, making this a capital in name and constitution only."
     },
     {
       "category": "Geography",
@@ -1403,19 +1351,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Great Famine of the 1840s caused mass emigration from which island?",
-      "options": [
-        "Ireland",
-        "Sicily",
-        "Crete",
-        "Iceland"
-      ],
-      "answerIndex": 0,
-      "fact": "Potato blight destroyed the crop that much of the rural population depended on; the population fell by roughly a quarter.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2537,19 +2472,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer's 2019 debut album was recorded largely in her brother's bedroom?",
-      "options": [
-        "Billie Eilish",
-        "Lorde",
-        "Olivia Rodrigo",
-        "Clairo"
-      ],
-      "answerIndex": 0,
-      "fact": "It swept the four main Grammy categories in one night, a feat previously achieved only a handful of times.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which musical retells a story set among rival gangs on Manhattan's West Side?",
       "options": [
         "West Side Story",
@@ -3092,19 +3014,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In sailing, what does the term tacking describe?",
-      "options": [
-        "Turning the bow through the wind",
-        "Lowering the sails",
-        "Dropping anchor",
-        "Bailing water"
-      ],
-      "answerIndex": 0,
-      "fact": "Because a boat cannot sail directly upwind, progress in that direction comes from a zigzag of successive tacks.",
       "source": "curated"
     },
     {

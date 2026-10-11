@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Great Famine of the 1840s caused mass emigration from which island?",
+      "options": [
+        "Ireland",
+        "Crete",
+        "Sicily",
+        "Iceland"
+      ],
+      "answerIndex": 0,
+      "fact": "Potato blight destroyed the crop that much of the rural population depended on; the population fell by roughly a quarter."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of rock is formed by heat and pressure on existing rock?",
+      "options": [
+        "Volcanic",
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic"
+      ],
+      "answerIndex": 3,
+      "fact": "Marble forms this way from limestone, and slate from shale, without either ever melting fully."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In sailing, what does the term tacking describe?",
+      "options": [
+        "Dropping anchor",
+        "Lowering the sails",
+        "Bailing water",
+        "Turning the bow through the wind"
+      ],
+      "answerIndex": 3,
+      "fact": "Because a boat cannot sail directly upwind, progress in that direction comes from a zigzag of successive tacks."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer's 2019 debut album was recorded largely in her brother's bedroom?",
+      "options": [
+        "Clairo",
+        "Olivia Rodrigo",
+        "Billie Eilish",
+        "Lorde"
+      ],
+      "answerIndex": 2,
+      "fact": "It swept the four main Grammy categories in one night, a feat previously achieved only a handful of times."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of the Netherlands?",
+      "options": [
+        "Amsterdam",
+        "Rotterdam",
+        "Utrecht",
+        "The Hague"
+      ],
+      "answerIndex": 0,
+      "fact": "The government and royal residence are actually in The Hague, making this a capital in name and constitution only."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the Joad family travelling to California?",
+      "options": [
+        "Of Mice and Men",
+        "The Grapes of Wrath",
+        "Cannery Row",
+        "East of Eden"
+      ],
+      "answerIndex": 1,
+      "fact": "It was publicly burned and banned in parts of California, where its portrayal of farm labour conditions was fiercely disputed."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes converting data into a shorter fixed-length value?",
+      "options": [
+        "Buffering",
+        "Hashing",
+        "Streaming",
+        "Rendering"
+      ],
+      "answerIndex": 1,
+      "fact": "A good one is designed so that changing a single character produces a completely different result."
+    }
+  ]
+}
