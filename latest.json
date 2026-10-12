@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Great Famine of the 1840s caused mass emigration from which island?",
+      "prompt": "Ellis Island processed arriving migrants to which city?",
       "options": [
-        "Ireland",
-        "Crete",
-        "Sicily",
-        "Iceland"
+        "Philadelphia",
+        "Boston",
+        "Baltimore",
+        "New York"
       ],
-      "answerIndex": 0,
-      "fact": "Potato blight destroyed the crop that much of the rural population depended on; the population fell by roughly a quarter."
+      "answerIndex": 3,
+      "fact": "Roughly twelve million people passed through between 1892 and 1954, most cleared in a matter of hours."
     },
     {
       "category": "Science",
-      "prompt": "Which type of rock is formed by heat and pressure on existing rock?",
+      "prompt": "Which system in the body includes the brain and spinal cord?",
       "options": [
-        "Volcanic",
-        "Igneous",
-        "Sedimentary",
-        "Metamorphic"
+        "The immune system",
+        "The central nervous system",
+        "The respiratory system",
+        "The endocrine system"
       ],
-      "answerIndex": 3,
-      "fact": "Marble forms this way from limestone, and slate from shale, without either ever melting fully."
+      "answerIndex": 1,
+      "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
     },
     {
       "category": "Sports",
-      "prompt": "In sailing, what does the term tacking describe?",
+      "prompt": "The Ballon d'Or is awarded in which sport?",
       "options": [
-        "Dropping anchor",
-        "Lowering the sails",
-        "Bailing water",
-        "Turning the bow through the wind"
+        "Football",
+        "Volleyball",
+        "Basketball",
+        "Handball"
       ],
-      "answerIndex": 3,
-      "fact": "Because a boat cannot sail directly upwind, progress in that direction comes from a zigzag of successive tacks."
+      "answerIndex": 0,
+      "fact": "First presented in 1956, it was open only to European players for its first four decades."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer's 2019 debut album was recorded largely in her brother's bedroom?",
+      "prompt": "Which musical retells a story set among rival gangs on Manhattan's West Side?",
       "options": [
-        "Clairo",
-        "Olivia Rodrigo",
-        "Billie Eilish",
-        "Lorde"
+        "West Side Story",
+        "Chicago",
+        "Rent",
+        "Grease"
       ],
-      "answerIndex": 2,
-      "fact": "It swept the four main Grammy categories in one night, a feat previously achieved only a handful of times."
+      "answerIndex": 0,
+      "fact": "Its plot transposes Romeo and Juliet, with the feuding households becoming immigrant street gangs."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of the Netherlands?",
+      "prompt": "What is the capital of Sweden?",
       "options": [
-        "Amsterdam",
-        "Rotterdam",
-        "Utrecht",
-        "The Hague"
+        "Malmo",
+        "Gothenburg",
+        "Stockholm",
+        "Uppsala"
       ],
-      "answerIndex": 0,
-      "fact": "The government and royal residence are actually in The Hague, making this a capital in name and constitution only."
+      "answerIndex": 2,
+      "fact": "It is built across fourteen islands, and the old town's narrow lanes date from the medieval period."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the Joad family travelling to California?",
+      "prompt": "Who wrote 'Midnight's Children'?",
       "options": [
-        "Of Mice and Men",
-        "The Grapes of Wrath",
-        "Cannery Row",
-        "East of Eden"
+        "Vikram Seth",
+        "Salman Rushdie",
+        "V. S. Naipaul",
+        "Arundhati Roy"
       ],
       "answerIndex": 1,
-      "fact": "It was publicly burned and banned in parts of California, where its portrayal of farm labour conditions was fiercely disputed."
+      "fact": "It won the Booker Prize and later two special awards naming it the best winner of its first decades."
     },
     {
       "category": "Technology",
-      "prompt": "Which term describes converting data into a shorter fixed-length value?",
+      "prompt": "Which device converts digital signals for transmission over phone or cable lines?",
       "options": [
-        "Buffering",
-        "Hashing",
-        "Streaming",
-        "Rendering"
+        "A switch",
+        "A router",
+        "A modem",
+        "A hub"
       ],
-      "answerIndex": 1,
-      "fact": "A good one is designed so that changing a single character produces a completely different result."
+      "answerIndex": 2,
+      "fact": "The name is a contraction of modulator and demodulator, describing the two halves of what it does."
     }
   ]
 }

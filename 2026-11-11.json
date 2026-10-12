@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Ellis Island processed arriving migrants to which city?",
+      "options": [
+        "Philadelphia",
+        "Boston",
+        "Baltimore",
+        "New York"
+      ],
+      "answerIndex": 3,
+      "fact": "Roughly twelve million people passed through between 1892 and 1954, most cleared in a matter of hours."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which system in the body includes the brain and spinal cord?",
+      "options": [
+        "The immune system",
+        "The central nervous system",
+        "The respiratory system",
+        "The endocrine system"
+      ],
+      "answerIndex": 1,
+      "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Ballon d'Or is awarded in which sport?",
+      "options": [
+        "Football",
+        "Volleyball",
+        "Basketball",
+        "Handball"
+      ],
+      "answerIndex": 0,
+      "fact": "First presented in 1956, it was open only to European players for its first four decades."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which musical retells a story set among rival gangs on Manhattan's West Side?",
+      "options": [
+        "West Side Story",
+        "Chicago",
+        "Rent",
+        "Grease"
+      ],
+      "answerIndex": 0,
+      "fact": "Its plot transposes Romeo and Juliet, with the feuding households becoming immigrant street gangs."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Sweden?",
+      "options": [
+        "Malmo",
+        "Gothenburg",
+        "Stockholm",
+        "Uppsala"
+      ],
+      "answerIndex": 2,
+      "fact": "It is built across fourteen islands, and the old town's narrow lanes date from the medieval period."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Midnight's Children'?",
+      "options": [
+        "Vikram Seth",
+        "Salman Rushdie",
+        "V. S. Naipaul",
+        "Arundhati Roy"
+      ],
+      "answerIndex": 1,
+      "fact": "It won the Booker Prize and later two special awards naming it the best winner of its first decades."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which device converts digital signals for transmission over phone or cable lines?",
+      "options": [
+        "A switch",
+        "A router",
+        "A modem",
+        "A hub"
+      ],
+      "answerIndex": 2,
+      "fact": "The name is a contraction of modulator and demodulator, describing the two halves of what it does."
+    }
+  ]
+}

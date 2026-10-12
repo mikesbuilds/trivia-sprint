@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Midnight's Children'?",
-      "options": [
-        "Salman Rushdie",
-        "V. S. Naipaul",
-        "Arundhati Roy",
-        "Vikram Seth"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It won the Booker Prize and later two special awards naming it the best winner of its first decades."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which Greek poet is credited with the 'Iliad'?",
       "options": [
         "Homer",
@@ -168,32 +155,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Science",
-      "prompt": "Which system in the body includes the brain and spinal cord?",
-      "options": [
-        "The central nervous system",
-        "The endocrine system",
-        "The immune system",
-        "The respiratory system"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is protected by bone and by a blood barrier that blocks most large molecules, which makes many drugs hard to deliver."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which device converts digital signals for transmission over phone or cable lines?",
-      "options": [
-        "A modem",
-        "A router",
-        "A switch",
-        "A hub"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The name is a contraction of modulator and demodulator, describing the two halves of what it does."
     },
     {
       "category": "Technology",
@@ -376,19 +337,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Sweden?",
-      "options": [
-        "Stockholm",
-        "Gothenburg",
-        "Malmo",
-        "Uppsala"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is built across fourteen islands, and the old town's narrow lanes date from the medieval period."
     },
     {
       "category": "Geography",
@@ -1351,19 +1299,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Ellis Island processed arriving migrants to which city?",
-      "options": [
-        "New York",
-        "Boston",
-        "Philadelphia",
-        "Baltimore"
-      ],
-      "answerIndex": 0,
-      "fact": "Roughly twelve million people passed through between 1892 and 1954, most cleared in a matter of hours.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2472,19 +2407,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which musical retells a story set among rival gangs on Manhattan's West Side?",
-      "options": [
-        "West Side Story",
-        "Rent",
-        "Chicago",
-        "Grease"
-      ],
-      "answerIndex": 0,
-      "fact": "Its plot transposes Romeo and Juliet, with the feuding households becoming immigrant street gangs.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which long-running musical is based on a collection of poems by T. S. Eliot?",
       "options": [
         "Cats",
@@ -3014,19 +2936,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Ballon d'Or is awarded in which sport?",
-      "options": [
-        "Football",
-        "Basketball",
-        "Handball",
-        "Volleyball"
-      ],
-      "answerIndex": 0,
-      "fact": "First presented in 1956, it was open only to European players for its first four decades.",
       "source": "curated"
     },
     {
