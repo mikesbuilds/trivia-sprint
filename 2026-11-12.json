@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Wright brothers achieved powered flight in which US state?",
+      "options": [
+        "Ohio",
+        "Virginia",
+        "North Carolina",
+        "Georgia"
+      ],
+      "answerIndex": 2,
+      "fact": "They chose Kitty Hawk for its steady wind and soft sand, though their workshop was back home in Dayton."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is closest to the Sun?",
+      "options": [
+        "Mars",
+        "Earth",
+        "Venus",
+        "Mercury"
+      ],
+      "answerIndex": 3,
+      "fact": "It is not the hottest, because it has almost no atmosphere to trap heat."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, what is the penalty for holding the ball too long without advancing past the halfway line?",
+      "options": [
+        "A backcourt violation",
+        "A technical foul",
+        "A goaltend",
+        "A charge"
+      ],
+      "answerIndex": 0,
+      "fact": "The rule was introduced to stop teams stalling, and the allowance differs between the professional and international codes."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which long-running musical is based on a collection of poems by T. S. Eliot?",
+      "options": [
+        "Les Miserables",
+        "Cats",
+        "Evita",
+        "Starlight Express"
+      ],
+      "answerIndex": 1,
+      "fact": "The source was a book of light verse Eliot wrote for his godchildren under the name Old Possum."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Turkey?",
+      "options": [
+        "Izmir",
+        "Bursa",
+        "Istanbul",
+        "Ankara"
+      ],
+      "answerIndex": 3,
+      "fact": "Istanbul is older and much larger, but Atatürk moved the capital inland to Ankara in 1923, away from a coast that had just proved vulnerable."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Greek poet is credited with the 'Iliad'?",
+      "options": [
+        "Aeschylus",
+        "Homer",
+        "Sophocles",
+        "Euripides"
+      ],
+      "answerIndex": 1,
+      "fact": "Whether one person wrote these poems is still debated; they were composed for oral performance long before being written down."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'CD-ROM' stand for?",
+      "options": [
+        "Compact Disc Read-Only Memory",
+        "Computer Disc Rapid Output Method",
+        "Central Data Random Output Module",
+        "Coded Digital Reference Object Model"
+      ],
+      "answerIndex": 0,
+      "fact": "A standard disc holds about 650 megabytes, a capacity reportedly chosen to fit a particular recording of Beethoven's ninth."
+    }
+  ]
+}

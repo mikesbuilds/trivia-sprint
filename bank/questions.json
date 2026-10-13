@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which Greek poet is credited with the 'Iliad'?",
-      "options": [
-        "Homer",
-        "Sophocles",
-        "Euripides",
-        "Aeschylus"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Whether one person wrote these poems is still debated; they were composed for oral performance long before being written down."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Stranger'?",
       "options": [
         "Albert Camus",
@@ -155,19 +142,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'CD-ROM' stand for?",
-      "options": [
-        "Compact Disc Read-Only Memory",
-        "Central Data Random Output Module",
-        "Computer Disc Rapid Output Method",
-        "Coded Digital Reference Object Model"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A standard disc holds about 650 megabytes, a capacity reportedly chosen to fit a particular recording of Beethoven's ninth."
     },
     {
       "category": "Technology",
@@ -337,19 +311,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Turkey?",
-      "options": [
-        "Ankara",
-        "Istanbul",
-        "Izmir",
-        "Bursa"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Istanbul is older and much larger, but Atatürk moved the capital inland to Ankara in 1923, away from a coast that had just proved vulnerable."
     },
     {
       "category": "Geography",
@@ -834,19 +795,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which planet is closest to the Sun?",
-      "options": [
-        "Mercury",
-        "Venus",
-        "Earth",
-        "Mars"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is not the hottest, because it has almost no atmosphere to trap heat."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the chemical symbol for iron?",
       "options": [
         "Fe",
@@ -1299,19 +1247,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Wright brothers achieved powered flight in which US state?",
-      "options": [
-        "North Carolina",
-        "Ohio",
-        "Virginia",
-        "Georgia"
-      ],
-      "answerIndex": 0,
-      "fact": "They chose Kitty Hawk for its steady wind and soft sand, though their workshop was back home in Dayton.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2407,19 +2342,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which long-running musical is based on a collection of poems by T. S. Eliot?",
-      "options": [
-        "Cats",
-        "Evita",
-        "Starlight Express",
-        "Les Miserables"
-      ],
-      "answerIndex": 0,
-      "fact": "The source was a book of light verse Eliot wrote for his godchildren under the name Old Possum.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which film won the Academy Award for Best Picture in 2020, the first not in English to do so?",
       "options": [
         "Parasite",
@@ -2936,19 +2858,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In basketball, what is the penalty for holding the ball too long without advancing past the halfway line?",
-      "options": [
-        "A backcourt violation",
-        "A technical foul",
-        "A charge",
-        "A goaltend"
-      ],
-      "answerIndex": 0,
-      "fact": "The rule was introduced to stop teams stalling, and the allowance differs between the professional and international codes.",
       "source": "curated"
     },
     {
