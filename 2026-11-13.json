@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-13",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Treaty of Versailles formally ended hostilities with which nation?",
+      "options": [
+        "Bulgaria",
+        "Turkey",
+        "Germany",
+        "Austria"
+      ],
+      "answerIndex": 2,
+      "fact": "It was signed in the Hall of Mirrors, the same room where the German Empire had been proclaimed in 1871."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for iron?",
+      "options": [
+        "Io",
+        "Fe",
+        "In",
+        "Ir"
+      ],
+      "answerIndex": 1,
+      "fact": "The symbol comes from ferrum, its Latin name, which is also the root of ferrous."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which annual road race finishes on the Champs-Elysees?",
+      "options": [
+        "The Tour de France",
+        "The Vuelta",
+        "Paris-Roubaix",
+        "The Giro d'Italia"
+      ],
+      "answerIndex": 0,
+      "fact": "The closing stage is traditionally treated as ceremonial until the sprinters contest the final laps."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film won the Academy Award for Best Picture in 2020, the first not in English to do so?",
+      "options": [
+        "Minari",
+        "Drive My Car",
+        "Roma",
+        "Parasite"
+      ],
+      "answerIndex": 3,
+      "fact": "Its director joked that the barrier to overcome was the one inch tall line of subtitles at the bottom of the screen."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Indonesia?",
+      "options": [
+        "Bandung",
+        "Surabaya",
+        "Medan",
+        "Jakarta"
+      ],
+      "answerIndex": 3,
+      "fact": "Jakarta is sinking — parts of it by over 10 cm a year — which is why Indonesia is building a new capital, Nusantara, on Borneo."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Stranger'?",
+      "options": [
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Andre Gide",
+        "Jean-Paul Sartre"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author died in a car crash at forty-six with an unused train ticket in his pocket."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes software provided free but with paid upgrades?",
+      "options": [
+        "Shareware",
+        "Abandonware",
+        "Freemium",
+        "Bloatware"
+      ],
+      "answerIndex": 2,
+      "fact": "The word is a blend coined in 2006, though the business model long predates the name."
+    }
+  ]
+}

@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Stranger'?",
-      "options": [
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "Andre Gide",
-        "Simone de Beauvoir"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its author died in a car crash at forty-six with an unused train ticket in his pocket."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features a character transformed into an insect?",
       "options": [
         "The Metamorphosis",
@@ -142,19 +129,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which term describes software provided free but with paid upgrades?",
-      "options": [
-        "Freemium",
-        "Shareware",
-        "Abandonware",
-        "Bloatware"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The word is a blend coined in 2006, though the business model long predates the name."
     },
     {
       "category": "Technology",
@@ -311,19 +285,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Indonesia?",
-      "options": [
-        "Jakarta",
-        "Surabaya",
-        "Bandung",
-        "Medan"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Jakarta is sinking — parts of it by over 10 cm a year — which is why Indonesia is building a new capital, Nusantara, on Borneo."
     },
     {
       "category": "Geography",
@@ -795,19 +756,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for iron?",
-      "options": [
-        "Fe",
-        "Ir",
-        "In",
-        "Io"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The symbol comes from ferrum, its Latin name, which is also the root of ferrous."
-    },
-    {
-      "category": "Science",
       "prompt": "Which blood type is known as the universal donor?",
       "options": [
         "O negative",
@@ -1247,19 +1195,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Treaty of Versailles formally ended hostilities with which nation?",
-      "options": [
-        "Germany",
-        "Austria",
-        "Bulgaria",
-        "Turkey"
-      ],
-      "answerIndex": 0,
-      "fact": "It was signed in the Hall of Mirrors, the same room where the German Empire had been proclaimed in 1871.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2342,19 +2277,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film won the Academy Award for Best Picture in 2020, the first not in English to do so?",
-      "options": [
-        "Parasite",
-        "Roma",
-        "Minari",
-        "Drive My Car"
-      ],
-      "answerIndex": 0,
-      "fact": "Its director joked that the barrier to overcome was the one inch tall line of subtitles at the bottom of the screen.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which 2022 multiverse film swept the major Academy Awards the following year?",
       "options": [
         "Everything Everywhere All at Once",
@@ -2858,19 +2780,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which annual road race finishes on the Champs-Elysees?",
-      "options": [
-        "The Tour de France",
-        "The Giro d'Italia",
-        "Paris-Roubaix",
-        "The Vuelta"
-      ],
-      "answerIndex": 0,
-      "fact": "The closing stage is traditionally treated as ceremonial until the sprinters contest the final laps.",
       "source": "curated"
     },
     {
