@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-14",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Prohibition banned the sale of what in 1920s America?",
+      "options": [
+        "Firearms",
+        "Alcohol",
+        "Tobacco",
+        "Gambling"
+      ],
+      "answerIndex": 1,
+      "fact": "The ban lasted thirteen years and was repealed by the only constitutional amendment ever to undo another."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood type is known as the universal donor?",
+      "options": [
+        "O negative",
+        "B negative",
+        "AB positive",
+        "A positive"
+      ],
+      "answerIndex": 0,
+      "fact": "Only about seven percent of people have it, which is why supplies are chronically short."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The term love in tennis refers to what?",
+      "options": [
+        "A score of zero",
+        "A winning point",
+        "A let",
+        "A tied score"
+      ],
+      "answerIndex": 0,
+      "fact": "One popular explanation traces it to the French for egg, l'oeuf, from the shape of a nought."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 2022 multiverse film swept the major Academy Awards the following year?",
+      "options": [
+        "Triangle of Sadness",
+        "Tar",
+        "Everything Everywhere All at Once",
+        "The Banshees of Inisherin"
+      ],
+      "answerIndex": 2,
+      "fact": "It was made for a fraction of a typical blockbuster budget, with a visual effects team of only a handful of people."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the longest river in South America?",
+      "options": [
+        "The Magdalena",
+        "The Orinoco",
+        "The Parana",
+        "The Amazon"
+      ],
+      "answerIndex": 3,
+      "fact": "It discharges more water than the next several largest rivers combined, and has no bridges across its main stem."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features a character transformed into an insect?",
+      "options": [
+        "The Trial",
+        "Amerika",
+        "The Metamorphosis",
+        "The Castle"
+      ],
+      "answerIndex": 2,
+      "fact": "The author asked that the creature never be illustrated on the cover, wanting it left to the reader's imagination."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of a QR code?",
+      "options": [
+        "To encrypt passwords",
+        "To compress images",
+        "To route network traffic",
+        "To store data readable by a camera"
+      ],
+      "answerIndex": 3,
+      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
+    }
+  ]
+}

@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features a character transformed into an insect?",
-      "options": [
-        "The Metamorphosis",
-        "The Trial",
-        "The Castle",
-        "Amerika"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The author asked that the creature never be illustrated on the cover, wanting it left to the reader's imagination."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which author wrote 'Fahrenheit 451'?",
       "options": [
         "Ray Bradbury",
@@ -129,19 +116,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the purpose of a QR code?",
-      "options": [
-        "To store data readable by a camera",
-        "To encrypt passwords",
-        "To compress images",
-        "To route network traffic"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
     },
     {
       "category": "Technology",
@@ -285,19 +259,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the longest river in South America?",
-      "options": [
-        "The Amazon",
-        "The Parana",
-        "The Orinoco",
-        "The Magdalena"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It discharges more water than the next several largest rivers combined, and has no bridges across its main stem."
     },
     {
       "category": "Geography",
@@ -756,19 +717,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which blood type is known as the universal donor?",
-      "options": [
-        "O negative",
-        "AB positive",
-        "A positive",
-        "B negative"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Only about seven percent of people have it, which is why supplies are chronically short."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the chemical symbol for sodium?",
       "options": [
         "Na",
@@ -1195,19 +1143,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Prohibition banned the sale of what in 1920s America?",
-      "options": [
-        "Alcohol",
-        "Tobacco",
-        "Firearms",
-        "Gambling"
-      ],
-      "answerIndex": 0,
-      "fact": "The ban lasted thirteen years and was repealed by the only constitutional amendment ever to undo another.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2277,19 +2212,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 2022 multiverse film swept the major Academy Awards the following year?",
-      "options": [
-        "Everything Everywhere All at Once",
-        "Tar",
-        "The Banshees of Inisherin",
-        "Triangle of Sadness"
-      ],
-      "answerIndex": 0,
-      "fact": "It was made for a fraction of a typical blockbuster budget, with a visual effects team of only a handful of people.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which director made Get Out and Nope?",
       "options": [
         "Jordan Peele",
@@ -2780,19 +2702,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The term love in tennis refers to what?",
-      "options": [
-        "A score of zero",
-        "A tied score",
-        "A winning point",
-        "A let"
-      ],
-      "answerIndex": 0,
-      "fact": "One popular explanation traces it to the French for egg, l'oeuf, from the shape of a nought.",
       "source": "curated"
     },
     {

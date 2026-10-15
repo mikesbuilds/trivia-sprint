@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Treaty of Versailles formally ended hostilities with which nation?",
+      "prompt": "Prohibition banned the sale of what in 1920s America?",
       "options": [
-        "Bulgaria",
-        "Turkey",
-        "Germany",
-        "Austria"
+        "Firearms",
+        "Alcohol",
+        "Tobacco",
+        "Gambling"
       ],
-      "answerIndex": 2,
-      "fact": "It was signed in the Hall of Mirrors, the same room where the German Empire had been proclaimed in 1871."
+      "answerIndex": 1,
+      "fact": "The ban lasted thirteen years and was repealed by the only constitutional amendment ever to undo another."
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for iron?",
+      "prompt": "Which blood type is known as the universal donor?",
       "options": [
-        "Io",
-        "Fe",
-        "In",
-        "Ir"
+        "O negative",
+        "B negative",
+        "AB positive",
+        "A positive"
       ],
-      "answerIndex": 1,
-      "fact": "The symbol comes from ferrum, its Latin name, which is also the root of ferrous."
+      "answerIndex": 0,
+      "fact": "Only about seven percent of people have it, which is why supplies are chronically short."
     },
     {
       "category": "Sports",
-      "prompt": "Which annual road race finishes on the Champs-Elysees?",
+      "prompt": "The term love in tennis refers to what?",
       "options": [
-        "The Tour de France",
-        "The Vuelta",
-        "Paris-Roubaix",
-        "The Giro d'Italia"
+        "A score of zero",
+        "A winning point",
+        "A let",
+        "A tied score"
       ],
       "answerIndex": 0,
-      "fact": "The closing stage is traditionally treated as ceremonial until the sprinters contest the final laps."
+      "fact": "One popular explanation traces it to the French for egg, l'oeuf, from the shape of a nought."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film won the Academy Award for Best Picture in 2020, the first not in English to do so?",
+      "prompt": "Which 2022 multiverse film swept the major Academy Awards the following year?",
       "options": [
-        "Minari",
-        "Drive My Car",
-        "Roma",
-        "Parasite"
+        "Triangle of Sadness",
+        "Tar",
+        "Everything Everywhere All at Once",
+        "The Banshees of Inisherin"
       ],
-      "answerIndex": 3,
-      "fact": "Its director joked that the barrier to overcome was the one inch tall line of subtitles at the bottom of the screen."
+      "answerIndex": 2,
+      "fact": "It was made for a fraction of a typical blockbuster budget, with a visual effects team of only a handful of people."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Indonesia?",
+      "prompt": "What is the longest river in South America?",
       "options": [
-        "Bandung",
-        "Surabaya",
-        "Medan",
-        "Jakarta"
+        "The Magdalena",
+        "The Orinoco",
+        "The Parana",
+        "The Amazon"
       ],
       "answerIndex": 3,
-      "fact": "Jakarta is sinking — parts of it by over 10 cm a year — which is why Indonesia is building a new capital, Nusantara, on Borneo."
+      "fact": "It discharges more water than the next several largest rivers combined, and has no bridges across its main stem."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Stranger'?",
+      "prompt": "Which novel features a character transformed into an insect?",
       "options": [
-        "Albert Camus",
-        "Simone de Beauvoir",
-        "Andre Gide",
-        "Jean-Paul Sartre"
+        "The Trial",
+        "Amerika",
+        "The Metamorphosis",
+        "The Castle"
       ],
-      "answerIndex": 0,
-      "fact": "Its author died in a car crash at forty-six with an unused train ticket in his pocket."
+      "answerIndex": 2,
+      "fact": "The author asked that the creature never be illustrated on the cover, wanting it left to the reader's imagination."
     },
     {
       "category": "Technology",
-      "prompt": "Which term describes software provided free but with paid upgrades?",
+      "prompt": "What is the purpose of a QR code?",
       "options": [
-        "Shareware",
-        "Abandonware",
-        "Freemium",
-        "Bloatware"
+        "To encrypt passwords",
+        "To compress images",
+        "To route network traffic",
+        "To store data readable by a camera"
       ],
-      "answerIndex": 2,
-      "fact": "The word is a blend coined in 2006, though the business model long predates the name."
+      "answerIndex": 3,
+      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
     }
   ]
 }
