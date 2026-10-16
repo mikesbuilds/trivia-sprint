@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The attack on Pearl Harbor brought which country into the Second World War?",
+      "options": [
+        "Mexico",
+        "Brazil",
+        "Canada",
+        "The United States"
+      ],
+      "answerIndex": 3,
+      "fact": "Congress declared war the following day, with a single dissenting vote cast by Jeannette Rankin."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for sodium?",
+      "options": [
+        "Sd",
+        "Nm",
+        "Na",
+        "So"
+      ],
+      "answerIndex": 2,
+      "fact": "It comes from natrium, the Latin name, and the element is soft enough to cut with a knife."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport do competitors perform a vault, a beam routine and a floor exercise?",
+      "options": [
+        "Artistic gymnastics",
+        "Trampolining",
+        "Diving",
+        "Cheerleading"
+      ],
+      "answerIndex": 0,
+      "fact": "The women's programme has four apparatus and the men's six, a split settled in the mid-twentieth century."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which director made Get Out and Nope?",
+      "options": [
+        "Barry Jenkins",
+        "Jordan Peele",
+        "Ava DuVernay",
+        "Ryan Coogler"
+      ],
+      "answerIndex": 1,
+      "fact": "He came from sketch comedy, and won an Academy Award for his first screenplay."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "The Sahara",
+        "The Gobi",
+        "The Arabian",
+        "The Kalahari"
+      ],
+      "answerIndex": 0,
+      "fact": "It was green savannah with lakes as recently as six thousand years ago, and will be again on a cycle of tens of thousands of years."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author wrote 'Fahrenheit 451'?",
+      "options": [
+        "Arthur C. Clarke",
+        "Robert Heinlein",
+        "Ray Bradbury",
+        "Isaac Asimov"
+      ],
+      "answerIndex": 2,
+      "fact": "He typed the first draft on a rented library typewriter that charged by the half hour, finishing in nine days."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Kindle e-reader?",
+      "options": [
+        "Sony",
+        "Amazon",
+        "Kobo",
+        "Barnes & Noble"
+      ],
+      "answerIndex": 1,
+      "fact": "Its display uses electrically charged particles rather than backlight, which is why it draws power only when the page changes."
+    }
+  ]
+}

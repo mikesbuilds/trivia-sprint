@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'Fahrenheit 451'?",
-      "options": [
-        "Ray Bradbury",
-        "Isaac Asimov",
-        "Arthur C. Clarke",
-        "Robert Heinlein"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He typed the first draft on a rented library typewriter that charged by the half hour, finishing in nine days."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features the character Ebenezer Scrooge?",
       "options": [
         "A Christmas Carol",
@@ -116,19 +103,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company created the Kindle e-reader?",
-      "options": [
-        "Amazon",
-        "Barnes & Noble",
-        "Sony",
-        "Kobo"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its display uses electrically charged particles rather than backlight, which is why it draws power only when the page changes."
     },
     {
       "category": "Technology",
@@ -259,19 +233,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which desert is the largest hot desert in the world?",
-      "options": [
-        "The Sahara",
-        "The Gobi",
-        "The Kalahari",
-        "The Arabian"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was green savannah with lakes as recently as six thousand years ago, and will be again on a cycle of tens of thousands of years."
     },
     {
       "category": "Geography",
@@ -717,19 +678,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for sodium?",
-      "options": [
-        "Na",
-        "So",
-        "Sd",
-        "Nm"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It comes from natrium, the Latin name, and the element is soft enough to cut with a knife."
-    },
-    {
-      "category": "Science",
       "prompt": "Which planet is known for being the hottest in the solar system?",
       "options": [
         "Venus",
@@ -1143,19 +1091,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The attack on Pearl Harbor brought which country into the Second World War?",
-      "options": [
-        "The United States",
-        "Canada",
-        "Brazil",
-        "Mexico"
-      ],
-      "answerIndex": 0,
-      "fact": "Congress declared war the following day, with a single dissenting vote cast by Jeannette Rankin.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2212,19 +2147,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which director made Get Out and Nope?",
-      "options": [
-        "Jordan Peele",
-        "Ryan Coogler",
-        "Barry Jenkins",
-        "Ava DuVernay"
-      ],
-      "answerIndex": 0,
-      "fact": "He came from sketch comedy, and won an Academy Award for his first screenplay.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which 1993 film features dinosaurs cloned from preserved DNA?",
       "options": [
         "Jurassic Park",
@@ -2702,19 +2624,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In which sport do competitors perform a vault, a beam routine and a floor exercise?",
-      "options": [
-        "Artistic gymnastics",
-        "Diving",
-        "Trampolining",
-        "Cheerleading"
-      ],
-      "answerIndex": 0,
-      "fact": "The women's programme has four apparatus and the men's six, a split settled in the mid-twentieth century.",
       "source": "curated"
     },
     {

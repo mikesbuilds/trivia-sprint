@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Prohibition banned the sale of what in 1920s America?",
+      "prompt": "The attack on Pearl Harbor brought which country into the Second World War?",
       "options": [
-        "Firearms",
-        "Alcohol",
-        "Tobacco",
-        "Gambling"
+        "Mexico",
+        "Brazil",
+        "Canada",
+        "The United States"
       ],
-      "answerIndex": 1,
-      "fact": "The ban lasted thirteen years and was repealed by the only constitutional amendment ever to undo another."
+      "answerIndex": 3,
+      "fact": "Congress declared war the following day, with a single dissenting vote cast by Jeannette Rankin."
     },
     {
       "category": "Science",
-      "prompt": "Which blood type is known as the universal donor?",
+      "prompt": "What is the chemical symbol for sodium?",
       "options": [
-        "O negative",
-        "B negative",
-        "AB positive",
-        "A positive"
+        "Sd",
+        "Nm",
+        "Na",
+        "So"
       ],
-      "answerIndex": 0,
-      "fact": "Only about seven percent of people have it, which is why supplies are chronically short."
+      "answerIndex": 2,
+      "fact": "It comes from natrium, the Latin name, and the element is soft enough to cut with a knife."
     },
     {
       "category": "Sports",
-      "prompt": "The term love in tennis refers to what?",
+      "prompt": "In which sport do competitors perform a vault, a beam routine and a floor exercise?",
       "options": [
-        "A score of zero",
-        "A winning point",
-        "A let",
-        "A tied score"
+        "Artistic gymnastics",
+        "Trampolining",
+        "Diving",
+        "Cheerleading"
       ],
       "answerIndex": 0,
-      "fact": "One popular explanation traces it to the French for egg, l'oeuf, from the shape of a nought."
+      "fact": "The women's programme has four apparatus and the men's six, a split settled in the mid-twentieth century."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 2022 multiverse film swept the major Academy Awards the following year?",
+      "prompt": "Which director made Get Out and Nope?",
       "options": [
-        "Triangle of Sadness",
-        "Tar",
-        "Everything Everywhere All at Once",
-        "The Banshees of Inisherin"
+        "Barry Jenkins",
+        "Jordan Peele",
+        "Ava DuVernay",
+        "Ryan Coogler"
       ],
-      "answerIndex": 2,
-      "fact": "It was made for a fraction of a typical blockbuster budget, with a visual effects team of only a handful of people."
+      "answerIndex": 1,
+      "fact": "He came from sketch comedy, and won an Academy Award for his first screenplay."
     },
     {
       "category": "Geography",
-      "prompt": "What is the longest river in South America?",
+      "prompt": "Which desert is the largest hot desert in the world?",
       "options": [
-        "The Magdalena",
-        "The Orinoco",
-        "The Parana",
-        "The Amazon"
+        "The Sahara",
+        "The Gobi",
+        "The Arabian",
+        "The Kalahari"
       ],
-      "answerIndex": 3,
-      "fact": "It discharges more water than the next several largest rivers combined, and has no bridges across its main stem."
+      "answerIndex": 0,
+      "fact": "It was green savannah with lakes as recently as six thousand years ago, and will be again on a cycle of tens of thousands of years."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features a character transformed into an insect?",
+      "prompt": "Which author wrote 'Fahrenheit 451'?",
       "options": [
-        "The Trial",
-        "Amerika",
-        "The Metamorphosis",
-        "The Castle"
+        "Arthur C. Clarke",
+        "Robert Heinlein",
+        "Ray Bradbury",
+        "Isaac Asimov"
       ],
       "answerIndex": 2,
-      "fact": "The author asked that the creature never be illustrated on the cover, wanting it left to the reader's imagination."
+      "fact": "He typed the first draft on a rented library typewriter that charged by the half hour, finishing in nine days."
     },
     {
       "category": "Technology",
-      "prompt": "What is the purpose of a QR code?",
+      "prompt": "Which company created the Kindle e-reader?",
       "options": [
-        "To encrypt passwords",
-        "To compress images",
-        "To route network traffic",
-        "To store data readable by a camera"
+        "Sony",
+        "Amazon",
+        "Kobo",
+        "Barnes & Noble"
       ],
-      "answerIndex": 3,
-      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
+      "answerIndex": 1,
+      "fact": "Its display uses electrically charged particles rather than backlight, which is why it draws power only when the page changes."
     }
   ]
 }
