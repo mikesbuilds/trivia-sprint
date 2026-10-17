@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Normandy landings of June 1944 are better known by what name?",
+      "options": [
+        "D-Day",
+        "Z-Day",
+        "H-Day",
+        "V-Day"
+      ],
+      "answerIndex": 0,
+      "fact": "The D simply stands for day, a routine military placeholder for the start date of any operation."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet is known for being the hottest in the solar system?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Jupiter",
+        "Venus"
+      ],
+      "answerIndex": 3,
+      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which trophy is contested annually by rugby union teams of Britain, Ireland, France and Italy?",
+      "options": [
+        "The Currie Cup",
+        "The Six Nations Championship",
+        "The Rugby Championship",
+        "The Heineken Cup"
+      ],
+      "answerIndex": 1,
+      "fact": "A team beating all five opponents wins the Grand Slam; beating the other home nations wins the Triple Crown."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 1993 film features dinosaurs cloned from preserved DNA?",
+      "options": [
+        "The Land Before Time",
+        "King Kong",
+        "Jurassic Park",
+        "Godzilla"
+      ],
+      "answerIndex": 2,
+      "fact": "Much of its most celebrated creature work is practical animatronics rather than computer animation."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is home to Machu Picchu?",
+      "options": [
+        "Chile",
+        "Bolivia",
+        "Ecuador",
+        "Peru"
+      ],
+      "answerIndex": 3,
+      "fact": "It was never found by the Spanish, which is why it survived largely intact."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Ebenezer Scrooge?",
+      "options": [
+        "Hard Times",
+        "Great Expectations",
+        "A Christmas Carol",
+        "David Copperfield"
+      ],
+      "answerIndex": 2,
+      "fact": "The book helped popularise the phrase Merry Christmas and much of the modern shape of the holiday."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'FAQ' stand for?",
+      "options": [
+        "Formatted Answer Query",
+        "Frequently Asked Questions",
+        "File Archive Query",
+        "Fast Access Queue"
+      ],
+      "answerIndex": 1,
+      "fact": "The format came from early mailing lists, where the same newcomer questions were asked repeatedly."
+    }
+  ]
+}

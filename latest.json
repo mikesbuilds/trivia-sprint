@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The attack on Pearl Harbor brought which country into the Second World War?",
+      "prompt": "The Normandy landings of June 1944 are better known by what name?",
       "options": [
-        "Mexico",
-        "Brazil",
-        "Canada",
-        "The United States"
+        "D-Day",
+        "Z-Day",
+        "H-Day",
+        "V-Day"
       ],
-      "answerIndex": 3,
-      "fact": "Congress declared war the following day, with a single dissenting vote cast by Jeannette Rankin."
+      "answerIndex": 0,
+      "fact": "The D simply stands for day, a routine military placeholder for the start date of any operation."
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for sodium?",
+      "prompt": "Which planet is known for being the hottest in the solar system?",
       "options": [
-        "Sd",
-        "Nm",
-        "Na",
-        "So"
+        "Mars",
+        "Mercury",
+        "Jupiter",
+        "Venus"
       ],
-      "answerIndex": 2,
-      "fact": "It comes from natrium, the Latin name, and the element is soft enough to cut with a knife."
+      "answerIndex": 3,
+      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
     },
     {
       "category": "Sports",
-      "prompt": "In which sport do competitors perform a vault, a beam routine and a floor exercise?",
+      "prompt": "Which trophy is contested annually by rugby union teams of Britain, Ireland, France and Italy?",
       "options": [
-        "Artistic gymnastics",
-        "Trampolining",
-        "Diving",
-        "Cheerleading"
+        "The Currie Cup",
+        "The Six Nations Championship",
+        "The Rugby Championship",
+        "The Heineken Cup"
       ],
-      "answerIndex": 0,
-      "fact": "The women's programme has four apparatus and the men's six, a split settled in the mid-twentieth century."
+      "answerIndex": 1,
+      "fact": "A team beating all five opponents wins the Grand Slam; beating the other home nations wins the Triple Crown."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which director made Get Out and Nope?",
+      "prompt": "Which 1993 film features dinosaurs cloned from preserved DNA?",
       "options": [
-        "Barry Jenkins",
-        "Jordan Peele",
-        "Ava DuVernay",
-        "Ryan Coogler"
+        "The Land Before Time",
+        "King Kong",
+        "Jurassic Park",
+        "Godzilla"
       ],
-      "answerIndex": 1,
-      "fact": "He came from sketch comedy, and won an Academy Award for his first screenplay."
+      "answerIndex": 2,
+      "fact": "Much of its most celebrated creature work is practical animatronics rather than computer animation."
     },
     {
       "category": "Geography",
-      "prompt": "Which desert is the largest hot desert in the world?",
+      "prompt": "Which country is home to Machu Picchu?",
       "options": [
-        "The Sahara",
-        "The Gobi",
-        "The Arabian",
-        "The Kalahari"
+        "Chile",
+        "Bolivia",
+        "Ecuador",
+        "Peru"
       ],
-      "answerIndex": 0,
-      "fact": "It was green savannah with lakes as recently as six thousand years ago, and will be again on a cycle of tens of thousands of years."
+      "answerIndex": 3,
+      "fact": "It was never found by the Spanish, which is why it survived largely intact."
     },
     {
       "category": "Literature",
-      "prompt": "Which author wrote 'Fahrenheit 451'?",
+      "prompt": "Which novel features the character Ebenezer Scrooge?",
       "options": [
-        "Arthur C. Clarke",
-        "Robert Heinlein",
-        "Ray Bradbury",
-        "Isaac Asimov"
+        "Hard Times",
+        "Great Expectations",
+        "A Christmas Carol",
+        "David Copperfield"
       ],
       "answerIndex": 2,
-      "fact": "He typed the first draft on a rented library typewriter that charged by the half hour, finishing in nine days."
+      "fact": "The book helped popularise the phrase Merry Christmas and much of the modern shape of the holiday."
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the Kindle e-reader?",
+      "prompt": "What does 'FAQ' stand for?",
       "options": [
-        "Sony",
-        "Amazon",
-        "Kobo",
-        "Barnes & Noble"
+        "Formatted Answer Query",
+        "Frequently Asked Questions",
+        "File Archive Query",
+        "Fast Access Queue"
       ],
       "answerIndex": 1,
-      "fact": "Its display uses electrically charged particles rather than backlight, which is why it draws power only when the page changes."
+      "fact": "The format came from early mailing lists, where the same newcomer questions were asked repeatedly."
     }
   ]
 }

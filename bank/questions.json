@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the character Ebenezer Scrooge?",
-      "options": [
-        "A Christmas Carol",
-        "Great Expectations",
-        "David Copperfield",
-        "Hard Times"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The book helped popularise the phrase Merry Christmas and much of the modern shape of the holiday."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Road'?",
       "options": [
         "Cormac McCarthy",
@@ -103,19 +90,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'FAQ' stand for?",
-      "options": [
-        "Frequently Asked Questions",
-        "Fast Access Queue",
-        "Formatted Answer Query",
-        "File Archive Query"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The format came from early mailing lists, where the same newcomer questions were asked repeatedly."
     },
     {
       "category": "Technology",
@@ -233,19 +207,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is home to Machu Picchu?",
-      "options": [
-        "Peru",
-        "Bolivia",
-        "Ecuador",
-        "Chile"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was never found by the Spanish, which is why it survived largely intact."
     },
     {
       "category": "Geography",
@@ -678,19 +639,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which planet is known for being the hottest in the solar system?",
-      "options": [
-        "Venus",
-        "Mercury",
-        "Mars",
-        "Jupiter"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the process of cell division producing two identical cells?",
       "options": [
         "Mitosis",
@@ -1091,19 +1039,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Normandy landings of June 1944 are better known by what name?",
-      "options": [
-        "D-Day",
-        "V-Day",
-        "Z-Day",
-        "H-Day"
-      ],
-      "answerIndex": 0,
-      "fact": "The D simply stands for day, a routine military placeholder for the start date of any operation.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2147,19 +2082,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 1993 film features dinosaurs cloned from preserved DNA?",
-      "options": [
-        "Jurassic Park",
-        "Godzilla",
-        "King Kong",
-        "The Land Before Time"
-      ],
-      "answerIndex": 0,
-      "fact": "Much of its most celebrated creature work is practical animatronics rather than computer animation.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which 1982 science fiction film is set in a rain-soaked future Los Angeles?",
       "options": [
         "Blade Runner",
@@ -2624,19 +2546,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which trophy is contested annually by rugby union teams of Britain, Ireland, France and Italy?",
-      "options": [
-        "The Six Nations Championship",
-        "The Rugby Championship",
-        "The Heineken Cup",
-        "The Currie Cup"
-      ],
-      "answerIndex": 0,
-      "fact": "A team beating all five opponents wins the Grand Slam; beating the other home nations wins the Triple Crown.",
       "source": "curated"
     },
     {
