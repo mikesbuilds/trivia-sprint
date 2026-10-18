@@ -28,19 +28,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Road'?",
-      "options": [
-        "Cormac McCarthy",
-        "Don DeLillo",
-        "Philip Roth",
-        "Richard Ford"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He is known for omitting quotation marks entirely, arguing that punctuation should not clutter the page."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Handmaid's Tale' sequel 'The Testaments'?",
       "options": [
         "Margaret Atwood",
@@ -90,19 +77,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which term describes an unintended flaw in software?",
-      "options": [
-        "A bug",
-        "A patch",
-        "A build",
-        "A branch"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The term predates computers, though a moth found in a Harvard relay in 1947 is the most famous illustration."
     },
     {
       "category": "Technology",
@@ -207,19 +181,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Canada?",
-      "options": [
-        "Ottawa",
-        "Toronto",
-        "Vancouver",
-        "Montreal"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was chosen partly as a compromise between rival cities, and partly because it sat further from the American border."
     },
     {
       "category": "Geography",
@@ -639,19 +600,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the process of cell division producing two identical cells?",
-      "options": [
-        "Mitosis",
-        "Meiosis",
-        "Osmosis",
-        "Diffusion"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
-    },
-    {
-      "category": "Science",
       "prompt": "What force keeps planets in orbit around the Sun?",
       "options": [
         "Gravity",
@@ -1039,19 +987,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Manhattan Project was established to develop what?",
-      "options": [
-        "An atomic bomb",
-        "Radar",
-        "A jet engine",
-        "Penicillin"
-      ],
-      "answerIndex": 0,
-      "fact": "At its peak it employed well over a hundred thousand people, the overwhelming majority unaware of the goal.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2082,19 +2017,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 1982 science fiction film is set in a rain-soaked future Los Angeles?",
-      "options": [
-        "Blade Runner",
-        "Tron",
-        "The Thing",
-        "Escape from New York"
-      ],
-      "answerIndex": 0,
-      "fact": "It flopped on release and was recut repeatedly; the director's preferred version appeared a decade later.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which Coen brothers film centres on a bowling enthusiast called The Dude?",
       "options": [
         "The Big Lebowski",
@@ -2546,19 +2468,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In swimming, which stroke requires both arms to recover over the water simultaneously?",
-      "options": [
-        "Butterfly",
-        "Backstroke",
-        "Breaststroke",
-        "Front crawl"
-      ],
-      "answerIndex": 0,
-      "fact": "It began as a variant of breaststroke and was only recognised as a separate competitive stroke in the 1950s.",
       "source": "curated"
     },
     {

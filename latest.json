@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Normandy landings of June 1944 are better known by what name?",
+      "prompt": "The Manhattan Project was established to develop what?",
       "options": [
-        "D-Day",
-        "Z-Day",
-        "H-Day",
-        "V-Day"
+        "Penicillin",
+        "A jet engine",
+        "An atomic bomb",
+        "Radar"
       ],
-      "answerIndex": 0,
-      "fact": "The D simply stands for day, a routine military placeholder for the start date of any operation."
+      "answerIndex": 2,
+      "fact": "At its peak it employed well over a hundred thousand people, the overwhelming majority unaware of the goal."
     },
     {
       "category": "Science",
-      "prompt": "Which planet is known for being the hottest in the solar system?",
+      "prompt": "What is the term for the process of cell division producing two identical cells?",
       "options": [
-        "Mars",
-        "Mercury",
-        "Jupiter",
-        "Venus"
+        "Diffusion",
+        "Mitosis",
+        "Meiosis",
+        "Osmosis"
       ],
-      "answerIndex": 3,
-      "fact": "Venus is hotter than Mercury despite being further from the Sun: a runaway greenhouse effect holds the surface at around 460C."
+      "answerIndex": 1,
+      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
     },
     {
       "category": "Sports",
-      "prompt": "Which trophy is contested annually by rugby union teams of Britain, Ireland, France and Italy?",
+      "prompt": "In swimming, which stroke requires both arms to recover over the water simultaneously?",
       "options": [
-        "The Currie Cup",
-        "The Six Nations Championship",
-        "The Rugby Championship",
-        "The Heineken Cup"
+        "Breaststroke",
+        "Backstroke",
+        "Front crawl",
+        "Butterfly"
       ],
-      "answerIndex": 1,
-      "fact": "A team beating all five opponents wins the Grand Slam; beating the other home nations wins the Triple Crown."
+      "answerIndex": 3,
+      "fact": "It began as a variant of breaststroke and was only recognised as a separate competitive stroke in the 1950s."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 1993 film features dinosaurs cloned from preserved DNA?",
+      "prompt": "Which 1982 science fiction film is set in a rain-soaked future Los Angeles?",
       "options": [
-        "The Land Before Time",
-        "King Kong",
-        "Jurassic Park",
-        "Godzilla"
+        "Blade Runner",
+        "The Thing",
+        "Escape from New York",
+        "Tron"
       ],
-      "answerIndex": 2,
-      "fact": "Much of its most celebrated creature work is practical animatronics rather than computer animation."
+      "answerIndex": 0,
+      "fact": "It flopped on release and was recut repeatedly; the director's preferred version appeared a decade later."
     },
     {
       "category": "Geography",
-      "prompt": "Which country is home to Machu Picchu?",
+      "prompt": "What is the capital of Canada?",
       "options": [
-        "Chile",
-        "Bolivia",
-        "Ecuador",
-        "Peru"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answerIndex": 3,
-      "fact": "It was never found by the Spanish, which is why it survived largely intact."
+      "answerIndex": 2,
+      "fact": "It was chosen partly as a compromise between rival cities, and partly because it sat further from the American border."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the character Ebenezer Scrooge?",
+      "prompt": "Who wrote 'The Road'?",
       "options": [
-        "Hard Times",
-        "Great Expectations",
-        "A Christmas Carol",
-        "David Copperfield"
+        "Cormac McCarthy",
+        "Don DeLillo",
+        "Philip Roth",
+        "Richard Ford"
       ],
-      "answerIndex": 2,
-      "fact": "The book helped popularise the phrase Merry Christmas and much of the modern shape of the holiday."
+      "answerIndex": 0,
+      "fact": "He is known for omitting quotation marks entirely, arguing that punctuation should not clutter the page."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'FAQ' stand for?",
+      "prompt": "Which term describes an unintended flaw in software?",
       "options": [
-        "Formatted Answer Query",
-        "Frequently Asked Questions",
-        "File Archive Query",
-        "Fast Access Queue"
+        "A branch",
+        "A bug",
+        "A build",
+        "A patch"
       ],
       "answerIndex": 1,
-      "fact": "The format came from early mailing lists, where the same newcomer questions were asked repeatedly."
+      "fact": "The term predates computers, though a moth found in a Harvard relay in 1947 is the most famous illustration."
     }
   ]
 }

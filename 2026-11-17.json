@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Manhattan Project was established to develop what?",
+      "options": [
+        "Penicillin",
+        "A jet engine",
+        "An atomic bomb",
+        "Radar"
+      ],
+      "answerIndex": 2,
+      "fact": "At its peak it employed well over a hundred thousand people, the overwhelming majority unaware of the goal."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for the process of cell division producing two identical cells?",
+      "options": [
+        "Diffusion",
+        "Mitosis",
+        "Meiosis",
+        "Osmosis"
+      ],
+      "answerIndex": 1,
+      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In swimming, which stroke requires both arms to recover over the water simultaneously?",
+      "options": [
+        "Breaststroke",
+        "Backstroke",
+        "Front crawl",
+        "Butterfly"
+      ],
+      "answerIndex": 3,
+      "fact": "It began as a variant of breaststroke and was only recognised as a separate competitive stroke in the 1950s."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 1982 science fiction film is set in a rain-soaked future Los Angeles?",
+      "options": [
+        "Blade Runner",
+        "The Thing",
+        "Escape from New York",
+        "Tron"
+      ],
+      "answerIndex": 0,
+      "fact": "It flopped on release and was recut repeatedly; the director's preferred version appeared a decade later."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answerIndex": 2,
+      "fact": "It was chosen partly as a compromise between rival cities, and partly because it sat further from the American border."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Road'?",
+      "options": [
+        "Cormac McCarthy",
+        "Don DeLillo",
+        "Philip Roth",
+        "Richard Ford"
+      ],
+      "answerIndex": 0,
+      "fact": "He is known for omitting quotation marks entirely, arguing that punctuation should not clutter the page."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes an unintended flaw in software?",
+      "options": [
+        "A branch",
+        "A bug",
+        "A build",
+        "A patch"
+      ],
+      "answerIndex": 1,
+      "fact": "The term predates computers, though a moth found in a Harvard relay in 1947 is the most famous illustration."
+    }
+  ]
+}
