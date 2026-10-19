@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Manhattan Project was established to develop what?",
+      "prompt": "The Korean War ended in 1953 with what outcome?",
       "options": [
-        "Penicillin",
-        "A jet engine",
-        "An atomic bomb",
-        "Radar"
+        "A withdrawal",
+        "An armistice",
+        "A unification",
+        "A peace treaty"
       ],
-      "answerIndex": 2,
-      "fact": "At its peak it employed well over a hundred thousand people, the overwhelming majority unaware of the goal."
+      "answerIndex": 1,
+      "fact": "No formal peace treaty has ever been signed, leaving the two states technically still at war."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the process of cell division producing two identical cells?",
+      "prompt": "What force keeps planets in orbit around the Sun?",
       "options": [
-        "Diffusion",
-        "Mitosis",
-        "Meiosis",
-        "Osmosis"
+        "Friction",
+        "Magnetism",
+        "The strong nuclear force",
+        "Gravity"
       ],
-      "answerIndex": 1,
-      "fact": "Mitosis makes two identical cells for growth and repair. Meiosis is the other kind, and halves the chromosomes to make sex cells."
+      "answerIndex": 3,
+      "fact": "An orbiting body is continuously falling; it simply moves sideways fast enough to keep missing."
     },
     {
       "category": "Sports",
-      "prompt": "In swimming, which stroke requires both arms to recover over the water simultaneously?",
+      "prompt": "The Stanley Cup is engraved with what?",
       "options": [
-        "Breaststroke",
-        "Backstroke",
-        "Front crawl",
-        "Butterfly"
+        "The names of winning players",
+        "The dates only",
+        "The city names",
+        "The team crests"
       ],
-      "answerIndex": 3,
-      "fact": "It began as a variant of breaststroke and was only recognised as a separate competitive stroke in the 1950s."
+      "answerIndex": 0,
+      "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 1982 science fiction film is set in a rain-soaked future Los Angeles?",
+      "prompt": "Which Coen brothers film centres on a bowling enthusiast called The Dude?",
       "options": [
-        "Blade Runner",
-        "The Thing",
-        "Escape from New York",
-        "Tron"
+        "Fargo",
+        "Burn After Reading",
+        "The Big Lebowski",
+        "Raising Arizona"
       ],
-      "answerIndex": 0,
-      "fact": "It flopped on release and was recut repeatedly; the director's preferred version appeared a decade later."
+      "answerIndex": 2,
+      "fact": "It underperformed at the box office and built its following almost entirely on home video."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Canada?",
+      "prompt": "What is the capital of Japan?",
       "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Osaka",
+        "Tokyo",
+        "Kyoto",
+        "Nagoya"
       ],
-      "answerIndex": 2,
-      "fact": "It was chosen partly as a compromise between rival cities, and partly because it sat further from the American border."
+      "answerIndex": 1,
+      "fact": "Its name means eastern capital, adopted when the emperor moved there from Kyoto in 1868."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Road'?",
+      "prompt": "Which novel features the Bennet sisters?",
       "options": [
-        "Cormac McCarthy",
-        "Don DeLillo",
-        "Philip Roth",
-        "Richard Ford"
+        "Northanger Abbey",
+        "Mansfield Park",
+        "Sense and Sensibility",
+        "Pride and Prejudice"
       ],
-      "answerIndex": 0,
-      "fact": "He is known for omitting quotation marks entirely, arguing that punctuation should not clutter the page."
+      "answerIndex": 3,
+      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
     },
     {
       "category": "Technology",
-      "prompt": "Which term describes an unintended flaw in software?",
+      "prompt": "Which number system uses only the digits 0 and 1?",
       "options": [
-        "A branch",
-        "A bug",
-        "A build",
-        "A patch"
+        "Decimal",
+        "Octal",
+        "Binary",
+        "Hexadecimal"
       ],
-      "answerIndex": 1,
-      "fact": "The term predates computers, though a moth found in a Harvard relay in 1947 is the most famous illustration."
+      "answerIndex": 2,
+      "fact": "Leibniz described it in 1703 and saw a theological elegance in representing everything with one and nothing."
     }
   ]
 }

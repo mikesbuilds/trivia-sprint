@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Korean War ended in 1953 with what outcome?",
+      "options": [
+        "A withdrawal",
+        "An armistice",
+        "A unification",
+        "A peace treaty"
+      ],
+      "answerIndex": 1,
+      "fact": "No formal peace treaty has ever been signed, leaving the two states technically still at war."
+    },
+    {
+      "category": "Science",
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": [
+        "Friction",
+        "Magnetism",
+        "The strong nuclear force",
+        "Gravity"
+      ],
+      "answerIndex": 3,
+      "fact": "An orbiting body is continuously falling; it simply moves sideways fast enough to keep missing."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Stanley Cup is engraved with what?",
+      "options": [
+        "The names of winning players",
+        "The dates only",
+        "The city names",
+        "The team crests"
+      ],
+      "answerIndex": 0,
+      "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Coen brothers film centres on a bowling enthusiast called The Dude?",
+      "options": [
+        "Fargo",
+        "Burn After Reading",
+        "The Big Lebowski",
+        "Raising Arizona"
+      ],
+      "answerIndex": 2,
+      "fact": "It underperformed at the box office and built its following almost entirely on home video."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Japan?",
+      "options": [
+        "Osaka",
+        "Tokyo",
+        "Kyoto",
+        "Nagoya"
+      ],
+      "answerIndex": 1,
+      "fact": "Its name means eastern capital, adopted when the emperor moved there from Kyoto in 1868."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the Bennet sisters?",
+      "options": [
+        "Northanger Abbey",
+        "Mansfield Park",
+        "Sense and Sensibility",
+        "Pride and Prejudice"
+      ],
+      "answerIndex": 3,
+      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which number system uses only the digits 0 and 1?",
+      "options": [
+        "Decimal",
+        "Octal",
+        "Binary",
+        "Hexadecimal"
+      ],
+      "answerIndex": 2,
+      "fact": "Leibniz described it in 1703 and saw a theological elegance in representing everything with one and nothing."
+    }
+  ]
+}

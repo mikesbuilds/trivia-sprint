@@ -40,19 +40,6 @@
       "fact": "She has said she included nothing in the original that had not happened somewhere in real history."
     },
     {
-      "category": "Literature",
-      "prompt": "Which novel features the Bennet sisters?",
-      "options": [
-        "Pride and Prejudice",
-        "Sense and Sensibility",
-        "Northanger Abbey",
-        "Mansfield Park"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
-    },
-    {
       "category": "Science",
       "prompt": "Which planet has the shortest day in the solar system?",
       "options": [
@@ -77,19 +64,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which number system uses only the digits 0 and 1?",
-      "options": [
-        "Binary",
-        "Octal",
-        "Decimal",
-        "Hexadecimal"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Leibniz described it in 1703 and saw a theological elegance in representing everything with one and nothing."
     },
     {
       "category": "Technology",
@@ -181,19 +155,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Japan?",
-      "options": [
-        "Tokyo",
-        "Osaka",
-        "Kyoto",
-        "Nagoya"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its name means eastern capital, adopted when the emperor moved there from Kyoto in 1868."
     },
     {
       "category": "Geography",
@@ -600,19 +561,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What force keeps planets in orbit around the Sun?",
-      "options": [
-        "Gravity",
-        "Magnetism",
-        "Friction",
-        "The strong nuclear force"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "An orbiting body is continuously falling; it simply moves sideways fast enough to keep missing."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the chemical symbol for gold?",
       "options": [
         "Au",
@@ -987,19 +935,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Korean War ended in 1953 with what outcome?",
-      "options": [
-        "An armistice",
-        "A peace treaty",
-        "A unification",
-        "A withdrawal"
-      ],
-      "answerIndex": 0,
-      "fact": "No formal peace treaty has ever been signed, leaving the two states technically still at war.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -2017,19 +1952,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Coen brothers film centres on a bowling enthusiast called The Dude?",
-      "options": [
-        "The Big Lebowski",
-        "Fargo",
-        "Raising Arizona",
-        "Burn After Reading"
-      ],
-      "answerIndex": 0,
-      "fact": "It underperformed at the box office and built its following almost entirely on home video.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which anthology series explores the dark side of technology in standalone episodes?",
       "options": [
         "Black Mirror",
@@ -2468,19 +2390,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Stanley Cup is engraved with what?",
-      "options": [
-        "The names of winning players",
-        "The dates only",
-        "The team crests",
-        "The city names"
-      ],
-      "answerIndex": 0,
-      "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame.",
       "source": "curated"
     },
     {
