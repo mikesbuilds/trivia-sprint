@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-19",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which structure divided a German city from 1961 to 1989?",
+      "options": [
+        "The Siegfried Line",
+        "The Maginot Line",
+        "The Berlin Wall",
+        "The Iron Curtain"
+      ],
+      "answerIndex": 2,
+      "fact": "It went up almost overnight in August 1961, initially as barbed wire before concrete replaced it."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the chemical symbol for gold?",
+      "options": [
+        "Au",
+        "Gd",
+        "Go",
+        "Ag"
+      ],
+      "answerIndex": 0,
+      "fact": "It comes from aurum, the Latin name, meaning glowing dawn."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which combat sport features rounds fought inside an octagonal enclosure in its best-known promotion?",
+      "options": [
+        "Boxing",
+        "Mixed martial arts",
+        "Kickboxing",
+        "Wrestling"
+      ],
+      "answerIndex": 1,
+      "fact": "The eight-sided cage was introduced partly to avoid fighters slipping out between ropes."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which anthology series explores the dark side of technology in standalone episodes?",
+      "options": [
+        "Love, Death and Robots",
+        "Tales from the Loop",
+        "Black Mirror",
+        "Electric Dreams"
+      ],
+      "answerIndex": 2,
+      "fact": "Its title refers to the blank screen of a switched-off device reflecting the viewer back."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which continent contains the Atacama Desert?",
+      "options": [
+        "Asia",
+        "Australia",
+        "Africa",
+        "South America"
+      ],
+      "answerIndex": 3,
+      "fact": "Some weather stations in that desert have never recorded rainfall, which is why observatories cluster there."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Sun Also Rises'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Ford Madox Ford",
+        "Gertrude Stein",
+        "Ernest Hemingway"
+      ],
+      "answerIndex": 3,
+      "fact": "He worked as a journalist first, and credited the wire-service style with teaching him to strip sentences back."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'CC' stand for in an email header?",
+      "options": [
+        "Central Channel",
+        "Carbon Copy",
+        "Contact Confirm",
+        "Copy Control"
+      ],
+      "answerIndex": 1,
+      "fact": "The blind version exists because listing every recipient openly exposes the whole distribution list."
+    }
+  ]
+}

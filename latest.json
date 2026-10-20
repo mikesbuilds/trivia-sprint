@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Korean War ended in 1953 with what outcome?",
+      "prompt": "Which structure divided a German city from 1961 to 1989?",
       "options": [
-        "A withdrawal",
-        "An armistice",
-        "A unification",
-        "A peace treaty"
+        "The Siegfried Line",
+        "The Maginot Line",
+        "The Berlin Wall",
+        "The Iron Curtain"
       ],
-      "answerIndex": 1,
-      "fact": "No formal peace treaty has ever been signed, leaving the two states technically still at war."
+      "answerIndex": 2,
+      "fact": "It went up almost overnight in August 1961, initially as barbed wire before concrete replaced it."
     },
     {
       "category": "Science",
-      "prompt": "What force keeps planets in orbit around the Sun?",
+      "prompt": "What is the chemical symbol for gold?",
       "options": [
-        "Friction",
-        "Magnetism",
-        "The strong nuclear force",
-        "Gravity"
+        "Au",
+        "Gd",
+        "Go",
+        "Ag"
       ],
-      "answerIndex": 3,
-      "fact": "An orbiting body is continuously falling; it simply moves sideways fast enough to keep missing."
+      "answerIndex": 0,
+      "fact": "It comes from aurum, the Latin name, meaning glowing dawn."
     },
     {
       "category": "Sports",
-      "prompt": "The Stanley Cup is engraved with what?",
+      "prompt": "Which combat sport features rounds fought inside an octagonal enclosure in its best-known promotion?",
       "options": [
-        "The names of winning players",
-        "The dates only",
-        "The city names",
-        "The team crests"
+        "Boxing",
+        "Mixed martial arts",
+        "Kickboxing",
+        "Wrestling"
       ],
-      "answerIndex": 0,
-      "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
+      "answerIndex": 1,
+      "fact": "The eight-sided cage was introduced partly to avoid fighters slipping out between ropes."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Coen brothers film centres on a bowling enthusiast called The Dude?",
+      "prompt": "Which anthology series explores the dark side of technology in standalone episodes?",
       "options": [
-        "Fargo",
-        "Burn After Reading",
-        "The Big Lebowski",
-        "Raising Arizona"
+        "Love, Death and Robots",
+        "Tales from the Loop",
+        "Black Mirror",
+        "Electric Dreams"
       ],
       "answerIndex": 2,
-      "fact": "It underperformed at the box office and built its following almost entirely on home video."
+      "fact": "Its title refers to the blank screen of a switched-off device reflecting the viewer back."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Japan?",
+      "prompt": "Which continent contains the Atacama Desert?",
       "options": [
-        "Osaka",
-        "Tokyo",
-        "Kyoto",
-        "Nagoya"
+        "Asia",
+        "Australia",
+        "Africa",
+        "South America"
       ],
-      "answerIndex": 1,
-      "fact": "Its name means eastern capital, adopted when the emperor moved there from Kyoto in 1868."
+      "answerIndex": 3,
+      "fact": "Some weather stations in that desert have never recorded rainfall, which is why observatories cluster there."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the Bennet sisters?",
+      "prompt": "Who wrote 'The Sun Also Rises'?",
       "options": [
-        "Northanger Abbey",
-        "Mansfield Park",
-        "Sense and Sensibility",
-        "Pride and Prejudice"
+        "F. Scott Fitzgerald",
+        "Ford Madox Ford",
+        "Gertrude Stein",
+        "Ernest Hemingway"
       ],
       "answerIndex": 3,
-      "fact": "It was first drafted under a different title in the 1790s and heavily revised before publication some fifteen years later."
+      "fact": "He worked as a journalist first, and credited the wire-service style with teaching him to strip sentences back."
     },
     {
       "category": "Technology",
-      "prompt": "Which number system uses only the digits 0 and 1?",
+      "prompt": "What does 'CC' stand for in an email header?",
       "options": [
-        "Decimal",
-        "Octal",
-        "Binary",
-        "Hexadecimal"
+        "Central Channel",
+        "Carbon Copy",
+        "Contact Confirm",
+        "Copy Control"
       ],
-      "answerIndex": 2,
-      "fact": "Leibniz described it in 1703 and saw a theological elegance in representing everything with one and nothing."
+      "answerIndex": 1,
+      "fact": "The blind version exists because listing every recipient openly exposes the whole distribution list."
     }
   ]
 }

@@ -67,19 +67,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What does 'CC' stand for in an email header?",
-      "options": [
-        "Carbon Copy",
-        "Contact Confirm",
-        "Copy Control",
-        "Central Channel"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The blind version exists because listing every recipient openly exposes the whole distribution list."
-    },
-    {
-      "category": "Technology",
       "prompt": "Which hexadecimal digit follows 9?",
       "options": [
         "A",
@@ -155,19 +142,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which continent contains the Atacama Desert?",
-      "options": [
-        "South America",
-        "Africa",
-        "Asia",
-        "Australia"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Some weather stations in that desert have never recorded rainfall, which is why observatories cluster there."
     },
     {
       "category": "Geography",
@@ -298,19 +272,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Sun Also Rises'?",
-      "options": [
-        "Ernest Hemingway",
-        "F. Scott Fitzgerald",
-        "Gertrude Stein",
-        "Ford Madox Ford"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He worked as a journalist first, and credited the wire-service style with teaching him to strip sentences back."
     },
     {
       "category": "Literature",
@@ -558,19 +519,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "What is the chemical symbol for gold?",
-      "options": [
-        "Au",
-        "Ag",
-        "Gd",
-        "Go"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It comes from aurum, the Latin name, meaning glowing dawn."
     },
     {
       "category": "Science",
@@ -935,19 +883,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which structure divided a German city from 1961 to 1989?",
-      "options": [
-        "The Berlin Wall",
-        "The Maginot Line",
-        "The Iron Curtain",
-        "The Siegfried Line"
-      ],
-      "answerIndex": 0,
-      "fact": "It went up almost overnight in August 1961, initially as barbed wire before concrete replaced it.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1952,19 +1887,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which anthology series explores the dark side of technology in standalone episodes?",
-      "options": [
-        "Black Mirror",
-        "Electric Dreams",
-        "Tales from the Loop",
-        "Love, Death and Robots"
-      ],
-      "answerIndex": 0,
-      "fact": "Its title refers to the blank screen of a switched-off device reflecting the viewer back.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which series follows a chef returning home to run a struggling sandwich shop?",
       "options": [
         "The Bear",
@@ -2390,19 +2312,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which combat sport features rounds fought inside an octagonal enclosure in its best-known promotion?",
-      "options": [
-        "Mixed martial arts",
-        "Boxing",
-        "Kickboxing",
-        "Wrestling"
-      ],
-      "answerIndex": 0,
-      "fact": "The eight-sided cage was introduced partly to avoid fighters slipping out between ropes.",
       "source": "curated"
     },
     {
