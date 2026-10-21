@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which structure divided a German city from 1961 to 1989?",
+      "prompt": "The 1989 protests in Beijing centred on which square?",
       "options": [
-        "The Siegfried Line",
-        "The Maginot Line",
-        "The Berlin Wall",
-        "The Iron Curtain"
+        "Red Square",
+        "Taksim",
+        "Tahrir",
+        "Tiananmen"
       ],
-      "answerIndex": 2,
-      "fact": "It went up almost overnight in August 1961, initially as barbed wire before concrete replaced it."
+      "answerIndex": 3,
+      "fact": "The name translates roughly as the Gate of Heavenly Peace, after the gate on its northern edge."
     },
     {
       "category": "Science",
-      "prompt": "What is the chemical symbol for gold?",
+      "prompt": "Which planet has the most extensive ring system?",
       "options": [
-        "Au",
-        "Gd",
-        "Go",
-        "Ag"
+        "Uranus",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
       ],
-      "answerIndex": 0,
-      "fact": "It comes from aurum, the Latin name, meaning glowing dawn."
+      "answerIndex": 2,
+      "fact": "The rings are mostly water ice and are startlingly thin, in places only about ten metres deep."
     },
     {
       "category": "Sports",
-      "prompt": "Which combat sport features rounds fought inside an octagonal enclosure in its best-known promotion?",
+      "prompt": "In athletics, the steeplechase includes obstacles and what other feature?",
       "options": [
-        "Boxing",
-        "Mixed martial arts",
-        "Kickboxing",
-        "Wrestling"
+        "A water jump",
+        "A rope climb",
+        "A gravel section",
+        "A sand pit"
       ],
-      "answerIndex": 1,
-      "fact": "The eight-sided cage was introduced partly to avoid fighters slipping out between ropes."
+      "answerIndex": 0,
+      "fact": "The event descends from cross-country races between village steeples, where streams and walls were natural obstacles."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which anthology series explores the dark side of technology in standalone episodes?",
+      "prompt": "Which series follows a chef returning home to run a struggling sandwich shop?",
       "options": [
-        "Love, Death and Robots",
-        "Tales from the Loop",
-        "Black Mirror",
-        "Electric Dreams"
+        "The Bear",
+        "Chef's Table",
+        "Boiling Point",
+        "Kitchen Nightmares"
       ],
-      "answerIndex": 2,
-      "fact": "Its title refers to the blank screen of a switched-off device reflecting the viewer back."
+      "answerIndex": 0,
+      "fact": "Several episodes were shot as long unbroken takes to mirror the pressure of a live kitchen service."
     },
     {
       "category": "Geography",
-      "prompt": "Which continent contains the Atacama Desert?",
+      "prompt": "Which river flows through Paris?",
       "options": [
-        "Asia",
-        "Australia",
-        "Africa",
-        "South America"
+        "The Rhine",
+        "The Loire",
+        "The Rhone",
+        "The Seine"
       ],
       "answerIndex": 3,
-      "fact": "Some weather stations in that desert have never recorded rainfall, which is why observatories cluster there."
+      "fact": "Its banks are a UNESCO World Heritage Site, one of the few times a stretch of river itself received the designation."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Sun Also Rises'?",
+      "prompt": "Who wrote 'The Count of Monte Cristo'?",
       "options": [
-        "F. Scott Fitzgerald",
-        "Ford Madox Ford",
-        "Gertrude Stein",
-        "Ernest Hemingway"
+        "Emile Zola",
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert"
       ],
-      "answerIndex": 3,
-      "fact": "He worked as a journalist first, and credited the wire-service style with teaching him to strip sentences back."
+      "answerIndex": 1,
+      "fact": "He ran a workshop of collaborators and published so prolifically that the total output is still disputed."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'CC' stand for in an email header?",
+      "prompt": "Which hexadecimal digit follows 9?",
       "options": [
-        "Central Channel",
-        "Carbon Copy",
-        "Contact Confirm",
-        "Copy Control"
+        "10",
+        "A",
+        "0",
+        "B"
       ],
       "answerIndex": 1,
-      "fact": "The blind version exists because listing every recipient openly exposes the whole distribution list."
+      "fact": "The system uses sixteen digits because one of them encodes exactly four bits, which maps neatly onto binary."
     }
   ]
 }

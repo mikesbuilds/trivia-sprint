@@ -67,19 +67,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which hexadecimal digit follows 9?",
-      "options": [
-        "A",
-        "10",
-        "B",
-        "0"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The system uses sixteen digits because one of them encodes exactly four bits, which maps neatly onto binary."
-    },
-    {
-      "category": "Technology",
       "prompt": "What is the term for temporarily stored data that speeds up repeat access?",
       "options": [
         "Cache",
@@ -142,19 +129,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which river flows through Paris?",
-      "options": [
-        "The Seine",
-        "The Rhone",
-        "The Loire",
-        "The Rhine"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its banks are a UNESCO World Heritage Site, one of the few times a stretch of river itself received the designation."
     },
     {
       "category": "Geography",
@@ -272,19 +246,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Count of Monte Cristo'?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Emile Zola"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He ran a workshop of collaborators and published so prolifically that the total output is still disputed."
     },
     {
       "category": "Literature",
@@ -519,19 +480,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "Which planet has the most extensive ring system?",
-      "options": [
-        "Saturn",
-        "Jupiter",
-        "Uranus",
-        "Neptune"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The rings are mostly water ice and are startlingly thin, in places only about ten metres deep."
     },
     {
       "category": "Science",
@@ -883,19 +831,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The 1989 protests in Beijing centred on which square?",
-      "options": [
-        "Tiananmen",
-        "Red Square",
-        "Taksim",
-        "Tahrir"
-      ],
-      "answerIndex": 0,
-      "fact": "The name translates roughly as the Gate of Heavenly Peace, after the gate on its northern edge.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1887,19 +1822,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which series follows a chef returning home to run a struggling sandwich shop?",
-      "options": [
-        "The Bear",
-        "Chef's Table",
-        "Boiling Point",
-        "Kitchen Nightmares"
-      ],
-      "answerIndex": 0,
-      "fact": "Several episodes were shot as long unbroken takes to mirror the pressure of a live kitchen service.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which British comedy was adapted from its creator's one-woman stage show?",
       "options": [
         "Fleabag",
@@ -2312,19 +2234,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In athletics, the steeplechase includes obstacles and what other feature?",
-      "options": [
-        "A water jump",
-        "A sand pit",
-        "A rope climb",
-        "A gravel section"
-      ],
-      "answerIndex": 0,
-      "fact": "The event descends from cross-country races between village steeples, where streams and walls were natural obstacles.",
       "source": "curated"
     },
     {

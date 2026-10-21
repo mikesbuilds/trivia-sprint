@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The 1989 protests in Beijing centred on which square?",
+      "options": [
+        "Red Square",
+        "Taksim",
+        "Tahrir",
+        "Tiananmen"
+      ],
+      "answerIndex": 3,
+      "fact": "The name translates roughly as the Gate of Heavenly Peace, after the gate on its northern edge."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which planet has the most extensive ring system?",
+      "options": [
+        "Uranus",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answerIndex": 2,
+      "fact": "The rings are mostly water ice and are startlingly thin, in places only about ten metres deep."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In athletics, the steeplechase includes obstacles and what other feature?",
+      "options": [
+        "A water jump",
+        "A rope climb",
+        "A gravel section",
+        "A sand pit"
+      ],
+      "answerIndex": 0,
+      "fact": "The event descends from cross-country races between village steeples, where streams and walls were natural obstacles."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which series follows a chef returning home to run a struggling sandwich shop?",
+      "options": [
+        "The Bear",
+        "Chef's Table",
+        "Boiling Point",
+        "Kitchen Nightmares"
+      ],
+      "answerIndex": 0,
+      "fact": "Several episodes were shot as long unbroken takes to mirror the pressure of a live kitchen service."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through Paris?",
+      "options": [
+        "The Rhine",
+        "The Loire",
+        "The Rhone",
+        "The Seine"
+      ],
+      "answerIndex": 3,
+      "fact": "Its banks are a UNESCO World Heritage Site, one of the few times a stretch of river itself received the designation."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Count of Monte Cristo'?",
+      "options": [
+        "Emile Zola",
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert"
+      ],
+      "answerIndex": 1,
+      "fact": "He ran a workshop of collaborators and published so prolifically that the total output is still disputed."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which hexadecimal digit follows 9?",
+      "options": [
+        "10",
+        "A",
+        "0",
+        "B"
+      ],
+      "answerIndex": 1,
+      "fact": "The system uses sixteen digits because one of them encodes exactly four bits, which maps neatly onto binary."
+    }
+  ]
+}
