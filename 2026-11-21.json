@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which system of racial segregation was dismantled in the early 1990s?",
+      "options": [
+        "Indenture",
+        "Apartheid",
+        "Serfdom",
+        "Feudalism"
+      ],
+      "answerIndex": 1,
+      "fact": "The word is Afrikaans for apartness, and the policy was formalised after the 1948 election."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which element has the atomic number 1?",
+      "options": [
+        "Lithium",
+        "Helium",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "answerIndex": 2,
+      "fact": "It accounts for roughly three quarters of all ordinary matter in the universe by mass."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Davis Cup format is contested by teams representing what?",
+      "options": [
+        "Nations",
+        "Clubs",
+        "Regions",
+        "Cities"
+      ],
+      "answerIndex": 0,
+      "fact": "Founded in 1900 as a match between the United States and Britain, it now runs as a large multi-round competition."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which British comedy was adapted from its creator's one-woman stage show?",
+      "options": [
+        "Fleabag",
+        "Catastrophe",
+        "Derry Girls",
+        "Motherland"
+      ],
+      "answerIndex": 0,
+      "fact": "Its habit of breaking the fourth wall began as a practical solution to staging a monologue."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Brazil?",
+      "options": [
+        "Sao Paulo",
+        "Salvador",
+        "Rio de Janeiro",
+        "Brasilia"
+      ],
+      "answerIndex": 3,
+      "fact": "It was built from nothing in about four years and laid out in the shape of an aeroplane."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the character Jay Gatsby?",
+      "options": [
+        "Tender Is the Night",
+        "This Side of Paradise",
+        "The Great Gatsby",
+        "The Beautiful and Damned"
+      ],
+      "answerIndex": 2,
+      "fact": "It sold modestly at first; its revival owes much to cheap editions distributed to American troops in the 1940s."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for temporarily stored data that speeds up repeat access?",
+      "options": [
+        "Buffer overflow",
+        "Registry",
+        "Swap file",
+        "Cache"
+      ],
+      "answerIndex": 3,
+      "fact": "Deciding what to discard when it fills is one of the genuinely hard problems in computing."
+    }
+  ]
+}

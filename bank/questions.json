@@ -67,19 +67,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What is the term for temporarily stored data that speeds up repeat access?",
-      "options": [
-        "Cache",
-        "Buffer overflow",
-        "Registry",
-        "Swap file"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Deciding what to discard when it fills is one of the genuinely hard problems in computing."
-    },
-    {
-      "category": "Technology",
       "prompt": "Which company developed the React JavaScript library?",
       "options": [
         "Meta",
@@ -129,19 +116,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of Brazil?",
-      "options": [
-        "Brasilia",
-        "Rio de Janeiro",
-        "Sao Paulo",
-        "Salvador"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was built from nothing in about four years and laid out in the shape of an aeroplane."
     },
     {
       "category": "Geography",
@@ -246,19 +220,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel features the character Jay Gatsby?",
-      "options": [
-        "The Great Gatsby",
-        "Tender Is the Night",
-        "This Side of Paradise",
-        "The Beautiful and Damned"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It sold modestly at first; its revival owes much to cheap editions distributed to American troops in the 1940s."
     },
     {
       "category": "Literature",
@@ -480,19 +441,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "Which element has the atomic number 1?",
-      "options": [
-        "Hydrogen",
-        "Helium",
-        "Lithium",
-        "Carbon"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It accounts for roughly three quarters of all ordinary matter in the universe by mass."
     },
     {
       "category": "Science",
@@ -831,19 +779,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which system of racial segregation was dismantled in the early 1990s?",
-      "options": [
-        "Apartheid",
-        "Serfdom",
-        "Feudalism",
-        "Indenture"
-      ],
-      "answerIndex": 0,
-      "fact": "The word is Afrikaans for apartness, and the policy was formalised after the 1948 election.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1822,19 +1757,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which British comedy was adapted from its creator's one-woman stage show?",
-      "options": [
-        "Fleabag",
-        "Motherland",
-        "Catastrophe",
-        "Derry Girls"
-      ],
-      "answerIndex": 0,
-      "fact": "Its habit of breaking the fourth wall began as a practical solution to staging a monologue.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which animated film is set in a Colombian house with magical rooms?",
       "options": [
         "Encanto",
@@ -2234,19 +2156,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Davis Cup format is contested by teams representing what?",
-      "options": [
-        "Nations",
-        "Cities",
-        "Clubs",
-        "Regions"
-      ],
-      "answerIndex": 0,
-      "fact": "Founded in 1900 as a match between the United States and Britain, it now runs as a large multi-round competition.",
       "source": "curated"
     },
     {
