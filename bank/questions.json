@@ -67,19 +67,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which company developed the React JavaScript library?",
-      "options": [
-        "Meta",
-        "Google",
-        "Microsoft",
-        "Twitter"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was released as open source in 2013 and met with early scepticism for mixing markup into JavaScript."
-    },
-    {
-      "category": "Technology",
       "prompt": "What does 'ROM' stand for?",
       "options": [
         "Read-Only Memory",
@@ -116,19 +103,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which European country is shaped like a boot?",
-      "options": [
-        "Italy",
-        "Greece",
-        "Portugal",
-        "Croatia"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It has more UNESCO World Heritage Sites than any other country."
     },
     {
       "category": "Geography",
@@ -220,19 +194,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Animal Farm'?",
-      "options": [
-        "George Orwell",
-        "Aldous Huxley",
-        "Arthur Koestler",
-        "Evelyn Waugh"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Several publishers rejected it during the war because it satirised an ally."
     },
     {
       "category": "Literature",
@@ -441,19 +402,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "What is the largest organ of the human body?",
-      "options": [
-        "The skin",
-        "The liver",
-        "The lungs",
-        "The brain"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It regenerates completely roughly every month, shedding tens of thousands of cells every minute."
     },
     {
       "category": "Science",
@@ -779,19 +727,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Hammurabi is best remembered for producing what?",
-      "options": [
-        "A law code",
-        "A calendar",
-        "A map",
-        "An alphabet"
-      ],
-      "answerIndex": 0,
-      "fact": "The stele carrying it stands over two metres tall and sets out penalties that vary by the social rank of those involved.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1757,19 +1692,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which animated film is set in a Colombian house with magical rooms?",
-      "options": [
-        "Encanto",
-        "Coco",
-        "Luca",
-        "Turning Red"
-      ],
-      "answerIndex": 0,
-      "fact": "Its breakout song was never released as a single at first, yet still reached the top of the charts.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which Pixar film personifies a child's emotions as characters in her mind?",
       "options": [
         "Inside Out",
@@ -2156,19 +2078,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In Formula One, what is a team obliged to do during a pit stop under standard dry rules?",
-      "options": [
-        "Change tyres at least once",
-        "Refuel",
-        "Change the driver",
-        "Replace the nose"
-      ],
-      "answerIndex": 0,
-      "fact": "Refuelling during races was banned in 2010 on cost and safety grounds, making tyre strategy central.",
       "source": "curated"
     },
     {

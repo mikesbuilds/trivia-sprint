@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which system of racial segregation was dismantled in the early 1990s?",
+      "prompt": "Hammurabi is best remembered for producing what?",
       "options": [
-        "Indenture",
-        "Apartheid",
-        "Serfdom",
-        "Feudalism"
+        "A map",
+        "An alphabet",
+        "A calendar",
+        "A law code"
       ],
-      "answerIndex": 1,
-      "fact": "The word is Afrikaans for apartness, and the policy was formalised after the 1948 election."
+      "answerIndex": 3,
+      "fact": "The stele carrying it stands over two metres tall and sets out penalties that vary by the social rank of those involved."
     },
     {
       "category": "Science",
-      "prompt": "Which element has the atomic number 1?",
+      "prompt": "What is the largest organ of the human body?",
       "options": [
-        "Lithium",
-        "Helium",
-        "Hydrogen",
-        "Carbon"
+        "The lungs",
+        "The brain",
+        "The skin",
+        "The liver"
       ],
       "answerIndex": 2,
-      "fact": "It accounts for roughly three quarters of all ordinary matter in the universe by mass."
+      "fact": "It regenerates completely roughly every month, shedding tens of thousands of cells every minute."
     },
     {
       "category": "Sports",
-      "prompt": "The Davis Cup format is contested by teams representing what?",
+      "prompt": "In Formula One, what is a team obliged to do during a pit stop under standard dry rules?",
       "options": [
-        "Nations",
-        "Clubs",
-        "Regions",
-        "Cities"
+        "Refuel",
+        "Change tyres at least once",
+        "Replace the nose",
+        "Change the driver"
       ],
-      "answerIndex": 0,
-      "fact": "Founded in 1900 as a match between the United States and Britain, it now runs as a large multi-round competition."
+      "answerIndex": 1,
+      "fact": "Refuelling during races was banned in 2010 on cost and safety grounds, making tyre strategy central."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which British comedy was adapted from its creator's one-woman stage show?",
+      "prompt": "Which animated film is set in a Colombian house with magical rooms?",
       "options": [
-        "Fleabag",
-        "Catastrophe",
-        "Derry Girls",
-        "Motherland"
+        "Encanto",
+        "Luca",
+        "Coco",
+        "Turning Red"
       ],
       "answerIndex": 0,
-      "fact": "Its habit of breaking the fourth wall began as a practical solution to staging a monologue."
+      "fact": "Its breakout song was never released as a single at first, yet still reached the top of the charts."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Brazil?",
+      "prompt": "Which European country is shaped like a boot?",
       "options": [
-        "Sao Paulo",
-        "Salvador",
-        "Rio de Janeiro",
-        "Brasilia"
+        "Portugal",
+        "Croatia",
+        "Italy",
+        "Greece"
       ],
-      "answerIndex": 3,
-      "fact": "It was built from nothing in about four years and laid out in the shape of an aeroplane."
+      "answerIndex": 2,
+      "fact": "It has more UNESCO World Heritage Sites than any other country."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel features the character Jay Gatsby?",
+      "prompt": "Who wrote 'Animal Farm'?",
       "options": [
-        "Tender Is the Night",
-        "This Side of Paradise",
-        "The Great Gatsby",
-        "The Beautiful and Damned"
+        "Evelyn Waugh",
+        "Arthur Koestler",
+        "Aldous Huxley",
+        "George Orwell"
       ],
-      "answerIndex": 2,
-      "fact": "It sold modestly at first; its revival owes much to cheap editions distributed to American troops in the 1940s."
+      "answerIndex": 3,
+      "fact": "Several publishers rejected it during the war because it satirised an ally."
     },
     {
       "category": "Technology",
-      "prompt": "What is the term for temporarily stored data that speeds up repeat access?",
+      "prompt": "Which company developed the React JavaScript library?",
       "options": [
-        "Buffer overflow",
-        "Registry",
-        "Swap file",
-        "Cache"
+        "Meta",
+        "Twitter",
+        "Google",
+        "Microsoft"
       ],
-      "answerIndex": 3,
-      "fact": "Deciding what to discard when it fills is one of the genuinely hard problems in computing."
+      "answerIndex": 0,
+      "fact": "It was released as open source in 2013 and met with early scepticism for mixing markup into JavaScript."
     }
   ]
 }
