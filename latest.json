@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Hammurabi is best remembered for producing what?",
+      "prompt": "Which ancient city was destroyed by Vesuvius in AD 79?",
       "options": [
-        "A map",
-        "An alphabet",
-        "A calendar",
-        "A law code"
+        "Syracuse",
+        "Ephesus",
+        "Carthage",
+        "Pompeii"
       ],
       "answerIndex": 3,
-      "fact": "The stele carrying it stands over two metres tall and sets out penalties that vary by the social rank of those involved."
+      "fact": "Ash sealed the site so completely that voids left by decayed bodies could later be filled with plaster to form casts."
     },
     {
       "category": "Science",
-      "prompt": "What is the largest organ of the human body?",
+      "prompt": "What does DNA stand for?",
       "options": [
-        "The lungs",
-        "The brain",
-        "The skin",
-        "The liver"
+        "Dinucleic acid",
+        "Deoxyribonucleic acid",
+        "Deoxyribose nitrate",
+        "Diribonucleic acid"
       ],
-      "answerIndex": 2,
-      "fact": "It regenerates completely roughly every month, shedding tens of thousands of cells every minute."
+      "answerIndex": 1,
+      "fact": "Stretched out, the amount in a single human cell would run about two metres."
     },
     {
       "category": "Sports",
-      "prompt": "In Formula One, what is a team obliged to do during a pit stop under standard dry rules?",
+      "prompt": "Which sport features positions called goal attack and wing defence?",
       "options": [
-        "Refuel",
-        "Change tyres at least once",
-        "Replace the nose",
-        "Change the driver"
+        "Handball",
+        "Korfball",
+        "Netball",
+        "Water polo"
       ],
-      "answerIndex": 1,
-      "fact": "Refuelling during races was banned in 2010 on cost and safety grounds, making tyre strategy central."
+      "answerIndex": 2,
+      "fact": "Players are restricted to marked thirds of the court according to position, and no dribbling is allowed."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which animated film is set in a Colombian house with magical rooms?",
+      "prompt": "Which Pixar film personifies a child's emotions as characters in her mind?",
       "options": [
-        "Encanto",
-        "Luca",
-        "Coco",
-        "Turning Red"
+        "Soul",
+        "Inside Out",
+        "Onward",
+        "Elemental"
       ],
-      "answerIndex": 0,
-      "fact": "Its breakout song was never released as a single at first, yet still reached the top of the charts."
+      "answerIndex": 1,
+      "fact": "The production consulted psychologists, and the number of core emotions was cut down from a much longer initial list."
     },
     {
       "category": "Geography",
-      "prompt": "Which European country is shaped like a boot?",
+      "prompt": "What is the capital of South Korea?",
       "options": [
-        "Portugal",
-        "Croatia",
-        "Italy",
-        "Greece"
+        "Seoul",
+        "Busan",
+        "Daegu",
+        "Incheon"
       ],
-      "answerIndex": 2,
-      "fact": "It has more UNESCO World Heritage Sites than any other country."
+      "answerIndex": 0,
+      "fact": "Its metropolitan area holds roughly half the national population."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Animal Farm'?",
+      "prompt": "Who wrote 'Dracula'?",
       "options": [
-        "Evelyn Waugh",
-        "Arthur Koestler",
-        "Aldous Huxley",
-        "George Orwell"
+        "Bram Stoker",
+        "Mary Shelley",
+        "H. P. Lovecraft",
+        "Sheridan Le Fanu"
       ],
-      "answerIndex": 3,
-      "fact": "Several publishers rejected it during the war because it satirised an ally."
+      "answerIndex": 0,
+      "fact": "It is told entirely through letters, diary entries and news clippings, with no conventional narrator."
     },
     {
       "category": "Technology",
-      "prompt": "Which company developed the React JavaScript library?",
+      "prompt": "What does 'ROM' stand for?",
       "options": [
-        "Meta",
-        "Twitter",
-        "Google",
-        "Microsoft"
+        "Remote Operations Manager",
+        "Runtime Object Model",
+        "Rapid Output Module",
+        "Read-Only Memory"
       ],
-      "answerIndex": 0,
-      "fact": "It was released as open source in 2013 and met with early scepticism for mixing markup into JavaScript."
+      "answerIndex": 3,
+      "fact": "Unlike working memory it keeps its contents without power, which is why it holds start-up instructions."
     }
   ]
 }

@@ -67,19 +67,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What does 'ROM' stand for?",
-      "options": [
-        "Read-Only Memory",
-        "Rapid Output Module",
-        "Runtime Object Model",
-        "Remote Operations Manager"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Unlike working memory it keeps its contents without power, which is why it holds start-up instructions."
-    },
-    {
-      "category": "Technology",
       "prompt": "Which term describes distributing incoming traffic across multiple servers?",
       "options": [
         "Load balancing",
@@ -103,19 +90,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "What is the capital of South Korea?",
-      "options": [
-        "Seoul",
-        "Busan",
-        "Incheon",
-        "Daegu"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its metropolitan area holds roughly half the national population."
     },
     {
       "category": "Geography",
@@ -194,19 +168,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Dracula'?",
-      "options": [
-        "Bram Stoker",
-        "Mary Shelley",
-        "Sheridan Le Fanu",
-        "H. P. Lovecraft"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It is told entirely through letters, diary entries and news clippings, with no conventional narrator."
     },
     {
       "category": "Literature",
@@ -402,19 +363,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "What does DNA stand for?",
-      "options": [
-        "Deoxyribonucleic acid",
-        "Dinucleic acid",
-        "Deoxyribose nitrate",
-        "Diribonucleic acid"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Stretched out, the amount in a single human cell would run about two metres."
     },
     {
       "category": "Science",
@@ -727,19 +675,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which ancient city was destroyed by Vesuvius in AD 79?",
-      "options": [
-        "Pompeii",
-        "Ephesus",
-        "Carthage",
-        "Syracuse"
-      ],
-      "answerIndex": 0,
-      "fact": "Ash sealed the site so completely that voids left by decayed bodies could later be filled with plaster to form casts.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1692,19 +1627,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Pixar film personifies a child's emotions as characters in her mind?",
-      "options": [
-        "Inside Out",
-        "Soul",
-        "Onward",
-        "Elemental"
-      ],
-      "answerIndex": 0,
-      "fact": "The production consulted psychologists, and the number of core emotions was cut down from a much longer initial list.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which artist is known for polka dots and mirrored infinity rooms?",
       "options": [
         "Yayoi Kusama",
@@ -2078,19 +2000,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport features positions called goal attack and wing defence?",
-      "options": [
-        "Netball",
-        "Korfball",
-        "Handball",
-        "Water polo"
-      ],
-      "answerIndex": 0,
-      "fact": "Players are restricted to marked thirds of the court according to position, and no dribbling is allowed.",
       "source": "curated"
     },
     {

@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which ancient city was destroyed by Vesuvius in AD 79?",
+      "options": [
+        "Syracuse",
+        "Ephesus",
+        "Carthage",
+        "Pompeii"
+      ],
+      "answerIndex": 3,
+      "fact": "Ash sealed the site so completely that voids left by decayed bodies could later be filled with plaster to form casts."
+    },
+    {
+      "category": "Science",
+      "prompt": "What does DNA stand for?",
+      "options": [
+        "Dinucleic acid",
+        "Deoxyribonucleic acid",
+        "Deoxyribose nitrate",
+        "Diribonucleic acid"
+      ],
+      "answerIndex": 1,
+      "fact": "Stretched out, the amount in a single human cell would run about two metres."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features positions called goal attack and wing defence?",
+      "options": [
+        "Handball",
+        "Korfball",
+        "Netball",
+        "Water polo"
+      ],
+      "answerIndex": 2,
+      "fact": "Players are restricted to marked thirds of the court according to position, and no dribbling is allowed."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Pixar film personifies a child's emotions as characters in her mind?",
+      "options": [
+        "Soul",
+        "Inside Out",
+        "Onward",
+        "Elemental"
+      ],
+      "answerIndex": 1,
+      "fact": "The production consulted psychologists, and the number of core emotions was cut down from a much longer initial list."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of South Korea?",
+      "options": [
+        "Seoul",
+        "Busan",
+        "Daegu",
+        "Incheon"
+      ],
+      "answerIndex": 0,
+      "fact": "Its metropolitan area holds roughly half the national population."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Dracula'?",
+      "options": [
+        "Bram Stoker",
+        "Mary Shelley",
+        "H. P. Lovecraft",
+        "Sheridan Le Fanu"
+      ],
+      "answerIndex": 0,
+      "fact": "It is told entirely through letters, diary entries and news clippings, with no conventional narrator."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'ROM' stand for?",
+      "options": [
+        "Remote Operations Manager",
+        "Runtime Object Model",
+        "Rapid Output Module",
+        "Read-Only Memory"
+      ],
+      "answerIndex": 3,
+      "fact": "Unlike working memory it keeps its contents without power, which is why it holds start-up instructions."
+    }
+  ]
+}
