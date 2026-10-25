@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which ancient city was destroyed by Vesuvius in AD 79?",
+      "prompt": "Joan of Arc was a military figure in which conflict?",
       "options": [
-        "Syracuse",
-        "Ephesus",
-        "Carthage",
-        "Pompeii"
+        "The Hundred Years War",
+        "The Crusades",
+        "The Thirty Years War",
+        "The Wars of the Roses"
       ],
-      "answerIndex": 3,
-      "fact": "Ash sealed the site so completely that voids left by decayed bodies could later be filled with plaster to form casts."
+      "answerIndex": 0,
+      "fact": "She was about seventeen when she reached the French court, and was canonised nearly five centuries after her death."
     },
     {
       "category": "Science",
-      "prompt": "What does DNA stand for?",
+      "prompt": "How many bones are in the adult human body?",
       "options": [
-        "Dinucleic acid",
-        "Deoxyribonucleic acid",
-        "Deoxyribose nitrate",
-        "Diribonucleic acid"
+        "150",
+        "206",
+        "300",
+        "412"
       ],
       "answerIndex": 1,
-      "fact": "Stretched out, the amount in a single human cell would run about two metres."
+      "fact": "Babies are born with around three hundred; many fuse together during growth."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features positions called goal attack and wing defence?",
+      "prompt": "The Ryder Cup pits the United States against which side?",
       "options": [
-        "Handball",
-        "Korfball",
-        "Netball",
-        "Water polo"
+        "Great Britain",
+        "Europe",
+        "Asia",
+        "The Rest of the World"
       ],
-      "answerIndex": 2,
-      "fact": "Players are restricted to marked thirds of the court according to position, and no dribbling is allowed."
+      "answerIndex": 1,
+      "fact": "It expanded from a British and Irish team to a European one in 1979, which made the contest far closer."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Pixar film personifies a child's emotions as characters in her mind?",
+      "prompt": "Which artist is known for polka dots and mirrored infinity rooms?",
       "options": [
-        "Soul",
-        "Inside Out",
-        "Onward",
-        "Elemental"
+        "Olafur Eliasson",
+        "Bridget Riley",
+        "Anish Kapoor",
+        "Yayoi Kusama"
       ],
-      "answerIndex": 1,
-      "fact": "The production consulted psychologists, and the number of core emotions was cut down from a much longer initial list."
+      "answerIndex": 3,
+      "fact": "She has lived voluntarily in a psychiatric facility in Tokyo since the 1970s while continuing to work daily in a nearby studio."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of South Korea?",
+      "prompt": "What is the capital of Norway?",
       "options": [
-        "Seoul",
-        "Busan",
-        "Daegu",
-        "Incheon"
+        "Bergen",
+        "Copenhagen",
+        "Oslo",
+        "Stockholm"
       ],
-      "answerIndex": 0,
-      "fact": "Its metropolitan area holds roughly half the national population."
+      "answerIndex": 2,
+      "fact": "It was called Christiania for nearly three centuries before reverting to its older name in 1925."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Dracula'?",
+      "prompt": "Who wrote 'Little Women'?",
       "options": [
-        "Bram Stoker",
-        "Mary Shelley",
-        "H. P. Lovecraft",
-        "Sheridan Le Fanu"
+        "Harriet Beecher Stowe",
+        "Kate Chopin",
+        "Edith Wharton",
+        "Louisa May Alcott"
       ],
-      "answerIndex": 0,
-      "fact": "It is told entirely through letters, diary entries and news clippings, with no conventional narrator."
+      "answerIndex": 3,
+      "fact": "She wrote it reluctantly at a publisher's request for a book for girls, and it cleared her family's debts."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'ROM' stand for?",
+      "prompt": "Which term describes distributing incoming traffic across multiple servers?",
       "options": [
-        "Remote Operations Manager",
-        "Runtime Object Model",
-        "Rapid Output Module",
-        "Read-Only Memory"
+        "Packet sniffing",
+        "Data mirroring",
+        "Load balancing",
+        "Port forwarding"
       ],
-      "answerIndex": 3,
-      "fact": "Unlike working memory it keeps its contents without power, which is why it holds start-up instructions."
+      "answerIndex": 2,
+      "fact": "It also provides redundancy, since a failed server can simply be taken out of the rotation."
     }
   ]
 }
