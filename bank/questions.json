@@ -66,32 +66,6 @@
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
     },
     {
-      "category": "Technology",
-      "prompt": "What is the name for a program that automatically browses the web to index pages?",
-      "options": [
-        "A web crawler",
-        "A firewall",
-        "A proxy",
-        "A daemon"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which river is the longest in Africa?",
-      "options": [
-        "The Nile",
-        "The Congo",
-        "The Niger",
-        "The Zambezi"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Which of its tributaries counts as the source was disputed for centuries and is still not fully settled."
-    },
-    {
       "category": "Geography",
       "prompt": "What is the capital of Kenya?",
       "options": [
@@ -142,19 +116,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'The Diary of a Young Girl'?",
-      "options": [
-        "Anne Frank",
-        "Elie Wiesel",
-        "Primo Levi",
-        "Viktor Frankl"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Her father was the only member of the household to survive, and he prepared the first edition for publication."
     },
     {
       "category": "Literature",
@@ -324,19 +285,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
-    },
-    {
-      "category": "Science",
-      "prompt": "How long does light from the Sun take to reach Earth?",
-      "options": [
-        "About 8 minutes",
-        "About 8 seconds",
-        "About 8 hours",
-        "About 80 minutes"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The energy in that light may have taken tens of thousands of years to escape the Sun's interior first."
     },
     {
       "category": "Science",
@@ -623,19 +571,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Medici family dominated banking and politics in which city?",
-      "options": [
-        "Florence",
-        "Venice",
-        "Milan",
-        "Genoa"
-      ],
-      "answerIndex": 0,
-      "fact": "Four Medici became popes, and the family's patronage funded much of what we now call the Renaissance.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1562,19 +1497,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Mexican painter is known for intensely personal self-portraits?",
-      "options": [
-        "Frida Kahlo",
-        "Remedios Varo",
-        "Leonora Carrington",
-        "Maria Izquierdo"
-      ],
-      "answerIndex": 0,
-      "fact": "A bus accident at eighteen left her with lifelong injuries, and she began painting during a long convalescence in bed.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which anonymous street artist is associated with Bristol and stencilled rats?",
       "options": [
         "Banksy",
@@ -1922,19 +1844,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In baseball, what is the term for a pitch the batter swings at and misses?",
-      "options": [
-        "A strike",
-        "A ball",
-        "A foul",
-        "A balk"
-      ],
-      "answerIndex": 0,
-      "fact": "Three of them retire the batter, though a foul ball cannot produce the third except when bunted.",
       "source": "curated"
     },
     {

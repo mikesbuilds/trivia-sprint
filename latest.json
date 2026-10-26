@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Joan of Arc was a military figure in which conflict?",
+      "prompt": "The Medici family dominated banking and politics in which city?",
       "options": [
-        "The Hundred Years War",
-        "The Crusades",
-        "The Thirty Years War",
-        "The Wars of the Roses"
+        "Florence",
+        "Genoa",
+        "Venice",
+        "Milan"
       ],
       "answerIndex": 0,
-      "fact": "She was about seventeen when she reached the French court, and was canonised nearly five centuries after her death."
+      "fact": "Four Medici became popes, and the family's patronage funded much of what we now call the Renaissance."
     },
     {
       "category": "Science",
-      "prompt": "How many bones are in the adult human body?",
+      "prompt": "How long does light from the Sun take to reach Earth?",
       "options": [
-        "150",
-        "206",
-        "300",
-        "412"
+        "About 8 seconds",
+        "About 8 hours",
+        "About 8 minutes",
+        "About 80 minutes"
       ],
-      "answerIndex": 1,
-      "fact": "Babies are born with around three hundred; many fuse together during growth."
+      "answerIndex": 2,
+      "fact": "The energy in that light may have taken tens of thousands of years to escape the Sun's interior first."
     },
     {
       "category": "Sports",
-      "prompt": "The Ryder Cup pits the United States against which side?",
+      "prompt": "In baseball, what is the term for a pitch the batter swings at and misses?",
       "options": [
-        "Great Britain",
-        "Europe",
-        "Asia",
-        "The Rest of the World"
+        "A foul",
+        "A ball",
+        "A balk",
+        "A strike"
       ],
-      "answerIndex": 1,
-      "fact": "It expanded from a British and Irish team to a European one in 1979, which made the contest far closer."
+      "answerIndex": 3,
+      "fact": "Three of them retire the batter, though a foul ball cannot produce the third except when bunted."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which artist is known for polka dots and mirrored infinity rooms?",
+      "prompt": "Which Mexican painter is known for intensely personal self-portraits?",
       "options": [
-        "Olafur Eliasson",
-        "Bridget Riley",
-        "Anish Kapoor",
-        "Yayoi Kusama"
+        "Remedios Varo",
+        "Frida Kahlo",
+        "Maria Izquierdo",
+        "Leonora Carrington"
       ],
-      "answerIndex": 3,
-      "fact": "She has lived voluntarily in a psychiatric facility in Tokyo since the 1970s while continuing to work daily in a nearby studio."
+      "answerIndex": 1,
+      "fact": "A bus accident at eighteen left her with lifelong injuries, and she began painting during a long convalescence in bed."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Norway?",
+      "prompt": "Which river is the longest in Africa?",
       "options": [
-        "Bergen",
-        "Copenhagen",
-        "Oslo",
-        "Stockholm"
+        "The Nile",
+        "The Zambezi",
+        "The Congo",
+        "The Niger"
       ],
-      "answerIndex": 2,
-      "fact": "It was called Christiania for nearly three centuries before reverting to its older name in 1925."
+      "answerIndex": 0,
+      "fact": "Which of its tributaries counts as the source was disputed for centuries and is still not fully settled."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Little Women'?",
+      "prompt": "Who wrote 'The Diary of a Young Girl'?",
       "options": [
-        "Harriet Beecher Stowe",
-        "Kate Chopin",
-        "Edith Wharton",
-        "Louisa May Alcott"
+        "Elie Wiesel",
+        "Anne Frank",
+        "Viktor Frankl",
+        "Primo Levi"
       ],
-      "answerIndex": 3,
-      "fact": "She wrote it reluctantly at a publisher's request for a book for girls, and it cleared her family's debts."
+      "answerIndex": 1,
+      "fact": "Her father was the only member of the household to survive, and he prepared the first edition for publication."
     },
     {
       "category": "Technology",
-      "prompt": "Which term describes distributing incoming traffic across multiple servers?",
+      "prompt": "What is the name for a program that automatically browses the web to index pages?",
       "options": [
-        "Packet sniffing",
-        "Data mirroring",
-        "Load balancing",
-        "Port forwarding"
+        "A proxy",
+        "A firewall",
+        "A daemon",
+        "A web crawler"
       ],
-      "answerIndex": 2,
-      "fact": "It also provides redundancy, since a failed server can simply be taken out of the rotation."
+      "answerIndex": 3,
+      "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
     }
   ]
 }

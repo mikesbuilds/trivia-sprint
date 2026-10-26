@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-25",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Medici family dominated banking and politics in which city?",
+      "options": [
+        "Florence",
+        "Genoa",
+        "Venice",
+        "Milan"
+      ],
+      "answerIndex": 0,
+      "fact": "Four Medici became popes, and the family's patronage funded much of what we now call the Renaissance."
+    },
+    {
+      "category": "Science",
+      "prompt": "How long does light from the Sun take to reach Earth?",
+      "options": [
+        "About 8 seconds",
+        "About 8 hours",
+        "About 8 minutes",
+        "About 80 minutes"
+      ],
+      "answerIndex": 2,
+      "fact": "The energy in that light may have taken tens of thousands of years to escape the Sun's interior first."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In baseball, what is the term for a pitch the batter swings at and misses?",
+      "options": [
+        "A foul",
+        "A ball",
+        "A balk",
+        "A strike"
+      ],
+      "answerIndex": 3,
+      "fact": "Three of them retire the batter, though a foul ball cannot produce the third except when bunted."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Mexican painter is known for intensely personal self-portraits?",
+      "options": [
+        "Remedios Varo",
+        "Frida Kahlo",
+        "Maria Izquierdo",
+        "Leonora Carrington"
+      ],
+      "answerIndex": 1,
+      "fact": "A bus accident at eighteen left her with lifelong injuries, and she began painting during a long convalescence in bed."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river is the longest in Africa?",
+      "options": [
+        "The Nile",
+        "The Zambezi",
+        "The Congo",
+        "The Niger"
+      ],
+      "answerIndex": 0,
+      "fact": "Which of its tributaries counts as the source was disputed for centuries and is still not fully settled."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Diary of a Young Girl'?",
+      "options": [
+        "Elie Wiesel",
+        "Anne Frank",
+        "Viktor Frankl",
+        "Primo Levi"
+      ],
+      "answerIndex": 1,
+      "fact": "Her father was the only member of the household to survive, and he prepared the first edition for publication."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the name for a program that automatically browses the web to index pages?",
+      "options": [
+        "A proxy",
+        "A firewall",
+        "A daemon",
+        "A web crawler"
+      ],
+      "answerIndex": 3,
+      "fact": "Sites can request that these programs skip certain paths, though the request is a convention rather than an enforced rule."
+    }
+  ]
+}
