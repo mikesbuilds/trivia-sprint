@@ -67,19 +67,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Kenya?",
-      "options": [
-        "Nairobi",
-        "Mombasa",
-        "Kisumu",
-        "Nakuru"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It has a national park within the city limits, where lions and rhinos live against a skyline backdrop."
-    },
-    {
-      "category": "Geography",
       "prompt": "Which body of water separates Alaska from Russia?",
       "options": [
         "The Bering Strait",
@@ -116,19 +103,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Life of Pi'?",
-      "options": [
-        "Yann Martel",
-        "Michael Ondaatje",
-        "Margaret Atwood",
-        "Alice Munro"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
     },
     {
       "category": "Literature",
@@ -288,19 +262,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which metal is liquid at room temperature?",
-      "options": [
-        "Mercury",
-        "Lead",
-        "Aluminum",
-        "Zinc"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Mercury is the only metal that is liquid at room temperature, which is why it filled thermometers for centuries — until its toxicity ended the practice."
-    },
-    {
-      "category": "Science",
       "prompt": "What is the boiling point of water at sea level in Celsius?",
       "options": [
         "100 degrees",
@@ -337,19 +298,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'HTML' stand for?",
-      "options": [
-        "HyperText Markup Language",
-        "High Transfer Machine Language",
-        "Hyperlink Text Management Layer",
-        "Home Tool Markup Language"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Tim Berners-Lee's first version had about twenty tags, most of which are still valid today."
     },
     {
       "category": "Technology",
@@ -571,19 +519,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Martin Luther's Ninety-five Theses challenged practices of which institution?",
-      "options": [
-        "The Catholic Church",
-        "The Holy Roman Empire",
-        "The Hanseatic League",
-        "The Venetian Republic"
-      ],
-      "answerIndex": 0,
-      "fact": "Printing presses spread the text across Europe within weeks, far faster than church authorities could respond.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1497,19 +1432,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which anonymous street artist is associated with Bristol and stencilled rats?",
-      "options": [
-        "Banksy",
-        "Shepard Fairey",
-        "Invader",
-        "JR"
-      ],
-      "answerIndex": 0,
-      "fact": "A canvas shredded itself moments after selling at auction in 2018, and the partly destroyed work later sold for far more.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which platform is built around live streaming, particularly of video games?",
       "options": [
         "Twitch",
@@ -1844,19 +1766,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which event crowns its winner with a wreath of olive leaves at the modern Athens marathon?",
-      "options": [
-        "The marathon",
-        "The pentathlon",
-        "The discus",
-        "The javelin"
-      ],
-      "answerIndex": 0,
-      "fact": "The course follows the road from the town of Marathon, and is notably uphill through its middle section.",
       "source": "curated"
     },
     {

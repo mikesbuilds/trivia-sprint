@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Martin Luther's Ninety-five Theses challenged practices of which institution?",
+      "options": [
+        "The Venetian Republic",
+        "The Catholic Church",
+        "The Holy Roman Empire",
+        "The Hanseatic League"
+      ],
+      "answerIndex": 1,
+      "fact": "Printing presses spread the text across Europe within weeks, far faster than church authorities could respond."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Zinc",
+        "Aluminum",
+        "Lead"
+      ],
+      "answerIndex": 0,
+      "fact": "Mercury is the only metal that is liquid at room temperature, which is why it filled thermometers for centuries — until its toxicity ended the practice."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which event crowns its winner with a wreath of olive leaves at the modern Athens marathon?",
+      "options": [
+        "The discus",
+        "The marathon",
+        "The javelin",
+        "The pentathlon"
+      ],
+      "answerIndex": 1,
+      "fact": "The course follows the road from the town of Marathon, and is notably uphill through its middle section."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which anonymous street artist is associated with Bristol and stencilled rats?",
+      "options": [
+        "Shepard Fairey",
+        "Invader",
+        "JR",
+        "Banksy"
+      ],
+      "answerIndex": 3,
+      "fact": "A canvas shredded itself moments after selling at auction in 2018, and the partly destroyed work later sold for far more."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Kenya?",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Nakuru",
+        "Kisumu"
+      ],
+      "answerIndex": 0,
+      "fact": "It has a national park within the city limits, where lions and rhinos live against a skyline backdrop."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Life of Pi'?",
+      "options": [
+        "Alice Munro",
+        "Michael Ondaatje",
+        "Margaret Atwood",
+        "Yann Martel"
+      ],
+      "answerIndex": 3,
+      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTML' stand for?",
+      "options": [
+        "High Transfer Machine Language",
+        "Hyperlink Text Management Layer",
+        "HyperText Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "answerIndex": 2,
+      "fact": "Tim Berners-Lee's first version had about twenty tags, most of which are still valid today."
+    }
+  ]
+}
