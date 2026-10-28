@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Martin Luther's Ninety-five Theses challenged practices of which institution?",
+      "prompt": "The Spanish Armada sailed in 1588 against which country?",
       "options": [
-        "The Venetian Republic",
-        "The Catholic Church",
-        "The Holy Roman Empire",
-        "The Hanseatic League"
+        "Portugal",
+        "France",
+        "Denmark",
+        "England"
       ],
-      "answerIndex": 1,
-      "fact": "Printing presses spread the text across Europe within weeks, far faster than church authorities could respond."
+      "answerIndex": 3,
+      "fact": "Storms scattering the fleet on its retreat around Scotland and Ireland destroyed more ships than the fighting did."
     },
     {
       "category": "Science",
-      "prompt": "Which metal is liquid at room temperature?",
+      "prompt": "What is the boiling point of water at sea level in Celsius?",
       "options": [
-        "Mercury",
-        "Zinc",
-        "Aluminum",
-        "Lead"
+        "80 degrees",
+        "110 degrees",
+        "100 degrees",
+        "90 degrees"
       ],
-      "answerIndex": 0,
-      "fact": "Mercury is the only metal that is liquid at room temperature, which is why it filled thermometers for centuries — until its toxicity ended the practice."
+      "answerIndex": 2,
+      "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
     },
     {
       "category": "Sports",
-      "prompt": "Which event crowns its winner with a wreath of olive leaves at the modern Athens marathon?",
+      "prompt": "Alpine skiing's downhill discipline is primarily a test of what?",
       "options": [
-        "The discus",
-        "The marathon",
-        "The javelin",
-        "The pentathlon"
+        "Endurance",
+        "Speed",
+        "Artistry",
+        "Accuracy"
       ],
       "answerIndex": 1,
-      "fact": "The course follows the road from the town of Marathon, and is notably uphill through its middle section."
+      "fact": "Racers regularly exceed 130 kilometres per hour, and each competitor normally gets a single run."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which anonymous street artist is associated with Bristol and stencilled rats?",
+      "prompt": "Which platform is built around live streaming, particularly of video games?",
       "options": [
-        "Shepard Fairey",
-        "Invader",
-        "JR",
-        "Banksy"
+        "Twitch",
+        "Vimeo",
+        "Rumble",
+        "Dailymotion"
       ],
-      "answerIndex": 3,
-      "fact": "A canvas shredded itself moments after selling at auction in 2018, and the partly destroyed work later sold for far more."
+      "answerIndex": 0,
+      "fact": "It began as a general life-streaming site before the gaming section outgrew everything else and took over."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Kenya?",
+      "prompt": "Which body of water separates Alaska from Russia?",
       "options": [
-        "Nairobi",
-        "Mombasa",
-        "Nakuru",
-        "Kisumu"
+        "The Bering Strait",
+        "The Denmark Strait",
+        "The Hudson Strait",
+        "The Davis Strait"
       ],
       "answerIndex": 0,
-      "fact": "It has a national park within the city limits, where lions and rhinos live against a skyline backdrop."
+      "fact": "At its narrowest two islands sit about four kilometres apart, with the international date line running between them."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Life of Pi'?",
+      "prompt": "Who wrote 'Pride and Prejudice'?",
       "options": [
-        "Alice Munro",
-        "Michael Ondaatje",
-        "Margaret Atwood",
-        "Yann Martel"
+        "Charlotte Bronte",
+        "Jane Austen",
+        "Emily Bronte",
+        "George Eliot"
       ],
-      "answerIndex": 3,
-      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
+      "answerIndex": 1,
+      "fact": "Her novels were published anonymously in her lifetime, credited only to a lady."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'HTML' stand for?",
+      "prompt": "What does 'API' stand for?",
       "options": [
-        "High Transfer Machine Language",
-        "Hyperlink Text Management Layer",
-        "HyperText Markup Language",
-        "Home Tool Markup Language"
+        "Active Program Instance",
+        "Automated Process Integration",
+        "Applied Protocol Index",
+        "Application Programming Interface"
       ],
-      "answerIndex": 2,
-      "fact": "Tim Berners-Lee's first version had about twenty tags, most of which are still valid today."
+      "answerIndex": 3,
+      "fact": "A well-designed one is a contract: it lets the code behind it change completely without breaking anything built on top."
     }
   ]
 }

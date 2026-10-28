@@ -67,19 +67,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which body of water separates Alaska from Russia?",
-      "options": [
-        "The Bering Strait",
-        "The Hudson Strait",
-        "The Davis Strait",
-        "The Denmark Strait"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "At its narrowest two islands sit about four kilometres apart, with the international date line running between them."
-    },
-    {
-      "category": "Geography",
       "prompt": "What is the capital of Argentina?",
       "options": [
         "Buenos Aires",
@@ -103,19 +90,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote 'Pride and Prejudice'?",
-      "options": [
-        "Jane Austen",
-        "Charlotte Bronte",
-        "Emily Bronte",
-        "George Eliot"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Her novels were published anonymously in her lifetime, credited only to a lady."
     },
     {
       "category": "Literature",
@@ -261,19 +235,6 @@
       "fact": "The author called her heroine as delightful a creature as ever appeared in print."
     },
     {
-      "category": "Science",
-      "prompt": "What is the boiling point of water at sea level in Celsius?",
-      "options": [
-        "100 degrees",
-        "90 degrees",
-        "110 degrees",
-        "80 degrees"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
-    },
-    {
       "category": "Sports",
       "prompt": "In baseball, how many strikes make an out?",
       "options": [
@@ -298,19 +259,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'API' stand for?",
-      "options": [
-        "Application Programming Interface",
-        "Automated Process Integration",
-        "Applied Protocol Index",
-        "Active Program Instance"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "A well-designed one is a contract: it lets the code behind it change completely without breaking anything built on top."
     },
     {
       "category": "Technology",
@@ -519,19 +467,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Spanish Armada sailed in 1588 against which country?",
-      "options": [
-        "England",
-        "France",
-        "Portugal",
-        "Denmark"
-      ],
-      "answerIndex": 0,
-      "fact": "Storms scattering the fleet on its retreat around Scotland and Ireland destroyed more ships than the fighting did.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -1432,19 +1367,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which platform is built around live streaming, particularly of video games?",
-      "options": [
-        "Twitch",
-        "Vimeo",
-        "Dailymotion",
-        "Rumble"
-      ],
-      "answerIndex": 0,
-      "fact": "It began as a general life-streaming site before the gaming section outgrew everything else and took over.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which photo-sharing app was bought by Facebook in 2012?",
       "options": [
         "Instagram",
@@ -1766,19 +1688,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Alpine skiing's downhill discipline is primarily a test of what?",
-      "options": [
-        "Speed",
-        "Artistry",
-        "Endurance",
-        "Accuracy"
-      ],
-      "answerIndex": 0,
-      "fact": "Racers regularly exceed 130 kilometres per hour, and each competitor normally gets a single run.",
       "source": "curated"
     },
     {
