@@ -66,19 +66,6 @@
       "fact": "It is strong enough to damage the stomach itself, which is why the lining is replaced every few days."
     },
     {
-      "category": "Geography",
-      "prompt": "What is the capital of Argentina?",
-      "options": [
-        "Buenos Aires",
-        "Cordoba",
-        "Rosario",
-        "Mendoza"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its residents are called porteños, meaning people of the port."
-    },
-    {
       "category": "History",
       "prompt": "Who was the first woman to win a Nobel Prize?",
       "options": [
@@ -90,19 +77,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "She remains the only person to win in two different sciences, and her notebooks are still too radioactive to handle safely."
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
-      "options": [
-        "Moby-Dick",
-        "The Old Man and the Sea",
-        "Treasure Island",
-        "Billy Budd"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It sold poorly in the author's lifetime and was only reappraised as a masterpiece some seventy years later."
     },
     {
       "category": "Literature",
@@ -259,19 +233,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'SSD' stand for?",
-      "options": [
-        "Solid State Drive",
-        "Secure Storage Device",
-        "System Software Disk",
-        "Serial Signal Driver"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
     },
     {
       "category": "Technology",
@@ -467,19 +428,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which explorer's crew first completed a circumnavigation of the globe?",
-      "options": [
-        "Magellan's",
-        "Columbus's",
-        "Cook's",
-        "Drake's"
-      ],
-      "answerIndex": 0,
-      "fact": "He died in the Philippines partway through; a fraction of the original crew completed the voyage without him.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -739,19 +687,6 @@
       ],
       "answerIndex": 0,
       "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
-      "prompt": "Which organelle is described as the powerhouse of the cell?",
-      "options": [
-        "The mitochondrion",
-        "The ribosome",
-        "The lysosome",
-        "The Golgi apparatus"
-      ],
-      "answerIndex": 0,
-      "fact": "It carries its own small circular genome, evidence that it descends from a bacterium absorbed by an ancestral cell.",
       "source": "curated"
     },
     {
@@ -1367,19 +1302,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which photo-sharing app was bought by Facebook in 2012?",
-      "options": [
-        "Instagram",
-        "Snapchat",
-        "Flickr",
-        "Pinterest"
-      ],
-      "answerIndex": 0,
-      "fact": "It had thirteen employees at the time of the acquisition and no revenue.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which survival game features blocky terrain the player can mine and build with?",
       "options": [
         "Minecraft",
@@ -1688,19 +1610,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The America's Cup is the oldest international trophy in which sport?",
-      "options": [
-        "Sailing",
-        "Rowing",
-        "Swimming",
-        "Fishing"
-      ],
-      "answerIndex": 0,
-      "fact": "First contested in 1851, it predates the modern Olympics by more than four decades.",
       "source": "curated"
     },
     {

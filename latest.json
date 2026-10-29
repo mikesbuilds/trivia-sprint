@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Spanish Armada sailed in 1588 against which country?",
+      "prompt": "Which explorer's crew first completed a circumnavigation of the globe?",
       "options": [
-        "Portugal",
-        "France",
-        "Denmark",
-        "England"
+        "Magellan's",
+        "Cook's",
+        "Columbus's",
+        "Drake's"
       ],
-      "answerIndex": 3,
-      "fact": "Storms scattering the fleet on its retreat around Scotland and Ireland destroyed more ships than the fighting did."
+      "answerIndex": 0,
+      "fact": "He died in the Philippines partway through; a fraction of the original crew completed the voyage without him."
     },
     {
       "category": "Science",
-      "prompt": "What is the boiling point of water at sea level in Celsius?",
+      "prompt": "Which organelle is described as the powerhouse of the cell?",
       "options": [
-        "80 degrees",
-        "110 degrees",
-        "100 degrees",
-        "90 degrees"
+        "The Golgi apparatus",
+        "The lysosome",
+        "The mitochondrion",
+        "The ribosome"
       ],
       "answerIndex": 2,
-      "fact": "It falls with altitude, which is why cooking instructions differ in mountain regions."
+      "fact": "It carries its own small circular genome, evidence that it descends from a bacterium absorbed by an ancestral cell."
     },
     {
       "category": "Sports",
-      "prompt": "Alpine skiing's downhill discipline is primarily a test of what?",
+      "prompt": "The America's Cup is the oldest international trophy in which sport?",
       "options": [
-        "Endurance",
-        "Speed",
-        "Artistry",
-        "Accuracy"
+        "Swimming",
+        "Fishing",
+        "Sailing",
+        "Rowing"
       ],
-      "answerIndex": 1,
-      "fact": "Racers regularly exceed 130 kilometres per hour, and each competitor normally gets a single run."
+      "answerIndex": 2,
+      "fact": "First contested in 1851, it predates the modern Olympics by more than four decades."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which platform is built around live streaming, particularly of video games?",
+      "prompt": "Which photo-sharing app was bought by Facebook in 2012?",
       "options": [
-        "Twitch",
-        "Vimeo",
-        "Rumble",
-        "Dailymotion"
+        "Instagram",
+        "Flickr",
+        "Snapchat",
+        "Pinterest"
       ],
       "answerIndex": 0,
-      "fact": "It began as a general life-streaming site before the gaming section outgrew everything else and took over."
+      "fact": "It had thirteen employees at the time of the acquisition and no revenue."
     },
     {
       "category": "Geography",
-      "prompt": "Which body of water separates Alaska from Russia?",
+      "prompt": "What is the capital of Argentina?",
       "options": [
-        "The Bering Strait",
-        "The Denmark Strait",
-        "The Hudson Strait",
-        "The Davis Strait"
+        "Cordoba",
+        "Buenos Aires",
+        "Mendoza",
+        "Rosario"
       ],
-      "answerIndex": 0,
-      "fact": "At its narrowest two islands sit about four kilometres apart, with the international date line running between them."
+      "answerIndex": 1,
+      "fact": "Its residents are called porteños, meaning people of the port."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Pride and Prejudice'?",
+      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
       "options": [
-        "Charlotte Bronte",
-        "Jane Austen",
-        "Emily Bronte",
-        "George Eliot"
+        "Treasure Island",
+        "Moby-Dick",
+        "Billy Budd",
+        "The Old Man and the Sea"
       ],
       "answerIndex": 1,
-      "fact": "Her novels were published anonymously in her lifetime, credited only to a lady."
+      "fact": "It sold poorly in the author's lifetime and was only reappraised as a masterpiece some seventy years later."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'API' stand for?",
+      "prompt": "What does 'SSD' stand for?",
       "options": [
-        "Active Program Instance",
-        "Automated Process Integration",
-        "Applied Protocol Index",
-        "Application Programming Interface"
+        "Secure Storage Device",
+        "System Software Disk",
+        "Serial Signal Driver",
+        "Solid State Drive"
       ],
       "answerIndex": 3,
-      "fact": "A well-designed one is a contract: it lets the code behind it change completely without breaking anything built on top."
+      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
     }
   ]
 }

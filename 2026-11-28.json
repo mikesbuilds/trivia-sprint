@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which explorer's crew first completed a circumnavigation of the globe?",
+      "options": [
+        "Magellan's",
+        "Cook's",
+        "Columbus's",
+        "Drake's"
+      ],
+      "answerIndex": 0,
+      "fact": "He died in the Philippines partway through; a fraction of the original crew completed the voyage without him."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which organelle is described as the powerhouse of the cell?",
+      "options": [
+        "The Golgi apparatus",
+        "The lysosome",
+        "The mitochondrion",
+        "The ribosome"
+      ],
+      "answerIndex": 2,
+      "fact": "It carries its own small circular genome, evidence that it descends from a bacterium absorbed by an ancestral cell."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The America's Cup is the oldest international trophy in which sport?",
+      "options": [
+        "Swimming",
+        "Fishing",
+        "Sailing",
+        "Rowing"
+      ],
+      "answerIndex": 2,
+      "fact": "First contested in 1851, it predates the modern Olympics by more than four decades."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which photo-sharing app was bought by Facebook in 2012?",
+      "options": [
+        "Instagram",
+        "Flickr",
+        "Snapchat",
+        "Pinterest"
+      ],
+      "answerIndex": 0,
+      "fact": "It had thirteen employees at the time of the acquisition and no revenue."
+    },
+    {
+      "category": "Geography",
+      "prompt": "What is the capital of Argentina?",
+      "options": [
+        "Cordoba",
+        "Buenos Aires",
+        "Mendoza",
+        "Rosario"
+      ],
+      "answerIndex": 1,
+      "fact": "Its residents are called porteños, meaning people of the port."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
+      "options": [
+        "Treasure Island",
+        "Moby-Dick",
+        "Billy Budd",
+        "The Old Man and the Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "It sold poorly in the author's lifetime and was only reappraised as a masterpiece some seventy years later."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SSD' stand for?",
+      "options": [
+        "Secure Storage Device",
+        "System Software Disk",
+        "Serial Signal Driver",
+        "Solid State Drive"
+      ],
+      "answerIndex": 3,
+      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
+    }
+  ]
+}
