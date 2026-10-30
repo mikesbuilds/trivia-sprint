@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-29",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The storming of the Bastille in 1789 marked the start of which upheaval?",
+      "options": [
+        "The July Revolution",
+        "The Paris Commune",
+        "The Fronde",
+        "The French Revolution"
+      ],
+      "answerIndex": 3,
+      "fact": "The fortress held only seven prisoners that day; its value to the crowd was the gunpowder stored inside."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gene-editing tool is derived from a bacterial immune mechanism?",
+      "options": [
+        "Sanger sequencing",
+        "CRISPR",
+        "ELISA",
+        "PCR"
+      ],
+      "answerIndex": 1,
+      "fact": "Bacteria store fragments of viral DNA and use them to recognise and cut that virus if it returns."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In rugby league, how does play restart after a tackle?",
+      "options": [
+        "A ruck",
+        "A scrum",
+        "A play-the-ball",
+        "A lineout"
+      ],
+      "answerIndex": 2,
+      "fact": "A side keeps possession for six tackles before handing the ball over, which shapes the whole structure of the game."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which survival game features blocky terrain the player can mine and build with?",
+      "options": [
+        "Minecraft",
+        "Terraria",
+        "Valheim",
+        "Roblox"
+      ],
+      "answerIndex": 0,
+      "fact": "It became the best-selling video game ever made, and began as the solo side project of a Swedish developer."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which lake is the deepest in the world?",
+      "options": [
+        "Lake Baikal",
+        "Lake Tanganyika",
+        "Lake Superior",
+        "The Caspian Sea"
+      ],
+      "answerIndex": 0,
+      "fact": "It holds roughly a fifth of the planet's unfrozen fresh surface water, more than all the Great Lakes combined."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "options": [
+        "King Lear",
+        "Hamlet",
+        "Othello",
+        "Macbeth"
+      ],
+      "answerIndex": 1,
+      "fact": "Tom Stoppard later built an entire play around the two minor courtiers waiting offstage."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'SaaS' stand for?",
+      "options": [
+        "Server Allocation and Scaling",
+        "System Access and Support",
+        "Software as a Service",
+        "Storage and Security"
+      ],
+      "answerIndex": 2,
+      "fact": "The model shifted software from a one-off purchase to a subscription, which changed how the whole industry is valued."
+    }
+  ]
+}

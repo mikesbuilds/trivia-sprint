@@ -80,19 +80,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
-      "options": [
-        "Hamlet",
-        "Macbeth",
-        "Othello",
-        "King Lear"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Tom Stoppard later built an entire play around the two minor courtiers waiting offstage."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'One Hundred Years of Solitude'?",
       "options": [
         "Gabriel Garcia Marquez",
@@ -233,19 +220,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'SaaS' stand for?",
-      "options": [
-        "Software as a Service",
-        "Storage and Security",
-        "System Access and Support",
-        "Server Allocation and Scaling"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The model shifted software from a one-off purchase to a subscription, which changed how the whole industry is valued."
     },
     {
       "category": "Technology",
@@ -428,19 +402,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The storming of the Bastille in 1789 marked the start of which upheaval?",
-      "options": [
-        "The French Revolution",
-        "The July Revolution",
-        "The Paris Commune",
-        "The Fronde"
-      ],
-      "answerIndex": 0,
-      "fact": "The fortress held only seven prisoners that day; its value to the crowd was the gunpowder stored inside.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -691,19 +652,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which gene-editing tool is derived from a bacterial immune mechanism?",
-      "options": [
-        "CRISPR",
-        "PCR",
-        "ELISA",
-        "Sanger sequencing"
-      ],
-      "answerIndex": 0,
-      "fact": "Bacteria store fragments of viral DNA and use them to recognise and cut that virus if it returns.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which scientist established the laws of inheritance by breeding pea plants?",
       "options": [
         "Gregor Mendel",
@@ -895,19 +843,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which lake is the deepest in the world?",
-      "options": [
-        "Lake Baikal",
-        "Lake Tanganyika",
-        "The Caspian Sea",
-        "Lake Superior"
-      ],
-      "answerIndex": 0,
-      "fact": "It holds roughly a fifth of the planet's unfrozen fresh surface water, more than all the Great Lakes combined.",
       "source": "curated"
     },
     {
@@ -1302,19 +1237,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which survival game features blocky terrain the player can mine and build with?",
-      "options": [
-        "Minecraft",
-        "Terraria",
-        "Roblox",
-        "Valheim"
-      ],
-      "answerIndex": 0,
-      "fact": "It became the best-selling video game ever made, and began as the solo side project of a Swedish developer.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which multiplayer game popularised the battle royale format alongside a dance-emote economy?",
       "options": [
         "Fortnite",
@@ -1610,19 +1532,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In rugby league, how does play restart after a tackle?",
-      "options": [
-        "A play-the-ball",
-        "A scrum",
-        "A lineout",
-        "A ruck"
-      ],
-      "answerIndex": 0,
-      "fact": "A side keeps possession for six tackles before handing the ball over, which shapes the whole structure of the game.",
       "source": "curated"
     },
     {

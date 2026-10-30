@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-28",
+  "date": "2026-11-29",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which explorer's crew first completed a circumnavigation of the globe?",
+      "prompt": "The storming of the Bastille in 1789 marked the start of which upheaval?",
       "options": [
-        "Magellan's",
-        "Cook's",
-        "Columbus's",
-        "Drake's"
+        "The July Revolution",
+        "The Paris Commune",
+        "The Fronde",
+        "The French Revolution"
       ],
-      "answerIndex": 0,
-      "fact": "He died in the Philippines partway through; a fraction of the original crew completed the voyage without him."
+      "answerIndex": 3,
+      "fact": "The fortress held only seven prisoners that day; its value to the crowd was the gunpowder stored inside."
     },
     {
       "category": "Science",
-      "prompt": "Which organelle is described as the powerhouse of the cell?",
+      "prompt": "Which gene-editing tool is derived from a bacterial immune mechanism?",
       "options": [
-        "The Golgi apparatus",
-        "The lysosome",
-        "The mitochondrion",
-        "The ribosome"
+        "Sanger sequencing",
+        "CRISPR",
+        "ELISA",
+        "PCR"
       ],
-      "answerIndex": 2,
-      "fact": "It carries its own small circular genome, evidence that it descends from a bacterium absorbed by an ancestral cell."
+      "answerIndex": 1,
+      "fact": "Bacteria store fragments of viral DNA and use them to recognise and cut that virus if it returns."
     },
     {
       "category": "Sports",
-      "prompt": "The America's Cup is the oldest international trophy in which sport?",
+      "prompt": "In rugby league, how does play restart after a tackle?",
       "options": [
-        "Swimming",
-        "Fishing",
-        "Sailing",
-        "Rowing"
+        "A ruck",
+        "A scrum",
+        "A play-the-ball",
+        "A lineout"
       ],
       "answerIndex": 2,
-      "fact": "First contested in 1851, it predates the modern Olympics by more than four decades."
+      "fact": "A side keeps possession for six tackles before handing the ball over, which shapes the whole structure of the game."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which photo-sharing app was bought by Facebook in 2012?",
+      "prompt": "Which survival game features blocky terrain the player can mine and build with?",
       "options": [
-        "Instagram",
-        "Flickr",
-        "Snapchat",
-        "Pinterest"
+        "Minecraft",
+        "Terraria",
+        "Valheim",
+        "Roblox"
       ],
       "answerIndex": 0,
-      "fact": "It had thirteen employees at the time of the acquisition and no revenue."
+      "fact": "It became the best-selling video game ever made, and began as the solo side project of a Swedish developer."
     },
     {
       "category": "Geography",
-      "prompt": "What is the capital of Argentina?",
+      "prompt": "Which lake is the deepest in the world?",
       "options": [
-        "Cordoba",
-        "Buenos Aires",
-        "Mendoza",
-        "Rosario"
+        "Lake Baikal",
+        "Lake Tanganyika",
+        "Lake Superior",
+        "The Caspian Sea"
       ],
-      "answerIndex": 1,
-      "fact": "Its residents are called porteños, meaning people of the port."
+      "answerIndex": 0,
+      "fact": "It holds roughly a fifth of the planet's unfrozen fresh surface water, more than all the Great Lakes combined."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel opens with the line 'Call me Ishmael'?",
+      "prompt": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
       "options": [
-        "Treasure Island",
-        "Moby-Dick",
-        "Billy Budd",
-        "The Old Man and the Sea"
+        "King Lear",
+        "Hamlet",
+        "Othello",
+        "Macbeth"
       ],
       "answerIndex": 1,
-      "fact": "It sold poorly in the author's lifetime and was only reappraised as a masterpiece some seventy years later."
+      "fact": "Tom Stoppard later built an entire play around the two minor courtiers waiting offstage."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'SSD' stand for?",
+      "prompt": "What does 'SaaS' stand for?",
       "options": [
-        "Secure Storage Device",
-        "System Software Disk",
-        "Serial Signal Driver",
-        "Solid State Drive"
+        "Server Allocation and Scaling",
+        "System Access and Support",
+        "Software as a Service",
+        "Storage and Security"
       ],
-      "answerIndex": 3,
-      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
+      "answerIndex": 2,
+      "fact": "The model shifted software from a one-off purchase to a subscription, which changed how the whole industry is valued."
     }
   ]
 }
