@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-30",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which document did Thomas Jefferson principally draft in 1776?",
+      "options": [
+        "The Articles of Confederation",
+        "The Federalist Papers",
+        "The Bill of Rights",
+        "The Declaration of Independence"
+      ],
+      "answerIndex": 3,
+      "fact": "Congress cut roughly a quarter of his text, including a passage condemning the slave trade."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which scientist established the laws of inheritance by breeding pea plants?",
+      "options": [
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Robert Hooke",
+        "Gregor Mendel"
+      ],
+      "answerIndex": 3,
+      "fact": "His results were ignored for about thirty-five years before being independently rediscovered around 1900."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport awards a Maillot Jaune to its race leader?",
+      "options": [
+        "Speed skating",
+        "Marathon running",
+        "Road cycling",
+        "Cross-country skiing"
+      ],
+      "answerIndex": 2,
+      "fact": "The colour is often attributed to the yellow newsprint of the newspaper that founded the race."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which multiplayer game popularised the battle royale format alongside a dance-emote economy?",
+      "options": [
+        "Warzone",
+        "Fortnite",
+        "PUBG",
+        "Apex Legends"
+      ],
+      "answerIndex": 1,
+      "fact": "Its battle royale mode was added late in development to a game originally built around cooperative base defence."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country has the most time zones including its overseas territories?",
+      "options": [
+        "The United States",
+        "France",
+        "Australia",
+        "Russia"
+      ],
+      "answerIndex": 1,
+      "fact": "Its scattered overseas departments and territories span the globe, giving it more zones than any contiguous landmass could."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "Gabriel Garcia Marquez",
+        "Isabel Allende",
+        "Jorge Luis Borges",
+        "Mario Vargas Llosa"
+      ],
+      "answerIndex": 0,
+      "fact": "He reportedly sold his car to fund the writing and could only afford to post half the manuscript to the publisher."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the Photoshop image editor?",
+      "options": [
+        "Adobe",
+        "Corel",
+        "Autodesk",
+        "Serif"
+      ],
+      "answerIndex": 0,
+      "fact": "Photoshop was written by two brothers, one of whom worked at Industrial Light & Magic. Adobe licensed it in 1988."
+    }
+  ]
+}

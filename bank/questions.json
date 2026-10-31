@@ -80,19 +80,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
-      "options": [
-        "Gabriel Garcia Marquez",
-        "Jorge Luis Borges",
-        "Isabel Allende",
-        "Mario Vargas Llosa"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He reportedly sold his car to fund the writing and could only afford to post half the manuscript to the publisher."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'Things Fall Apart'?",
       "options": [
         "Chinua Achebe",
@@ -220,19 +207,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company created the Photoshop image editor?",
-      "options": [
-        "Adobe",
-        "Corel",
-        "Autodesk",
-        "Serif"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Photoshop was written by two brothers, one of whom worked at Industrial Light & Magic. Adobe licensed it in 1988."
     },
     {
       "category": "Technology",
@@ -402,19 +376,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which document did Thomas Jefferson principally draft in 1776?",
-      "options": [
-        "The Declaration of Independence",
-        "The Bill of Rights",
-        "The Articles of Confederation",
-        "The Federalist Papers"
-      ],
-      "answerIndex": 0,
-      "fact": "Congress cut roughly a quarter of his text, including a passage condemning the slave trade.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -652,19 +613,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which scientist established the laws of inheritance by breeding pea plants?",
-      "options": [
-        "Gregor Mendel",
-        "Charles Darwin",
-        "Louis Pasteur",
-        "Robert Hooke"
-      ],
-      "answerIndex": 0,
-      "fact": "His results were ignored for about thirty-five years before being independently rediscovered around 1900.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which group of elements is characterised by being almost entirely unreactive?",
       "options": [
         "The noble gases",
@@ -843,19 +791,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country has the most time zones including its overseas territories?",
-      "options": [
-        "France",
-        "Russia",
-        "The United States",
-        "Australia"
-      ],
-      "answerIndex": 0,
-      "fact": "Its scattered overseas departments and territories span the globe, giving it more zones than any contiguous landmass could.",
       "source": "curated"
     },
     {
@@ -1237,19 +1172,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which multiplayer game popularised the battle royale format alongside a dance-emote economy?",
-      "options": [
-        "Fortnite",
-        "Apex Legends",
-        "PUBG",
-        "Warzone"
-      ],
-      "answerIndex": 0,
-      "fact": "Its battle royale mode was added late in development to a game originally built around cooperative base defence.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which FromSoftware game won game of the year awards in 2022?",
       "options": [
         "Elden Ring",
@@ -1532,19 +1454,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sport awards a Maillot Jaune to its race leader?",
-      "options": [
-        "Road cycling",
-        "Marathon running",
-        "Cross-country skiing",
-        "Speed skating"
-      ],
-      "answerIndex": 0,
-      "fact": "The colour is often attributed to the yellow newsprint of the newspaper that founded the race.",
       "source": "curated"
     },
     {
