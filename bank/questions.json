@@ -80,19 +80,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Things Fall Apart'?",
-      "options": [
-        "Chinua Achebe",
-        "Wole Soyinka",
-        "Ngugi wa Thiong'o",
-        "Ben Okri"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its title comes from a Yeats poem, and it has been translated into more than fifty languages."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which poet wrote 'The Road Not Taken'?",
       "options": [
         "Robert Frost",
@@ -207,19 +194,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'HTTP' stand for?",
-      "options": [
-        "HyperText Transfer Protocol",
-        "High Transfer Text Protocol",
-        "Hyperlink Transport Process",
-        "Host Transfer Text Protocol"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The first version was a single-page specification with just one command."
     },
     {
       "category": "Technology",
@@ -376,19 +350,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Toussaint Louverture led a revolution on which Caribbean island?",
-      "options": [
-        "Hispaniola",
-        "Cuba",
-        "Jamaica",
-        "Puerto Rico"
-      ],
-      "answerIndex": 0,
-      "fact": "The uprising produced the first state founded by formerly enslaved people to win and hold its independence.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -613,19 +574,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which group of elements is characterised by being almost entirely unreactive?",
-      "options": [
-        "The noble gases",
-        "The halogens",
-        "The alkali metals",
-        "The lanthanides"
-      ],
-      "answerIndex": 0,
-      "fact": "Their outer electron shells are full, so they have little tendency to gain, lose or share electrons.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What phenomenon causes the pitch of a passing siren to drop?",
       "options": [
         "The Doppler effect",
@@ -791,19 +739,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which sea is bordered by Jordan and Israel and sits at the lowest land elevation?",
-      "options": [
-        "The Dead Sea",
-        "The Red Sea",
-        "The Caspian Sea",
-        "The Aral Sea"
-      ],
-      "answerIndex": 0,
-      "fact": "Its surface sits over four hundred metres below sea level and continues to drop as inflow is diverted.",
       "source": "curated"
     },
     {
@@ -1172,19 +1107,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which FromSoftware game won game of the year awards in 2022?",
-      "options": [
-        "Elden Ring",
-        "Sekiro",
-        "Bloodborne",
-        "Armored Core VI"
-      ],
-      "answerIndex": 0,
-      "fact": "Its world and backstory were developed with the novelist George R. R. Martin.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which arcade character is chased through a maze by four coloured ghosts?",
       "options": [
         "Pac-Man",
@@ -1454,19 +1376,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Table tennis games are normally played to how many points, win by two?",
-      "options": [
-        "Eleven",
-        "Fifteen",
-        "Twenty-one",
-        "Nine"
-      ],
-      "answerIndex": 0,
-      "fact": "The switch down from twenty-one came in 2001, designed to make matches more suspenseful for spectators.",
       "source": "curated"
     },
     {

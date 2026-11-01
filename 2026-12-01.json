@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-01",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Toussaint Louverture led a revolution on which Caribbean island?",
+      "options": [
+        "Jamaica",
+        "Puerto Rico",
+        "Hispaniola",
+        "Cuba"
+      ],
+      "answerIndex": 2,
+      "fact": "The uprising produced the first state founded by formerly enslaved people to win and hold its independence."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which group of elements is characterised by being almost entirely unreactive?",
+      "options": [
+        "The lanthanides",
+        "The alkali metals",
+        "The noble gases",
+        "The halogens"
+      ],
+      "answerIndex": 2,
+      "fact": "Their outer electron shells are full, so they have little tendency to gain, lose or share electrons."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Table tennis games are normally played to how many points, win by two?",
+      "options": [
+        "Nine",
+        "Fifteen",
+        "Twenty-one",
+        "Eleven"
+      ],
+      "answerIndex": 3,
+      "fact": "The switch down from twenty-one came in 2001, designed to make matches more suspenseful for spectators."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which FromSoftware game won game of the year awards in 2022?",
+      "options": [
+        "Bloodborne",
+        "Elden Ring",
+        "Armored Core VI",
+        "Sekiro"
+      ],
+      "answerIndex": 1,
+      "fact": "Its world and backstory were developed with the novelist George R. R. Martin."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which sea is bordered by Jordan and Israel and sits at the lowest land elevation?",
+      "options": [
+        "The Aral Sea",
+        "The Dead Sea",
+        "The Caspian Sea",
+        "The Red Sea"
+      ],
+      "answerIndex": 1,
+      "fact": "Its surface sits over four hundred metres below sea level and continues to drop as inflow is diverted."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Things Fall Apart'?",
+      "options": [
+        "Wole Soyinka",
+        "Ngugi wa Thiong'o",
+        "Ben Okri",
+        "Chinua Achebe"
+      ],
+      "answerIndex": 3,
+      "fact": "Its title comes from a Yeats poem, and it has been translated into more than fifty languages."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'HTTP' stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "Hyperlink Transport Process",
+        "Host Transfer Text Protocol",
+        "High Transfer Text Protocol"
+      ],
+      "answerIndex": 0,
+      "fact": "The first version was a single-page specification with just one command."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-30",
+  "date": "2026-12-01",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which document did Thomas Jefferson principally draft in 1776?",
+      "prompt": "Toussaint Louverture led a revolution on which Caribbean island?",
       "options": [
-        "The Articles of Confederation",
-        "The Federalist Papers",
-        "The Bill of Rights",
-        "The Declaration of Independence"
+        "Jamaica",
+        "Puerto Rico",
+        "Hispaniola",
+        "Cuba"
       ],
-      "answerIndex": 3,
-      "fact": "Congress cut roughly a quarter of his text, including a passage condemning the slave trade."
+      "answerIndex": 2,
+      "fact": "The uprising produced the first state founded by formerly enslaved people to win and hold its independence."
     },
     {
       "category": "Science",
-      "prompt": "Which scientist established the laws of inheritance by breeding pea plants?",
+      "prompt": "Which group of elements is characterised by being almost entirely unreactive?",
       "options": [
-        "Charles Darwin",
-        "Louis Pasteur",
-        "Robert Hooke",
-        "Gregor Mendel"
+        "The lanthanides",
+        "The alkali metals",
+        "The noble gases",
+        "The halogens"
       ],
-      "answerIndex": 3,
-      "fact": "His results were ignored for about thirty-five years before being independently rediscovered around 1900."
+      "answerIndex": 2,
+      "fact": "Their outer electron shells are full, so they have little tendency to gain, lose or share electrons."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport awards a Maillot Jaune to its race leader?",
+      "prompt": "Table tennis games are normally played to how many points, win by two?",
       "options": [
-        "Speed skating",
-        "Marathon running",
-        "Road cycling",
-        "Cross-country skiing"
+        "Nine",
+        "Fifteen",
+        "Twenty-one",
+        "Eleven"
       ],
-      "answerIndex": 2,
-      "fact": "The colour is often attributed to the yellow newsprint of the newspaper that founded the race."
+      "answerIndex": 3,
+      "fact": "The switch down from twenty-one came in 2001, designed to make matches more suspenseful for spectators."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which multiplayer game popularised the battle royale format alongside a dance-emote economy?",
+      "prompt": "Which FromSoftware game won game of the year awards in 2022?",
       "options": [
-        "Warzone",
-        "Fortnite",
-        "PUBG",
-        "Apex Legends"
+        "Bloodborne",
+        "Elden Ring",
+        "Armored Core VI",
+        "Sekiro"
       ],
       "answerIndex": 1,
-      "fact": "Its battle royale mode was added late in development to a game originally built around cooperative base defence."
+      "fact": "Its world and backstory were developed with the novelist George R. R. Martin."
     },
     {
       "category": "Geography",
-      "prompt": "Which country has the most time zones including its overseas territories?",
+      "prompt": "Which sea is bordered by Jordan and Israel and sits at the lowest land elevation?",
       "options": [
-        "The United States",
-        "France",
-        "Australia",
-        "Russia"
+        "The Aral Sea",
+        "The Dead Sea",
+        "The Caspian Sea",
+        "The Red Sea"
       ],
       "answerIndex": 1,
-      "fact": "Its scattered overseas departments and territories span the globe, giving it more zones than any contiguous landmass could."
+      "fact": "Its surface sits over four hundred metres below sea level and continues to drop as inflow is diverted."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'One Hundred Years of Solitude'?",
+      "prompt": "Who wrote 'Things Fall Apart'?",
       "options": [
-        "Gabriel Garcia Marquez",
-        "Isabel Allende",
-        "Jorge Luis Borges",
-        "Mario Vargas Llosa"
+        "Wole Soyinka",
+        "Ngugi wa Thiong'o",
+        "Ben Okri",
+        "Chinua Achebe"
       ],
-      "answerIndex": 0,
-      "fact": "He reportedly sold his car to fund the writing and could only afford to post half the manuscript to the publisher."
+      "answerIndex": 3,
+      "fact": "Its title comes from a Yeats poem, and it has been translated into more than fifty languages."
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the Photoshop image editor?",
+      "prompt": "What does 'HTTP' stand for?",
       "options": [
-        "Adobe",
-        "Corel",
-        "Autodesk",
-        "Serif"
+        "HyperText Transfer Protocol",
+        "Hyperlink Transport Process",
+        "Host Transfer Text Protocol",
+        "High Transfer Text Protocol"
       ],
       "answerIndex": 0,
-      "fact": "Photoshop was written by two brothers, one of whom worked at Industrial Light & Magic. Adobe licensed it in 1988."
+      "fact": "The first version was a single-page specification with just one command."
     }
   ]
 }
