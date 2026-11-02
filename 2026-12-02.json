@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-02",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1215 agreement limited the power of an English king?",
+      "options": [
+        "Magna Carta",
+        "The Petition of Right",
+        "The Act of Union",
+        "The Bill of Rights"
+      ],
+      "answerIndex": 0,
+      "fact": "It was annulled by the pope within ten weeks, yet later reissues embedded it in English law."
+    },
+    {
+      "category": "Science",
+      "prompt": "What phenomenon causes the pitch of a passing siren to drop?",
+      "options": [
+        "Diffraction",
+        "Refraction",
+        "Resonance",
+        "The Doppler effect"
+      ],
+      "answerIndex": 3,
+      "fact": "The same principle applied to light lets astronomers measure how fast distant galaxies are receding."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Haka is performed before matches by teams from which country?",
+      "options": [
+        "New Zealand",
+        "Tonga",
+        "Samoa",
+        "Fiji"
+      ],
+      "answerIndex": 0,
+      "fact": "Ka Mate is the best known version, though the national side has used an alternative called Kapa o Pango since 2005."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which arcade character is chased through a maze by four coloured ghosts?",
+      "options": [
+        "Q*bert",
+        "Pac-Man",
+        "Dig Dug",
+        "Bomberman"
+      ],
+      "answerIndex": 1,
+      "fact": "Each ghost has distinct chase behaviour, which is why the game feels less random than it first appears."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is entirely surrounded by South Africa?",
+      "options": [
+        "Botswana",
+        "Eswatini",
+        "Lesotho",
+        "Namibia"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the only independent state lying wholly above a thousand metres in elevation."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which poet wrote 'The Road Not Taken'?",
+      "options": [
+        "Walt Whitman",
+        "Robert Frost",
+        "Carl Sandburg",
+        "Emily Dickinson"
+      ],
+      "answerIndex": 1,
+      "fact": "It is widely read as a call to individualism, though the poem itself says the two paths were worn about the same."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Android operating system?",
+      "options": [
+        "Apple",
+        "Samsung",
+        "Google",
+        "Microsoft"
+      ],
+      "answerIndex": 2,
+      "fact": "It was an independent startup building camera software before being acquired in 2005."
+    }
+  ]
+}

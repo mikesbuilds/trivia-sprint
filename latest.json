@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-01",
+  "date": "2026-12-02",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Toussaint Louverture led a revolution on which Caribbean island?",
+      "prompt": "Which 1215 agreement limited the power of an English king?",
       "options": [
-        "Jamaica",
-        "Puerto Rico",
-        "Hispaniola",
-        "Cuba"
+        "Magna Carta",
+        "The Petition of Right",
+        "The Act of Union",
+        "The Bill of Rights"
       ],
-      "answerIndex": 2,
-      "fact": "The uprising produced the first state founded by formerly enslaved people to win and hold its independence."
+      "answerIndex": 0,
+      "fact": "It was annulled by the pope within ten weeks, yet later reissues embedded it in English law."
     },
     {
       "category": "Science",
-      "prompt": "Which group of elements is characterised by being almost entirely unreactive?",
+      "prompt": "What phenomenon causes the pitch of a passing siren to drop?",
       "options": [
-        "The lanthanides",
-        "The alkali metals",
-        "The noble gases",
-        "The halogens"
+        "Diffraction",
+        "Refraction",
+        "Resonance",
+        "The Doppler effect"
       ],
-      "answerIndex": 2,
-      "fact": "Their outer electron shells are full, so they have little tendency to gain, lose or share electrons."
+      "answerIndex": 3,
+      "fact": "The same principle applied to light lets astronomers measure how fast distant galaxies are receding."
     },
     {
       "category": "Sports",
-      "prompt": "Table tennis games are normally played to how many points, win by two?",
+      "prompt": "The Haka is performed before matches by teams from which country?",
       "options": [
-        "Nine",
-        "Fifteen",
-        "Twenty-one",
-        "Eleven"
+        "New Zealand",
+        "Tonga",
+        "Samoa",
+        "Fiji"
       ],
-      "answerIndex": 3,
-      "fact": "The switch down from twenty-one came in 2001, designed to make matches more suspenseful for spectators."
+      "answerIndex": 0,
+      "fact": "Ka Mate is the best known version, though the national side has used an alternative called Kapa o Pango since 2005."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which FromSoftware game won game of the year awards in 2022?",
+      "prompt": "Which arcade character is chased through a maze by four coloured ghosts?",
       "options": [
-        "Bloodborne",
-        "Elden Ring",
-        "Armored Core VI",
-        "Sekiro"
+        "Q*bert",
+        "Pac-Man",
+        "Dig Dug",
+        "Bomberman"
       ],
       "answerIndex": 1,
-      "fact": "Its world and backstory were developed with the novelist George R. R. Martin."
+      "fact": "Each ghost has distinct chase behaviour, which is why the game feels less random than it first appears."
     },
     {
       "category": "Geography",
-      "prompt": "Which sea is bordered by Jordan and Israel and sits at the lowest land elevation?",
+      "prompt": "Which country is entirely surrounded by South Africa?",
       "options": [
-        "The Aral Sea",
-        "The Dead Sea",
-        "The Caspian Sea",
-        "The Red Sea"
+        "Botswana",
+        "Eswatini",
+        "Lesotho",
+        "Namibia"
       ],
-      "answerIndex": 1,
-      "fact": "Its surface sits over four hundred metres below sea level and continues to drop as inflow is diverted."
+      "answerIndex": 2,
+      "fact": "It is the only independent state lying wholly above a thousand metres in elevation."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Things Fall Apart'?",
+      "prompt": "Which poet wrote 'The Road Not Taken'?",
       "options": [
-        "Wole Soyinka",
-        "Ngugi wa Thiong'o",
-        "Ben Okri",
-        "Chinua Achebe"
+        "Walt Whitman",
+        "Robert Frost",
+        "Carl Sandburg",
+        "Emily Dickinson"
       ],
-      "answerIndex": 3,
-      "fact": "Its title comes from a Yeats poem, and it has been translated into more than fifty languages."
+      "answerIndex": 1,
+      "fact": "It is widely read as a call to individualism, though the poem itself says the two paths were worn about the same."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'HTTP' stand for?",
+      "prompt": "Which company developed the Android operating system?",
       "options": [
-        "HyperText Transfer Protocol",
-        "Hyperlink Transport Process",
-        "Host Transfer Text Protocol",
-        "High Transfer Text Protocol"
+        "Apple",
+        "Samsung",
+        "Google",
+        "Microsoft"
       ],
-      "answerIndex": 0,
-      "fact": "The first version was a single-page specification with just one command."
+      "answerIndex": 2,
+      "fact": "It was an independent startup building camera software before being acquired in 2005."
     }
   ]
 }
