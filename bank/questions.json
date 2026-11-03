@@ -80,19 +80,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Grapes of Wrath'?",
-      "options": [
-        "John Steinbeck",
-        "Ernest Hemingway",
-        "Sinclair Lewis",
-        "Upton Sinclair"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "He travelled with migrant workers to research it, and the book prompted congressional hearings on farm labour."
-    },
-    {
-      "category": "Literature",
       "prompt": "Who wrote 'The Picture of Dorian Gray'?",
       "options": [
         "Oscar Wilde",
@@ -181,19 +168,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Rings are removed and retired as the trophy fills, so older names move to the Hall of Fame."
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does 'CPU' stand for?",
-      "options": [
-        "Central Processing Unit",
-        "Computer Power Unit",
-        "Central Program Utility",
-        "Core Processing Unit"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
     },
     {
       "category": "Technology",
@@ -324,19 +298,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Rwandan genocide took place in which decade?",
-      "options": [
-        "The 1990s",
-        "The 1970s",
-        "The 1980s",
-        "The 2000s"
-      ],
-      "answerIndex": 0,
-      "fact": "The killing lasted about a hundred days, and the international response afterwards reshaped debates on intervention.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -535,19 +496,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the boundary beyond which nothing can escape a black hole called?",
-      "options": [
-        "The event horizon",
-        "The singularity",
-        "The accretion disc",
-        "The photon sphere"
-      ],
-      "answerIndex": 0,
-      "fact": "It is not a physical surface; an infalling observer would notice nothing special at the moment of crossing.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which measure describes how acidic or alkaline a solution is?",
       "options": [
         "pH",
@@ -687,19 +635,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which archipelago nation consists of more than seventeen thousand islands?",
-      "options": [
-        "Indonesia",
-        "The Philippines",
-        "Japan",
-        "Fiji"
-      ],
-      "answerIndex": 0,
-      "fact": "Only around six thousand of them are inhabited, and the country spans three time zones.",
       "source": "curated"
     },
     {
@@ -1042,19 +977,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer's Eras Tour became the highest-grossing concert tour on record?",
-      "options": [
-        "Taylor Swift",
-        "Beyonce",
-        "Adele",
-        "Pink"
-      ],
-      "answerIndex": 0,
-      "fact": "The set list ran over three hours and drew from ten studio albums, changing selections between shows.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which band's frontman Jarvis Cocker sang Common People?",
       "options": [
         "Pulp",
@@ -1298,19 +1220,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In archery, the innermost scoring ring of a target is worth what?",
-      "options": [
-        "Ten points",
-        "Five points",
-        "Twenty points",
-        "One point"
-      ],
-      "answerIndex": 0,
-      "fact": "At Olympic distance the gold centre is about twelve centimetres wide, shot from seventy metres away.",
       "source": "curated"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-02",
+  "date": "2026-12-03",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which 1215 agreement limited the power of an English king?",
+      "prompt": "The Rwandan genocide took place in which decade?",
       "options": [
-        "Magna Carta",
-        "The Petition of Right",
-        "The Act of Union",
-        "The Bill of Rights"
+        "The 1970s",
+        "The 2000s",
+        "The 1990s",
+        "The 1980s"
       ],
-      "answerIndex": 0,
-      "fact": "It was annulled by the pope within ten weeks, yet later reissues embedded it in English law."
+      "answerIndex": 2,
+      "fact": "The killing lasted about a hundred days, and the international response afterwards reshaped debates on intervention."
     },
     {
       "category": "Science",
-      "prompt": "What phenomenon causes the pitch of a passing siren to drop?",
+      "prompt": "What is the boundary beyond which nothing can escape a black hole called?",
       "options": [
-        "Diffraction",
-        "Refraction",
-        "Resonance",
-        "The Doppler effect"
+        "The event horizon",
+        "The accretion disc",
+        "The singularity",
+        "The photon sphere"
       ],
-      "answerIndex": 3,
-      "fact": "The same principle applied to light lets astronomers measure how fast distant galaxies are receding."
+      "answerIndex": 0,
+      "fact": "It is not a physical surface; an infalling observer would notice nothing special at the moment of crossing."
     },
     {
       "category": "Sports",
-      "prompt": "The Haka is performed before matches by teams from which country?",
+      "prompt": "In archery, the innermost scoring ring of a target is worth what?",
       "options": [
-        "New Zealand",
-        "Tonga",
-        "Samoa",
-        "Fiji"
+        "One point",
+        "Ten points",
+        "Five points",
+        "Twenty points"
       ],
-      "answerIndex": 0,
-      "fact": "Ka Mate is the best known version, though the national side has used an alternative called Kapa o Pango since 2005."
+      "answerIndex": 1,
+      "fact": "At Olympic distance the gold centre is about twelve centimetres wide, shot from seventy metres away."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which arcade character is chased through a maze by four coloured ghosts?",
+      "prompt": "Which singer's Eras Tour became the highest-grossing concert tour on record?",
       "options": [
-        "Q*bert",
-        "Pac-Man",
-        "Dig Dug",
-        "Bomberman"
+        "Adele",
+        "Beyonce",
+        "Pink",
+        "Taylor Swift"
       ],
-      "answerIndex": 1,
-      "fact": "Each ghost has distinct chase behaviour, which is why the game feels less random than it first appears."
+      "answerIndex": 3,
+      "fact": "The set list ran over three hours and drew from ten studio albums, changing selections between shows."
     },
     {
       "category": "Geography",
-      "prompt": "Which country is entirely surrounded by South Africa?",
+      "prompt": "Which archipelago nation consists of more than seventeen thousand islands?",
       "options": [
-        "Botswana",
-        "Eswatini",
-        "Lesotho",
-        "Namibia"
+        "The Philippines",
+        "Fiji",
+        "Indonesia",
+        "Japan"
       ],
       "answerIndex": 2,
-      "fact": "It is the only independent state lying wholly above a thousand metres in elevation."
+      "fact": "Only around six thousand of them are inhabited, and the country spans three time zones."
     },
     {
       "category": "Literature",
-      "prompt": "Which poet wrote 'The Road Not Taken'?",
+      "prompt": "Who wrote 'The Grapes of Wrath'?",
       "options": [
-        "Walt Whitman",
-        "Robert Frost",
-        "Carl Sandburg",
-        "Emily Dickinson"
+        "Ernest Hemingway",
+        "Sinclair Lewis",
+        "Upton Sinclair",
+        "John Steinbeck"
       ],
-      "answerIndex": 1,
-      "fact": "It is widely read as a call to individualism, though the poem itself says the two paths were worn about the same."
+      "answerIndex": 3,
+      "fact": "He travelled with migrant workers to research it, and the book prompted congressional hearings on farm labour."
     },
     {
       "category": "Technology",
-      "prompt": "Which company developed the Android operating system?",
+      "prompt": "What does 'CPU' stand for?",
       "options": [
-        "Apple",
-        "Samsung",
-        "Google",
-        "Microsoft"
+        "Central Processing Unit",
+        "Computer Power Unit",
+        "Core Processing Unit",
+        "Central Program Utility"
       ],
-      "answerIndex": 2,
-      "fact": "It was an independent startup building camera software before being acquired in 2005."
+      "answerIndex": 0,
+      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
     }
   ]
 }
