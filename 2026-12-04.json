@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-04",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Gandhi's 1930 Salt March protested a monopoly held by whom?",
+      "options": [
+        "The British government",
+        "Local landlords",
+        "Portuguese traders",
+        "The Mughal court"
+      ],
+      "answerIndex": 0,
+      "fact": "He walked about 385 kilometres to the coast to make salt from seawater, an act then illegal for Indians."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which measure describes how acidic or alkaline a solution is?",
+      "options": [
+        "Viscosity",
+        "pH",
+        "Molarity",
+        "Density"
+      ],
+      "answerIndex": 1,
+      "fact": "The scale is logarithmic, so each whole step represents a tenfold change in hydrogen ion concentration."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Sumo bouts take place inside a ring known as what?",
+      "options": [
+        "A tatami",
+        "A kata",
+        "A dohyo",
+        "A dojo"
+      ],
+      "answerIndex": 2,
+      "fact": "It is built from clay and sand, and a wrestler loses by stepping outside it or touching down with anything but the soles."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which band's frontman Jarvis Cocker sang Common People?",
+      "options": [
+        "Supergrass",
+        "Suede",
+        "Blur",
+        "Pulp"
+      ],
+      "answerIndex": 3,
+      "fact": "The lyric was reportedly inspired by a fellow art-school student who said she wanted to live like common people."
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Atacama Desert is noted for being what?",
+      "options": [
+        "The largest desert",
+        "The driest non-polar desert",
+        "The windiest desert",
+        "The coldest desert"
+      ],
+      "answerIndex": 1,
+      "fact": "Some weather stations there have never recorded rainfall, which is why observatories cluster in the region."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "options": [
+        "Bram Stoker",
+        "Henry James",
+        "Oscar Wilde",
+        "Robert Louis Stevenson"
+      ],
+      "answerIndex": 2,
+      "fact": "The magazine version was censored by its editor before printing, and the author expanded it for the book edition."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company created the iPhone?",
+      "options": [
+        "Motorola",
+        "Samsung",
+        "Nokia",
+        "Apple"
+      ],
+      "answerIndex": 3,
+      "fact": "The first model had no app store, no copy and paste, and could not record video."
+    }
+  ]
+}

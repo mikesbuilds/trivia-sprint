@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-03",
+  "date": "2026-12-04",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Rwandan genocide took place in which decade?",
+      "prompt": "Gandhi's 1930 Salt March protested a monopoly held by whom?",
       "options": [
-        "The 1970s",
-        "The 2000s",
-        "The 1990s",
-        "The 1980s"
+        "The British government",
+        "Local landlords",
+        "Portuguese traders",
+        "The Mughal court"
       ],
-      "answerIndex": 2,
-      "fact": "The killing lasted about a hundred days, and the international response afterwards reshaped debates on intervention."
+      "answerIndex": 0,
+      "fact": "He walked about 385 kilometres to the coast to make salt from seawater, an act then illegal for Indians."
     },
     {
       "category": "Science",
-      "prompt": "What is the boundary beyond which nothing can escape a black hole called?",
+      "prompt": "Which measure describes how acidic or alkaline a solution is?",
       "options": [
-        "The event horizon",
-        "The accretion disc",
-        "The singularity",
-        "The photon sphere"
+        "Viscosity",
+        "pH",
+        "Molarity",
+        "Density"
       ],
-      "answerIndex": 0,
-      "fact": "It is not a physical surface; an infalling observer would notice nothing special at the moment of crossing."
+      "answerIndex": 1,
+      "fact": "The scale is logarithmic, so each whole step represents a tenfold change in hydrogen ion concentration."
     },
     {
       "category": "Sports",
-      "prompt": "In archery, the innermost scoring ring of a target is worth what?",
+      "prompt": "Sumo bouts take place inside a ring known as what?",
       "options": [
-        "One point",
-        "Ten points",
-        "Five points",
-        "Twenty points"
+        "A tatami",
+        "A kata",
+        "A dohyo",
+        "A dojo"
       ],
-      "answerIndex": 1,
-      "fact": "At Olympic distance the gold centre is about twelve centimetres wide, shot from seventy metres away."
+      "answerIndex": 2,
+      "fact": "It is built from clay and sand, and a wrestler loses by stepping outside it or touching down with anything but the soles."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer's Eras Tour became the highest-grossing concert tour on record?",
+      "prompt": "Which band's frontman Jarvis Cocker sang Common People?",
       "options": [
-        "Adele",
-        "Beyonce",
-        "Pink",
-        "Taylor Swift"
+        "Supergrass",
+        "Suede",
+        "Blur",
+        "Pulp"
       ],
       "answerIndex": 3,
-      "fact": "The set list ran over three hours and drew from ten studio albums, changing selections between shows."
+      "fact": "The lyric was reportedly inspired by a fellow art-school student who said she wanted to live like common people."
     },
     {
       "category": "Geography",
-      "prompt": "Which archipelago nation consists of more than seventeen thousand islands?",
+      "prompt": "The Atacama Desert is noted for being what?",
       "options": [
-        "The Philippines",
-        "Fiji",
-        "Indonesia",
-        "Japan"
+        "The largest desert",
+        "The driest non-polar desert",
+        "The windiest desert",
+        "The coldest desert"
       ],
-      "answerIndex": 2,
-      "fact": "Only around six thousand of them are inhabited, and the country spans three time zones."
+      "answerIndex": 1,
+      "fact": "Some weather stations there have never recorded rainfall, which is why observatories cluster in the region."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Grapes of Wrath'?",
+      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
       "options": [
-        "Ernest Hemingway",
-        "Sinclair Lewis",
-        "Upton Sinclair",
-        "John Steinbeck"
+        "Bram Stoker",
+        "Henry James",
+        "Oscar Wilde",
+        "Robert Louis Stevenson"
       ],
-      "answerIndex": 3,
-      "fact": "He travelled with migrant workers to research it, and the book prompted congressional hearings on farm labour."
+      "answerIndex": 2,
+      "fact": "The magazine version was censored by its editor before printing, and the author expanded it for the book edition."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'CPU' stand for?",
+      "prompt": "Which company created the iPhone?",
       "options": [
-        "Central Processing Unit",
-        "Computer Power Unit",
-        "Core Processing Unit",
-        "Central Program Utility"
+        "Motorola",
+        "Samsung",
+        "Nokia",
+        "Apple"
       ],
-      "answerIndex": 0,
-      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
+      "answerIndex": 3,
+      "fact": "The first model had no app store, no copy and paste, and could not record video."
     }
   ]
 }
