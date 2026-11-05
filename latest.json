@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-04",
+  "date": "2026-12-05",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Gandhi's 1930 Salt March protested a monopoly held by whom?",
+      "prompt": "The Space Race was principally contested by the United States and which state?",
       "options": [
-        "The British government",
-        "Local landlords",
-        "Portuguese traders",
-        "The Mughal court"
+        "France",
+        "The Soviet Union",
+        "The United Kingdom",
+        "China"
       ],
-      "answerIndex": 0,
-      "fact": "He walked about 385 kilometres to the coast to make salt from seawater, an act then illegal for Indians."
+      "answerIndex": 1,
+      "fact": "Its rival scored most of the firsts: satellite, man in orbit, woman in orbit, and the first probe to another planet."
     },
     {
       "category": "Science",
-      "prompt": "Which measure describes how acidic or alkaline a solution is?",
+      "prompt": "What are atoms of the same element with different neutron counts called?",
       "options": [
-        "Viscosity",
-        "pH",
-        "Molarity",
-        "Density"
+        "Isomers",
+        "Ions",
+        "Allotropes",
+        "Isotopes"
       ],
-      "answerIndex": 1,
-      "fact": "The scale is logarithmic, so each whole step represents a tenfold change in hydrogen ion concentration."
+      "answerIndex": 3,
+      "fact": "Carbon-14 is the unstable one used for dating organic remains up to roughly fifty thousand years old."
     },
     {
       "category": "Sports",
-      "prompt": "Sumo bouts take place inside a ring known as what?",
+      "prompt": "In show jumping, what penalty follows a knocked-down fence?",
       "options": [
-        "A tatami",
-        "A kata",
-        "A dohyo",
-        "A dojo"
+        "Elimination",
+        "Four faults",
+        "Two faults",
+        "A time penalty only"
       ],
-      "answerIndex": 2,
-      "fact": "It is built from clay and sand, and a wrestler loses by stepping outside it or touching down with anything but the soles."
+      "answerIndex": 1,
+      "fact": "A refusal costs faults too, and a second refusal on the same course usually means elimination."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which band's frontman Jarvis Cocker sang Common People?",
+      "prompt": "Which Icelandic singer released the album Homogenic?",
       "options": [
-        "Supergrass",
-        "Suede",
-        "Blur",
-        "Pulp"
+        "Emiliana Torrini",
+        "Of Monsters and Men",
+        "Bjork",
+        "Sigur Ros"
       ],
-      "answerIndex": 3,
-      "fact": "The lyric was reportedly inspired by a fellow art-school student who said she wanted to live like common people."
+      "answerIndex": 2,
+      "fact": "She fronted a punk band as a teenager and released her first record at eleven years old."
     },
     {
       "category": "Geography",
-      "prompt": "The Atacama Desert is noted for being what?",
+      "prompt": "Which canal crosses the isthmus linking North and South America?",
       "options": [
-        "The largest desert",
-        "The driest non-polar desert",
-        "The windiest desert",
-        "The coldest desert"
+        "The Panama Canal",
+        "The Erie Canal",
+        "The Suez Canal",
+        "The Kiel Canal"
       ],
-      "answerIndex": 1,
-      "fact": "Some weather stations there have never recorded rainfall, which is why observatories cluster in the region."
+      "answerIndex": 0,
+      "fact": "Ships are raised about twenty-six metres by locks because the route crosses a freshwater lake, not a sea-level cut."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Picture of Dorian Gray'?",
+      "prompt": "Who wrote the poem 'The Raven'?",
       "options": [
-        "Bram Stoker",
-        "Henry James",
-        "Oscar Wilde",
-        "Robert Louis Stevenson"
+        "Herman Melville",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe",
+        "Washington Irving"
       ],
       "answerIndex": 2,
-      "fact": "The magazine version was censored by its editor before printing, and the author expanded it for the book edition."
+      "fact": "He was paid about nine dollars for it, despite its immediate and enormous popularity."
     },
     {
       "category": "Technology",
-      "prompt": "Which company created the iPhone?",
+      "prompt": "What does 'USB' stand for?",
       "options": [
-        "Motorola",
-        "Samsung",
-        "Nokia",
-        "Apple"
+        "Universal Serial Bus",
+        "Unified Signal Bus",
+        "United System Bridge",
+        "Universal Storage Block"
       ],
-      "answerIndex": 3,
-      "fact": "The first model had no app store, no copy and paste, and could not record video."
+      "answerIndex": 0,
+      "fact": "The connector was famously hard to insert correctly, a flaw its designer later publicly apologised for."
     }
   ]
 }
