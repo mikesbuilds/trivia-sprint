@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-06",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which epidemic disease was declared eradicated worldwide in 1980?",
+      "options": [
+        "Polio",
+        "Typhus",
+        "Cholera",
+        "Smallpox"
+      ],
+      "answerIndex": 3,
+      "fact": "It remains the only human disease ever eliminated, achieved by ring vaccination around each outbreak rather than mass immunisation."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the name for the rigid outer shell of Earth broken into moving plates?",
+      "options": [
+        "The lithosphere",
+        "The core",
+        "The asthenosphere",
+        "The mantle"
+      ],
+      "answerIndex": 0,
+      "fact": "Plates move at roughly the speed fingernails grow, a few centimetres each year."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Super Bowl decides the championship of which league?",
+      "options": [
+        "The NFL",
+        "MLB",
+        "The NHL",
+        "The NBA"
+      ],
+      "answerIndex": 0,
+      "fact": "Its Roman numerals were dropped for a single year in 2016, when the fiftieth edition was branded with an Arabic numeral."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which country star is associated with the song Jolene?",
+      "options": [
+        "Loretta Lynn",
+        "Tammy Wynette",
+        "Dolly Parton",
+        "Patsy Cline"
+      ],
+      "answerIndex": 2,
+      "fact": "She wrote it and another standard on the same day, and has donated royalties to a childhood literacy programme for decades."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city serves as the seat of government for Bolivia's legislature?",
+      "options": [
+        "Cochabamba",
+        "Santa Cruz",
+        "La Paz",
+        "Sucre"
+      ],
+      "answerIndex": 2,
+      "fact": "The judiciary sits in a different city, so the country is often described as having two capitals."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Lord Byron",
+        "Mary Shelley",
+        "John Polidori",
+        "Percy Shelley"
+      ],
+      "answerIndex": 1,
+      "fact": "She was eighteen when she began it, during a wet summer spent indoors after a volcanic eruption wrecked the weather across Europe."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPS' stand for?",
+      "options": [
+        "General Purpose Satellite",
+        "Global Positioning System",
+        "Geographic Plotting Service",
+        "Global Path Sensor"
+      ],
+      "answerIndex": 1,
+      "fact": "GPS satellites carry atomic clocks that must be corrected for relativity. Time runs measurably faster in orbit, and ignoring it would throw positions off by miles a day."
+    }
+  ]
+}

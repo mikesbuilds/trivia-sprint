@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-05",
+  "date": "2026-12-06",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Space Race was principally contested by the United States and which state?",
+      "prompt": "Which epidemic disease was declared eradicated worldwide in 1980?",
       "options": [
-        "France",
-        "The Soviet Union",
-        "The United Kingdom",
-        "China"
+        "Polio",
+        "Typhus",
+        "Cholera",
+        "Smallpox"
       ],
-      "answerIndex": 1,
-      "fact": "Its rival scored most of the firsts: satellite, man in orbit, woman in orbit, and the first probe to another planet."
+      "answerIndex": 3,
+      "fact": "It remains the only human disease ever eliminated, achieved by ring vaccination around each outbreak rather than mass immunisation."
     },
     {
       "category": "Science",
-      "prompt": "What are atoms of the same element with different neutron counts called?",
+      "prompt": "What is the name for the rigid outer shell of Earth broken into moving plates?",
       "options": [
-        "Isomers",
-        "Ions",
-        "Allotropes",
-        "Isotopes"
+        "The lithosphere",
+        "The core",
+        "The asthenosphere",
+        "The mantle"
       ],
-      "answerIndex": 3,
-      "fact": "Carbon-14 is the unstable one used for dating organic remains up to roughly fifty thousand years old."
+      "answerIndex": 0,
+      "fact": "Plates move at roughly the speed fingernails grow, a few centimetres each year."
     },
     {
       "category": "Sports",
-      "prompt": "In show jumping, what penalty follows a knocked-down fence?",
+      "prompt": "The Super Bowl decides the championship of which league?",
       "options": [
-        "Elimination",
-        "Four faults",
-        "Two faults",
-        "A time penalty only"
+        "The NFL",
+        "MLB",
+        "The NHL",
+        "The NBA"
       ],
-      "answerIndex": 1,
-      "fact": "A refusal costs faults too, and a second refusal on the same course usually means elimination."
+      "answerIndex": 0,
+      "fact": "Its Roman numerals were dropped for a single year in 2016, when the fiftieth edition was branded with an Arabic numeral."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Icelandic singer released the album Homogenic?",
+      "prompt": "Which country star is associated with the song Jolene?",
       "options": [
-        "Emiliana Torrini",
-        "Of Monsters and Men",
-        "Bjork",
-        "Sigur Ros"
+        "Loretta Lynn",
+        "Tammy Wynette",
+        "Dolly Parton",
+        "Patsy Cline"
       ],
       "answerIndex": 2,
-      "fact": "She fronted a punk band as a teenager and released her first record at eleven years old."
+      "fact": "She wrote it and another standard on the same day, and has donated royalties to a childhood literacy programme for decades."
     },
     {
       "category": "Geography",
-      "prompt": "Which canal crosses the isthmus linking North and South America?",
+      "prompt": "Which city serves as the seat of government for Bolivia's legislature?",
       "options": [
-        "The Panama Canal",
-        "The Erie Canal",
-        "The Suez Canal",
-        "The Kiel Canal"
+        "Cochabamba",
+        "Santa Cruz",
+        "La Paz",
+        "Sucre"
       ],
-      "answerIndex": 0,
-      "fact": "Ships are raised about twenty-six metres by locks because the route crosses a freshwater lake, not a sea-level cut."
+      "answerIndex": 2,
+      "fact": "The judiciary sits in a different city, so the country is often described as having two capitals."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote the poem 'The Raven'?",
+      "prompt": "Who wrote 'Frankenstein'?",
       "options": [
-        "Herman Melville",
-        "Nathaniel Hawthorne",
-        "Edgar Allan Poe",
-        "Washington Irving"
+        "Lord Byron",
+        "Mary Shelley",
+        "John Polidori",
+        "Percy Shelley"
       ],
-      "answerIndex": 2,
-      "fact": "He was paid about nine dollars for it, despite its immediate and enormous popularity."
+      "answerIndex": 1,
+      "fact": "She was eighteen when she began it, during a wet summer spent indoors after a volcanic eruption wrecked the weather across Europe."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'USB' stand for?",
+      "prompt": "What does 'GPS' stand for?",
       "options": [
-        "Universal Serial Bus",
-        "Unified Signal Bus",
-        "United System Bridge",
-        "Universal Storage Block"
+        "General Purpose Satellite",
+        "Global Positioning System",
+        "Geographic Plotting Service",
+        "Global Path Sensor"
       ],
-      "answerIndex": 0,
-      "fact": "The connector was famously hard to insert correctly, a flaw its designer later publicly apologised for."
+      "answerIndex": 1,
+      "fact": "GPS satellites carry atomic clocks that must be corrected for relativity. Time runs measurably faster in orbit, and ignoring it would throw positions off by miles a day."
     }
   ]
 }
