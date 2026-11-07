@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-07",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Aztec capital stood on an island in which feature?",
+      "options": [
+        "A lake",
+        "A crater",
+        "A bay",
+        "A river"
+      ],
+      "answerIndex": 0,
+      "fact": "Causeways and canals linked it to the shore, and the Spanish later drained the basin to build over it."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which blood cells are chiefly responsible for carrying oxygen?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma cells",
+        "White blood cells"
+      ],
+      "answerIndex": 0,
+      "fact": "They lose their nucleus as they mature in humans, which leaves more room for haemoglobin."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In which sport is the Thomas Cup contested?",
+      "options": [
+        "Table tennis",
+        "Squash",
+        "Handball",
+        "Badminton"
+      ],
+      "answerIndex": 3,
+      "fact": "It is the men's world team championship, held every two years since 1949 and long dominated by Indonesia and China."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which jazz trumpeter recorded the album Kind of Blue?",
+      "options": [
+        "Dizzy Gillespie",
+        "Clifford Brown",
+        "Miles Davis",
+        "Chet Baker"
+      ],
+      "answerIndex": 2,
+      "fact": "Much of it was recorded in first takes from sketched scales rather than written-out chord changes."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European capital is split by the Danube into two historic halves?",
+      "options": [
+        "Belgrade",
+        "Bratislava",
+        "Vienna",
+        "Budapest"
+      ],
+      "answerIndex": 3,
+      "fact": "The hilly western side and the flat eastern side were separate towns until they merged in 1873."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "John Dos Passos",
+        "Ernest Hemingway",
+        "Sherwood Anderson"
+      ],
+      "answerIndex": 2,
+      "fact": "It was the last major work published in his lifetime and was cited when he won the Nobel Prize two years later."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which company developed the Windows operating system?",
+      "options": [
+        "Dell",
+        "Microsoft",
+        "IBM",
+        "Apple"
+      ],
+      "answerIndex": 1,
+      "fact": "Its first version in 1985 was a graphical shell running on top of an existing disk operating system."
+    }
+  ]
+}

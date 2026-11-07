@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-06",
+  "date": "2026-12-07",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which epidemic disease was declared eradicated worldwide in 1980?",
+      "prompt": "The Aztec capital stood on an island in which feature?",
       "options": [
-        "Polio",
-        "Typhus",
-        "Cholera",
-        "Smallpox"
+        "A lake",
+        "A crater",
+        "A bay",
+        "A river"
       ],
-      "answerIndex": 3,
-      "fact": "It remains the only human disease ever eliminated, achieved by ring vaccination around each outbreak rather than mass immunisation."
+      "answerIndex": 0,
+      "fact": "Causeways and canals linked it to the shore, and the Spanish later drained the basin to build over it."
     },
     {
       "category": "Science",
-      "prompt": "What is the name for the rigid outer shell of Earth broken into moving plates?",
+      "prompt": "Which blood cells are chiefly responsible for carrying oxygen?",
       "options": [
-        "The lithosphere",
-        "The core",
-        "The asthenosphere",
-        "The mantle"
+        "Red blood cells",
+        "Platelets",
+        "Plasma cells",
+        "White blood cells"
       ],
       "answerIndex": 0,
-      "fact": "Plates move at roughly the speed fingernails grow, a few centimetres each year."
+      "fact": "They lose their nucleus as they mature in humans, which leaves more room for haemoglobin."
     },
     {
       "category": "Sports",
-      "prompt": "The Super Bowl decides the championship of which league?",
+      "prompt": "In which sport is the Thomas Cup contested?",
       "options": [
-        "The NFL",
-        "MLB",
-        "The NHL",
-        "The NBA"
+        "Table tennis",
+        "Squash",
+        "Handball",
+        "Badminton"
       ],
-      "answerIndex": 0,
-      "fact": "Its Roman numerals were dropped for a single year in 2016, when the fiftieth edition was branded with an Arabic numeral."
+      "answerIndex": 3,
+      "fact": "It is the men's world team championship, held every two years since 1949 and long dominated by Indonesia and China."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which country star is associated with the song Jolene?",
+      "prompt": "Which jazz trumpeter recorded the album Kind of Blue?",
       "options": [
-        "Loretta Lynn",
-        "Tammy Wynette",
-        "Dolly Parton",
-        "Patsy Cline"
+        "Dizzy Gillespie",
+        "Clifford Brown",
+        "Miles Davis",
+        "Chet Baker"
       ],
       "answerIndex": 2,
-      "fact": "She wrote it and another standard on the same day, and has donated royalties to a childhood literacy programme for decades."
+      "fact": "Much of it was recorded in first takes from sketched scales rather than written-out chord changes."
     },
     {
       "category": "Geography",
-      "prompt": "Which city serves as the seat of government for Bolivia's legislature?",
+      "prompt": "Which European capital is split by the Danube into two historic halves?",
       "options": [
-        "Cochabamba",
-        "Santa Cruz",
-        "La Paz",
-        "Sucre"
+        "Belgrade",
+        "Bratislava",
+        "Vienna",
+        "Budapest"
       ],
-      "answerIndex": 2,
-      "fact": "The judiciary sits in a different city, so the country is often described as having two capitals."
+      "answerIndex": 3,
+      "fact": "The hilly western side and the flat eastern side were separate towns until they merged in 1873."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'Frankenstein'?",
+      "prompt": "Who wrote 'The Old Man and the Sea'?",
       "options": [
-        "Lord Byron",
-        "Mary Shelley",
-        "John Polidori",
-        "Percy Shelley"
+        "F. Scott Fitzgerald",
+        "John Dos Passos",
+        "Ernest Hemingway",
+        "Sherwood Anderson"
       ],
-      "answerIndex": 1,
-      "fact": "She was eighteen when she began it, during a wet summer spent indoors after a volcanic eruption wrecked the weather across Europe."
+      "answerIndex": 2,
+      "fact": "It was the last major work published in his lifetime and was cited when he won the Nobel Prize two years later."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'GPS' stand for?",
+      "prompt": "Which company developed the Windows operating system?",
       "options": [
-        "General Purpose Satellite",
-        "Global Positioning System",
-        "Geographic Plotting Service",
-        "Global Path Sensor"
+        "Dell",
+        "Microsoft",
+        "IBM",
+        "Apple"
       ],
       "answerIndex": 1,
-      "fact": "GPS satellites carry atomic clocks that must be corrected for relativity. Time runs measurably faster in orbit, and ignoring it would throw positions off by miles a day."
+      "fact": "Its first version in 1985 was a graphical shell running on top of an existing disk operating system."
     }
   ]
 }

@@ -80,19 +80,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Old Man and the Sea'?",
-      "options": [
-        "Ernest Hemingway",
-        "F. Scott Fitzgerald",
-        "John Dos Passos",
-        "Sherwood Anderson"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "It was the last major work published in his lifetime and was cited when he won the Nobel Prize two years later."
-    },
-    {
-      "category": "Literature",
       "prompt": "Which novel features the character Elizabeth Bennet?",
       "options": [
         "Pride and Prejudice",
@@ -142,19 +129,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which company developed the Windows operating system?",
-      "options": [
-        "Microsoft",
-        "IBM",
-        "Apple",
-        "Dell"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Its first version in 1985 was a graphical shell running on top of an existing disk operating system."
     },
     {
       "category": "Technology",
@@ -220,19 +194,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Aztec capital stood on an island in which feature?",
-      "options": [
-        "A lake",
-        "A river",
-        "A bay",
-        "A crater"
-      ],
-      "answerIndex": 0,
-      "fact": "Causeways and canals linked it to the shore, and the Spanish later drained the basin to build over it.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -379,19 +340,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which blood cells are chiefly responsible for carrying oxygen?",
-      "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma cells"
-      ],
-      "answerIndex": 0,
-      "fact": "They lose their nucleus as they mature in humans, which leaves more room for haemoglobin.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which class of drug is ineffective against viral infections?",
       "options": [
         "Antibiotics",
@@ -479,19 +427,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which European capital is split by the Danube into two historic halves?",
-      "options": [
-        "Budapest",
-        "Vienna",
-        "Belgrade",
-        "Bratislava"
-      ],
-      "answerIndex": 0,
-      "fact": "The hilly western side and the flat eastern side were separate towns until they merged in 1873.",
       "source": "curated"
     },
     {
@@ -782,19 +717,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which jazz trumpeter recorded the album Kind of Blue?",
-      "options": [
-        "Miles Davis",
-        "Dizzy Gillespie",
-        "Chet Baker",
-        "Clifford Brown"
-      ],
-      "answerIndex": 0,
-      "fact": "Much of it was recorded in first takes from sketched scales rather than written-out chord changes.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which singer and pianist recorded Mississippi Goddam in 1964?",
       "options": [
         "Nina Simone",
@@ -986,19 +908,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In which sport is the Thomas Cup contested?",
-      "options": [
-        "Badminton",
-        "Squash",
-        "Table tennis",
-        "Handball"
-      ],
-      "answerIndex": 0,
-      "fact": "It is the men's world team championship, held every two years since 1949 and long dominated by Indonesia and China.",
       "source": "curated"
     },
     {
