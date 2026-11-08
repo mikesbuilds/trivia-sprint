@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-08",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Constantinople was renamed what in the twentieth century?",
+      "options": [
+        "Izmir",
+        "Ankara",
+        "Bursa",
+        "Istanbul"
+      ],
+      "answerIndex": 3,
+      "fact": "The new name was made official in 1930, though it had been in colloquial use for centuries before that."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which class of drug is ineffective against viral infections?",
+      "options": [
+        "Antibiotics",
+        "Antipyretics",
+        "Antivirals",
+        "Vaccines"
+      ],
+      "answerIndex": 0,
+      "fact": "They target structures such as bacterial cell walls, which viruses do not possess."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In fencing, which weapon allows the entire body as a valid target?",
+      "options": [
+        "Sabre",
+        "Rapier",
+        "Epee",
+        "Foil"
+      ],
+      "answerIndex": 2,
+      "fact": "It descends from the duelling sword, where any hit counted, and it has no right-of-way rule."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which singer and pianist recorded Mississippi Goddam in 1964?",
+      "options": [
+        "Ella Fitzgerald",
+        "Billie Holiday",
+        "Sarah Vaughan",
+        "Nina Simone"
+      ],
+      "answerIndex": 3,
+      "fact": "She trained as a classical pianist and always described being denied a conservatory place as a formative injustice."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which line of latitude marks the northern limit of the tropics?",
+      "options": [
+        "The Arctic Circle",
+        "The Tropic of Cancer",
+        "The equator",
+        "The Tropic of Capricorn"
+      ],
+      "answerIndex": 1,
+      "fact": "Its exact latitude drifts slightly each year as the Earth's axial tilt slowly changes."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the character Raskolnikov?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Leo Tolstoy",
+        "Nikolai Gogol"
+      ],
+      "answerIndex": 0,
+      "fact": "He wrote much of his later work at speed to pay gambling debts, dictating to a stenographer he later married."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'URL' stand for?",
+      "options": [
+        "Universal Reference Link",
+        "Uniform Resource Locator",
+        "Unified Retrieval Language",
+        "User Resource Label"
+      ],
+      "answerIndex": 1,
+      "fact": "The double slash after the protocol serves no real purpose, and its inventor has said he regrets including it."
+    }
+  ]
+}

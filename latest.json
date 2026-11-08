@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-07",
+  "date": "2026-12-08",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Aztec capital stood on an island in which feature?",
+      "prompt": "Constantinople was renamed what in the twentieth century?",
       "options": [
-        "A lake",
-        "A crater",
-        "A bay",
-        "A river"
+        "Izmir",
+        "Ankara",
+        "Bursa",
+        "Istanbul"
       ],
-      "answerIndex": 0,
-      "fact": "Causeways and canals linked it to the shore, and the Spanish later drained the basin to build over it."
+      "answerIndex": 3,
+      "fact": "The new name was made official in 1930, though it had been in colloquial use for centuries before that."
     },
     {
       "category": "Science",
-      "prompt": "Which blood cells are chiefly responsible for carrying oxygen?",
+      "prompt": "Which class of drug is ineffective against viral infections?",
       "options": [
-        "Red blood cells",
-        "Platelets",
-        "Plasma cells",
-        "White blood cells"
+        "Antibiotics",
+        "Antipyretics",
+        "Antivirals",
+        "Vaccines"
       ],
       "answerIndex": 0,
-      "fact": "They lose their nucleus as they mature in humans, which leaves more room for haemoglobin."
+      "fact": "They target structures such as bacterial cell walls, which viruses do not possess."
     },
     {
       "category": "Sports",
-      "prompt": "In which sport is the Thomas Cup contested?",
+      "prompt": "In fencing, which weapon allows the entire body as a valid target?",
       "options": [
-        "Table tennis",
-        "Squash",
-        "Handball",
-        "Badminton"
+        "Sabre",
+        "Rapier",
+        "Epee",
+        "Foil"
       ],
-      "answerIndex": 3,
-      "fact": "It is the men's world team championship, held every two years since 1949 and long dominated by Indonesia and China."
+      "answerIndex": 2,
+      "fact": "It descends from the duelling sword, where any hit counted, and it has no right-of-way rule."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which jazz trumpeter recorded the album Kind of Blue?",
+      "prompt": "Which singer and pianist recorded Mississippi Goddam in 1964?",
       "options": [
-        "Dizzy Gillespie",
-        "Clifford Brown",
-        "Miles Davis",
-        "Chet Baker"
+        "Ella Fitzgerald",
+        "Billie Holiday",
+        "Sarah Vaughan",
+        "Nina Simone"
       ],
-      "answerIndex": 2,
-      "fact": "Much of it was recorded in first takes from sketched scales rather than written-out chord changes."
+      "answerIndex": 3,
+      "fact": "She trained as a classical pianist and always described being denied a conservatory place as a formative injustice."
     },
     {
       "category": "Geography",
-      "prompt": "Which European capital is split by the Danube into two historic halves?",
+      "prompt": "Which line of latitude marks the northern limit of the tropics?",
       "options": [
-        "Belgrade",
-        "Bratislava",
-        "Vienna",
-        "Budapest"
+        "The Arctic Circle",
+        "The Tropic of Cancer",
+        "The equator",
+        "The Tropic of Capricorn"
       ],
-      "answerIndex": 3,
-      "fact": "The hilly western side and the flat eastern side were separate towns until they merged in 1873."
+      "answerIndex": 1,
+      "fact": "Its exact latitude drifts slightly each year as the Earth's axial tilt slowly changes."
     },
     {
       "category": "Literature",
-      "prompt": "Who wrote 'The Old Man and the Sea'?",
+      "prompt": "Which author created the character Raskolnikov?",
       "options": [
-        "F. Scott Fitzgerald",
-        "John Dos Passos",
-        "Ernest Hemingway",
-        "Sherwood Anderson"
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Leo Tolstoy",
+        "Nikolai Gogol"
       ],
-      "answerIndex": 2,
-      "fact": "It was the last major work published in his lifetime and was cited when he won the Nobel Prize two years later."
+      "answerIndex": 0,
+      "fact": "He wrote much of his later work at speed to pay gambling debts, dictating to a stenographer he later married."
     },
     {
       "category": "Technology",
-      "prompt": "Which company developed the Windows operating system?",
+      "prompt": "What does 'URL' stand for?",
       "options": [
-        "Dell",
-        "Microsoft",
-        "IBM",
-        "Apple"
+        "Universal Reference Link",
+        "Uniform Resource Locator",
+        "Unified Retrieval Language",
+        "User Resource Label"
       ],
       "answerIndex": 1,
-      "fact": "Its first version in 1985 was a graphical shell running on top of an existing disk operating system."
+      "fact": "The double slash after the protocol serves no real purpose, and its inventor has said he regrets including it."
     }
   ]
 }

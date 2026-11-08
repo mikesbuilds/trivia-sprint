@@ -132,19 +132,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What does 'URL' stand for?",
-      "options": [
-        "Uniform Resource Locator",
-        "Universal Reference Link",
-        "Unified Retrieval Language",
-        "User Resource Label"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The double slash after the protocol serves no real purpose, and its inventor has said he regrets including it."
-    },
-    {
-      "category": "Technology",
       "prompt": "What is a firewall used for?",
       "options": [
         "Filtering network traffic",
@@ -194,19 +181,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Constantinople was renamed what in the twentieth century?",
-      "options": [
-        "Istanbul",
-        "Ankara",
-        "Izmir",
-        "Bursa"
-      ],
-      "answerIndex": 0,
-      "fact": "The new name was made official in 1930, though it had been in colloquial use for centuries before that.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -340,19 +314,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which class of drug is ineffective against viral infections?",
-      "options": [
-        "Antibiotics",
-        "Antivirals",
-        "Vaccines",
-        "Antipyretics"
-      ],
-      "answerIndex": 0,
-      "fact": "They target structures such as bacterial cell walls, which viruses do not possess.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for an animal species that has no living members left?",
       "options": [
         "Extinct",
@@ -427,19 +388,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which line of latitude marks the northern limit of the tropics?",
-      "options": [
-        "The Tropic of Cancer",
-        "The Tropic of Capricorn",
-        "The Arctic Circle",
-        "The equator"
-      ],
-      "answerIndex": 0,
-      "fact": "Its exact latitude drifts slightly each year as the Earth's axial tilt slowly changes.",
       "source": "curated"
     },
     {
@@ -531,19 +479,6 @@
       ],
       "answerIndex": 0,
       "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which author created the character Raskolnikov?",
-      "options": [
-        "Fyodor Dostoevsky",
-        "Leo Tolstoy",
-        "Nikolai Gogol",
-        "Anton Chekhov"
-      ],
-      "answerIndex": 0,
-      "fact": "He wrote much of his later work at speed to pay gambling debts, dictating to a stenographer he later married.",
       "source": "curated"
     },
     {
@@ -713,19 +648,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which singer and pianist recorded Mississippi Goddam in 1964?",
-      "options": [
-        "Nina Simone",
-        "Ella Fitzgerald",
-        "Sarah Vaughan",
-        "Billie Holiday"
-      ],
-      "answerIndex": 0,
-      "fact": "She trained as a classical pianist and always described being denied a conservatory place as a formative injustice.",
       "source": "curated"
     },
     {
@@ -908,19 +830,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In fencing, which weapon allows the entire body as a valid target?",
-      "options": [
-        "Epee",
-        "Foil",
-        "Sabre",
-        "Rapier"
-      ],
-      "answerIndex": 0,
-      "fact": "It descends from the duelling sword, where any hit counted, and it has no right-of-way rule.",
       "source": "curated"
     },
     {
