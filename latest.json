@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-08",
+  "date": "2026-12-09",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Constantinople was renamed what in the twentieth century?",
+      "prompt": "The Silk Road city of Samarkand lies in which modern country?",
       "options": [
-        "Izmir",
-        "Ankara",
-        "Bursa",
-        "Istanbul"
+        "Uzbekistan",
+        "Afghanistan",
+        "Turkmenistan",
+        "Iran"
       ],
-      "answerIndex": 3,
-      "fact": "The new name was made official in 1930, though it had been in colloquial use for centuries before that."
+      "answerIndex": 0,
+      "fact": "Timur made it his capital, and the tiled monuments around the Registan date from that period."
     },
     {
       "category": "Science",
-      "prompt": "Which class of drug is ineffective against viral infections?",
+      "prompt": "What is the term for an animal species that has no living members left?",
       "options": [
-        "Antibiotics",
-        "Antipyretics",
-        "Antivirals",
-        "Vaccines"
+        "Endemic",
+        "Endangered",
+        "Invasive",
+        "Extinct"
       ],
-      "answerIndex": 0,
-      "fact": "They target structures such as bacterial cell walls, which viruses do not possess."
+      "answerIndex": 3,
+      "fact": "A species with only non-breeding individuals remaining is sometimes described as functionally so already."
     },
     {
       "category": "Sports",
-      "prompt": "In fencing, which weapon allows the entire body as a valid target?",
+      "prompt": "The Rugby World Cup is held at what interval?",
       "options": [
-        "Sabre",
-        "Rapier",
-        "Epee",
-        "Foil"
+        "Every three years",
+        "Every four years",
+        "Every two years",
+        "Annually"
       ],
-      "answerIndex": 2,
-      "fact": "It descends from the duelling sword, where any hit counted, and it has no right-of-way rule."
+      "answerIndex": 1,
+      "fact": "The first tournament was staged in 1987, jointly hosted by New Zealand and Australia."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which singer and pianist recorded Mississippi Goddam in 1964?",
+      "prompt": "Which fashion designer founded a house known for the interlocking double G logo?",
       "options": [
-        "Ella Fitzgerald",
-        "Billie Holiday",
-        "Sarah Vaughan",
-        "Nina Simone"
+        "Gianni Versace",
+        "Giorgio Armani",
+        "Guccio Gucci",
+        "Valentino Garavani"
       ],
-      "answerIndex": 3,
-      "fact": "She trained as a classical pianist and always described being denied a conservatory place as a formative injustice."
+      "answerIndex": 2,
+      "fact": "He began making leather luggage in Florence after working as a porter at a London hotel."
     },
     {
       "category": "Geography",
-      "prompt": "Which line of latitude marks the northern limit of the tropics?",
+      "prompt": "Which Norwegian coastal feature is formed by glacial erosion below sea level?",
       "options": [
-        "The Arctic Circle",
-        "The Tropic of Cancer",
-        "The equator",
-        "The Tropic of Capricorn"
+        "A lagoon",
+        "A delta",
+        "An atoll",
+        "A fjord"
       ],
-      "answerIndex": 1,
-      "fact": "Its exact latitude drifts slightly each year as the Earth's axial tilt slowly changes."
+      "answerIndex": 3,
+      "fact": "Some exceed a thousand metres in depth, far deeper than the sea immediately outside them."
     },
     {
       "category": "Literature",
-      "prompt": "Which author created the character Raskolnikov?",
+      "prompt": "Which dystopian novel features the Ministry of Truth?",
       "options": [
-        "Fyodor Dostoevsky",
-        "Anton Chekhov",
-        "Leo Tolstoy",
-        "Nikolai Gogol"
+        "Brave New World",
+        "Fahrenheit 451",
+        "Nineteen Eighty-Four",
+        "We"
       ],
-      "answerIndex": 0,
-      "fact": "He wrote much of his later work at speed to pay gambling debts, dictating to a stenographer he later married."
+      "answerIndex": 2,
+      "fact": "The author drew on his wartime work at the BBC, where he sat through propaganda meetings in a basement canteen."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'URL' stand for?",
+      "prompt": "What is a firewall used for?",
       "options": [
-        "Universal Reference Link",
-        "Uniform Resource Locator",
-        "Unified Retrieval Language",
-        "User Resource Label"
+        "Filtering network traffic",
+        "Backing up data",
+        "Cooling a processor",
+        "Compressing files"
       ],
-      "answerIndex": 1,
-      "fact": "The double slash after the protocol serves no real purpose, and its inventor has said he regrets including it."
+      "answerIndex": 0,
+      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections."
     }
   ]
 }

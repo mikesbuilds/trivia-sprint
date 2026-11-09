@@ -132,19 +132,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What is a firewall used for?",
-      "options": [
-        "Filtering network traffic",
-        "Cooling a processor",
-        "Compressing files",
-        "Backing up data"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections."
-    },
-    {
-      "category": "Technology",
       "prompt": "What is phishing?",
       "options": [
         "A scam that tricks users into revealing information",
@@ -181,19 +168,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "The Silk Road city of Samarkand lies in which modern country?",
-      "options": [
-        "Uzbekistan",
-        "Iran",
-        "Afghanistan",
-        "Turkmenistan"
-      ],
-      "answerIndex": 0,
-      "fact": "Timur made it his capital, and the tiled monuments around the Registan date from that period.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -314,19 +288,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for an animal species that has no living members left?",
-      "options": [
-        "Extinct",
-        "Endangered",
-        "Endemic",
-        "Invasive"
-      ],
-      "answerIndex": 0,
-      "fact": "A species with only non-breeding individuals remaining is sometimes described as functionally so already.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What does a superconductor exhibit below its critical temperature?",
       "options": [
         "Zero electrical resistance",
@@ -388,19 +349,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which Norwegian coastal feature is formed by glacial erosion below sea level?",
-      "options": [
-        "A fjord",
-        "A delta",
-        "An atoll",
-        "A lagoon"
-      ],
-      "answerIndex": 0,
-      "fact": "Some exceed a thousand metres in depth, far deeper than the sea immediately outside them.",
       "source": "curated"
     },
     {
@@ -479,19 +427,6 @@
       ],
       "answerIndex": 0,
       "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which dystopian novel features the Ministry of Truth?",
-      "options": [
-        "Nineteen Eighty-Four",
-        "Brave New World",
-        "Fahrenheit 451",
-        "We"
-      ],
-      "answerIndex": 0,
-      "fact": "The author drew on his wartime work at the BBC, where he sat through propaganda meetings in a basement canteen.",
       "source": "curated"
     },
     {
@@ -648,19 +583,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which fashion designer founded a house known for the interlocking double G logo?",
-      "options": [
-        "Guccio Gucci",
-        "Giorgio Armani",
-        "Gianni Versace",
-        "Valentino Garavani"
-      ],
-      "answerIndex": 0,
-      "fact": "He began making leather luggage in Florence after working as a porter at a London hotel.",
       "source": "curated"
     },
     {
@@ -830,19 +752,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "The Rugby World Cup is held at what interval?",
-      "options": [
-        "Every four years",
-        "Every two years",
-        "Every three years",
-        "Annually"
-      ],
-      "answerIndex": 0,
-      "fact": "The first tournament was staged in 1987, jointly hosted by New Zealand and Australia.",
       "source": "curated"
     },
     {

@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-09",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Silk Road city of Samarkand lies in which modern country?",
+      "options": [
+        "Uzbekistan",
+        "Afghanistan",
+        "Turkmenistan",
+        "Iran"
+      ],
+      "answerIndex": 0,
+      "fact": "Timur made it his capital, and the tiled monuments around the Registan date from that period."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal species that has no living members left?",
+      "options": [
+        "Endemic",
+        "Endangered",
+        "Invasive",
+        "Extinct"
+      ],
+      "answerIndex": 3,
+      "fact": "A species with only non-breeding individuals remaining is sometimes described as functionally so already."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Rugby World Cup is held at what interval?",
+      "options": [
+        "Every three years",
+        "Every four years",
+        "Every two years",
+        "Annually"
+      ],
+      "answerIndex": 1,
+      "fact": "The first tournament was staged in 1987, jointly hosted by New Zealand and Australia."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which fashion designer founded a house known for the interlocking double G logo?",
+      "options": [
+        "Gianni Versace",
+        "Giorgio Armani",
+        "Guccio Gucci",
+        "Valentino Garavani"
+      ],
+      "answerIndex": 2,
+      "fact": "He began making leather luggage in Florence after working as a porter at a London hotel."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which Norwegian coastal feature is formed by glacial erosion below sea level?",
+      "options": [
+        "A lagoon",
+        "A delta",
+        "An atoll",
+        "A fjord"
+      ],
+      "answerIndex": 3,
+      "fact": "Some exceed a thousand metres in depth, far deeper than the sea immediately outside them."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which dystopian novel features the Ministry of Truth?",
+      "options": [
+        "Brave New World",
+        "Fahrenheit 451",
+        "Nineteen Eighty-Four",
+        "We"
+      ],
+      "answerIndex": 2,
+      "fact": "The author drew on his wartime work at the BBC, where he sat through propaganda meetings in a basement canteen."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is a firewall used for?",
+      "options": [
+        "Filtering network traffic",
+        "Backing up data",
+        "Cooling a processor",
+        "Compressing files"
+      ],
+      "answerIndex": 0,
+      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections."
+    }
+  ]
+}
