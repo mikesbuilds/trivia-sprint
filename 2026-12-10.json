@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-10",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which empire was centred on the Andean city of Cusco?",
+      "options": [
+        "The Moche",
+        "The Inca Empire",
+        "The Maya",
+        "The Olmec"
+      ],
+      "answerIndex": 1,
+      "fact": "It ran on a vast road network and knotted cords called quipu, with no writing system as usually defined."
+    },
+    {
+      "category": "Science",
+      "prompt": "What does a superconductor exhibit below its critical temperature?",
+      "options": [
+        "Zero electrical resistance",
+        "Maximum capacitance",
+        "Constant voltage",
+        "Infinite resistance"
+      ],
+      "answerIndex": 0,
+      "fact": "It also expels magnetic fields, which is why a magnet can be made to hover above one."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In volleyball, what is the libero restricted from doing?",
+      "options": [
+        "Attacking the ball above net height",
+        "Passing the ball",
+        "Moving to the front row",
+        "Serving the ball"
+      ],
+      "answerIndex": 0,
+      "fact": "The role was added in the late 1990s to reward defensive specialists who were otherwise too short to compete."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "The Met Gala raises money for which institution's costume collection?",
+      "options": [
+        "The Louvre",
+        "The V and A",
+        "The Metropolitan Museum of Art",
+        "MoMA"
+      ],
+      "answerIndex": 2,
+      "fact": "Each year's dress code ties to the exhibition the evening opens, though guests interpret it loosely."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is the largest by land area entirely within Europe?",
+      "options": [
+        "Poland",
+        "Spain",
+        "Ukraine",
+        "France"
+      ],
+      "answerIndex": 2,
+      "fact": "Russia is larger but spans two continents, which is why the qualifier matters."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Spanish novel follows a deluded knight and his squire Sancho Panza?",
+      "options": [
+        "The Life of Marianne",
+        "Don Quixote",
+        "Lazarillo de Tormes",
+        "Celestina"
+      ],
+      "answerIndex": 1,
+      "fact": "Its second part responds directly to an unauthorised sequel published by a rival, whom the author mocks in the text."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is phishing?",
+      "options": [
+        "A file compression method",
+        "A network speed test",
+        "A type of encryption",
+        "A scam that tricks users into revealing information"
+      ],
+      "answerIndex": 3,
+      "fact": "The deliberate misspelling follows an older hacker convention, and the practice was first named on AOL in the mid-1990s."
+    }
+  ]
+}

@@ -132,19 +132,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What is phishing?",
-      "options": [
-        "A scam that tricks users into revealing information",
-        "A network speed test",
-        "A file compression method",
-        "A type of encryption"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "The deliberate misspelling follows an older hacker convention, and the practice was first named on AOL in the mid-1990s."
-    },
-    {
-      "category": "Technology",
       "prompt": "What does 'GPU' stand for?",
       "options": [
         "Graphics Processing Unit",
@@ -168,19 +155,6 @@
       "answerIndex": 0,
       "source": "curated",
       "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which empire was centred on the Andean city of Cusco?",
-      "options": [
-        "The Inca Empire",
-        "The Maya",
-        "The Olmec",
-        "The Moche"
-      ],
-      "answerIndex": 0,
-      "fact": "It ran on a vast road network and knotted cords called quipu, with no writing system as usually defined.",
-      "source": "curated"
     },
     {
       "category": "History",
@@ -288,19 +262,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What does a superconductor exhibit below its critical temperature?",
-      "options": [
-        "Zero electrical resistance",
-        "Infinite resistance",
-        "Constant voltage",
-        "Maximum capacitance"
-      ],
-      "answerIndex": 0,
-      "fact": "It also expels magnetic fields, which is why a magnet can be made to hover above one.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which quantity in thermodynamics tends to increase in an isolated system?",
       "options": [
         "Entropy",
@@ -349,19 +310,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is the largest by land area entirely within Europe?",
-      "options": [
-        "Ukraine",
-        "France",
-        "Spain",
-        "Poland"
-      ],
-      "answerIndex": 0,
-      "fact": "Russia is larger but spans two continents, which is why the qualifier matters.",
       "source": "curated"
     },
     {
@@ -427,19 +375,6 @@
       ],
       "answerIndex": 0,
       "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which Spanish novel follows a deluded knight and his squire Sancho Panza?",
-      "options": [
-        "Don Quixote",
-        "Lazarillo de Tormes",
-        "The Life of Marianne",
-        "Celestina"
-      ],
-      "answerIndex": 0,
-      "fact": "Its second part responds directly to an unauthorised sequel published by a rival, whom the author mocks in the text.",
       "source": "curated"
     },
     {
@@ -583,19 +518,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "The Met Gala raises money for which institution's costume collection?",
-      "options": [
-        "The Metropolitan Museum of Art",
-        "The Louvre",
-        "The V and A",
-        "MoMA"
-      ],
-      "answerIndex": 0,
-      "fact": "Each year's dress code ties to the exhibition the evening opens, though guests interpret it loosely.",
       "source": "curated"
     },
     {
@@ -752,19 +674,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "In volleyball, what is the libero restricted from doing?",
-      "options": [
-        "Attacking the ball above net height",
-        "Serving the ball",
-        "Passing the ball",
-        "Moving to the front row"
-      ],
-      "answerIndex": 0,
-      "fact": "The role was added in the late 1990s to reward defensive specialists who were otherwise too short to compete.",
       "source": "curated"
     },
     {

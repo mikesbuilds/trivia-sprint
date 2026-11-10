@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-09",
+  "date": "2026-12-10",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Silk Road city of Samarkand lies in which modern country?",
+      "prompt": "Which empire was centred on the Andean city of Cusco?",
       "options": [
-        "Uzbekistan",
-        "Afghanistan",
-        "Turkmenistan",
-        "Iran"
+        "The Moche",
+        "The Inca Empire",
+        "The Maya",
+        "The Olmec"
       ],
-      "answerIndex": 0,
-      "fact": "Timur made it his capital, and the tiled monuments around the Registan date from that period."
+      "answerIndex": 1,
+      "fact": "It ran on a vast road network and knotted cords called quipu, with no writing system as usually defined."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for an animal species that has no living members left?",
+      "prompt": "What does a superconductor exhibit below its critical temperature?",
       "options": [
-        "Endemic",
-        "Endangered",
-        "Invasive",
-        "Extinct"
+        "Zero electrical resistance",
+        "Maximum capacitance",
+        "Constant voltage",
+        "Infinite resistance"
       ],
-      "answerIndex": 3,
-      "fact": "A species with only non-breeding individuals remaining is sometimes described as functionally so already."
+      "answerIndex": 0,
+      "fact": "It also expels magnetic fields, which is why a magnet can be made to hover above one."
     },
     {
       "category": "Sports",
-      "prompt": "The Rugby World Cup is held at what interval?",
+      "prompt": "In volleyball, what is the libero restricted from doing?",
       "options": [
-        "Every three years",
-        "Every four years",
-        "Every two years",
-        "Annually"
+        "Attacking the ball above net height",
+        "Passing the ball",
+        "Moving to the front row",
+        "Serving the ball"
       ],
-      "answerIndex": 1,
-      "fact": "The first tournament was staged in 1987, jointly hosted by New Zealand and Australia."
+      "answerIndex": 0,
+      "fact": "The role was added in the late 1990s to reward defensive specialists who were otherwise too short to compete."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which fashion designer founded a house known for the interlocking double G logo?",
+      "prompt": "The Met Gala raises money for which institution's costume collection?",
       "options": [
-        "Gianni Versace",
-        "Giorgio Armani",
-        "Guccio Gucci",
-        "Valentino Garavani"
+        "The Louvre",
+        "The V and A",
+        "The Metropolitan Museum of Art",
+        "MoMA"
       ],
       "answerIndex": 2,
-      "fact": "He began making leather luggage in Florence after working as a porter at a London hotel."
+      "fact": "Each year's dress code ties to the exhibition the evening opens, though guests interpret it loosely."
     },
     {
       "category": "Geography",
-      "prompt": "Which Norwegian coastal feature is formed by glacial erosion below sea level?",
+      "prompt": "Which country is the largest by land area entirely within Europe?",
       "options": [
-        "A lagoon",
-        "A delta",
-        "An atoll",
-        "A fjord"
+        "Poland",
+        "Spain",
+        "Ukraine",
+        "France"
       ],
-      "answerIndex": 3,
-      "fact": "Some exceed a thousand metres in depth, far deeper than the sea immediately outside them."
+      "answerIndex": 2,
+      "fact": "Russia is larger but spans two continents, which is why the qualifier matters."
     },
     {
       "category": "Literature",
-      "prompt": "Which dystopian novel features the Ministry of Truth?",
+      "prompt": "Which Spanish novel follows a deluded knight and his squire Sancho Panza?",
       "options": [
-        "Brave New World",
-        "Fahrenheit 451",
-        "Nineteen Eighty-Four",
-        "We"
+        "The Life of Marianne",
+        "Don Quixote",
+        "Lazarillo de Tormes",
+        "Celestina"
       ],
-      "answerIndex": 2,
-      "fact": "The author drew on his wartime work at the BBC, where he sat through propaganda meetings in a basement canteen."
+      "answerIndex": 1,
+      "fact": "Its second part responds directly to an unauthorised sequel published by a rival, whom the author mocks in the text."
     },
     {
       "category": "Technology",
-      "prompt": "What is a firewall used for?",
+      "prompt": "What is phishing?",
       "options": [
-        "Filtering network traffic",
-        "Backing up data",
-        "Cooling a processor",
-        "Compressing files"
+        "A file compression method",
+        "A network speed test",
+        "A type of encryption",
+        "A scam that tricks users into revealing information"
       ],
-      "answerIndex": 0,
-      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections."
+      "answerIndex": 3,
+      "fact": "The deliberate misspelling follows an older hacker convention, and the practice was first named on AOL in the mid-1990s."
     }
   ]
 }
