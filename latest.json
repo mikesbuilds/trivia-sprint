@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-10",
+  "date": "2026-12-11",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which empire was centred on the Andean city of Cusco?",
+      "prompt": "The Crusades were launched to seize control of which city?",
       "options": [
-        "The Moche",
-        "The Inca Empire",
-        "The Maya",
-        "The Olmec"
+        "Cairo",
+        "Baghdad",
+        "Jerusalem",
+        "Damascus"
       ],
-      "answerIndex": 1,
-      "fact": "It ran on a vast road network and knotted cords called quipu, with no writing system as usually defined."
+      "answerIndex": 2,
+      "fact": "The first campaign was called in 1095, and control of the city changed hands repeatedly over two centuries."
     },
     {
       "category": "Science",
-      "prompt": "What does a superconductor exhibit below its critical temperature?",
+      "prompt": "Which quantity in thermodynamics tends to increase in an isolated system?",
       "options": [
-        "Zero electrical resistance",
-        "Maximum capacitance",
-        "Constant voltage",
-        "Infinite resistance"
+        "Enthalpy",
+        "Pressure",
+        "Density",
+        "Entropy"
       ],
-      "answerIndex": 0,
-      "fact": "It also expels magnetic fields, which is why a magnet can be made to hover above one."
+      "answerIndex": 3,
+      "fact": "This one-way tendency is often cited as the physical basis for the direction of time."
     },
     {
       "category": "Sports",
-      "prompt": "In volleyball, what is the libero restricted from doing?",
+      "prompt": "Which horse race is run at Epsom Downs?",
       "options": [
-        "Attacking the ball above net height",
-        "Passing the ball",
-        "Moving to the front row",
-        "Serving the ball"
+        "The Derby",
+        "The Grand National",
+        "The St Leger",
+        "The Gold Cup"
       ],
       "answerIndex": 0,
-      "fact": "The role was added in the late 1990s to reward defensive specialists who were otherwise too short to compete."
+      "fact": "Its name was settled by a coin toss between two aristocrats, one of whom got the race and the other a nearby event."
     },
     {
       "category": "Pop Culture",
-      "prompt": "The Met Gala raises money for which institution's costume collection?",
+      "prompt": "Which podcast's 2014 first season re-examined a Baltimore murder case?",
       "options": [
-        "The Louvre",
-        "The V and A",
-        "The Metropolitan Museum of Art",
-        "MoMA"
+        "Dirty John",
+        "S-Town",
+        "Serial",
+        "Criminal"
       ],
       "answerIndex": 2,
-      "fact": "Each year's dress code ties to the exhibition the evening opens, though guests interpret it loosely."
+      "fact": "It is widely credited with turning podcasting into a mainstream medium, passing five million downloads faster than any show before it."
     },
     {
       "category": "Geography",
-      "prompt": "Which country is the largest by land area entirely within Europe?",
+      "prompt": "Which island is divided between two sovereign states, Haiti and its neighbour?",
       "options": [
-        "Poland",
-        "Spain",
-        "Ukraine",
-        "France"
+        "Hispaniola",
+        "Timor",
+        "Cuba",
+        "Borneo"
       ],
-      "answerIndex": 2,
-      "fact": "Russia is larger but spans two continents, which is why the qualifier matters."
+      "answerIndex": 0,
+      "fact": "The border was settled by treaty in 1929 after centuries of Spanish and French colonial division."
     },
     {
       "category": "Literature",
-      "prompt": "Which Spanish novel follows a deluded knight and his squire Sancho Panza?",
+      "prompt": "Which novel satirises military bureaucracy through a self-contradicting rule?",
       "options": [
-        "The Life of Marianne",
-        "Don Quixote",
-        "Lazarillo de Tormes",
-        "Celestina"
+        "The Naked and the Dead",
+        "Catch-22",
+        "Slaughterhouse-Five",
+        "M*A*S*H"
       ],
       "answerIndex": 1,
-      "fact": "Its second part responds directly to an unauthorised sequel published by a rival, whom the author mocks in the text."
+      "fact": "The title was changed late in production from a different number to avoid clashing with another recent novel."
     },
     {
       "category": "Technology",
-      "prompt": "What is phishing?",
+      "prompt": "What does 'GPU' stand for?",
       "options": [
-        "A file compression method",
-        "A network speed test",
-        "A type of encryption",
-        "A scam that tricks users into revealing information"
+        "General Purpose Unit",
+        "Global Processing Utility",
+        "Grid Power Unit",
+        "Graphics Processing Unit"
       ],
       "answerIndex": 3,
-      "fact": "The deliberate misspelling follows an older hacker convention, and the practice was first named on AOL in the mid-1990s."
+      "fact": "Its ability to run thousands of simple calculations at once is why it became central to machine learning."
     }
   ]
 }

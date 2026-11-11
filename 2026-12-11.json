@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-11",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Crusades were launched to seize control of which city?",
+      "options": [
+        "Cairo",
+        "Baghdad",
+        "Jerusalem",
+        "Damascus"
+      ],
+      "answerIndex": 2,
+      "fact": "The first campaign was called in 1095, and control of the city changed hands repeatedly over two centuries."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which quantity in thermodynamics tends to increase in an isolated system?",
+      "options": [
+        "Enthalpy",
+        "Pressure",
+        "Density",
+        "Entropy"
+      ],
+      "answerIndex": 3,
+      "fact": "This one-way tendency is often cited as the physical basis for the direction of time."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which horse race is run at Epsom Downs?",
+      "options": [
+        "The Derby",
+        "The Grand National",
+        "The St Leger",
+        "The Gold Cup"
+      ],
+      "answerIndex": 0,
+      "fact": "Its name was settled by a coin toss between two aristocrats, one of whom got the race and the other a nearby event."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which podcast's 2014 first season re-examined a Baltimore murder case?",
+      "options": [
+        "Dirty John",
+        "S-Town",
+        "Serial",
+        "Criminal"
+      ],
+      "answerIndex": 2,
+      "fact": "It is widely credited with turning podcasting into a mainstream medium, passing five million downloads faster than any show before it."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which island is divided between two sovereign states, Haiti and its neighbour?",
+      "options": [
+        "Hispaniola",
+        "Timor",
+        "Cuba",
+        "Borneo"
+      ],
+      "answerIndex": 0,
+      "fact": "The border was settled by treaty in 1929 after centuries of Spanish and French colonial division."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel satirises military bureaucracy through a self-contradicting rule?",
+      "options": [
+        "The Naked and the Dead",
+        "Catch-22",
+        "Slaughterhouse-Five",
+        "M*A*S*H"
+      ],
+      "answerIndex": 1,
+      "fact": "The title was changed late in production from a different number to avoid clashing with another recent novel."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does 'GPU' stand for?",
+      "options": [
+        "General Purpose Unit",
+        "Global Processing Utility",
+        "Grid Power Unit",
+        "Graphics Processing Unit"
+      ],
+      "answerIndex": 3,
+      "fact": "Its ability to run thousands of simple calculations at once is why it became central to machine learning."
+    }
+  ]
+}
