@@ -131,32 +131,6 @@
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
     },
     {
-      "category": "Technology",
-      "prompt": "What is the purpose of encryption?",
-      "options": [
-        "To make data unreadable without a key",
-        "To speed up downloads",
-        "To reduce file size",
-        "To back up files"
-      ],
-      "answerIndex": 0,
-      "source": "curated",
-      "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
-    },
-    {
-      "category": "History",
-      "prompt": "Which 1215 to 1400s period saw the Black Death kill much of Europe?",
-      "options": [
-        "The late Middle Ages",
-        "The early Middle Ages",
-        "The Renaissance",
-        "The Iron Age"
-      ],
-      "answerIndex": 0,
-      "fact": "Labour scarcity afterwards pushed wages up sharply and helped erode the manorial system.",
-      "source": "curated"
-    },
-    {
       "category": "History",
       "prompt": "The Zulu Kingdom rose to prominence under which leader?",
       "options": [
@@ -236,19 +210,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which cells transmit electrical signals through the nervous system?",
-      "options": [
-        "Neurons",
-        "Hepatocytes",
-        "Osteocytes",
-        "Adipocytes"
-      ],
-      "answerIndex": 0,
-      "fact": "Signals jump between gaps in the insulating sheath, which makes transmission far faster than a bare fibre allows.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which vaccine technology delivers instructions for a protein rather than the protein itself?",
       "options": [
         "mRNA",
@@ -271,19 +232,6 @@
       ],
       "answerIndex": 0,
       "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "The Sahel is a transitional belt lying immediately south of what?",
-      "options": [
-        "The Sahara",
-        "The Kalahari",
-        "The Namib",
-        "The Danakil"
-      ],
-      "answerIndex": 0,
-      "fact": "The name derives from an Arabic word for shore, picturing the desert as a sea.",
       "source": "curated"
     },
     {
@@ -323,19 +271,6 @@
       ],
       "answerIndex": 0,
       "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which American novel centres on a wealthy host throwing parties on Long Island?",
-      "options": [
-        "The Great Gatsby",
-        "Babbitt",
-        "An American Tragedy",
-        "Main Street"
-      ],
-      "answerIndex": 0,
-      "fact": "It sold modestly at first, and its revival owes much to cheap editions distributed to American troops in the 1940s.",
       "source": "curated"
     },
     {
@@ -453,19 +388,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which song contest is held annually between European broadcasters?",
-      "options": [
-        "The Eurovision Song Contest",
-        "The Sanremo Festival",
-        "The Sopot Festival",
-        "The Junior Song Festival"
-      ],
-      "answerIndex": 0,
-      "fact": "It began in 1956 partly as a technical experiment in live cross-border television broadcasting.",
       "source": "curated"
     },
     {
@@ -596,19 +518,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Speed climbing competitors race up a wall of what standard height?",
-      "options": [
-        "Fifteen metres",
-        "Ten metres",
-        "Twenty metres",
-        "Twelve metres"
-      ],
-      "answerIndex": 0,
-      "fact": "The route is identical worldwide, which is why records fall by hundredths of a second.",
       "source": "curated"
     },
     {

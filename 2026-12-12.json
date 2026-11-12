@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-12",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1215 to 1400s period saw the Black Death kill much of Europe?",
+      "options": [
+        "The Renaissance",
+        "The early Middle Ages",
+        "The Iron Age",
+        "The late Middle Ages"
+      ],
+      "answerIndex": 3,
+      "fact": "Labour scarcity afterwards pushed wages up sharply and helped erode the manorial system."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which cells transmit electrical signals through the nervous system?",
+      "options": [
+        "Adipocytes",
+        "Hepatocytes",
+        "Neurons",
+        "Osteocytes"
+      ],
+      "answerIndex": 2,
+      "fact": "Signals jump between gaps in the insulating sheath, which makes transmission far faster than a bare fibre allows."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Speed climbing competitors race up a wall of what standard height?",
+      "options": [
+        "Ten metres",
+        "Twenty metres",
+        "Fifteen metres",
+        "Twelve metres"
+      ],
+      "answerIndex": 2,
+      "fact": "The route is identical worldwide, which is why records fall by hundredths of a second."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which song contest is held annually between European broadcasters?",
+      "options": [
+        "The Eurovision Song Contest",
+        "The Sopot Festival",
+        "The Junior Song Festival",
+        "The Sanremo Festival"
+      ],
+      "answerIndex": 0,
+      "fact": "It began in 1956 partly as a technical experiment in live cross-border television broadcasting."
+    },
+    {
+      "category": "Geography",
+      "prompt": "The Sahel is a transitional belt lying immediately south of what?",
+      "options": [
+        "The Danakil",
+        "The Namib",
+        "The Kalahari",
+        "The Sahara"
+      ],
+      "answerIndex": 3,
+      "fact": "The name derives from an Arabic word for shore, picturing the desert as a sea."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which American novel centres on a wealthy host throwing parties on Long Island?",
+      "options": [
+        "Babbitt",
+        "The Great Gatsby",
+        "An American Tragedy",
+        "Main Street"
+      ],
+      "answerIndex": 1,
+      "fact": "It sold modestly at first, and its revival owes much to cheap editions distributed to American troops in the 1940s."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the purpose of encryption?",
+      "options": [
+        "To make data unreadable without a key",
+        "To back up files",
+        "To reduce file size",
+        "To speed up downloads"
+      ],
+      "answerIndex": 0,
+      "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
+    }
+  ]
+}

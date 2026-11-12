@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-11",
+  "date": "2026-12-12",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Crusades were launched to seize control of which city?",
+      "prompt": "Which 1215 to 1400s period saw the Black Death kill much of Europe?",
       "options": [
-        "Cairo",
-        "Baghdad",
-        "Jerusalem",
-        "Damascus"
+        "The Renaissance",
+        "The early Middle Ages",
+        "The Iron Age",
+        "The late Middle Ages"
       ],
-      "answerIndex": 2,
-      "fact": "The first campaign was called in 1095, and control of the city changed hands repeatedly over two centuries."
+      "answerIndex": 3,
+      "fact": "Labour scarcity afterwards pushed wages up sharply and helped erode the manorial system."
     },
     {
       "category": "Science",
-      "prompt": "Which quantity in thermodynamics tends to increase in an isolated system?",
+      "prompt": "Which cells transmit electrical signals through the nervous system?",
       "options": [
-        "Enthalpy",
-        "Pressure",
-        "Density",
-        "Entropy"
+        "Adipocytes",
+        "Hepatocytes",
+        "Neurons",
+        "Osteocytes"
       ],
-      "answerIndex": 3,
-      "fact": "This one-way tendency is often cited as the physical basis for the direction of time."
+      "answerIndex": 2,
+      "fact": "Signals jump between gaps in the insulating sheath, which makes transmission far faster than a bare fibre allows."
     },
     {
       "category": "Sports",
-      "prompt": "Which horse race is run at Epsom Downs?",
+      "prompt": "Speed climbing competitors race up a wall of what standard height?",
       "options": [
-        "The Derby",
-        "The Grand National",
-        "The St Leger",
-        "The Gold Cup"
+        "Ten metres",
+        "Twenty metres",
+        "Fifteen metres",
+        "Twelve metres"
       ],
-      "answerIndex": 0,
-      "fact": "Its name was settled by a coin toss between two aristocrats, one of whom got the race and the other a nearby event."
+      "answerIndex": 2,
+      "fact": "The route is identical worldwide, which is why records fall by hundredths of a second."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which podcast's 2014 first season re-examined a Baltimore murder case?",
+      "prompt": "Which song contest is held annually between European broadcasters?",
       "options": [
-        "Dirty John",
-        "S-Town",
-        "Serial",
-        "Criminal"
+        "The Eurovision Song Contest",
+        "The Sopot Festival",
+        "The Junior Song Festival",
+        "The Sanremo Festival"
       ],
-      "answerIndex": 2,
-      "fact": "It is widely credited with turning podcasting into a mainstream medium, passing five million downloads faster than any show before it."
+      "answerIndex": 0,
+      "fact": "It began in 1956 partly as a technical experiment in live cross-border television broadcasting."
     },
     {
       "category": "Geography",
-      "prompt": "Which island is divided between two sovereign states, Haiti and its neighbour?",
+      "prompt": "The Sahel is a transitional belt lying immediately south of what?",
       "options": [
-        "Hispaniola",
-        "Timor",
-        "Cuba",
-        "Borneo"
+        "The Danakil",
+        "The Namib",
+        "The Kalahari",
+        "The Sahara"
       ],
-      "answerIndex": 0,
-      "fact": "The border was settled by treaty in 1929 after centuries of Spanish and French colonial division."
+      "answerIndex": 3,
+      "fact": "The name derives from an Arabic word for shore, picturing the desert as a sea."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel satirises military bureaucracy through a self-contradicting rule?",
+      "prompt": "Which American novel centres on a wealthy host throwing parties on Long Island?",
       "options": [
-        "The Naked and the Dead",
-        "Catch-22",
-        "Slaughterhouse-Five",
-        "M*A*S*H"
+        "Babbitt",
+        "The Great Gatsby",
+        "An American Tragedy",
+        "Main Street"
       ],
       "answerIndex": 1,
-      "fact": "The title was changed late in production from a different number to avoid clashing with another recent novel."
+      "fact": "It sold modestly at first, and its revival owes much to cheap editions distributed to American troops in the 1940s."
     },
     {
       "category": "Technology",
-      "prompt": "What does 'GPU' stand for?",
+      "prompt": "What is the purpose of encryption?",
       "options": [
-        "General Purpose Unit",
-        "Global Processing Utility",
-        "Grid Power Unit",
-        "Graphics Processing Unit"
+        "To make data unreadable without a key",
+        "To back up files",
+        "To reduce file size",
+        "To speed up downloads"
       ],
-      "answerIndex": 3,
-      "fact": "Its ability to run thousands of simple calculations at once is why it became central to machine learning."
+      "answerIndex": 0,
+      "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
     }
   ]
 }
