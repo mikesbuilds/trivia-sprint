@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-12",
+  "date": "2026-12-13",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which 1215 to 1400s period saw the Black Death kill much of Europe?",
+      "prompt": "The Zulu Kingdom rose to prominence under which leader?",
       "options": [
-        "The Renaissance",
-        "The early Middle Ages",
-        "The Iron Age",
-        "The late Middle Ages"
+        "Cetshwayo",
+        "Dingane",
+        "Shaka",
+        "Moshoeshoe"
       ],
-      "answerIndex": 3,
-      "fact": "Labour scarcity afterwards pushed wages up sharply and helped erode the manorial system."
+      "answerIndex": 2,
+      "fact": "He is credited with reorganising regiments by age group and popularising a short stabbing spear for close combat."
     },
     {
       "category": "Science",
-      "prompt": "Which cells transmit electrical signals through the nervous system?",
+      "prompt": "Which vaccine technology delivers instructions for a protein rather than the protein itself?",
       "options": [
-        "Adipocytes",
-        "Hepatocytes",
-        "Neurons",
-        "Osteocytes"
+        "Inactivated",
+        "Toxoid",
+        "Live attenuated",
+        "mRNA"
       ],
-      "answerIndex": 2,
-      "fact": "Signals jump between gaps in the insulating sheath, which makes transmission far faster than a bare fibre allows."
+      "answerIndex": 3,
+      "fact": "The approach had been researched for decades before it was first deployed at scale in 2020."
     },
     {
       "category": "Sports",
-      "prompt": "Speed climbing competitors race up a wall of what standard height?",
+      "prompt": "In darts, which number sits directly opposite twenty on the board?",
       "options": [
-        "Ten metres",
-        "Twenty metres",
-        "Fifteen metres",
-        "Twelve metres"
+        "Nineteen",
+        "Three",
+        "One",
+        "Five"
       ],
-      "answerIndex": 2,
-      "fact": "The route is identical worldwide, which is why records fall by hundredths of a second."
+      "answerIndex": 1,
+      "fact": "High and low numbers are deliberately interleaved so that a narrow miss is heavily punished."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which song contest is held annually between European broadcasters?",
+      "prompt": "Which streaming series follows a Polish monster hunter named Geralt?",
       "options": [
-        "The Eurovision Song Contest",
-        "The Sopot Festival",
-        "The Junior Song Festival",
-        "The Sanremo Festival"
+        "Cursed",
+        "The Witcher",
+        "Warrior Nun",
+        "Shadow and Bone"
       ],
-      "answerIndex": 0,
-      "fact": "It began in 1956 partly as a technical experiment in live cross-border television broadcasting."
+      "answerIndex": 1,
+      "fact": "It is adapted from a series of novels that had already spawned a hugely successful game franchise."
     },
     {
       "category": "Geography",
-      "prompt": "The Sahel is a transitional belt lying immediately south of what?",
+      "prompt": "Which country's flag is the only national flag that is not rectangular?",
       "options": [
-        "The Danakil",
-        "The Namib",
-        "The Kalahari",
-        "The Sahara"
+        "Switzerland",
+        "Vatican City",
+        "Bhutan",
+        "Nepal"
       ],
       "answerIndex": 3,
-      "fact": "The name derives from an Arabic word for shore, picturing the desert as a sea."
+      "fact": "Its two stacked pennants represent the Himalayas, and the construction is specified geometrically in the constitution."
     },
     {
       "category": "Literature",
-      "prompt": "Which American novel centres on a wealthy host throwing parties on Long Island?",
+      "prompt": "Which novel by Salman Rushdie follows children born at the moment of Indian independence?",
       "options": [
-        "Babbitt",
-        "The Great Gatsby",
-        "An American Tragedy",
-        "Main Street"
+        "Midnight's Children",
+        "Shame",
+        "The Moor's Last Sigh",
+        "Fury"
       ],
-      "answerIndex": 1,
-      "fact": "It sold modestly at first, and its revival owes much to cheap editions distributed to American troops in the 1940s."
+      "answerIndex": 0,
+      "fact": "It won the Booker Prize and later two special awards naming it the best winner of its first decades."
     },
     {
       "category": "Technology",
-      "prompt": "What is the purpose of encryption?",
+      "prompt": "Who created the Linux kernel?",
       "options": [
-        "To make data unreadable without a key",
-        "To back up files",
-        "To reduce file size",
-        "To speed up downloads"
+        "Richard Stallman",
+        "Dennis Ritchie",
+        "Linus Torvalds",
+        "Ken Thompson"
       ],
-      "answerIndex": 0,
-      "fact": "Modern schemes rely on problems easy to perform one way and impractical to reverse without the key."
+      "answerIndex": 2,
+      "fact": "He announced it in 1991 as a hobby project that would not be big and professional."
     }
   ]
 }
