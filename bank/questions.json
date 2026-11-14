@@ -132,19 +132,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which canal opened in 1869 linking the Mediterranean and the Red Sea?",
-      "options": [
-        "The Suez Canal",
-        "The Panama Canal",
-        "The Kiel Canal",
-        "The Corinth Canal"
-      ],
-      "answerIndex": 0,
-      "fact": "It has no locks, because the two seas it joins sit at effectively the same level.",
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Ottoman Empire finally dissolved in the aftermath of which war?",
       "options": [
         "The First World War",
@@ -196,32 +183,6 @@
       "source": "curated"
     },
     {
-      "category": "Science",
-      "prompt": "What is the name for the study of fossils and ancient life?",
-      "options": [
-        "Palaeontology",
-        "Archaeology",
-        "Geology",
-        "Anthropology"
-      ],
-      "answerIndex": 0,
-      "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "The Great Barrier Reef lies off the coast of which Australian state?",
-      "options": [
-        "Queensland",
-        "New South Wales",
-        "Western Australia",
-        "Victoria"
-      ],
-      "answerIndex": 0,
-      "fact": "It stretches over two thousand kilometres and is visible from low Earth orbit.",
-      "source": "curated"
-    },
-    {
       "category": "Geography",
       "prompt": "Which two continents are joined by the Isthmus of Suez?",
       "options": [
@@ -232,19 +193,6 @@
       ],
       "answerIndex": 0,
       "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does a compiler do with source code?",
-      "options": [
-        "Translates it into machine code",
-        "Encrypts it",
-        "Compresses it",
-        "Formats it"
-      ],
-      "answerIndex": 0,
-      "fact": "Grace Hopper built an early one and had to argue that a computer could usefully write its own programs.",
       "source": "curated"
     },
     {
@@ -323,19 +271,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which Star Wars series centres on a bounty hunter and a small green foundling?",
-      "options": [
-        "The Mandalorian",
-        "Andor",
-        "Ahsoka",
-        "Obi-Wan Kenobi"
-      ],
-      "answerIndex": 0,
-      "fact": "It made heavy use of a curved LED video wall to render backgrounds live on set instead of green screen.",
       "source": "curated"
     },
     {
@@ -444,19 +379,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which trophy goes to the best goaltender in the NHL each season?",
-      "options": [
-        "The Vezina Trophy",
-        "The Hart Trophy",
-        "The Norris Trophy",
-        "The Calder Trophy"
-      ],
-      "answerIndex": 0,
-      "fact": "It is voted on by the league's general managers, and is named after a goaltender who died of tuberculosis in 1926.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "The Copa America is contested by national teams from which continent?",
       "options": [
         "South America",
@@ -531,19 +453,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "What is the term for a poem of fourteen lines in iambic pentameter?",
-      "options": [
-        "A sonnet",
-        "An ode",
-        "An elegy",
-        "A villanelle"
-      ],
-      "answerIndex": 0,
-      "fact": "The Italian and English forms differ in rhyme scheme, and Shakespeare's ends in a rhyming couplet.",
       "source": "curated"
     },
     {
