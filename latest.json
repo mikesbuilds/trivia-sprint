@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-14",
+  "date": "2026-12-15",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which canal opened in 1869 linking the Mediterranean and the Red Sea?",
+      "prompt": "The Ottoman Empire finally dissolved in the aftermath of which war?",
       "options": [
-        "The Kiel Canal",
-        "The Corinth Canal",
-        "The Suez Canal",
-        "The Panama Canal"
+        "The Balkan Wars",
+        "The Crimean War",
+        "The Second World War",
+        "The First World War"
       ],
-      "answerIndex": 2,
-      "fact": "It has no locks, because the two seas it joins sit at effectively the same level."
+      "answerIndex": 3,
+      "fact": "The sultanate was abolished in 1922 and the republic proclaimed the following year."
     },
     {
       "category": "Science",
-      "prompt": "What is the name for the study of fossils and ancient life?",
+      "prompt": "What is the term for an animal that maintains a constant internal body temperature?",
       "options": [
-        "Archaeology",
-        "Palaeontology",
-        "Anthropology",
-        "Geology"
+        "Poikilothermic",
+        "Ectothermic",
+        "Heterothermic",
+        "Endothermic"
       ],
-      "answerIndex": 1,
-      "fact": "Mary Anning's finds along the English south coast shaped the field long before women could join scientific societies."
+      "answerIndex": 3,
+      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size."
     },
     {
       "category": "Sports",
-      "prompt": "Which trophy goes to the best goaltender in the NHL each season?",
+      "prompt": "The Copa America is contested by national teams from which continent?",
       "options": [
-        "The Calder Trophy",
-        "The Vezina Trophy",
-        "The Norris Trophy",
-        "The Hart Trophy"
+        "South America",
+        "Asia",
+        "Africa",
+        "Europe"
       ],
-      "answerIndex": 1,
-      "fact": "It is voted on by the league's general managers, and is named after a goaltender who died of tuberculosis in 1926."
+      "answerIndex": 0,
+      "fact": "Launched in 1916, it is the oldest continental championship in international football."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Star Wars series centres on a bounty hunter and a small green foundling?",
+      "prompt": "Which film composer wrote the scores for Interstellar and Dune?",
       "options": [
-        "The Mandalorian",
-        "Andor",
-        "Ahsoka",
-        "Obi-Wan Kenobi"
+        "Hans Zimmer",
+        "Alexandre Desplat",
+        "Howard Shore",
+        "John Williams"
       ],
       "answerIndex": 0,
-      "fact": "It made heavy use of a curved LED video wall to render backgrounds live on set instead of green screen."
+      "fact": "For Interstellar he recorded a church organ, choosing the instrument before knowing much about the plot."
     },
     {
       "category": "Geography",
-      "prompt": "The Great Barrier Reef lies off the coast of which Australian state?",
+      "prompt": "Which two continents are joined by the Isthmus of Suez?",
       "options": [
-        "Victoria",
-        "New South Wales",
-        "Western Australia",
-        "Queensland"
+        "Europe and Asia",
+        "Africa and Europe",
+        "Africa and Asia",
+        "Asia and Oceania"
       ],
-      "answerIndex": 3,
-      "fact": "It stretches over two thousand kilometres and is visible from low Earth orbit."
+      "answerIndex": 2,
+      "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks."
     },
     {
       "category": "Literature",
-      "prompt": "What is the term for a poem of fourteen lines in iambic pentameter?",
+      "prompt": "What is a nineteen-line poem with two repeating refrains called?",
       "options": [
-        "An elegy",
+        "A rondeau",
+        "A ballade",
         "A villanelle",
-        "An ode",
-        "A sonnet"
+        "A sestina"
       ],
-      "answerIndex": 3,
-      "fact": "The Italian and English forms differ in rhyme scheme, and Shakespeare's ends in a rhyming couplet."
+      "answerIndex": 2,
+      "fact": "Dylan Thomas's Do Not Go Gentle is the best-known English example of the form."
     },
     {
       "category": "Technology",
-      "prompt": "What does a compiler do with source code?",
+      "prompt": "Which wireless standard is named after a tenth-century Scandinavian king?",
       "options": [
-        "Translates it into machine code",
-        "Encrypts it",
-        "Formats it",
-        "Compresses it"
+        "Wi-Fi",
+        "Bluetooth",
+        "NFC",
+        "Zigbee"
       ],
-      "answerIndex": 0,
-      "fact": "Grace Hopper built an early one and had to argue that a computer could usefully write its own programs."
+      "answerIndex": 1,
+      "fact": "Its logo combines the runes for that king's initials, and the name was meant to be a temporary placeholder."
     }
   ]
 }

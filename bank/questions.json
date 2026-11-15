@@ -132,19 +132,6 @@
     },
     {
       "category": "History",
-      "prompt": "The Ottoman Empire finally dissolved in the aftermath of which war?",
-      "options": [
-        "The First World War",
-        "The Crimean War",
-        "The Balkan Wars",
-        "The Second World War"
-      ],
-      "answerIndex": 0,
-      "fact": "The sultanate was abolished in 1922 and the republic proclaimed the following year.",
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "Which 1955 bus boycott began in Montgomery, Alabama?",
       "options": [
         "A civil rights protest",
@@ -180,32 +167,6 @@
       ],
       "answerIndex": 0,
       "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which two continents are joined by the Isthmus of Suez?",
-      "options": [
-        "Africa and Asia",
-        "Europe and Asia",
-        "Africa and Europe",
-        "Asia and Oceania"
-      ],
-      "answerIndex": 0,
-      "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which wireless standard is named after a tenth-century Scandinavian king?",
-      "options": [
-        "Bluetooth",
-        "Wi-Fi",
-        "Zigbee",
-        "NFC"
-      ],
-      "answerIndex": 0,
-      "fact": "Its logo combines the runes for that king's initials, and the name was meant to be a temporary placeholder.",
       "source": "curated"
     },
     {
@@ -271,19 +232,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which film composer wrote the scores for Interstellar and Dune?",
-      "options": [
-        "Hans Zimmer",
-        "John Williams",
-        "Howard Shore",
-        "Alexandre Desplat"
-      ],
-      "answerIndex": 0,
-      "fact": "For Interstellar he recorded a church organ, choosing the instrument before knowing much about the plot.",
       "source": "curated"
     },
     {
@@ -379,19 +327,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "The Copa America is contested by national teams from which continent?",
-      "options": [
-        "South America",
-        "Africa",
-        "Asia",
-        "Europe"
-      ],
-      "answerIndex": 0,
-      "fact": "Launched in 1916, it is the oldest continental championship in international football.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "In ten-pin bowling, what is the maximum score achievable in a single game?",
       "options": [
         "300",
@@ -453,19 +388,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "What is a nineteen-line poem with two repeating refrains called?",
-      "options": [
-        "A villanelle",
-        "A sestina",
-        "A ballade",
-        "A rondeau"
-      ],
-      "answerIndex": 0,
-      "fact": "Dylan Thomas's Do Not Go Gentle is the best-known English example of the form.",
       "source": "curated"
     },
     {
@@ -622,19 +544,6 @@
       ],
       "answerIndex": 0,
       "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
-      "prompt": "What is the term for an animal that maintains a constant internal body temperature?",
-      "options": [
-        "Endothermic",
-        "Ectothermic",
-        "Poikilothermic",
-        "Heterothermic"
-      ],
-      "answerIndex": 0,
-      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size.",
       "source": "curated"
     },
     {

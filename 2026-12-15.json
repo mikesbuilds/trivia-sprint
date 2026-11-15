@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-15",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Ottoman Empire finally dissolved in the aftermath of which war?",
+      "options": [
+        "The Balkan Wars",
+        "The Crimean War",
+        "The Second World War",
+        "The First World War"
+      ],
+      "answerIndex": 3,
+      "fact": "The sultanate was abolished in 1922 and the republic proclaimed the following year."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for an animal that maintains a constant internal body temperature?",
+      "options": [
+        "Poikilothermic",
+        "Ectothermic",
+        "Heterothermic",
+        "Endothermic"
+      ],
+      "answerIndex": 3,
+      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Copa America is contested by national teams from which continent?",
+      "options": [
+        "South America",
+        "Asia",
+        "Africa",
+        "Europe"
+      ],
+      "answerIndex": 0,
+      "fact": "Launched in 1916, it is the oldest continental championship in international football."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which film composer wrote the scores for Interstellar and Dune?",
+      "options": [
+        "Hans Zimmer",
+        "Alexandre Desplat",
+        "Howard Shore",
+        "John Williams"
+      ],
+      "answerIndex": 0,
+      "fact": "For Interstellar he recorded a church organ, choosing the instrument before knowing much about the plot."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which two continents are joined by the Isthmus of Suez?",
+      "options": [
+        "Europe and Asia",
+        "Africa and Europe",
+        "Africa and Asia",
+        "Asia and Oceania"
+      ],
+      "answerIndex": 2,
+      "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks."
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is a nineteen-line poem with two repeating refrains called?",
+      "options": [
+        "A rondeau",
+        "A ballade",
+        "A villanelle",
+        "A sestina"
+      ],
+      "answerIndex": 2,
+      "fact": "Dylan Thomas's Do Not Go Gentle is the best-known English example of the form."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which wireless standard is named after a tenth-century Scandinavian king?",
+      "options": [
+        "Wi-Fi",
+        "Bluetooth",
+        "NFC",
+        "Zigbee"
+      ],
+      "answerIndex": 1,
+      "fact": "Its logo combines the runes for that king's initials, and the name was meant to be a temporary placeholder."
+    }
+  ]
+}
