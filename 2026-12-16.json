@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-16",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which 1955 bus boycott began in Montgomery, Alabama?",
+      "options": [
+        "A labour strike",
+        "A civil rights protest",
+        "A fuel protest",
+        "A fare strike"
+      ],
+      "answerIndex": 1,
+      "fact": "It lasted over a year, and the city's buses were desegregated only after a Supreme Court ruling."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which particle carries a negative charge and orbits the atomic nucleus?",
+      "options": [
+        "The positron",
+        "The neutron",
+        "The electron",
+        "The proton"
+      ],
+      "answerIndex": 2,
+      "fact": "Its mass is roughly one eighteen-hundredth that of a proton, so almost all of an atom's mass sits in the nucleus."
+    },
+    {
+      "category": "Sports",
+      "prompt": "In ten-pin bowling, what is the maximum score achievable in a single game?",
+      "options": [
+        "250",
+        "200",
+        "300",
+        "400"
+      ],
+      "answerIndex": 2,
+      "fact": "It requires twelve consecutive strikes, because the final frame allows two bonus deliveries."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which 1975 film opens with a shark attack on a night swimmer?",
+      "options": [
+        "Orca",
+        "Jaws",
+        "The Deep",
+        "Piranha"
+      ],
+      "answerIndex": 1,
+      "fact": "The mechanical shark broke down so often that the creature was largely kept off screen, which made it more frightening."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which city is the most populous in South America?",
+      "options": [
+        "Buenos Aires",
+        "Bogota",
+        "Lima",
+        "Sao Paulo"
+      ],
+      "answerIndex": 3,
+      "fact": "Its metropolitan area holds over twenty million people, more than many countries on the continent."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which prize is awarded annually for a novel written in English and published in the UK?",
+      "options": [
+        "The Booker Prize",
+        "The Prix Goncourt",
+        "The Hugo Award",
+        "The Pulitzer Prize"
+      ],
+      "answerIndex": 0,
+      "fact": "It was opened to any novel published in the UK regardless of author nationality in 2014, a change that remains contested."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does a VPN primarily provide to a user?",
+      "options": [
+        "Better battery life",
+        "Faster hardware",
+        "More storage",
+        "An encrypted network tunnel"
+      ],
+      "answerIndex": 3,
+      "fact": "It hides traffic from the local network, but the provider operating it can still see where the traffic goes."
+    }
+  ]
+}

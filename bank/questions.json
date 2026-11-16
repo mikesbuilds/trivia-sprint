@@ -132,19 +132,6 @@
     },
     {
       "category": "History",
-      "prompt": "Which 1955 bus boycott began in Montgomery, Alabama?",
-      "options": [
-        "A civil rights protest",
-        "A labour strike",
-        "A fuel protest",
-        "A fare strike"
-      ],
-      "answerIndex": 0,
-      "fact": "It lasted over a year, and the city's buses were desegregated only after a Supreme Court ruling.",
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Palace of Versailles was chiefly built for which monarch?",
       "options": [
         "Louis XIV",
@@ -167,19 +154,6 @@
       ],
       "answerIndex": 0,
       "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does a VPN primarily provide to a user?",
-      "options": [
-        "An encrypted network tunnel",
-        "Faster hardware",
-        "More storage",
-        "Better battery life"
-      ],
-      "answerIndex": 0,
-      "fact": "It hides traffic from the local network, but the provider operating it can still see where the traffic goes.",
       "source": "curated"
     },
     {
@@ -232,19 +206,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which 1975 film opens with a shark attack on a night swimmer?",
-      "options": [
-        "Jaws",
-        "Orca",
-        "The Deep",
-        "Piranha"
-      ],
-      "answerIndex": 0,
-      "fact": "The mechanical shark broke down so often that the creature was largely kept off screen, which made it more frightening.",
       "source": "curated"
     },
     {
@@ -327,19 +288,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "In ten-pin bowling, what is the maximum score achievable in a single game?",
-      "options": [
-        "300",
-        "250",
-        "200",
-        "400"
-      ],
-      "answerIndex": 0,
-      "fact": "It requires twelve consecutive strikes, because the final frame allows two bonus deliveries.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which sport features the positions hooker, flanker and fly-half?",
       "options": [
         "Rugby union",
@@ -388,19 +336,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which prize is awarded annually for a novel written in English and published in the UK?",
-      "options": [
-        "The Booker Prize",
-        "The Pulitzer Prize",
-        "The Prix Goncourt",
-        "The Hugo Award"
-      ],
-      "answerIndex": 0,
-      "fact": "It was opened to any novel published in the UK regardless of author nationality in 2014, a change that remains contested.",
       "source": "curated"
     },
     {
@@ -548,19 +483,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which particle carries a negative charge and orbits the atomic nucleus?",
-      "options": [
-        "The electron",
-        "The proton",
-        "The neutron",
-        "The positron"
-      ],
-      "answerIndex": 0,
-      "fact": "Its mass is roughly one eighteen-hundredth that of a proton, so almost all of an atom's mass sits in the nucleus.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which branch of biology studies the interaction of organisms with their environment?",
       "options": [
         "Ecology",
@@ -674,19 +596,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which city is the most populous in South America?",
-      "options": [
-        "Sao Paulo",
-        "Buenos Aires",
-        "Lima",
-        "Bogota"
-      ],
-      "answerIndex": 0,
-      "fact": "Its metropolitan area holds over twenty million people, more than many countries on the continent.",
       "source": "curated"
     },
     {

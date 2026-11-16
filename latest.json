@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-15",
+  "date": "2026-12-16",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Ottoman Empire finally dissolved in the aftermath of which war?",
+      "prompt": "Which 1955 bus boycott began in Montgomery, Alabama?",
       "options": [
-        "The Balkan Wars",
-        "The Crimean War",
-        "The Second World War",
-        "The First World War"
+        "A labour strike",
+        "A civil rights protest",
+        "A fuel protest",
+        "A fare strike"
       ],
-      "answerIndex": 3,
-      "fact": "The sultanate was abolished in 1922 and the republic proclaimed the following year."
+      "answerIndex": 1,
+      "fact": "It lasted over a year, and the city's buses were desegregated only after a Supreme Court ruling."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for an animal that maintains a constant internal body temperature?",
+      "prompt": "Which particle carries a negative charge and orbits the atomic nucleus?",
       "options": [
-        "Poikilothermic",
-        "Ectothermic",
-        "Heterothermic",
-        "Endothermic"
+        "The positron",
+        "The neutron",
+        "The electron",
+        "The proton"
       ],
-      "answerIndex": 3,
-      "fact": "Maintaining it is metabolically expensive, which is why such animals must eat far more than cold-blooded ones of similar size."
+      "answerIndex": 2,
+      "fact": "Its mass is roughly one eighteen-hundredth that of a proton, so almost all of an atom's mass sits in the nucleus."
     },
     {
       "category": "Sports",
-      "prompt": "The Copa America is contested by national teams from which continent?",
+      "prompt": "In ten-pin bowling, what is the maximum score achievable in a single game?",
       "options": [
-        "South America",
-        "Asia",
-        "Africa",
-        "Europe"
+        "250",
+        "200",
+        "300",
+        "400"
       ],
-      "answerIndex": 0,
-      "fact": "Launched in 1916, it is the oldest continental championship in international football."
+      "answerIndex": 2,
+      "fact": "It requires twelve consecutive strikes, because the final frame allows two bonus deliveries."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film composer wrote the scores for Interstellar and Dune?",
+      "prompt": "Which 1975 film opens with a shark attack on a night swimmer?",
       "options": [
-        "Hans Zimmer",
-        "Alexandre Desplat",
-        "Howard Shore",
-        "John Williams"
+        "Orca",
+        "Jaws",
+        "The Deep",
+        "Piranha"
       ],
-      "answerIndex": 0,
-      "fact": "For Interstellar he recorded a church organ, choosing the instrument before knowing much about the plot."
+      "answerIndex": 1,
+      "fact": "The mechanical shark broke down so often that the creature was largely kept off screen, which made it more frightening."
     },
     {
       "category": "Geography",
-      "prompt": "Which two continents are joined by the Isthmus of Suez?",
+      "prompt": "Which city is the most populous in South America?",
       "options": [
-        "Europe and Asia",
-        "Africa and Europe",
-        "Africa and Asia",
-        "Asia and Oceania"
+        "Buenos Aires",
+        "Bogota",
+        "Lima",
+        "Sao Paulo"
       ],
-      "answerIndex": 2,
-      "fact": "Cutting the canal through it turned the land bridge into the boundary it now marks."
+      "answerIndex": 3,
+      "fact": "Its metropolitan area holds over twenty million people, more than many countries on the continent."
     },
     {
       "category": "Literature",
-      "prompt": "What is a nineteen-line poem with two repeating refrains called?",
+      "prompt": "Which prize is awarded annually for a novel written in English and published in the UK?",
       "options": [
-        "A rondeau",
-        "A ballade",
-        "A villanelle",
-        "A sestina"
+        "The Booker Prize",
+        "The Prix Goncourt",
+        "The Hugo Award",
+        "The Pulitzer Prize"
       ],
-      "answerIndex": 2,
-      "fact": "Dylan Thomas's Do Not Go Gentle is the best-known English example of the form."
+      "answerIndex": 0,
+      "fact": "It was opened to any novel published in the UK regardless of author nationality in 2014, a change that remains contested."
     },
     {
       "category": "Technology",
-      "prompt": "Which wireless standard is named after a tenth-century Scandinavian king?",
+      "prompt": "What does a VPN primarily provide to a user?",
       "options": [
-        "Wi-Fi",
-        "Bluetooth",
-        "NFC",
-        "Zigbee"
+        "Better battery life",
+        "Faster hardware",
+        "More storage",
+        "An encrypted network tunnel"
       ],
-      "answerIndex": 1,
-      "fact": "Its logo combines the runes for that king's initials, and the name was meant to be a temporary placeholder."
+      "answerIndex": 3,
+      "fact": "It hides traffic from the local network, but the provider operating it can still see where the traffic goes."
     }
   ]
 }
