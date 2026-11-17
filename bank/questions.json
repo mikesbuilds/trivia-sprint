@@ -132,19 +132,6 @@
     },
     {
       "category": "History",
-      "prompt": "The Palace of Versailles was chiefly built for which monarch?",
-      "options": [
-        "Louis XIV",
-        "Louis XVI",
-        "Henry IV",
-        "Francis I"
-      ],
-      "answerIndex": 0,
-      "fact": "Moving the court there kept the nobility under his eye, where attendance at his daily routine became a mark of favour.",
-      "source": "curated"
-    },
-    {
-      "category": "History",
       "prompt": "The Anglo-Zanzibar War is noted chiefly for what distinction?",
       "options": [
         "Its brevity",
@@ -154,19 +141,6 @@
       ],
       "answerIndex": 0,
       "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does the acronym HTTP stand for in a web address?",
-      "options": [
-        "Hypertext Transfer Protocol",
-        "High Throughput Transfer Protocol",
-        "Hyperlink Text Transport Process",
-        "Host Transfer Traffic Protocol"
-      ],
-      "answerIndex": 0,
-      "fact": "Tim Berners-Lee wrote the first version as a single-page specification with just one command.",
       "source": "curated"
     },
     {
@@ -206,19 +180,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which television talent format originated in the Netherlands and uses spinning chairs?",
-      "options": [
-        "The Voice",
-        "X Factor",
-        "Got Talent",
-        "Idols"
-      ],
-      "answerIndex": 0,
-      "fact": "The blind audition stage was the format's selling point, marketed as judging on sound alone.",
       "source": "curated"
     },
     {
@@ -288,19 +249,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features the positions hooker, flanker and fly-half?",
-      "options": [
-        "Rugby union",
-        "American football",
-        "Lacrosse",
-        "Australian rules football"
-      ],
-      "answerIndex": 0,
-      "fact": "The hooker's original job was to hook the ball back with the foot once it entered the scrum.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "The Winter Olympics event of skeleton is raced in what position?",
       "options": [
         "Head first on the front",
@@ -336,19 +284,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "What is the term for the turning point of a dramatic plot?",
-      "options": [
-        "The climax",
-        "The exposition",
-        "The denouement",
-        "The prologue"
-      ],
-      "answerIndex": 0,
-      "fact": "Freytag's pyramid maps five stages of dramatic structure, with this one at the apex.",
       "source": "curated"
     },
     {
@@ -483,19 +418,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which branch of biology studies the interaction of organisms with their environment?",
-      "options": [
-        "Ecology",
-        "Genetics",
-        "Anatomy",
-        "Histology"
-      ],
-      "answerIndex": 0,
-      "fact": "The term was coined in the 1860s from the Greek for household, framing nature as an economy of relationships.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which structure in the human eye focuses light onto the retina?",
       "options": [
         "The lens",
@@ -596,19 +518,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which strait separates mainland Asia from the island of Honshu's northern neighbour?",
-      "options": [
-        "The Tsugaru Strait",
-        "The Korea Strait",
-        "The Taiwan Strait",
-        "The Luzon Strait"
-      ],
-      "answerIndex": 0,
-      "fact": "A rail tunnel runs beneath it, one of the longest undersea tunnels ever constructed.",
       "source": "curated"
     },
     {

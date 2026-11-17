@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-16",
+  "date": "2026-12-17",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which 1955 bus boycott began in Montgomery, Alabama?",
+      "prompt": "The Palace of Versailles was chiefly built for which monarch?",
       "options": [
-        "A labour strike",
-        "A civil rights protest",
-        "A fuel protest",
-        "A fare strike"
+        "Francis I",
+        "Henry IV",
+        "Louis XIV",
+        "Louis XVI"
       ],
-      "answerIndex": 1,
-      "fact": "It lasted over a year, and the city's buses were desegregated only after a Supreme Court ruling."
+      "answerIndex": 2,
+      "fact": "Moving the court there kept the nobility under his eye, where attendance at his daily routine became a mark of favour."
     },
     {
       "category": "Science",
-      "prompt": "Which particle carries a negative charge and orbits the atomic nucleus?",
+      "prompt": "Which branch of biology studies the interaction of organisms with their environment?",
       "options": [
-        "The positron",
-        "The neutron",
-        "The electron",
-        "The proton"
+        "Anatomy",
+        "Genetics",
+        "Histology",
+        "Ecology"
       ],
-      "answerIndex": 2,
-      "fact": "Its mass is roughly one eighteen-hundredth that of a proton, so almost all of an atom's mass sits in the nucleus."
+      "answerIndex": 3,
+      "fact": "The term was coined in the 1860s from the Greek for household, framing nature as an economy of relationships."
     },
     {
       "category": "Sports",
-      "prompt": "In ten-pin bowling, what is the maximum score achievable in a single game?",
+      "prompt": "Which sport features the positions hooker, flanker and fly-half?",
       "options": [
-        "250",
-        "200",
-        "300",
-        "400"
+        "American football",
+        "Australian rules football",
+        "Lacrosse",
+        "Rugby union"
       ],
-      "answerIndex": 2,
-      "fact": "It requires twelve consecutive strikes, because the final frame allows two bonus deliveries."
+      "answerIndex": 3,
+      "fact": "The hooker's original job was to hook the ball back with the foot once it entered the scrum."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which 1975 film opens with a shark attack on a night swimmer?",
+      "prompt": "Which television talent format originated in the Netherlands and uses spinning chairs?",
       "options": [
-        "Orca",
-        "Jaws",
-        "The Deep",
-        "Piranha"
+        "The Voice",
+        "Idols",
+        "X Factor",
+        "Got Talent"
       ],
-      "answerIndex": 1,
-      "fact": "The mechanical shark broke down so often that the creature was largely kept off screen, which made it more frightening."
+      "answerIndex": 0,
+      "fact": "The blind audition stage was the format's selling point, marketed as judging on sound alone."
     },
     {
       "category": "Geography",
-      "prompt": "Which city is the most populous in South America?",
+      "prompt": "Which strait separates mainland Asia from the island of Honshu's northern neighbour?",
       "options": [
-        "Buenos Aires",
-        "Bogota",
-        "Lima",
-        "Sao Paulo"
+        "The Luzon Strait",
+        "The Taiwan Strait",
+        "The Tsugaru Strait",
+        "The Korea Strait"
       ],
-      "answerIndex": 3,
-      "fact": "Its metropolitan area holds over twenty million people, more than many countries on the continent."
+      "answerIndex": 2,
+      "fact": "A rail tunnel runs beneath it, one of the longest undersea tunnels ever constructed."
     },
     {
       "category": "Literature",
-      "prompt": "Which prize is awarded annually for a novel written in English and published in the UK?",
+      "prompt": "What is the term for the turning point of a dramatic plot?",
       "options": [
-        "The Booker Prize",
-        "The Prix Goncourt",
-        "The Hugo Award",
-        "The Pulitzer Prize"
+        "The exposition",
+        "The climax",
+        "The denouement",
+        "The prologue"
       ],
-      "answerIndex": 0,
-      "fact": "It was opened to any novel published in the UK regardless of author nationality in 2014, a change that remains contested."
+      "answerIndex": 1,
+      "fact": "Freytag's pyramid maps five stages of dramatic structure, with this one at the apex."
     },
     {
       "category": "Technology",
-      "prompt": "What does a VPN primarily provide to a user?",
+      "prompt": "What does the acronym HTTP stand for in a web address?",
       "options": [
-        "Better battery life",
-        "Faster hardware",
-        "More storage",
-        "An encrypted network tunnel"
+        "Hypertext Transfer Protocol",
+        "Host Transfer Traffic Protocol",
+        "High Throughput Transfer Protocol",
+        "Hyperlink Text Transport Process"
       ],
-      "answerIndex": 3,
-      "fact": "It hides traffic from the local network, but the provider operating it can still see where the traffic goes."
+      "answerIndex": 0,
+      "fact": "Tim Berners-Lee wrote the first version as a single-page specification with just one command."
     }
   ]
 }

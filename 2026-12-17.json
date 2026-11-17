@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-17",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Palace of Versailles was chiefly built for which monarch?",
+      "options": [
+        "Francis I",
+        "Henry IV",
+        "Louis XIV",
+        "Louis XVI"
+      ],
+      "answerIndex": 2,
+      "fact": "Moving the court there kept the nobility under his eye, where attendance at his daily routine became a mark of favour."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which branch of biology studies the interaction of organisms with their environment?",
+      "options": [
+        "Anatomy",
+        "Genetics",
+        "Histology",
+        "Ecology"
+      ],
+      "answerIndex": 3,
+      "fact": "The term was coined in the 1860s from the Greek for household, framing nature as an economy of relationships."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sport features the positions hooker, flanker and fly-half?",
+      "options": [
+        "American football",
+        "Australian rules football",
+        "Lacrosse",
+        "Rugby union"
+      ],
+      "answerIndex": 3,
+      "fact": "The hooker's original job was to hook the ball back with the foot once it entered the scrum."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which television talent format originated in the Netherlands and uses spinning chairs?",
+      "options": [
+        "The Voice",
+        "Idols",
+        "X Factor",
+        "Got Talent"
+      ],
+      "answerIndex": 0,
+      "fact": "The blind audition stage was the format's selling point, marketed as judging on sound alone."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which strait separates mainland Asia from the island of Honshu's northern neighbour?",
+      "options": [
+        "The Luzon Strait",
+        "The Taiwan Strait",
+        "The Tsugaru Strait",
+        "The Korea Strait"
+      ],
+      "answerIndex": 2,
+      "fact": "A rail tunnel runs beneath it, one of the longest undersea tunnels ever constructed."
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the term for the turning point of a dramatic plot?",
+      "options": [
+        "The exposition",
+        "The climax",
+        "The denouement",
+        "The prologue"
+      ],
+      "answerIndex": 1,
+      "fact": "Freytag's pyramid maps five stages of dramatic structure, with this one at the apex."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym HTTP stand for in a web address?",
+      "options": [
+        "Hypertext Transfer Protocol",
+        "Host Transfer Traffic Protocol",
+        "High Throughput Transfer Protocol",
+        "Hyperlink Text Transport Process"
+      ],
+      "answerIndex": 0,
+      "fact": "Tim Berners-Lee wrote the first version as a single-page specification with just one command."
+    }
+  ]
+}
