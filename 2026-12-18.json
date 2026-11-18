@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-18",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Anglo-Zanzibar War is noted chiefly for what distinction?",
+      "options": [
+        "Its brevity",
+        "Its cost",
+        "Its casualties",
+        "Its length"
+      ],
+      "answerIndex": 0,
+      "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which structure in the human eye focuses light onto the retina?",
+      "options": [
+        "The cornea",
+        "The lens",
+        "The iris",
+        "The pupil"
+      ],
+      "answerIndex": 1,
+      "fact": "It changes shape rather than moving, a mechanism that stiffens with age and causes long-sightedness."
+    },
+    {
+      "category": "Sports",
+      "prompt": "The Winter Olympics event of skeleton is raced in what position?",
+      "options": [
+        "Feet first on the back",
+        "Standing",
+        "Head first on the front",
+        "Seated upright"
+      ],
+      "answerIndex": 2,
+      "fact": "Riders reach speeds over 120 kilometres per hour with their chin only centimetres above the ice."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated sitcom features a scientist and his grandson travelling between dimensions?",
+      "options": [
+        "Final Space",
+        "Rick and Morty",
+        "Solar Opposites",
+        "Futurama"
+      ],
+      "answerIndex": 1,
+      "fact": "It grew out of a crude animated short parodying a well-known time-travel film."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country's territory includes the northernmost permanently inhabited settlements?",
+      "options": [
+        "Norway",
+        "Russia",
+        "Canada",
+        "Denmark"
+      ],
+      "answerIndex": 2,
+      "fact": "Alert, on Ellesmere Island, lies roughly eight hundred kilometres from the North Pole."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Russian author wrote the play The Cherry Orchard?",
+      "options": [
+        "Maxim Gorky",
+        "Ivan Turgenev",
+        "Alexander Pushkin",
+        "Anton Chekhov"
+      ],
+      "answerIndex": 3,
+      "fact": "He called it a comedy; its first director staged it as a tragedy, and the argument has never quite been settled."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which storage technology has no moving parts and uses flash memory?",
+      "options": [
+        "A hard disk drive",
+        "An optical drive",
+        "A tape drive",
+        "A solid state drive"
+      ],
+      "answerIndex": 3,
+      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
+    }
+  ]
+}

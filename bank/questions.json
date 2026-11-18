@@ -131,32 +131,6 @@
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
     },
     {
-      "category": "History",
-      "prompt": "The Anglo-Zanzibar War is noted chiefly for what distinction?",
-      "options": [
-        "Its brevity",
-        "Its length",
-        "Its casualties",
-        "Its cost"
-      ],
-      "answerIndex": 0,
-      "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which storage technology has no moving parts and uses flash memory?",
-      "options": [
-        "A solid state drive",
-        "A hard disk drive",
-        "An optical drive",
-        "A tape drive"
-      ],
-      "answerIndex": 0,
-      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device.",
-      "source": "curated"
-    },
-    {
       "category": "Technology",
       "prompt": "What is the base of the binary number system?",
       "options": [
@@ -180,19 +154,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which animated sitcom features a scientist and his grandson travelling between dimensions?",
-      "options": [
-        "Rick and Morty",
-        "Futurama",
-        "Solar Opposites",
-        "Final Space"
-      ],
-      "answerIndex": 0,
-      "fact": "It grew out of a crude animated short parodying a well-known time-travel film.",
       "source": "curated"
     },
     {
@@ -249,19 +210,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "The Winter Olympics event of skeleton is raced in what position?",
-      "options": [
-        "Head first on the front",
-        "Feet first on the back",
-        "Seated upright",
-        "Standing"
-      ],
-      "answerIndex": 0,
-      "fact": "Riders reach speeds over 120 kilometres per hour with their chin only centimetres above the ice.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which nation has won the most Olympic medals in table tennis?",
       "options": [
         "China",
@@ -284,19 +232,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which Russian author wrote the play The Cherry Orchard?",
-      "options": [
-        "Anton Chekhov",
-        "Maxim Gorky",
-        "Ivan Turgenev",
-        "Alexander Pushkin"
-      ],
-      "answerIndex": 0,
-      "fact": "He called it a comedy; its first director staged it as a tragedy, and the argument has never quite been settled.",
       "source": "curated"
     },
     {
@@ -418,19 +353,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which structure in the human eye focuses light onto the retina?",
-      "options": [
-        "The lens",
-        "The cornea",
-        "The iris",
-        "The pupil"
-      ],
-      "answerIndex": 0,
-      "fact": "It changes shape rather than moving, a mechanism that stiffens with age and causes long-sightedness.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the variety of living organisms within an ecosystem?",
       "options": [
         "Biodiversity",
@@ -518,19 +440,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country's territory includes the northernmost permanently inhabited settlements?",
-      "options": [
-        "Canada",
-        "Norway",
-        "Russia",
-        "Denmark"
-      ],
-      "answerIndex": 0,
-      "fact": "Alert, on Ellesmere Island, lies roughly eight hundred kilometres from the North Pole.",
       "source": "curated"
     },
     {

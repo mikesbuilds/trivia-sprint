@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-17",
+  "date": "2026-12-18",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Palace of Versailles was chiefly built for which monarch?",
+      "prompt": "The Anglo-Zanzibar War is noted chiefly for what distinction?",
       "options": [
-        "Francis I",
-        "Henry IV",
-        "Louis XIV",
-        "Louis XVI"
+        "Its brevity",
+        "Its cost",
+        "Its casualties",
+        "Its length"
       ],
-      "answerIndex": 2,
-      "fact": "Moving the court there kept the nobility under his eye, where attendance at his daily routine became a mark of favour."
+      "answerIndex": 0,
+      "fact": "Fighting is generally recorded as lasting under forty-five minutes, making it the shortest war on record."
     },
     {
       "category": "Science",
-      "prompt": "Which branch of biology studies the interaction of organisms with their environment?",
+      "prompt": "Which structure in the human eye focuses light onto the retina?",
       "options": [
-        "Anatomy",
-        "Genetics",
-        "Histology",
-        "Ecology"
+        "The cornea",
+        "The lens",
+        "The iris",
+        "The pupil"
       ],
-      "answerIndex": 3,
-      "fact": "The term was coined in the 1860s from the Greek for household, framing nature as an economy of relationships."
+      "answerIndex": 1,
+      "fact": "It changes shape rather than moving, a mechanism that stiffens with age and causes long-sightedness."
     },
     {
       "category": "Sports",
-      "prompt": "Which sport features the positions hooker, flanker and fly-half?",
+      "prompt": "The Winter Olympics event of skeleton is raced in what position?",
       "options": [
-        "American football",
-        "Australian rules football",
-        "Lacrosse",
-        "Rugby union"
+        "Feet first on the back",
+        "Standing",
+        "Head first on the front",
+        "Seated upright"
       ],
-      "answerIndex": 3,
-      "fact": "The hooker's original job was to hook the ball back with the foot once it entered the scrum."
+      "answerIndex": 2,
+      "fact": "Riders reach speeds over 120 kilometres per hour with their chin only centimetres above the ice."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which television talent format originated in the Netherlands and uses spinning chairs?",
+      "prompt": "Which animated sitcom features a scientist and his grandson travelling between dimensions?",
       "options": [
-        "The Voice",
-        "Idols",
-        "X Factor",
-        "Got Talent"
+        "Final Space",
+        "Rick and Morty",
+        "Solar Opposites",
+        "Futurama"
       ],
-      "answerIndex": 0,
-      "fact": "The blind audition stage was the format's selling point, marketed as judging on sound alone."
+      "answerIndex": 1,
+      "fact": "It grew out of a crude animated short parodying a well-known time-travel film."
     },
     {
       "category": "Geography",
-      "prompt": "Which strait separates mainland Asia from the island of Honshu's northern neighbour?",
+      "prompt": "Which country's territory includes the northernmost permanently inhabited settlements?",
       "options": [
-        "The Luzon Strait",
-        "The Taiwan Strait",
-        "The Tsugaru Strait",
-        "The Korea Strait"
+        "Norway",
+        "Russia",
+        "Canada",
+        "Denmark"
       ],
       "answerIndex": 2,
-      "fact": "A rail tunnel runs beneath it, one of the longest undersea tunnels ever constructed."
+      "fact": "Alert, on Ellesmere Island, lies roughly eight hundred kilometres from the North Pole."
     },
     {
       "category": "Literature",
-      "prompt": "What is the term for the turning point of a dramatic plot?",
+      "prompt": "Which Russian author wrote the play The Cherry Orchard?",
       "options": [
-        "The exposition",
-        "The climax",
-        "The denouement",
-        "The prologue"
+        "Maxim Gorky",
+        "Ivan Turgenev",
+        "Alexander Pushkin",
+        "Anton Chekhov"
       ],
-      "answerIndex": 1,
-      "fact": "Freytag's pyramid maps five stages of dramatic structure, with this one at the apex."
+      "answerIndex": 3,
+      "fact": "He called it a comedy; its first director staged it as a tragedy, and the argument has never quite been settled."
     },
     {
       "category": "Technology",
-      "prompt": "What does the acronym HTTP stand for in a web address?",
+      "prompt": "Which storage technology has no moving parts and uses flash memory?",
       "options": [
-        "Hypertext Transfer Protocol",
-        "Host Transfer Traffic Protocol",
-        "High Throughput Transfer Protocol",
-        "Hyperlink Text Transport Process"
+        "A hard disk drive",
+        "An optical drive",
+        "A tape drive",
+        "A solid state drive"
       ],
-      "answerIndex": 0,
-      "fact": "Tim Berners-Lee wrote the first version as a single-page specification with just one command."
+      "answerIndex": 3,
+      "fact": "Each cell tolerates a limited number of writes, so controllers spread wear evenly across the whole device."
     }
   ]
 }
