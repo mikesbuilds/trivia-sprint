@@ -132,19 +132,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "What is the base of the binary number system?",
-      "options": [
-        "Two",
-        "Eight",
-        "Ten",
-        "Sixteen"
-      ],
-      "answerIndex": 0,
-      "fact": "Leibniz described the system in 1703 and saw a theological elegance in representing everything with one and nothing.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
       "prompt": "Which encryption approach uses a public key and a private key?",
       "options": [
         "Asymmetric cryptography",
@@ -154,19 +141,6 @@
       ],
       "answerIndex": 0,
       "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which comic publisher created the characters Wonder Woman and Aquaman?",
-      "options": [
-        "DC Comics",
-        "Marvel Comics",
-        "Image Comics",
-        "Dark Horse"
-      ],
-      "answerIndex": 0,
-      "fact": "Wonder Woman's creator also helped develop an early lie detector, which informs her lasso of truth.",
       "source": "curated"
     },
     {
@@ -210,19 +184,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which nation has won the most Olympic medals in table tennis?",
-      "options": [
-        "China",
-        "Japan",
-        "South Korea",
-        "Germany"
-      ],
-      "answerIndex": 0,
-      "fact": "Its dominance has been so consistent that the rules on how many entrants one country may field were tightened.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which competition is decided by the Claret Jug?",
       "options": [
         "The Open Championship",
@@ -232,19 +193,6 @@
       ],
       "answerIndex": 0,
       "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "What is the term for a story's narrator who cannot be fully trusted?",
-      "options": [
-        "An unreliable narrator",
-        "An omniscient narrator",
-        "A frame narrator",
-        "A chorus"
-      ],
-      "answerIndex": 0,
-      "fact": "The reader is usually meant to notice the gap between what is told and what actually happened.",
       "source": "curated"
     },
     {
@@ -353,19 +301,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the variety of living organisms within an ecosystem?",
-      "options": [
-        "Biodiversity",
-        "Biomass",
-        "Biome",
-        "Biosphere"
-      ],
-      "answerIndex": 0,
-      "fact": "A system with more of it generally recovers faster from disturbance, because more species can fill a lost role.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which gas makes up roughly seventy-eight percent of Earth's atmosphere?",
       "options": [
         "Nitrogen",
@@ -440,19 +375,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which region of Finland and neighbouring countries is home to the Sami people?",
-      "options": [
-        "Lapland",
-        "Karelia",
-        "Ostrobothnia",
-        "Savonia"
-      ],
-      "answerIndex": 0,
-      "fact": "The region crosses four national borders, and reindeer herding remains a legally protected Sami livelihood in parts of it.",
       "source": "curated"
     },
     {
@@ -714,19 +636,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which crusade ended with the sacking of Constantinople rather than reaching Jerusalem?",
-      "options": [
-        "The Fourth Crusade",
-        "The Sixth Crusade",
-        "The Second Crusade",
-        "The First Crusade"
-      ],
-      "answerIndex": 0,
-      "fact": "Venice had financed the fleet and redirected it to settle debts, so the largest Christian city in the world was sacked by a Christian army.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
