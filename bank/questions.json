@@ -131,32 +131,6 @@
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
     },
     {
-      "category": "Technology",
-      "prompt": "Which encryption approach uses a public key and a private key?",
-      "options": [
-        "Asymmetric cryptography",
-        "Symmetric cryptography",
-        "Hashing",
-        "Steganography"
-      ],
-      "answerIndex": 0,
-      "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which Japanese art form uses hand-drawn frames and includes works like Akira?",
-      "options": [
-        "Anime",
-        "Kabuki",
-        "Bunraku",
-        "Noh"
-      ],
-      "answerIndex": 0,
-      "fact": "Akira's production drew over a hundred thousand cels and animated mouths to match dialogue recorded in advance, which was unusual at the time.",
-      "source": "curated"
-    },
-    {
       "category": "Pop Culture",
       "prompt": "Which board game involves deducing a murderer, weapon and room?",
       "options": [
@@ -180,32 +154,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which competition is decided by the Claret Jug?",
-      "options": [
-        "The Open Championship",
-        "The Masters",
-        "The Players Championship",
-        "The Ryder Cup"
-      ],
-      "answerIndex": 0,
-      "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which Greek dramatist wrote Oedipus Rex?",
-      "options": [
-        "Sophocles",
-        "Euripides",
-        "Aeschylus",
-        "Aristophanes"
-      ],
-      "answerIndex": 0,
-      "fact": "Only seven of his roughly 120 plays survive complete, most of them from his later career.",
       "source": "curated"
     },
     {
@@ -301,19 +249,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which gas makes up roughly seventy-eight percent of Earth's atmosphere?",
-      "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Argon",
-        "Carbon dioxide"
-      ],
-      "answerIndex": 0,
-      "fact": "Its triple bond is so strong that most life cannot use it directly, relying on bacteria to fix it into usable compounds.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for a mutually beneficial relationship between two species?",
       "options": [
         "Mutualism",
@@ -375,19 +310,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which South American capital sits at the highest elevation?",
-      "options": [
-        "La Paz",
-        "Quito",
-        "Bogota",
-        "Asuncion"
-      ],
-      "answerIndex": 0,
-      "fact": "Visitors commonly need days to acclimatise, and aircraft require longer runways in the thin air.",
       "source": "curated"
     },
     {
@@ -636,19 +558,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which sultan retook Jerusalem from the crusader states in 1187?",
-      "options": [
-        "Mehmed II",
-        "Saladin",
-        "Suleiman the Magnificent",
-        "Baibars"
-      ],
-      "answerIndex": 1,
-      "fact": "He let the defeated inhabitants ransom themselves and quietly paid for many of the poorest, which is why European chroniclers wrote of him admiringly.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",

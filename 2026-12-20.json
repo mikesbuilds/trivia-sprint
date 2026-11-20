@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-20",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which sultan retook Jerusalem from the crusader states in 1187?",
+      "options": [
+        "Mehmed II",
+        "Baibars",
+        "Suleiman the Magnificent",
+        "Saladin"
+      ],
+      "answerIndex": 3,
+      "fact": "He let the defeated inhabitants ransom themselves and quietly paid for many of the poorest, which is why European chroniclers wrote of him admiringly."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which gas makes up roughly seventy-eight percent of Earth's atmosphere?",
+      "options": [
+        "Argon",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answerIndex": 2,
+      "fact": "Its triple bond is so strong that most life cannot use it directly, relying on bacteria to fix it into usable compounds."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which competition is decided by the Claret Jug?",
+      "options": [
+        "The Open Championship",
+        "The Players Championship",
+        "The Ryder Cup",
+        "The Masters"
+      ],
+      "answerIndex": 0,
+      "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Japanese art form uses hand-drawn frames and includes works like Akira?",
+      "options": [
+        "Noh",
+        "Kabuki",
+        "Anime",
+        "Bunraku"
+      ],
+      "answerIndex": 2,
+      "fact": "Akira's production drew over a hundred thousand cels and animated mouths to match dialogue recorded in advance, which was unusual at the time."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which South American capital sits at the highest elevation?",
+      "options": [
+        "Bogota",
+        "La Paz",
+        "Quito",
+        "Asuncion"
+      ],
+      "answerIndex": 1,
+      "fact": "Visitors commonly need days to acclimatise, and aircraft require longer runways in the thin air."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which Greek dramatist wrote Oedipus Rex?",
+      "options": [
+        "Euripides",
+        "Sophocles",
+        "Aristophanes",
+        "Aeschylus"
+      ],
+      "answerIndex": 1,
+      "fact": "Only seven of his roughly 120 plays survive complete, most of them from his later career."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which encryption approach uses a public key and a private key?",
+      "options": [
+        "Asymmetric cryptography",
+        "Steganography",
+        "Hashing",
+        "Symmetric cryptography"
+      ],
+      "answerIndex": 0,
+      "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel."
+    }
+  ]
+}

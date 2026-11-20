@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-19",
+  "date": "2026-12-20",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which crusade ended with the sacking of Constantinople rather than reaching Jerusalem?",
+      "prompt": "Which sultan retook Jerusalem from the crusader states in 1187?",
       "options": [
-        "The Second Crusade",
-        "The Fourth Crusade",
-        "The First Crusade",
-        "The Sixth Crusade"
+        "Mehmed II",
+        "Baibars",
+        "Suleiman the Magnificent",
+        "Saladin"
       ],
-      "answerIndex": 1,
-      "fact": "Venice had financed the fleet and redirected it to settle debts, so the largest Christian city in the world was sacked by a Christian army."
+      "answerIndex": 3,
+      "fact": "He let the defeated inhabitants ransom themselves and quietly paid for many of the poorest, which is why European chroniclers wrote of him admiringly."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for the variety of living organisms within an ecosystem?",
+      "prompt": "Which gas makes up roughly seventy-eight percent of Earth's atmosphere?",
       "options": [
-        "Biodiversity",
-        "Biome",
-        "Biomass",
-        "Biosphere"
+        "Argon",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
       ],
-      "answerIndex": 0,
-      "fact": "A system with more of it generally recovers faster from disturbance, because more species can fill a lost role."
+      "answerIndex": 2,
+      "fact": "Its triple bond is so strong that most life cannot use it directly, relying on bacteria to fix it into usable compounds."
     },
     {
       "category": "Sports",
-      "prompt": "Which nation has won the most Olympic medals in table tennis?",
+      "prompt": "Which competition is decided by the Claret Jug?",
       "options": [
-        "South Korea",
-        "Japan",
-        "China",
-        "Germany"
+        "The Open Championship",
+        "The Players Championship",
+        "The Ryder Cup",
+        "The Masters"
       ],
-      "answerIndex": 2,
-      "fact": "Its dominance has been so consistent that the rules on how many entrants one country may field were tightened."
+      "answerIndex": 0,
+      "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which comic publisher created the characters Wonder Woman and Aquaman?",
+      "prompt": "Which Japanese art form uses hand-drawn frames and includes works like Akira?",
       "options": [
-        "Marvel Comics",
-        "Dark Horse",
-        "Image Comics",
-        "DC Comics"
+        "Noh",
+        "Kabuki",
+        "Anime",
+        "Bunraku"
       ],
-      "answerIndex": 3,
-      "fact": "Wonder Woman's creator also helped develop an early lie detector, which informs her lasso of truth."
+      "answerIndex": 2,
+      "fact": "Akira's production drew over a hundred thousand cels and animated mouths to match dialogue recorded in advance, which was unusual at the time."
     },
     {
       "category": "Geography",
-      "prompt": "Which region of Finland and neighbouring countries is home to the Sami people?",
+      "prompt": "Which South American capital sits at the highest elevation?",
       "options": [
-        "Ostrobothnia",
-        "Lapland",
-        "Karelia",
-        "Savonia"
+        "Bogota",
+        "La Paz",
+        "Quito",
+        "Asuncion"
       ],
       "answerIndex": 1,
-      "fact": "The region crosses four national borders, and reindeer herding remains a legally protected Sami livelihood in parts of it."
+      "fact": "Visitors commonly need days to acclimatise, and aircraft require longer runways in the thin air."
     },
     {
       "category": "Literature",
-      "prompt": "What is the term for a story's narrator who cannot be fully trusted?",
+      "prompt": "Which Greek dramatist wrote Oedipus Rex?",
       "options": [
-        "An omniscient narrator",
-        "A chorus",
-        "A frame narrator",
-        "An unreliable narrator"
+        "Euripides",
+        "Sophocles",
+        "Aristophanes",
+        "Aeschylus"
       ],
-      "answerIndex": 3,
-      "fact": "The reader is usually meant to notice the gap between what is told and what actually happened."
+      "answerIndex": 1,
+      "fact": "Only seven of his roughly 120 plays survive complete, most of them from his later career."
     },
     {
       "category": "Technology",
-      "prompt": "What is the base of the binary number system?",
+      "prompt": "Which encryption approach uses a public key and a private key?",
       "options": [
-        "Sixteen",
-        "Ten",
-        "Two",
-        "Eight"
+        "Asymmetric cryptography",
+        "Steganography",
+        "Hashing",
+        "Symmetric cryptography"
       ],
-      "answerIndex": 2,
-      "fact": "Leibniz described the system in 1703 and saw a theological elegance in representing everything with one and nothing."
+      "answerIndex": 0,
+      "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel."
     }
   ]
 }
