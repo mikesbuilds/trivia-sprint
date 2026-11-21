@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-21",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Indian emperor renounced warfare after the bloody conquest of Kalinga?",
+      "options": [
+        "Chandragupta Maurya",
+        "Akbar",
+        "Harsha",
+        "Ashoka"
+      ],
+      "answerIndex": 3,
+      "fact": "His edicts, carved onto pillars across the subcontinent, are among the oldest deciphered writing in India and read as public apologies."
+    },
+    {
+      "category": "Science",
+      "prompt": "What is the term for a mutually beneficial relationship between two species?",
+      "options": [
+        "Predation",
+        "Mutualism",
+        "Parasitism",
+        "Commensalism"
+      ],
+      "answerIndex": 1,
+      "fact": "Lichens are a classic case, combining a fungus with an alga or cyanobacterium into a single functioning organism."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which gymnast recorded the first perfect ten in Olympic competition, at Montreal in 1976?",
+      "options": [
+        "Nadia Comaneci",
+        "Ludmilla Tourischeva",
+        "Olga Korbut",
+        "Vera Caslavska"
+      ],
+      "answerIndex": 0,
+      "fact": "The scoreboard could not display four digits and showed 1.00 instead, because nobody had built it expecting the score to be reached."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which board game involves deducing a murderer, weapon and room?",
+      "options": [
+        "Cluedo",
+        "Sleuth",
+        "Mysterium",
+        "Scotland Yard"
+      ],
+      "answerIndex": 0,
+      "fact": "It was devised in Britain during the Second World War by a solicitor's clerk to pass the time in air raid shelters."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which peninsula is occupied largely by Saudi Arabia?",
+      "options": [
+        "The Horn of Africa",
+        "The Deccan",
+        "The Sinai Peninsula",
+        "The Arabian Peninsula"
+      ],
+      "answerIndex": 3,
+      "fact": "It contains the largest continuous sand desert in the world, the Rub al Khali or Empty Quarter."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel is narrated by a boy sharing a lifeboat with a tiger?",
+      "options": [
+        "The Old Man and the Sea",
+        "Life of Pi",
+        "Kon-Tiki",
+        "The Wreck"
+      ],
+      "answerIndex": 1,
+      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What does the acronym RAM stand for in computing?",
+      "options": [
+        "Readable Archive Module",
+        "Runtime Allocation Map",
+        "Random Access Memory",
+        "Rapid Active Memory"
+      ],
+      "answerIndex": 2,
+      "fact": "It is volatile, meaning its contents vanish when power is cut, which is why work must be saved to a drive."
+    }
+  ]
+}

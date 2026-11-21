@@ -132,19 +132,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which board game involves deducing a murderer, weapon and room?",
-      "options": [
-        "Cluedo",
-        "Scotland Yard",
-        "Mysterium",
-        "Sleuth"
-      ],
-      "answerIndex": 0,
-      "fact": "It was devised in Britain during the Second World War by a solicitor's clerk to pass the time in air raid shelters.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which streaming series is set in a small Indiana town beset by a parallel dimension?",
       "options": [
         "Stranger Things",
@@ -154,19 +141,6 @@
       ],
       "answerIndex": 0,
       "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel is narrated by a boy sharing a lifeboat with a tiger?",
-      "options": [
-        "Life of Pi",
-        "The Old Man and the Sea",
-        "Kon-Tiki",
-        "The Wreck"
-      ],
-      "answerIndex": 0,
-      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals.",
       "source": "curated"
     },
     {
@@ -249,19 +223,6 @@
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a mutually beneficial relationship between two species?",
-      "options": [
-        "Mutualism",
-        "Parasitism",
-        "Commensalism",
-        "Predation"
-      ],
-      "answerIndex": 0,
-      "fact": "Lichens are a classic case, combining a fungus with an alga or cyanobacterium into a single functioning organism.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which instrument measures atmospheric pressure?",
       "options": [
         "A barometer",
@@ -314,19 +275,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which peninsula is occupied largely by Saudi Arabia?",
-      "options": [
-        "The Arabian Peninsula",
-        "The Sinai Peninsula",
-        "The Horn of Africa",
-        "The Deccan"
-      ],
-      "answerIndex": 0,
-      "fact": "It contains the largest continuous sand desert in the world, the Rub al Khali or Empty Quarter.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which country is known in its own language as Suomi?",
       "options": [
         "Finland",
@@ -336,19 +284,6 @@
       ],
       "answerIndex": 0,
       "fact": "Its language belongs to the Finno-Ugric family, unrelated to the Germanic and Slavic tongues around it.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does the acronym RAM stand for in computing?",
-      "options": [
-        "Random Access Memory",
-        "Rapid Active Memory",
-        "Readable Archive Module",
-        "Runtime Allocation Map"
-      ],
-      "answerIndex": 0,
-      "fact": "It is volatile, meaning its contents vanish when power is cut, which is why work must be saved to a drive.",
       "source": "curated"
     },
     {
@@ -558,19 +493,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which Indian emperor renounced warfare after the bloody conquest of Kalinga?",
-      "options": [
-        "Chandragupta Maurya",
-        "Akbar",
-        "Ashoka",
-        "Harsha"
-      ],
-      "answerIndex": 2,
-      "fact": "His edicts, carved onto pillars across the subcontinent, are among the oldest deciphered writing in India and read as public apologies.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -1311,19 +1233,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which gymnast recorded the first perfect ten in Olympic competition, at Montreal in 1976?",
-      "options": [
-        "Nadia Comaneci",
-        "Vera Caslavska",
-        "Olga Korbut",
-        "Ludmilla Tourischeva"
-      ],
-      "answerIndex": 0,
-      "fact": "The scoreboard could not display four digits and showed 1.00 instead, because nobody had built it expecting the score to be reached.",
       "source": "sepoct2026-refresh"
     },
     {

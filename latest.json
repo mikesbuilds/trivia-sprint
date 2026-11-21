@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-20",
+  "date": "2026-12-21",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which sultan retook Jerusalem from the crusader states in 1187?",
+      "prompt": "Which Indian emperor renounced warfare after the bloody conquest of Kalinga?",
       "options": [
-        "Mehmed II",
-        "Baibars",
-        "Suleiman the Magnificent",
-        "Saladin"
+        "Chandragupta Maurya",
+        "Akbar",
+        "Harsha",
+        "Ashoka"
       ],
       "answerIndex": 3,
-      "fact": "He let the defeated inhabitants ransom themselves and quietly paid for many of the poorest, which is why European chroniclers wrote of him admiringly."
+      "fact": "His edicts, carved onto pillars across the subcontinent, are among the oldest deciphered writing in India and read as public apologies."
     },
     {
       "category": "Science",
-      "prompt": "Which gas makes up roughly seventy-eight percent of Earth's atmosphere?",
+      "prompt": "What is the term for a mutually beneficial relationship between two species?",
       "options": [
-        "Argon",
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide"
+        "Predation",
+        "Mutualism",
+        "Parasitism",
+        "Commensalism"
       ],
-      "answerIndex": 2,
-      "fact": "Its triple bond is so strong that most life cannot use it directly, relying on bacteria to fix it into usable compounds."
+      "answerIndex": 1,
+      "fact": "Lichens are a classic case, combining a fungus with an alga or cyanobacterium into a single functioning organism."
     },
     {
       "category": "Sports",
-      "prompt": "Which competition is decided by the Claret Jug?",
+      "prompt": "Which gymnast recorded the first perfect ten in Olympic competition, at Montreal in 1976?",
       "options": [
-        "The Open Championship",
-        "The Players Championship",
-        "The Ryder Cup",
-        "The Masters"
+        "Nadia Comaneci",
+        "Ludmilla Tourischeva",
+        "Olga Korbut",
+        "Vera Caslavska"
       ],
       "answerIndex": 0,
-      "fact": "The winner holds it for a year and, by tradition, may choose what to drink from it."
+      "fact": "The scoreboard could not display four digits and showed 1.00 instead, because nobody had built it expecting the score to be reached."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Japanese art form uses hand-drawn frames and includes works like Akira?",
+      "prompt": "Which board game involves deducing a murderer, weapon and room?",
       "options": [
-        "Noh",
-        "Kabuki",
-        "Anime",
-        "Bunraku"
+        "Cluedo",
+        "Sleuth",
+        "Mysterium",
+        "Scotland Yard"
       ],
-      "answerIndex": 2,
-      "fact": "Akira's production drew over a hundred thousand cels and animated mouths to match dialogue recorded in advance, which was unusual at the time."
+      "answerIndex": 0,
+      "fact": "It was devised in Britain during the Second World War by a solicitor's clerk to pass the time in air raid shelters."
     },
     {
       "category": "Geography",
-      "prompt": "Which South American capital sits at the highest elevation?",
+      "prompt": "Which peninsula is occupied largely by Saudi Arabia?",
       "options": [
-        "Bogota",
-        "La Paz",
-        "Quito",
-        "Asuncion"
+        "The Horn of Africa",
+        "The Deccan",
+        "The Sinai Peninsula",
+        "The Arabian Peninsula"
       ],
-      "answerIndex": 1,
-      "fact": "Visitors commonly need days to acclimatise, and aircraft require longer runways in the thin air."
+      "answerIndex": 3,
+      "fact": "It contains the largest continuous sand desert in the world, the Rub al Khali or Empty Quarter."
     },
     {
       "category": "Literature",
-      "prompt": "Which Greek dramatist wrote Oedipus Rex?",
+      "prompt": "Which novel is narrated by a boy sharing a lifeboat with a tiger?",
       "options": [
-        "Euripides",
-        "Sophocles",
-        "Aristophanes",
-        "Aeschylus"
+        "The Old Man and the Sea",
+        "Life of Pi",
+        "Kon-Tiki",
+        "The Wreck"
       ],
       "answerIndex": 1,
-      "fact": "Only seven of his roughly 120 plays survive complete, most of them from his later career."
+      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
     },
     {
       "category": "Technology",
-      "prompt": "Which encryption approach uses a public key and a private key?",
+      "prompt": "What does the acronym RAM stand for in computing?",
       "options": [
-        "Asymmetric cryptography",
-        "Steganography",
-        "Hashing",
-        "Symmetric cryptography"
+        "Readable Archive Module",
+        "Runtime Allocation Map",
+        "Random Access Memory",
+        "Rapid Active Memory"
       ],
-      "answerIndex": 0,
-      "fact": "It solves the problem of exchanging a shared secret with someone you have never met over an open channel."
+      "answerIndex": 2,
+      "fact": "It is volatile, meaning its contents vanish when power is cut, which is why work must be saved to a drive."
     }
   ]
 }
