@@ -131,32 +131,6 @@
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
     },
     {
-      "category": "Pop Culture",
-      "prompt": "Which streaming series is set in a small Indiana town beset by a parallel dimension?",
-      "options": [
-        "Stranger Things",
-        "Dark",
-        "From",
-        "Wayward Pines"
-      ],
-      "answerIndex": 0,
-      "fact": "The creators pitched it more than fifteen times before it was picked up.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which author created the detective Hercule Poirot?",
-      "options": [
-        "Agatha Christie",
-        "Dorothy L. Sayers",
-        "P. D. James",
-        "Ngaio Marsh"
-      ],
-      "answerIndex": 0,
-      "fact": "She grew tired of the character decades before his final novel, which she wrote early and locked in a vault.",
-      "source": "curated"
-    },
-    {
       "category": "Literature",
       "prompt": "Which form of Japanese poetry traditionally uses a five-seven-five pattern?",
       "options": [
@@ -223,19 +197,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which instrument measures atmospheric pressure?",
-      "options": [
-        "A barometer",
-        "A hygrometer",
-        "An anemometer",
-        "A thermometer"
-      ],
-      "answerIndex": 0,
-      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard on ships.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which type of rock forms from cooled molten material?",
       "options": [
         "Igneous",
@@ -271,32 +232,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is known in its own language as Suomi?",
-      "options": [
-        "Finland",
-        "Sweden",
-        "Estonia",
-        "Hungary"
-      ],
-      "answerIndex": 0,
-      "fact": "Its language belongs to the Finno-Ugric family, unrelated to the Germanic and Slavic tongues around it.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What is the term for a self-contained software package that includes its own dependencies?",
-      "options": [
-        "A container",
-        "A kernel",
-        "A daemon",
-        "A socket"
-      ],
-      "answerIndex": 0,
-      "fact": "They share the host operating system rather than emulating hardware, which makes them far lighter than virtual machines.",
       "source": "curated"
     },
     {
@@ -493,19 +428,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which Korean king commissioned the creation of the Hangul alphabet?",
-      "options": [
-        "Taejo",
-        "Yeongjo",
-        "Gojong",
-        "Sejong the Great"
-      ],
-      "answerIndex": 3,
-      "fact": "The script was designed so an ordinary labourer could learn it in a morning, which the scholarly elite of the time deeply resented.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -1233,19 +1155,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which athlete broke the four-minute mile in 1954?",
-      "options": [
-        "Herb Elliott",
-        "Roger Bannister",
-        "Emil Zatopek",
-        "John Landy"
-      ],
-      "answerIndex": 1,
-      "fact": "He was a medical student training in his lunch breaks, and his record lasted just 46 days before a rival beat it.",
       "source": "sepoct2026-refresh"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-21",
+  "date": "2026-12-22",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which Indian emperor renounced warfare after the bloody conquest of Kalinga?",
+      "prompt": "Which Korean king commissioned the creation of the Hangul alphabet?",
       "options": [
-        "Chandragupta Maurya",
-        "Akbar",
-        "Harsha",
-        "Ashoka"
+        "Yeongjo",
+        "Sejong the Great",
+        "Gojong",
+        "Taejo"
       ],
-      "answerIndex": 3,
-      "fact": "His edicts, carved onto pillars across the subcontinent, are among the oldest deciphered writing in India and read as public apologies."
+      "answerIndex": 1,
+      "fact": "The script was designed so an ordinary labourer could learn it in a morning, which the scholarly elite of the time deeply resented."
     },
     {
       "category": "Science",
-      "prompt": "What is the term for a mutually beneficial relationship between two species?",
+      "prompt": "Which instrument measures atmospheric pressure?",
       "options": [
-        "Predation",
-        "Mutualism",
-        "Parasitism",
-        "Commensalism"
+        "A thermometer",
+        "An anemometer",
+        "A barometer",
+        "A hygrometer"
       ],
-      "answerIndex": 1,
-      "fact": "Lichens are a classic case, combining a fungus with an alga or cyanobacterium into a single functioning organism."
+      "answerIndex": 2,
+      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard on ships."
     },
     {
       "category": "Sports",
-      "prompt": "Which gymnast recorded the first perfect ten in Olympic competition, at Montreal in 1976?",
+      "prompt": "Which athlete broke the four-minute mile in 1954?",
       "options": [
-        "Nadia Comaneci",
-        "Ludmilla Tourischeva",
-        "Olga Korbut",
-        "Vera Caslavska"
+        "Roger Bannister",
+        "Herb Elliott",
+        "John Landy",
+        "Emil Zatopek"
       ],
       "answerIndex": 0,
-      "fact": "The scoreboard could not display four digits and showed 1.00 instead, because nobody had built it expecting the score to be reached."
+      "fact": "He was a medical student training in his lunch breaks, and his record lasted just 46 days before a rival beat it."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which board game involves deducing a murderer, weapon and room?",
+      "prompt": "Which streaming series is set in a small Indiana town beset by a parallel dimension?",
       "options": [
-        "Cluedo",
-        "Sleuth",
-        "Mysterium",
-        "Scotland Yard"
+        "Dark",
+        "From",
+        "Wayward Pines",
+        "Stranger Things"
       ],
-      "answerIndex": 0,
-      "fact": "It was devised in Britain during the Second World War by a solicitor's clerk to pass the time in air raid shelters."
+      "answerIndex": 3,
+      "fact": "The creators pitched it more than fifteen times before it was picked up."
     },
     {
       "category": "Geography",
-      "prompt": "Which peninsula is occupied largely by Saudi Arabia?",
+      "prompt": "Which country is known in its own language as Suomi?",
       "options": [
-        "The Horn of Africa",
-        "The Deccan",
-        "The Sinai Peninsula",
-        "The Arabian Peninsula"
+        "Sweden",
+        "Estonia",
+        "Finland",
+        "Hungary"
       ],
-      "answerIndex": 3,
-      "fact": "It contains the largest continuous sand desert in the world, the Rub al Khali or Empty Quarter."
+      "answerIndex": 2,
+      "fact": "Its language belongs to the Finno-Ugric family, unrelated to the Germanic and Slavic tongues around it."
     },
     {
       "category": "Literature",
-      "prompt": "Which novel is narrated by a boy sharing a lifeboat with a tiger?",
+      "prompt": "Which author created the detective Hercule Poirot?",
       "options": [
-        "The Old Man and the Sea",
-        "Life of Pi",
-        "Kon-Tiki",
-        "The Wreck"
+        "P. D. James",
+        "Ngaio Marsh",
+        "Dorothy L. Sayers",
+        "Agatha Christie"
       ],
-      "answerIndex": 1,
-      "fact": "The story is framed so the reader must choose between two accounts, only one of which involves animals."
+      "answerIndex": 3,
+      "fact": "She grew tired of the character decades before his final novel, which she wrote early and locked in a vault."
     },
     {
       "category": "Technology",
-      "prompt": "What does the acronym RAM stand for in computing?",
+      "prompt": "What is the term for a self-contained software package that includes its own dependencies?",
       "options": [
-        "Readable Archive Module",
-        "Runtime Allocation Map",
-        "Random Access Memory",
-        "Rapid Active Memory"
+        "A container",
+        "A socket",
+        "A kernel",
+        "A daemon"
       ],
-      "answerIndex": 2,
-      "fact": "It is volatile, meaning its contents vanish when power is cut, which is why work must be saved to a drive."
+      "answerIndex": 0,
+      "fact": "They share the host operating system rather than emulating hardware, which makes them far lighter than virtual machines."
     }
   ]
 }

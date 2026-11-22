@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-22",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Korean king commissioned the creation of the Hangul alphabet?",
+      "options": [
+        "Yeongjo",
+        "Sejong the Great",
+        "Gojong",
+        "Taejo"
+      ],
+      "answerIndex": 1,
+      "fact": "The script was designed so an ordinary labourer could learn it in a morning, which the scholarly elite of the time deeply resented."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which instrument measures atmospheric pressure?",
+      "options": [
+        "A thermometer",
+        "An anemometer",
+        "A barometer",
+        "A hygrometer"
+      ],
+      "answerIndex": 2,
+      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard on ships."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which athlete broke the four-minute mile in 1954?",
+      "options": [
+        "Roger Bannister",
+        "Herb Elliott",
+        "John Landy",
+        "Emil Zatopek"
+      ],
+      "answerIndex": 0,
+      "fact": "He was a medical student training in his lunch breaks, and his record lasted just 46 days before a rival beat it."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series is set in a small Indiana town beset by a parallel dimension?",
+      "options": [
+        "Dark",
+        "From",
+        "Wayward Pines",
+        "Stranger Things"
+      ],
+      "answerIndex": 3,
+      "fact": "The creators pitched it more than fifteen times before it was picked up."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is known in its own language as Suomi?",
+      "options": [
+        "Sweden",
+        "Estonia",
+        "Finland",
+        "Hungary"
+      ],
+      "answerIndex": 2,
+      "fact": "Its language belongs to the Finno-Ugric family, unrelated to the Germanic and Slavic tongues around it."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which author created the detective Hercule Poirot?",
+      "options": [
+        "P. D. James",
+        "Ngaio Marsh",
+        "Dorothy L. Sayers",
+        "Agatha Christie"
+      ],
+      "answerIndex": 3,
+      "fact": "She grew tired of the character decades before his final novel, which she wrote early and locked in a vault."
+    },
+    {
+      "category": "Technology",
+      "prompt": "What is the term for a self-contained software package that includes its own dependencies?",
+      "options": [
+        "A container",
+        "A socket",
+        "A kernel",
+        "A daemon"
+      ],
+      "answerIndex": 0,
+      "fact": "They share the host operating system rather than emulating hardware, which makes them far lighter than virtual machines."
+    }
+  ]
+}
