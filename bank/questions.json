@@ -132,19 +132,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which form of Japanese poetry traditionally uses a five-seven-five pattern?",
-      "options": [
-        "Haiku",
-        "Tanka",
-        "Renga",
-        "Senryu"
-      ],
-      "answerIndex": 0,
-      "fact": "Classical examples usually include a seasonal reference and a cutting word that pivots the image.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "What is the opening section of a play or novel that sets the scene called?",
       "options": [
         "The exposition",
@@ -197,19 +184,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which type of rock forms from cooled molten material?",
-      "options": [
-        "Igneous",
-        "Sedimentary",
-        "Metamorphic",
-        "Clastic"
-      ],
-      "answerIndex": 0,
-      "fact": "Cooling speed determines crystal size, so slow-cooling granite is coarse while fast-cooling basalt is fine-grained.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "Which hormone regulates blood sugar by allowing cells to absorb glucose?",
       "options": [
         "Insulin",
@@ -232,19 +206,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which term describes software whose source code anyone may inspect and modify?",
-      "options": [
-        "Open source",
-        "Freeware",
-        "Shareware",
-        "Abandonware"
-      ],
-      "answerIndex": 0,
-      "fact": "It is distinct from merely free of charge; the licence, not the price, is what defines it.",
       "source": "curated"
     },
     {
@@ -379,19 +340,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which streaming series follows office workers whose memories are surgically divided?",
-      "options": [
-        "Severance",
-        "Devs",
-        "Counterpart",
-        "Maniac"
-      ],
-      "answerIndex": 0,
-      "fact": "Its stark office set was built practically, and the show leans on symmetrical framing to make the corridors feel endless.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which period drama about London society was produced by Shonda Rhimes for Netflix?",
       "options": [
         "Bridgerton",
@@ -428,19 +376,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "The House of Wisdom, a celebrated centre of translation and scholarship, stood in which city?",
-      "options": [
-        "Baghdad",
-        "Damascus",
-        "Isfahan",
-        "Cairo"
-      ],
-      "answerIndex": 0,
-      "fact": "Greek works that survive today often do so because they were translated into Arabic there and only much later rendered back into Latin.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -1155,19 +1090,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which long jumper's 1968 Olympic mark stood as the world record for 23 years?",
-      "options": [
-        "Ralph Boston",
-        "Mike Powell",
-        "Bob Beamon",
-        "Carl Lewis"
-      ],
-      "answerIndex": 2,
-      "fact": "The jump exceeded the optical measuring device's range, so officials had to find a tape measure while the crowd waited.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1896,19 +1818,6 @@
       ],
       "answerIndex": 3,
       "fact": "It began in 1970 charging one pound including free milk from the farm, and drew about 1,500 people.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country is crossed by both the equator and the Tropic of Capricorn?",
-      "options": [
-        "Brazil",
-        "Kenya",
-        "Colombia",
-        "Indonesia"
-      ],
-      "answerIndex": 0,
-      "fact": "It is the only country in the world crossed by both lines.",
       "source": "sepoct2026-refresh"
     },
     {

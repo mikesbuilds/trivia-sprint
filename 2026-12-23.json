@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-23",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The House of Wisdom, a celebrated centre of translation and scholarship, stood in which city?",
+      "options": [
+        "Baghdad",
+        "Damascus",
+        "Isfahan",
+        "Cairo"
+      ],
+      "answerIndex": 0,
+      "fact": "Greek works that survive today often do so because they were translated into Arabic there and only much later rendered back into Latin."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which type of rock forms from cooled molten material?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Clastic",
+        "Igneous"
+      ],
+      "answerIndex": 3,
+      "fact": "Cooling speed determines crystal size, so slow-cooling granite is coarse while fast-cooling basalt is fine-grained."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which long jumper's 1968 Olympic mark stood as the world record for 23 years?",
+      "options": [
+        "Carl Lewis",
+        "Ralph Boston",
+        "Bob Beamon",
+        "Mike Powell"
+      ],
+      "answerIndex": 2,
+      "fact": "The jump exceeded the optical measuring device's range, so officials had to find a tape measure while the crowd waited."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which streaming series follows office workers whose memories are surgically divided?",
+      "options": [
+        "Maniac",
+        "Devs",
+        "Counterpart",
+        "Severance"
+      ],
+      "answerIndex": 3,
+      "fact": "Its stark office set was built practically, and the show leans on symmetrical framing to make the corridors feel endless."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country is crossed by both the equator and the Tropic of Capricorn?",
+      "options": [
+        "Kenya",
+        "Brazil",
+        "Indonesia",
+        "Colombia"
+      ],
+      "answerIndex": 1,
+      "fact": "It is the only country in the world crossed by both lines."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which form of Japanese poetry traditionally uses a five-seven-five pattern?",
+      "options": [
+        "Renga",
+        "Haiku",
+        "Tanka",
+        "Senryu"
+      ],
+      "answerIndex": 1,
+      "fact": "Classical examples usually include a seasonal reference and a cutting word that pivots the image."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which term describes software whose source code anyone may inspect and modify?",
+      "options": [
+        "Open source",
+        "Abandonware",
+        "Freeware",
+        "Shareware"
+      ],
+      "answerIndex": 0,
+      "fact": "It is distinct from merely free of charge; the licence, not the price, is what defines it."
+    }
+  ]
+}

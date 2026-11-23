@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-22",
+  "date": "2026-12-23",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which Korean king commissioned the creation of the Hangul alphabet?",
+      "prompt": "The House of Wisdom, a celebrated centre of translation and scholarship, stood in which city?",
       "options": [
-        "Yeongjo",
-        "Sejong the Great",
-        "Gojong",
-        "Taejo"
+        "Baghdad",
+        "Damascus",
+        "Isfahan",
+        "Cairo"
       ],
-      "answerIndex": 1,
-      "fact": "The script was designed so an ordinary labourer could learn it in a morning, which the scholarly elite of the time deeply resented."
+      "answerIndex": 0,
+      "fact": "Greek works that survive today often do so because they were translated into Arabic there and only much later rendered back into Latin."
     },
     {
       "category": "Science",
-      "prompt": "Which instrument measures atmospheric pressure?",
+      "prompt": "Which type of rock forms from cooled molten material?",
       "options": [
-        "A thermometer",
-        "An anemometer",
-        "A barometer",
-        "A hygrometer"
+        "Sedimentary",
+        "Metamorphic",
+        "Clastic",
+        "Igneous"
       ],
-      "answerIndex": 2,
-      "fact": "A falling reading generally signals approaching bad weather, which is why the device became standard on ships."
+      "answerIndex": 3,
+      "fact": "Cooling speed determines crystal size, so slow-cooling granite is coarse while fast-cooling basalt is fine-grained."
     },
     {
       "category": "Sports",
-      "prompt": "Which athlete broke the four-minute mile in 1954?",
+      "prompt": "Which long jumper's 1968 Olympic mark stood as the world record for 23 years?",
       "options": [
-        "Roger Bannister",
-        "Herb Elliott",
-        "John Landy",
-        "Emil Zatopek"
+        "Carl Lewis",
+        "Ralph Boston",
+        "Bob Beamon",
+        "Mike Powell"
       ],
-      "answerIndex": 0,
-      "fact": "He was a medical student training in his lunch breaks, and his record lasted just 46 days before a rival beat it."
+      "answerIndex": 2,
+      "fact": "The jump exceeded the optical measuring device's range, so officials had to find a tape measure while the crowd waited."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which streaming series is set in a small Indiana town beset by a parallel dimension?",
+      "prompt": "Which streaming series follows office workers whose memories are surgically divided?",
       "options": [
-        "Dark",
-        "From",
-        "Wayward Pines",
-        "Stranger Things"
+        "Maniac",
+        "Devs",
+        "Counterpart",
+        "Severance"
       ],
       "answerIndex": 3,
-      "fact": "The creators pitched it more than fifteen times before it was picked up."
+      "fact": "Its stark office set was built practically, and the show leans on symmetrical framing to make the corridors feel endless."
     },
     {
       "category": "Geography",
-      "prompt": "Which country is known in its own language as Suomi?",
+      "prompt": "Which country is crossed by both the equator and the Tropic of Capricorn?",
       "options": [
-        "Sweden",
-        "Estonia",
-        "Finland",
-        "Hungary"
+        "Kenya",
+        "Brazil",
+        "Indonesia",
+        "Colombia"
       ],
-      "answerIndex": 2,
-      "fact": "Its language belongs to the Finno-Ugric family, unrelated to the Germanic and Slavic tongues around it."
+      "answerIndex": 1,
+      "fact": "It is the only country in the world crossed by both lines."
     },
     {
       "category": "Literature",
-      "prompt": "Which author created the detective Hercule Poirot?",
+      "prompt": "Which form of Japanese poetry traditionally uses a five-seven-five pattern?",
       "options": [
-        "P. D. James",
-        "Ngaio Marsh",
-        "Dorothy L. Sayers",
-        "Agatha Christie"
+        "Renga",
+        "Haiku",
+        "Tanka",
+        "Senryu"
       ],
-      "answerIndex": 3,
-      "fact": "She grew tired of the character decades before his final novel, which she wrote early and locked in a vault."
+      "answerIndex": 1,
+      "fact": "Classical examples usually include a seasonal reference and a cutting word that pivots the image."
     },
     {
       "category": "Technology",
-      "prompt": "What is the term for a self-contained software package that includes its own dependencies?",
+      "prompt": "Which term describes software whose source code anyone may inspect and modify?",
       "options": [
-        "A container",
-        "A socket",
-        "A kernel",
-        "A daemon"
+        "Open source",
+        "Abandonware",
+        "Freeware",
+        "Shareware"
       ],
       "answerIndex": 0,
-      "fact": "They share the host operating system rather than emulating hardware, which makes them far lighter than virtual machines."
+      "fact": "It is distinct from merely free of charge; the licence, not the price, is what defines it."
     }
   ]
 }
