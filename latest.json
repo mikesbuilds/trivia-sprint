@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-23",
+  "date": "2026-12-24",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The House of Wisdom, a celebrated centre of translation and scholarship, stood in which city?",
+      "prompt": "Which Iberian city was the capital of the Umayyad caliphate in Al-Andalus?",
       "options": [
-        "Baghdad",
-        "Damascus",
-        "Isfahan",
-        "Cairo"
+        "Cordoba",
+        "Granada",
+        "Toledo",
+        "Seville"
       ],
       "answerIndex": 0,
-      "fact": "Greek works that survive today often do so because they were translated into Arabic there and only much later rendered back into Latin."
+      "fact": "At its tenth-century peak it may have been the largest city in Europe, with street lighting and public libraries centuries before its northern rivals."
     },
     {
       "category": "Science",
-      "prompt": "Which type of rock forms from cooled molten material?",
+      "prompt": "Which hormone regulates blood sugar by allowing cells to absorb glucose?",
       "options": [
-        "Sedimentary",
-        "Metamorphic",
-        "Clastic",
-        "Igneous"
+        "Cortisol",
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin"
       ],
       "answerIndex": 3,
-      "fact": "Cooling speed determines crystal size, so slow-cooling granite is coarse while fast-cooling basalt is fine-grained."
+      "fact": "It was first isolated in the early 1920s, and its discoverers sold the patent for a nominal sum."
     },
     {
       "category": "Sports",
-      "prompt": "Which long jumper's 1968 Olympic mark stood as the world record for 23 years?",
+      "prompt": "Which sprinter won three golds at the 1960 Rome Olympics after contracting polio as a child?",
       "options": [
-        "Carl Lewis",
-        "Ralph Boston",
-        "Bob Beamon",
-        "Mike Powell"
+        "Betty Cuthbert",
+        "Wyomia Tyus",
+        "Fanny Blankers-Koen",
+        "Wilma Rudolph"
       ],
-      "answerIndex": 2,
-      "fact": "The jump exceeded the optical measuring device's range, so officials had to find a tape measure while the crowd waited."
+      "answerIndex": 3,
+      "fact": "She had worn a leg brace until she was nine, and insisted her homecoming parade be the first integrated public event in her Tennessee town."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which streaming series follows office workers whose memories are surgically divided?",
+      "prompt": "Which period drama about London society was produced by Shonda Rhimes for Netflix?",
       "options": [
-        "Maniac",
-        "Devs",
-        "Counterpart",
-        "Severance"
+        "Belgravia",
+        "Bridgerton",
+        "Sanditon",
+        "The Gilded Age"
       ],
-      "answerIndex": 3,
-      "fact": "Its stark office set was built practically, and the show leans on symmetrical framing to make the corridors feel endless."
+      "answerIndex": 1,
+      "fact": "Its soundtrack turns contemporary pop songs into string quartet arrangements played at the balls."
     },
     {
       "category": "Geography",
-      "prompt": "Which country is crossed by both the equator and the Tropic of Capricorn?",
+      "prompt": "Which country gained independence in 2011, making it the world's newest UN member?",
       "options": [
-        "Kenya",
-        "Brazil",
-        "Indonesia",
-        "Colombia"
+        "East Timor",
+        "Montenegro",
+        "South Sudan",
+        "Kosovo"
       ],
-      "answerIndex": 1,
-      "fact": "It is the only country in the world crossed by both lines."
+      "answerIndex": 2,
+      "fact": "It voted to separate by almost 99 percent, and slid into civil war within three years of the result."
     },
     {
       "category": "Literature",
-      "prompt": "Which form of Japanese poetry traditionally uses a five-seven-five pattern?",
+      "prompt": "What is the opening section of a play or novel that sets the scene called?",
       "options": [
-        "Renga",
-        "Haiku",
-        "Tanka",
-        "Senryu"
+        "The exposition",
+        "The epilogue",
+        "The interlude",
+        "The coda"
       ],
-      "answerIndex": 1,
-      "fact": "Classical examples usually include a seasonal reference and a cutting word that pivots the image."
+      "answerIndex": 0,
+      "fact": "Delivering it through characters who already know the information is a common criticism of clumsy writing."
     },
     {
       "category": "Technology",
-      "prompt": "Which term describes software whose source code anyone may inspect and modify?",
+      "prompt": "Which unit describes the number of cycles a processor completes each second?",
       "options": [
-        "Open source",
-        "Abandonware",
-        "Freeware",
-        "Shareware"
+        "Pixels",
+        "Hertz",
+        "Lumens",
+        "Bytes"
       ],
-      "answerIndex": 0,
-      "fact": "It is distinct from merely free of charge; the licence, not the price, is what defines it."
+      "answerIndex": 1,
+      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
     }
   ]
 }

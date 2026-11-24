@@ -132,19 +132,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "What is the opening section of a play or novel that sets the scene called?",
-      "options": [
-        "The exposition",
-        "The epilogue",
-        "The coda",
-        "The interlude"
-      ],
-      "answerIndex": 0,
-      "fact": "Delivering it through characters who already know the information is a common criticism of clumsy writing.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which Kenyan writer has argued for African literature written in African languages?",
       "options": [
         "Ngugi wa Thiong'o",
@@ -184,19 +171,6 @@
     },
     {
       "category": "Science",
-      "prompt": "Which hormone regulates blood sugar by allowing cells to absorb glucose?",
-      "options": [
-        "Insulin",
-        "Adrenaline",
-        "Cortisol",
-        "Thyroxine"
-      ],
-      "answerIndex": 0,
-      "fact": "It was first isolated in the early 1920s, and its discoverers sold the patent for a nominal sum.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
       "prompt": "What is the term for the smallest unit of a chemical compound retaining its properties?",
       "options": [
         "A molecule",
@@ -206,19 +180,6 @@
       ],
       "answerIndex": 0,
       "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which unit describes the number of cycles a processor completes each second?",
-      "options": [
-        "Hertz",
-        "Bytes",
-        "Pixels",
-        "Lumens"
-      ],
-      "answerIndex": 0,
-      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster.",
       "source": "curated"
     },
     {
@@ -340,19 +301,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which period drama about London society was produced by Shonda Rhimes for Netflix?",
-      "options": [
-        "Bridgerton",
-        "The Gilded Age",
-        "Sanditon",
-        "Belgravia"
-      ],
-      "answerIndex": 0,
-      "fact": "Its soundtrack turns contemporary pop songs into string quartet arrangements played at the balls.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which film director is known for Parasite and Memories of Murder?",
       "options": [
         "Bong Joon-ho",
@@ -376,19 +324,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which Iberian city was the capital of the Umayyad caliphate in Al-Andalus?",
-      "options": [
-        "Granada",
-        "Cordoba",
-        "Toledo",
-        "Seville"
-      ],
-      "answerIndex": 1,
-      "fact": "At its tenth-century peak it may have been the largest city in Europe, with street lighting and public libraries centuries before its northern rivals.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -1090,19 +1025,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which sprinter won three golds at the 1960 Rome Olympics after contracting polio as a child?",
-      "options": [
-        "Wyomia Tyus",
-        "Fanny Blankers-Koen",
-        "Betty Cuthbert",
-        "Wilma Rudolph"
-      ],
-      "answerIndex": 3,
-      "fact": "She had worn a leg brace until she was nine, and insisted her homecoming parade be the first integrated public event in her Tennessee town.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1818,19 +1740,6 @@
       ],
       "answerIndex": 3,
       "fact": "It began in 1970 charging one pound including free milk from the farm, and drew about 1,500 people.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which country gained independence in 2011, making it the world's newest UN member?",
-      "options": [
-        "East Timor",
-        "South Sudan",
-        "Kosovo",
-        "Montenegro"
-      ],
-      "answerIndex": 1,
-      "fact": "It voted to separate by almost 99 percent, and slid into civil war within three years of the result.",
       "source": "sepoct2026-refresh"
     },
     {

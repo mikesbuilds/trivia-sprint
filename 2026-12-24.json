@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-24",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Iberian city was the capital of the Umayyad caliphate in Al-Andalus?",
+      "options": [
+        "Cordoba",
+        "Granada",
+        "Toledo",
+        "Seville"
+      ],
+      "answerIndex": 0,
+      "fact": "At its tenth-century peak it may have been the largest city in Europe, with street lighting and public libraries centuries before its northern rivals."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which hormone regulates blood sugar by allowing cells to absorb glucose?",
+      "options": [
+        "Cortisol",
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin"
+      ],
+      "answerIndex": 3,
+      "fact": "It was first isolated in the early 1920s, and its discoverers sold the patent for a nominal sum."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which sprinter won three golds at the 1960 Rome Olympics after contracting polio as a child?",
+      "options": [
+        "Betty Cuthbert",
+        "Wyomia Tyus",
+        "Fanny Blankers-Koen",
+        "Wilma Rudolph"
+      ],
+      "answerIndex": 3,
+      "fact": "She had worn a leg brace until she was nine, and insisted her homecoming parade be the first integrated public event in her Tennessee town."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which period drama about London society was produced by Shonda Rhimes for Netflix?",
+      "options": [
+        "Belgravia",
+        "Bridgerton",
+        "Sanditon",
+        "The Gilded Age"
+      ],
+      "answerIndex": 1,
+      "fact": "Its soundtrack turns contemporary pop songs into string quartet arrangements played at the balls."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which country gained independence in 2011, making it the world's newest UN member?",
+      "options": [
+        "East Timor",
+        "Montenegro",
+        "South Sudan",
+        "Kosovo"
+      ],
+      "answerIndex": 2,
+      "fact": "It voted to separate by almost 99 percent, and slid into civil war within three years of the result."
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the opening section of a play or novel that sets the scene called?",
+      "options": [
+        "The exposition",
+        "The epilogue",
+        "The interlude",
+        "The coda"
+      ],
+      "answerIndex": 0,
+      "fact": "Delivering it through characters who already know the information is a common criticism of clumsy writing."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which unit describes the number of cycles a processor completes each second?",
+      "options": [
+        "Pixels",
+        "Hertz",
+        "Lumens",
+        "Bytes"
+      ],
+      "answerIndex": 1,
+      "fact": "Clock speed stopped being a useful single measure once chips began adding parallel cores instead of going faster."
+    }
+  ]
+}
