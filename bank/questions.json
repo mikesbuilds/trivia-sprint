@@ -132,19 +132,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "Which Kenyan writer has argued for African literature written in African languages?",
-      "options": [
-        "Ngugi wa Thiong'o",
-        "Ayi Kwei Armah",
-        "Nuruddin Farah",
-        "Tsitsi Dangarembga"
-      ],
-      "answerIndex": 0,
-      "fact": "He stopped writing novels in English in the late 1970s, working in Gikuyu and translating his own work afterwards.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "What is the term for a recurring symbol or idea running through a work?",
       "options": [
         "A motif",
@@ -167,32 +154,6 @@
       ],
       "answerIndex": 0,
       "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences.",
-      "source": "curated"
-    },
-    {
-      "category": "Science",
-      "prompt": "What is the term for the smallest unit of a chemical compound retaining its properties?",
-      "options": [
-        "A molecule",
-        "An atom",
-        "An ion",
-        "An isotope"
-      ],
-      "answerIndex": 0,
-      "fact": "Ionic compounds like salt do not really form discrete ones, existing instead as extended lattices.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "What does a firewall primarily control?",
-      "options": [
-        "Network traffic",
-        "Disk space",
-        "Screen brightness",
-        "Battery usage"
-      ],
-      "answerIndex": 0,
-      "fact": "The name comes from building construction, where such a wall is designed to stop fire spreading between sections.",
       "source": "curated"
     },
     {
@@ -301,19 +262,6 @@
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which film director is known for Parasite and Memories of Murder?",
-      "options": [
-        "Bong Joon-ho",
-        "Park Chan-wook",
-        "Lee Chang-dong",
-        "Kim Ki-duk"
-      ],
-      "answerIndex": 0,
-      "fact": "He storyboards his films almost shot for shot before production, leaving little improvisation on set.",
-      "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
       "prompt": "Which American sitcom is set in a Scranton paper company branch?",
       "options": [
         "The Office",
@@ -324,19 +272,6 @@
       "answerIndex": 0,
       "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which Persian king is credited in the Hebrew Bible with letting exiled Jews return home?",
-      "options": [
-        "Darius III",
-        "Xerxes I",
-        "Cyrus the Great",
-        "Cambyses II"
-      ],
-      "answerIndex": 2,
-      "fact": "A clay cylinder recording his treatment of conquered peoples is sometimes called an early charter of rights, though it was standard royal propaganda.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -1025,19 +960,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which 1973 tennis match was billed as the Battle of the Sexes?",
-      "options": [
-        "King versus Riggs",
-        "Court versus Riggs",
-        "Evert versus Connors",
-        "Navratilova versus Nastase"
-      ],
-      "answerIndex": 0,
-      "fact": "Around 90 million people watched worldwide, and the winner used the platform to press for equal prize money at the US Open.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1740,19 +1662,6 @@
       ],
       "answerIndex": 3,
       "fact": "It began in 1970 charging one pound including free milk from the farm, and drew about 1,500 people.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Kaliningrad is an exclave of which country?",
-      "options": [
-        "Belarus",
-        "Poland",
-        "Russia",
-        "Lithuania"
-      ],
-      "answerIndex": 2,
-      "fact": "It was the German city of Konigsberg until 1945, and is now separated from its own country by two EU members.",
       "source": "sepoct2026-refresh"
     },
     {
