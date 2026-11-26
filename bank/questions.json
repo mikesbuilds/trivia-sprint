@@ -132,19 +132,6 @@
     },
     {
       "category": "Literature",
-      "prompt": "What is the term for a recurring symbol or idea running through a work?",
-      "options": [
-        "A motif",
-        "A metaphor",
-        "A simile",
-        "A caesura"
-      ],
-      "answerIndex": 0,
-      "fact": "It differs from a theme: one is the repeated concrete element, the other the abstract idea it supports.",
-      "source": "curated"
-    },
-    {
-      "category": "Literature",
       "prompt": "Which brothers collected and published German folk tales in the 1800s?",
       "options": [
         "The Brothers Grimm",
@@ -154,19 +141,6 @@
       ],
       "answerIndex": 0,
       "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which code stores data in a square grid of black and white modules?",
-      "options": [
-        "A QR code",
-        "A barcode",
-        "A magnetic stripe",
-        "An RFID tag"
-      ],
-      "answerIndex": 0,
-      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged.",
       "source": "curated"
     },
     {
@@ -259,32 +233,6 @@
       "answerIndex": 0,
       "fact": "The same demonstration introduced hypertext, video conferencing and collaborative editing in one ninety-minute session.",
       "source": "curated"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which American sitcom is set in a Scranton paper company branch?",
-      "options": [
-        "The Office",
-        "Parks and Recreation",
-        "Superstore",
-        "Better Off Ted"
-      ],
-      "answerIndex": 0,
-      "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely.",
-      "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "The Royal Road, a courier highway running some 2,500 kilometres, was built by which empire?",
-      "options": [
-        "The Roman Empire",
-        "The Mauryan Empire",
-        "The Han Empire",
-        "The Achaemenid Empire"
-      ],
-      "answerIndex": 3,
-      "fact": "Mounted relay riders could cover it in about a week, a speed Herodotus found astonishing enough to describe in detail.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -570,19 +518,6 @@
       ],
       "answerIndex": 1,
       "fact": "He gave away so much gold passing through Cairo that its value there was still depressed a decade later.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Science",
-      "prompt": "Which effect explains why a siren sounds higher as it approaches and lower as it leaves?",
-      "options": [
-        "The Venturi effect",
-        "The Coriolis effect",
-        "The Doppler effect",
-        "The Casimir effect"
-      ],
-      "answerIndex": 2,
-      "fact": "The same shift in light lets astronomers measure how fast a distant galaxy is moving away from us.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -960,19 +895,6 @@
       ],
       "answerIndex": 3,
       "fact": "Detectors are buried deep underground and filled with thousands of tonnes of fluid, all to catch a handful of interactions a day.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
-      "prompt": "Which swimmer won eight gold medals at a single Olympic Games in 2008?",
-      "options": [
-        "Ian Thorpe",
-        "Michael Phelps",
-        "Mark Spitz",
-        "Caeleb Dressel"
-      ],
-      "answerIndex": 1,
-      "fact": "One of the eight was won by a hundredth of a second, on a final stroke that officials had to review frame by frame.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1662,19 +1584,6 @@
       ],
       "answerIndex": 3,
       "fact": "It began in 1970 charging one pound including free milk from the farm, and drew about 1,500 people.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which is the largest landlocked country in the world by area?",
-      "options": [
-        "Chad",
-        "Bolivia",
-        "Mongolia",
-        "Kazakhstan"
-      ],
-      "answerIndex": 3,
-      "fact": "It is bigger than all of Western Europe, and its access to the Caspian does not count because that sea has no outlet to an ocean.",
       "source": "sepoct2026-refresh"
     },
     {

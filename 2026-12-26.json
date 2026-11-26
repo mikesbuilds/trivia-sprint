@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-26",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "The Royal Road, a courier highway running some 2,500 kilometres, was built by which empire?",
+      "options": [
+        "The Achaemenid Empire",
+        "The Mauryan Empire",
+        "The Han Empire",
+        "The Roman Empire"
+      ],
+      "answerIndex": 0,
+      "fact": "Mounted relay riders could cover it in about a week, a speed Herodotus found astonishing enough to describe in detail."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which effect explains why a siren sounds higher as it approaches and lower as it leaves?",
+      "options": [
+        "The Casimir effect",
+        "The Venturi effect",
+        "The Doppler effect",
+        "The Coriolis effect"
+      ],
+      "answerIndex": 2,
+      "fact": "The same shift in light lets astronomers measure how fast a distant galaxy is moving away from us."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which swimmer won eight gold medals at a single Olympic Games in 2008?",
+      "options": [
+        "Caeleb Dressel",
+        "Michael Phelps",
+        "Ian Thorpe",
+        "Mark Spitz"
+      ],
+      "answerIndex": 1,
+      "fact": "One of the eight was won by a hundredth of a second, on a final stroke that officials had to review frame by frame."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which American sitcom is set in a Scranton paper company branch?",
+      "options": [
+        "The Office",
+        "Parks and Recreation",
+        "Better Off Ted",
+        "Superstore"
+      ],
+      "answerIndex": 0,
+      "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which is the largest landlocked country in the world by area?",
+      "options": [
+        "Bolivia",
+        "Mongolia",
+        "Kazakhstan",
+        "Chad"
+      ],
+      "answerIndex": 2,
+      "fact": "It is bigger than all of Western Europe, and its access to the Caspian does not count because that sea has no outlet to an ocean."
+    },
+    {
+      "category": "Literature",
+      "prompt": "What is the term for a recurring symbol or idea running through a work?",
+      "options": [
+        "A caesura",
+        "A metaphor",
+        "A simile",
+        "A motif"
+      ],
+      "answerIndex": 3,
+      "fact": "It differs from a theme: one is the repeated concrete element, the other the abstract idea it supports."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which code stores data in a square grid of black and white modules?",
+      "options": [
+        "A barcode",
+        "A magnetic stripe",
+        "An RFID tag",
+        "A QR code"
+      ],
+      "answerIndex": 3,
+      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
+    }
+  ]
+}
