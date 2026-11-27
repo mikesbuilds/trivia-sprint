@@ -131,32 +131,6 @@
       "fact": "The term was coined for a 1956 workshop whose organisers expected significant progress over a single summer."
     },
     {
-      "category": "Literature",
-      "prompt": "Which brothers collected and published German folk tales in the 1800s?",
-      "options": [
-        "The Brothers Grimm",
-        "The Brothers Karamazov",
-        "The Goncourt brothers",
-        "The Bronte siblings"
-      ],
-      "answerIndex": 0,
-      "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
-      "prompt": "Which technology underpins cryptocurrencies by maintaining a distributed ledger?",
-      "options": [
-        "Blockchain",
-        "Middleware",
-        "Virtualisation",
-        "Containerisation"
-      ],
-      "answerIndex": 0,
-      "fact": "Each block carries a cryptographic fingerprint of the one before it, so altering old records invalidates everything after.",
-      "source": "curated"
-    },
-    {
       "category": "Technology",
       "prompt": "Which markup language structures the content of web pages?",
       "options": [
@@ -233,19 +207,6 @@
       "answerIndex": 0,
       "fact": "The same demonstration introduced hypertext, video conferencing and collaborative editing in one ninety-minute session.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which Mesoamerican city was already an abandoned ruin when the Aztecs named its main avenue?",
-      "options": [
-        "Teotihuacan",
-        "Tikal",
-        "Monte Alban",
-        "Palenque"
-      ],
-      "answerIndex": 0,
-      "fact": "The Aztecs called it the place where the gods were born. Nobody knows what its own builders called it, or what language they spoke.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -518,19 +479,6 @@
       ],
       "answerIndex": 1,
       "fact": "He gave away so much gold passing through Cairo that its value there was still depressed a decade later.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Science",
-      "prompt": "Which principle states that a faster-moving fluid exerts lower pressure?",
-      "options": [
-        "Pascal's law",
-        "Boyle's law",
-        "Archimedes' principle",
-        "Bernoulli's principle"
-      ],
-      "answerIndex": 3,
-      "fact": "It is often credited with lift on a wing, though the full explanation needs the downward deflection of air as well.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -899,19 +847,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which nation's amateur ice hockey team beat the Soviet Union in the 1980 Winter Olympics?",
-      "options": [
-        "Canada",
-        "Sweden",
-        "The United States",
-        "Finland"
-      ],
-      "answerIndex": 2,
-      "fact": "The Soviets had won every Olympic title since 1964. The winning team still had to beat Finland afterwards to actually take gold.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which footballer scored both the Hand of God and the Goal of the Century in the same 1986 match?",
       "options": [
         "Pele",
@@ -1207,19 +1142,6 @@
       ],
       "answerIndex": 1,
       "fact": "The award was restricted to European players until 1995, so several earlier South American greats were never eligible for it at all.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which animated film about two children in wartime Japan was directed by Isao Takahata?",
-      "options": [
-        "Princess Mononoke",
-        "Your Name",
-        "Grave of the Fireflies",
-        "Akira"
-      ],
-      "answerIndex": 2,
-      "fact": "It was released as a double bill with My Neighbour Totoro, which sent audiences home from one of the gentlest films ever made and one of the bleakest.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1584,19 +1506,6 @@
       ],
       "answerIndex": 3,
       "fact": "It began in 1970 charging one pound including free milk from the farm, and drew about 1,500 people.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which European microstate is doubly landlocked, surrounded only by landlocked neighbours?",
-      "options": [
-        "Liechtenstein",
-        "San Marino",
-        "Monaco",
-        "Andorra"
-      ],
-      "answerIndex": 0,
-      "fact": "Only one other country in the world shares this position, and it sits in Central Asia.",
       "source": "sepoct2026-refresh"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-26",
+  "date": "2026-12-27",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "The Royal Road, a courier highway running some 2,500 kilometres, was built by which empire?",
+      "prompt": "Which Mesoamerican city was already an abandoned ruin when the Aztecs named its main avenue?",
       "options": [
-        "The Achaemenid Empire",
-        "The Mauryan Empire",
-        "The Han Empire",
-        "The Roman Empire"
+        "Monte Alban",
+        "Tikal",
+        "Teotihuacan",
+        "Palenque"
       ],
-      "answerIndex": 0,
-      "fact": "Mounted relay riders could cover it in about a week, a speed Herodotus found astonishing enough to describe in detail."
+      "answerIndex": 2,
+      "fact": "The Aztecs called it the place where the gods were born. Nobody knows what its own builders called it, or what language they spoke."
     },
     {
       "category": "Science",
-      "prompt": "Which effect explains why a siren sounds higher as it approaches and lower as it leaves?",
+      "prompt": "Which principle states that a faster-moving fluid exerts lower pressure?",
       "options": [
-        "The Casimir effect",
-        "The Venturi effect",
-        "The Doppler effect",
-        "The Coriolis effect"
+        "Boyle's law",
+        "Bernoulli's principle",
+        "Pascal's law",
+        "Archimedes' principle"
       ],
-      "answerIndex": 2,
-      "fact": "The same shift in light lets astronomers measure how fast a distant galaxy is moving away from us."
+      "answerIndex": 1,
+      "fact": "It is often credited with lift on a wing, though the full explanation needs the downward deflection of air as well."
     },
     {
       "category": "Sports",
-      "prompt": "Which swimmer won eight gold medals at a single Olympic Games in 2008?",
+      "prompt": "Which nation's amateur ice hockey team beat the Soviet Union in the 1980 Winter Olympics?",
       "options": [
-        "Caeleb Dressel",
-        "Michael Phelps",
-        "Ian Thorpe",
-        "Mark Spitz"
+        "The United States",
+        "Canada",
+        "Sweden",
+        "Finland"
       ],
-      "answerIndex": 1,
-      "fact": "One of the eight was won by a hundredth of a second, on a final stroke that officials had to review frame by frame."
+      "answerIndex": 0,
+      "fact": "The Soviets had won every Olympic title since 1964. The winning team still had to beat Finland afterwards to actually take gold."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which American sitcom is set in a Scranton paper company branch?",
+      "prompt": "Which animated film about two children in wartime Japan was directed by Isao Takahata?",
       "options": [
-        "The Office",
-        "Parks and Recreation",
-        "Better Off Ted",
-        "Superstore"
+        "Princess Mononoke",
+        "Grave of the Fireflies",
+        "Akira",
+        "Your Name"
       ],
-      "answerIndex": 0,
-      "fact": "It was adapted from a British series, and nearly cancelled after a first season that copied the original too closely."
+      "answerIndex": 1,
+      "fact": "It was released as a double bill with My Neighbour Totoro, which sent audiences home from one of the gentlest films ever made and one of the bleakest."
     },
     {
       "category": "Geography",
-      "prompt": "Which is the largest landlocked country in the world by area?",
+      "prompt": "Which European microstate is doubly landlocked, surrounded only by landlocked neighbours?",
       "options": [
-        "Bolivia",
-        "Mongolia",
-        "Kazakhstan",
-        "Chad"
+        "Liechtenstein",
+        "San Marino",
+        "Monaco",
+        "Andorra"
       ],
-      "answerIndex": 2,
-      "fact": "It is bigger than all of Western Europe, and its access to the Caspian does not count because that sea has no outlet to an ocean."
+      "answerIndex": 0,
+      "fact": "Only one other country in the world shares this position, and it sits in Central Asia."
     },
     {
       "category": "Literature",
-      "prompt": "What is the term for a recurring symbol or idea running through a work?",
+      "prompt": "Which brothers collected and published German folk tales in the 1800s?",
       "options": [
-        "A caesura",
-        "A metaphor",
-        "A simile",
-        "A motif"
+        "The Bronte siblings",
+        "The Brothers Karamazov",
+        "The Goncourt brothers",
+        "The Brothers Grimm"
       ],
       "answerIndex": 3,
-      "fact": "It differs from a theme: one is the repeated concrete element, the other the abstract idea it supports."
+      "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences."
     },
     {
       "category": "Technology",
-      "prompt": "Which code stores data in a square grid of black and white modules?",
+      "prompt": "Which technology underpins cryptocurrencies by maintaining a distributed ledger?",
       "options": [
-        "A barcode",
-        "A magnetic stripe",
-        "An RFID tag",
-        "A QR code"
+        "Middleware",
+        "Virtualisation",
+        "Containerisation",
+        "Blockchain"
       ],
       "answerIndex": 3,
-      "fact": "It was invented for tracking car parts in Japan, and includes error correction so it still scans when partly damaged."
+      "fact": "Each block carries a cryptographic fingerprint of the one before it, so altering old records invalidates everything after."
     }
   ]
 }

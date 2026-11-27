@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-27",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which Mesoamerican city was already an abandoned ruin when the Aztecs named its main avenue?",
+      "options": [
+        "Monte Alban",
+        "Tikal",
+        "Teotihuacan",
+        "Palenque"
+      ],
+      "answerIndex": 2,
+      "fact": "The Aztecs called it the place where the gods were born. Nobody knows what its own builders called it, or what language they spoke."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which principle states that a faster-moving fluid exerts lower pressure?",
+      "options": [
+        "Boyle's law",
+        "Bernoulli's principle",
+        "Pascal's law",
+        "Archimedes' principle"
+      ],
+      "answerIndex": 1,
+      "fact": "It is often credited with lift on a wing, though the full explanation needs the downward deflection of air as well."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which nation's amateur ice hockey team beat the Soviet Union in the 1980 Winter Olympics?",
+      "options": [
+        "The United States",
+        "Canada",
+        "Sweden",
+        "Finland"
+      ],
+      "answerIndex": 0,
+      "fact": "The Soviets had won every Olympic title since 1964. The winning team still had to beat Finland afterwards to actually take gold."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which animated film about two children in wartime Japan was directed by Isao Takahata?",
+      "options": [
+        "Princess Mononoke",
+        "Grave of the Fireflies",
+        "Akira",
+        "Your Name"
+      ],
+      "answerIndex": 1,
+      "fact": "It was released as a double bill with My Neighbour Totoro, which sent audiences home from one of the gentlest films ever made and one of the bleakest."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which European microstate is doubly landlocked, surrounded only by landlocked neighbours?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Monaco",
+        "Andorra"
+      ],
+      "answerIndex": 0,
+      "fact": "Only one other country in the world shares this position, and it sits in Central Asia."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which brothers collected and published German folk tales in the 1800s?",
+      "options": [
+        "The Bronte siblings",
+        "The Brothers Karamazov",
+        "The Goncourt brothers",
+        "The Brothers Grimm"
+      ],
+      "answerIndex": 3,
+      "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which technology underpins cryptocurrencies by maintaining a distributed ledger?",
+      "options": [
+        "Middleware",
+        "Virtualisation",
+        "Containerisation",
+        "Blockchain"
+      ],
+      "answerIndex": 3,
+      "fact": "Each block carries a cryptographic fingerprint of the one before it, so altering old records invalidates everything after."
+    }
+  ]
+}
