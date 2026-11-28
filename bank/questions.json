@@ -132,19 +132,6 @@
     },
     {
       "category": "Technology",
-      "prompt": "Which markup language structures the content of web pages?",
-      "options": [
-        "HTML",
-        "SQL",
-        "JSON",
-        "YAML"
-      ],
-      "answerIndex": 0,
-      "fact": "Browsers are deliberately forgiving of malformed markup, which is why broken pages usually still render something.",
-      "source": "curated"
-    },
-    {
-      "category": "Technology",
       "prompt": "What does an operating system's kernel primarily manage?",
       "options": [
         "Hardware resources",
@@ -207,19 +194,6 @@
       "answerIndex": 0,
       "fact": "The same demonstration introduced hypertext, video conferencing and collaborative editing in one ninety-minute session.",
       "source": "curated"
-    },
-    {
-      "category": "History",
-      "prompt": "Which early Mesoamerican culture carved colossal stone heads from basalt?",
-      "options": [
-        "The Mixtec",
-        "The Olmec",
-        "The Toltec",
-        "The Zapotec"
-      ],
-      "answerIndex": 1,
-      "fact": "The basalt was hauled dozens of miles from volcanic highlands with no wheels and no draught animals.",
-      "source": "sepoct2026-refresh"
     },
     {
       "category": "History",
@@ -479,19 +453,6 @@
       ],
       "answerIndex": 1,
       "fact": "He gave away so much gold passing through Cairo that its value there was still depressed a decade later.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Science",
-      "prompt": "Which quantity always increases in an isolated system, according to the second law of thermodynamics?",
-      "options": [
-        "Entropy",
-        "Enthalpy",
-        "Momentum",
-        "Free energy"
-      ],
-      "answerIndex": 0,
-      "fact": "It is the reason a broken cup never reassembles: the laws of motion allow it, but the number of disordered arrangements overwhelms the ordered ones.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -847,19 +808,6 @@
     },
     {
       "category": "Sports",
-      "prompt": "Which footballer scored both the Hand of God and the Goal of the Century in the same 1986 match?",
-      "options": [
-        "Pele",
-        "Michel Platini",
-        "Zico",
-        "Diego Maradona"
-      ],
-      "answerIndex": 3,
-      "fact": "The two goals came four minutes apart in the same quarter-final, one an undetected handball and the other a run past five defenders.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Sports",
       "prompt": "Which club won the Premier League in 2016 having begun the season at 5000 to 1?",
       "options": [
         "Leicester City",
@@ -1142,19 +1090,6 @@
       ],
       "answerIndex": 1,
       "fact": "The award was restricted to European players until 1995, so several earlier South American greats were never eligible for it at all.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Pop Culture",
-      "prompt": "Which manga and anime series is set in a walled city besieged by giant humanoids?",
-      "options": [
-        "Death Note",
-        "Naruto",
-        "One Piece",
-        "Attack on Titan"
-      ],
-      "answerIndex": 3,
-      "fact": "Its author drew the first chapter after a customer at the internet cafe where he worked cornered him, and he could not get away.",
       "source": "sepoct2026-refresh"
     },
     {
@@ -1510,19 +1445,6 @@
     },
     {
       "category": "Geography",
-      "prompt": "Which territory's capital is Iqaluit?",
-      "options": [
-        "Yukon",
-        "Nunavut",
-        "Northwest Territories",
-        "Labrador"
-      ],
-      "answerIndex": 1,
-      "fact": "It was carved out of the Northwest Territories in 1999, and no road connects its capital to the rest of the country.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Geography",
       "prompt": "Which Australian state has Brisbane as its capital?",
       "options": [
         "South Australia",
@@ -1792,19 +1714,6 @@
       ],
       "answerIndex": 1,
       "fact": "A 1920 treaty lets citizens of over 40 countries live and work there without a visa, which is why it has a Russian mining settlement.",
-      "source": "sepoct2026-refresh"
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which crime novel introduced the hacker Lisbeth Salander?",
-      "options": [
-        "The Redbreast",
-        "Faceless Killers",
-        "The Girl with the Dragon Tattoo",
-        "Snowman"
-      ],
-      "answerIndex": 2,
-      "fact": "Its author delivered three manuscripts and died of a heart attack before the first was published, never seeing a single copy sell.",
       "source": "sepoct2026-refresh"
     },
     {

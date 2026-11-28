@@ -1,5 +1,5 @@
 {
-  "date": "2026-12-27",
+  "date": "2026-12-28",
   "categories": [
     "History",
     "Science",
@@ -12,87 +12,87 @@
   "questions": [
     {
       "category": "History",
-      "prompt": "Which Mesoamerican city was already an abandoned ruin when the Aztecs named its main avenue?",
+      "prompt": "Which early Mesoamerican culture carved colossal stone heads from basalt?",
       "options": [
-        "Monte Alban",
-        "Tikal",
-        "Teotihuacan",
-        "Palenque"
+        "The Mixtec",
+        "The Olmec",
+        "The Toltec",
+        "The Zapotec"
       ],
-      "answerIndex": 2,
-      "fact": "The Aztecs called it the place where the gods were born. Nobody knows what its own builders called it, or what language they spoke."
+      "answerIndex": 1,
+      "fact": "The basalt was hauled dozens of miles from volcanic highlands with no wheels and no draught animals."
     },
     {
       "category": "Science",
-      "prompt": "Which principle states that a faster-moving fluid exerts lower pressure?",
+      "prompt": "Which quantity always increases in an isolated system, according to the second law of thermodynamics?",
       "options": [
-        "Boyle's law",
-        "Bernoulli's principle",
-        "Pascal's law",
-        "Archimedes' principle"
+        "Enthalpy",
+        "Free energy",
+        "Entropy",
+        "Momentum"
       ],
-      "answerIndex": 1,
-      "fact": "It is often credited with lift on a wing, though the full explanation needs the downward deflection of air as well."
+      "answerIndex": 2,
+      "fact": "It is the reason a broken cup never reassembles: the laws of motion allow it, but the number of disordered arrangements overwhelms the ordered ones."
     },
     {
       "category": "Sports",
-      "prompt": "Which nation's amateur ice hockey team beat the Soviet Union in the 1980 Winter Olympics?",
+      "prompt": "Which footballer scored both the Hand of God and the Goal of the Century in the same 1986 match?",
       "options": [
-        "The United States",
-        "Canada",
-        "Sweden",
-        "Finland"
+        "Pele",
+        "Zico",
+        "Diego Maradona",
+        "Michel Platini"
       ],
-      "answerIndex": 0,
-      "fact": "The Soviets had won every Olympic title since 1964. The winning team still had to beat Finland afterwards to actually take gold."
+      "answerIndex": 2,
+      "fact": "The two goals came four minutes apart in the same quarter-final, one an undetected handball and the other a run past five defenders."
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which animated film about two children in wartime Japan was directed by Isao Takahata?",
+      "prompt": "Which manga and anime series is set in a walled city besieged by giant humanoids?",
       "options": [
-        "Princess Mononoke",
-        "Grave of the Fireflies",
-        "Akira",
-        "Your Name"
+        "Naruto",
+        "Death Note",
+        "One Piece",
+        "Attack on Titan"
       ],
-      "answerIndex": 1,
-      "fact": "It was released as a double bill with My Neighbour Totoro, which sent audiences home from one of the gentlest films ever made and one of the bleakest."
+      "answerIndex": 3,
+      "fact": "Its author drew the first chapter after a customer at the internet cafe where he worked cornered him, and he could not get away."
     },
     {
       "category": "Geography",
-      "prompt": "Which European microstate is doubly landlocked, surrounded only by landlocked neighbours?",
+      "prompt": "Which territory's capital is Iqaluit?",
       "options": [
-        "Liechtenstein",
-        "San Marino",
-        "Monaco",
-        "Andorra"
+        "Nunavut",
+        "Northwest Territories",
+        "Yukon",
+        "Labrador"
       ],
       "answerIndex": 0,
-      "fact": "Only one other country in the world shares this position, and it sits in Central Asia."
+      "fact": "It was carved out of the Northwest Territories in 1999, and no road connects its capital to the rest of the country."
     },
     {
       "category": "Literature",
-      "prompt": "Which brothers collected and published German folk tales in the 1800s?",
+      "prompt": "Which crime novel introduced the hacker Lisbeth Salander?",
       "options": [
-        "The Bronte siblings",
-        "The Brothers Karamazov",
-        "The Goncourt brothers",
-        "The Brothers Grimm"
+        "The Girl with the Dragon Tattoo",
+        "Snowman",
+        "The Redbreast",
+        "Faceless Killers"
       ],
-      "answerIndex": 3,
-      "fact": "They were philologists first, and softened the tales considerably across successive editions for family audiences."
+      "answerIndex": 0,
+      "fact": "Its author delivered three manuscripts and died of a heart attack before the first was published, never seeing a single copy sell."
     },
     {
       "category": "Technology",
-      "prompt": "Which technology underpins cryptocurrencies by maintaining a distributed ledger?",
+      "prompt": "Which markup language structures the content of web pages?",
       "options": [
-        "Middleware",
-        "Virtualisation",
-        "Containerisation",
-        "Blockchain"
+        "SQL",
+        "HTML",
+        "JSON",
+        "YAML"
       ],
-      "answerIndex": 3,
-      "fact": "Each block carries a cryptographic fingerprint of the one before it, so altering old records invalidates everything after."
+      "answerIndex": 1,
+      "fact": "Browsers are deliberately forgiving of malformed markup, which is why broken pages usually still render something."
     }
   ]
 }

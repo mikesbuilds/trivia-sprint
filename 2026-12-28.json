@@ -1,0 +1,98 @@
+{
+  "date": "2026-12-28",
+  "categories": [
+    "History",
+    "Science",
+    "Sports",
+    "Pop Culture",
+    "Geography",
+    "Literature",
+    "Technology"
+  ],
+  "questions": [
+    {
+      "category": "History",
+      "prompt": "Which early Mesoamerican culture carved colossal stone heads from basalt?",
+      "options": [
+        "The Mixtec",
+        "The Olmec",
+        "The Toltec",
+        "The Zapotec"
+      ],
+      "answerIndex": 1,
+      "fact": "The basalt was hauled dozens of miles from volcanic highlands with no wheels and no draught animals."
+    },
+    {
+      "category": "Science",
+      "prompt": "Which quantity always increases in an isolated system, according to the second law of thermodynamics?",
+      "options": [
+        "Enthalpy",
+        "Free energy",
+        "Entropy",
+        "Momentum"
+      ],
+      "answerIndex": 2,
+      "fact": "It is the reason a broken cup never reassembles: the laws of motion allow it, but the number of disordered arrangements overwhelms the ordered ones."
+    },
+    {
+      "category": "Sports",
+      "prompt": "Which footballer scored both the Hand of God and the Goal of the Century in the same 1986 match?",
+      "options": [
+        "Pele",
+        "Zico",
+        "Diego Maradona",
+        "Michel Platini"
+      ],
+      "answerIndex": 2,
+      "fact": "The two goals came four minutes apart in the same quarter-final, one an undetected handball and the other a run past five defenders."
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which manga and anime series is set in a walled city besieged by giant humanoids?",
+      "options": [
+        "Naruto",
+        "Death Note",
+        "One Piece",
+        "Attack on Titan"
+      ],
+      "answerIndex": 3,
+      "fact": "Its author drew the first chapter after a customer at the internet cafe where he worked cornered him, and he could not get away."
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which territory's capital is Iqaluit?",
+      "options": [
+        "Nunavut",
+        "Northwest Territories",
+        "Yukon",
+        "Labrador"
+      ],
+      "answerIndex": 0,
+      "fact": "It was carved out of the Northwest Territories in 1999, and no road connects its capital to the rest of the country."
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which crime novel introduced the hacker Lisbeth Salander?",
+      "options": [
+        "The Girl with the Dragon Tattoo",
+        "Snowman",
+        "The Redbreast",
+        "Faceless Killers"
+      ],
+      "answerIndex": 0,
+      "fact": "Its author delivered three manuscripts and died of a heart attack before the first was published, never seeing a single copy sell."
+    },
+    {
+      "category": "Technology",
+      "prompt": "Which markup language structures the content of web pages?",
+      "options": [
+        "SQL",
+        "HTML",
+        "JSON",
+        "YAML"
+      ],
+      "answerIndex": 1,
+      "fact": "Browsers are deliberately forgiving of malformed markup, which is why broken pages usually still render something."
+    }
+  ]
+}
